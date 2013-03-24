@@ -1,0 +1,72 @@
+---
+layout: raw
+title: Patrick McKinley - London Based PHP Magento Developer!
+---
+{% include JB/setup %}
+
+<div class="row-fluid post-pagination">
+  <div class="span12">
+    <h2>Latest Posts <small>Stuff I've written</small></h2>
+  </div>
+{% for post in paginator.posts %}
+  <div class="span6">
+    <a href="{{ post.url }}">
+      <h4>{{ post.title }}  <small>{{post.date | date_to_long_string }}</small></h4>
+      <img src="{% if post.external == true %}{{ post.image }}{% else %}/images/{{ post.slug }}/{{ post.image }}{%endif%}" alt="{{ post.title }}" >
+    </a>
+  </div>
+{% endfor %}
+</div>
+
+<hr>
+
+<div class="row-fluid">
+  <div class="span4">
+    <img src="http://placekitten.com/300/200" class="img-rounded img-polaroid">
+  </div>
+  <div class="span8">
+    <h2>About <small>Stuff I am</small></h2>
+    <p>I am a London-based PHP developer, with a large amount of commercial eCommerce experience, mostly concentrated on the <a href="http://www.magentocommerce.com/">Magento eCommerce platform</a>, currently employed by <a href="http://www.warnermusic.com">Warner Music Group</a> in Londons delightful little hamlet of Kensington. For a more detailed (and drier) breakdown of my professional qualifications, head on over to my CV or Portfolio to have a look.</p>
+  </div>
+</div>
+
+<hr>
+
+<div class="row-fluid portfolio-list">
+  <div class="span12">
+    <h2>Portfolio <small>Stuff I've done</small></h2>
+  </div>
+  
+  <ul class="thumbnails portfolio">
+
+    {% assign first = true %}
+    {% for node in site.pages %}
+      {% if "portfolio" == node.group %}
+        {% if first == true %}
+          {% assign first = false %}
+          <li class="span12">
+            <a href="{{node.url}}" title="{{node.title}}">
+              <img src="{{node.big_image}}" alt="{{node.title}} - {{node.tagline}}" >
+              <div>
+                <h3>{{node.title}}<small>{{node.tagline}}<br>{{node.period}}</small>
+                </h3>
+              </div>
+            </a>
+          </li>
+        {% else %}
+          <li class="span6">
+            <a href="{{node.url}}" title="{{node.title}}">
+              <img src="{{node.small_image}}" alt="{{node.title}} - {{node.tagline}}" >
+              <div>
+                <h3>{{node.title}}<small>{{node.tagline}}<br>{{node.period}}</small>
+                </h3>
+              </div>
+            </a>
+          </li>
+        {% endif %}
+      {% endif %}
+    {% endfor %}
+    
+  </ul>
+  
+</div>
