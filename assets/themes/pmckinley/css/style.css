@@ -64,13 +64,15 @@
   border: 1px solid #4c964d;
   color: #FFF; }
   
-  
+body{
+  text-align: justify;
+}
   
 .row-fluid.post-pagination div.span6, .row-fluid.portfolio-list li.span6 {
   margin-left: 8px;
   position: relative;
 }
-.row-fluid.portfolio-list li.span12{
+.row-fluid.portfolio-list li.span12, .row-fluid.portfolio-page div.span12{
   position: relative;
 }
 .row-fluid.post-pagination div.span6 h4 small, ul.portfolio li div small{
@@ -107,4 +109,23 @@ ul.portfolio li div small{
 
 .notfound {
   text-align:center;
+}
+
+.row-fluid.portfolio-page h4{
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-color: rgba(0,0,0,0.5);
+  color: #999;
+  margin: 0;
+  padding: 0.5em;
+}
+.row-fluid.portfolio-page h4 small{
+  float: right;
+  padding-top: 0.3em;
+}
+.portfolio-row h3 small{
+  float: right;
+  padding-top: 1em;
 }
