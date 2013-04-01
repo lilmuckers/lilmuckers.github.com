@@ -37,6 +37,17 @@ title: Patrick McKinley - London Based PHP Magento Developer!
 
 <hr>
 
+<div class="row-fluid">
+  <div class="span12">
+    <h2>Projects <small>Stuff I do in my free time</small></h2>
+  </div>
+  <div class="span4">
+    <h3>Xbox Tracker <small>Mmm, games</small></h3>
+  </div>
+</div>
+
+<hr>
+
 <div class="row-fluid portfolio-list">
   <div class="span12">
     <h2 id="portfolio">Portfolio <small>Stuff I've done</small></h2>
@@ -45,31 +56,35 @@ title: Patrick McKinley - London Based PHP Magento Developer!
   <ul class="thumbnails portfolio">
 
     {% assign first = true %}
-    {% for node in site.pages %}
-      {% if "portfolio" == node.group %}
-        {% if first == true %}
-          {% assign first = false %}
-          <li class="span12">
-            <a href="{{node.url}}" title="{{node.title}}">
-              <img src="{{node.big_image}}" alt="{{node.title}} - {{node.tagline}}" >
-              <div>
-                <h3>{{node.title}}<small>{{node.tagline}}<br>{{node.period}}</small>
-                </h3>
-              </div>
-            </a>
-          </li>
-        {% else %}
-          <li class="span6">
-            <a href="{{node.url}}" title="{{node.title}}">
-              <img src="{{node.small_image}}" alt="{{node.title}} - {{node.tagline}}" >
-              <div>
-                <h3>{{node.title}}<small>{{node.tagline}}<br>{{node.period}}</small>
-                </h3>
-              </div>
-            </a>
-          </li>
+    {% for weight in (0..100) %}
+      {% for node in site.pages %}
+        {% if "portfolio" == node.group %}
+          {% if node.weight == weight or node.weight == null and weight == 0 %}
+            {% if first == true %}
+              {% assign first = false %}
+              <li class="span12">
+                <a href="{{node.url}}" title="{{node.title}}">
+                  <img src="{{node.big_image}}" alt="{{node.title}} - {{node.tagline}}" >
+                  <div>
+                    <h3>{{node.title}}<small>{{node.tagline}}<br>{{node.period}}</small>
+                    </h3>
+                  </div>
+                </a>
+              </li>
+            {% else %}
+              <li class="span6">
+                <a href="{{node.url}}" title="{{node.title}}">
+                  <img src="{{node.small_image}}" alt="{{node.title}} - {{node.tagline}}" >
+                  <div>
+                    <h3>{{node.title}}<small>{{node.tagline}}<br>{{node.period}}</small>
+                    </h3>
+                  </div>
+                </a>
+              </li>
+            {% endif %}
+          {% endif %}
         {% endif %}
-      {% endif %}
+      {% endfor %}
     {% endfor %}
     
   </ul>

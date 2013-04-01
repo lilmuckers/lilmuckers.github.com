@@ -6,6 +6,7 @@ period: "August 2011 - ?"
 group: portfolio
 big_image: http://placekitten.com/940/200
 small_image: http://placekitten.com/600/200
+weight: 0
 ---
 {% include JB/setup %}
 
@@ -18,7 +19,7 @@ small_image: http://placekitten.com/600/200
     
     <p>The <strong>Warner Music Group</strong> Magento instance is quite a big one, and since it's a single large project and I can't really sum this work up in the same way that I have for my other jobs within agencies. So I'll just give a brief overview of my role and throw in some screenshots and links.</p>
     
-    <p></p>
+    <p>I'm the tech lead, I manage the codebase, and the code contributed by the various 3rd parties who work on our platform. I attempt to ensure code quality</p>
     
     
   </div>
