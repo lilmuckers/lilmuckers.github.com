@@ -61,14 +61,18 @@ title: Patrick McKinley - London Based PHP Magento Developer!
             <dd>{{node.gamer.motto}}</dd>
           <dt>Achievements</dt>
             {% assign gamecount = 0 %}
+            {% assign cheevecount = 0 %}
             {% for game in site.pages %}
               {% if game.group == "xboxgame" %}
                 {% if game.showPage == true %}
                   {% capture gamecount %}{{gamecount | plus:1 }}{% endcapture %}
+                  {% for cheeve in game.game.achievements %}
+                    {% capture cheevecount %}{{cheevecount | plus:1 }}{% endcapture %}
+                  {% endfor %}
                 {% endif %}
               {% endif %}
             {% endfor %}
-            <dd>{{node.achievementcount}} won in {{gamecount}} games</dd>
+            <dd>{{cheevecount}} won in {{gamecount}} games</dd>
         </dl>
         <p><a href="{{node.url}}">See More</a></p>
       </div>
