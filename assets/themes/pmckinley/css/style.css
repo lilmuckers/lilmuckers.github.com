@@ -129,3 +129,53 @@ ul.portfolio li div small{
   float: right;
   padding-top: 1em;
 }
+
+
+
+div.gamertag {
+  position: relative;
+}
+div.gamertag div.avatar,
+div.gamertag dl, 
+div.gamertag div.gamerpic {
+  float: left;
+}
+div.gamertag div.gamerpic {
+  width: 50%;
+  text-align: center;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+div.gamertag p{
+  clear: both;
+  position: absolute;
+  bottom: 0;
+  right: 10px;
+}
+
+div.achievement{
+  margin-left: 0 !important;
+  position: relative;
+  background-color: #E7E7E7;
+  border-radius:4px;
+  margin-bottom: 2px;
+}
+div.achievement p{
+ margin: 0;
+}
+div.achievement p.meta{
+  position: absolute;
+  bottom: 0;
+  right: 5px;
+  color: #A7A7A7;
+}
+div.achievement p.meta a{
+  color: #676767;
+}
+div.achievement h4{
+  margin: 4px;
+}
+div.achievement img{
+  float: left;
+  margin: 4px;
+}

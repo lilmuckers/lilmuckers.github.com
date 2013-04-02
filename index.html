@@ -41,9 +41,56 @@ title: Patrick McKinley - London Based PHP Magento Developer!
   <div class="span12">
     <h2>Projects <small>Stuff I do in my free time</small></h2>
   </div>
-  <div class="span4">
-    <h3>Xbox Tracker <small>Mmm, games</small></h3>
-  </div>
+  {% for node in site.pages %}
+    {% if "games" == node.group %}
+      <div class="span12">
+        <h3>{{node.title}} <small>{{node.tagline}}</small></h3>
+      </div>
+      <div class="span5 gamertag">
+        <div class="avatar">
+          <img src="{{node.gamer.avatar.unsecure}}" class="avatar" alt="{{node.gamer.gamertag}}" >
+        </div>
+        <dl>
+          <dt>Gamertag</dt>
+            <dd><a href="{{node.gamer.profile}}">{{node.gamer.gamertag}}</a></dd>
+          <dt>Gamerscore</dt>
+            <dd>{{node.gamer.score}}G</dd>
+          <dt>Bio</dt>
+            <dd>{{node.gamer.bio}}</dd>
+          <dt>Motto</dt>
+            <dd>{{node.gamer.motto}}</dd>
+          <dt>Achievements</dt>
+            {% assign gamecount = 0 %}
+            {% for game in site.pages %}
+              {% if game.group == "xboxgame" %}
+                {% if game.showPage == true %}
+                  {% capture gamecount %}{{gamecount | plus:1 }}{% endcapture %}
+                {% endif %}
+              {% endif %}
+            {% endfor %}
+            <dd>{{node.achievementcount}} won in {{gamecount}} games</dd>
+        </dl>
+        <p><a href="{{node.url}}">See More</a></p>
+      </div>
+      
+      {% for achievement in node.latest limit:4 %}
+      {% for game in site.pages %}
+        {% if game.group == "xboxgame" %}
+          {% if game.game.slug == achievement.gameSlug %}
+            {% assign thisGame = game %}
+          {% endif %}
+        {% endif %}
+      {% endfor %}
+      <div class="span7 achievement">
+        <img src="{{achievement.image}}" alt="{{achievement.name}}" >
+        <h4>{{achievement.name}} <small>{{achievement.score}}G</small></h4>
+        <p>{{achievement.description}}</p>
+        <p class="meta">in <a href="{{thisGame.url}}">{{thisGame.game.name}}</a> on {{achievement.acquired | date: "%d %b %Y"}} at {{ achievement.scraped | date: "%H:%M" }}</p>
+      </div>
+      {% endfor %}
+      
+    {% endif %}
+  {% endfor %}
 </div>
 
 <hr>
