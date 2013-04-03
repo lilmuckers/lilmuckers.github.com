@@ -200,10 +200,16 @@ div.gamertag div.game {
   height: 126px;
   position: relative;
 }
-div.gamertag div.game img{
+div.gamertag div.game img,
+div.gamertag div.game div.boxart-ph{
   clear: left;
   float: left;
   margin: 3px;
+}
+div.gamertag div.game div.boxart-ph {
+  width: 85px;
+  height: 120px;
+  border: 1px solid rgba(0, 0, 0, 0.2);
 }
 div.gamertag div.game p, 
 div.gamertag div.game h4{

@@ -44,7 +44,11 @@
       {% if game.group == "xboxgame" %}
         {% if game.showPage == true and weight == game.weight %}
           <div class="game">
+            {% if game.game.boxart.small %}
             <img src="{{game.game.boxart.small}}" alt="{{game.title}}" >
+            {% else %}
+            <div class="boxart-ph"><div>
+            {% endif %}
             <h4>{{game.title}}</h4>
             {% assign cheevecount = 0 %}
             {% for cheeve in game.game.achievements %}
