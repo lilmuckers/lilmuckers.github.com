@@ -13,7 +13,7 @@ gamer:
   picture: 
     small: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatarpic-s.png"
     large: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatarpic-l.png"
-  score: 25780
+  score: 25765
   location: Londinium
   motto: "meritocracy!"
   bio: "ARGH! BEES!"
