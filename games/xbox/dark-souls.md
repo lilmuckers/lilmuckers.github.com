@@ -4,7 +4,7 @@ title: "Dark Souls&trade;"
 showPage: true
 tagline: ""
 group: xboxgame
-weight: 99
+weight: 0
 game: 
   name: DARK SOULS
   gameId: 1313671226
@@ -15,9 +15,17 @@ game:
     large: "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d083a/1033/boxartlg.jpg"
   lastPlayed: "2013-03-17"
   totalScore: 1000
-  score: 30
+  score: 45
   totalAchievements: 41
   achievements: 
+    - image: "https://live.xbox.com/tiles/7D/EL/14CLiGJhbC9EAhtVGwxTWTNhL2FjaC8wLzgwAAAAAOfn5-gkMfA=.jpg"
+      name: Reach Lordran
+      description: Arrive in Lordran.
+      score: 15
+      acquired: "2013-03-17"
+      slug: "dark-souls_reach-lordran"
+      gameSlug: "dark-souls"
+      scraped: "2013-04-03T00:17:05.663Z"
     - image: "https://live.xbox.com/tiles/v0/s7/1YCLiGJhbC8SDRtVGwxTWTNhL2FjaC8wLzdmAAAAAOfn5-oUS6M=.jpg"
       name: Estus Flask
       description: Acquire Estus Flask.

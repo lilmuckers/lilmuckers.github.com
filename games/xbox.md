@@ -1,9 +1,9 @@
 ---
 layout: xbox
-title: "Xbox Tracker"
+title: Xbox Tracker
 tagline: "I play games, they are fun"
 group: games
-achievementcount: 1375
+achievementcount: 1376
 gamer: 
   gamertag: Lilmuckers
   avatar: 
@@ -13,13 +13,21 @@ gamer:
   picture: 
     small: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatarpic-s.png"
     large: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatarpic-l.png"
-  score: 25765
+  score: 25780
   location: Londinium
   motto: "meritocracy!"
   bio: "ARGH! BEES!"
   profile: "http://live.xbox.com/en-GB/Profile?gamertag=lilmuckers"
 gamecount: 100
 latest: 
+  - image: "https://live.xbox.com/tiles/7D/EL/14CLiGJhbC9EAhtVGwxTWTNhL2FjaC8wLzgwAAAAAOfn5-gkMfA=.jpg"
+    name: Reach Lordran
+    description: Arrive in Lordran.
+    score: 15
+    acquired: "2013-03-17"
+    slug: "dark-souls_reach-lordran"
+    gameSlug: "dark-souls"
+    scraped: "2013-04-03T00:17:05.663Z"
   - image: "https://live.xbox.com/tiles/v0/s7/1YCLiGJhbC8SDRtVGwxTWTNhL2FjaC8wLzdmAAAAAOfn5-oUS6M=.jpg"
     name: Estus Flask
     description: Acquire Estus Flask.
