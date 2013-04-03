@@ -159,6 +159,7 @@ div.achievement{
   background-color: #E7E7E7;
   border-radius:4px;
   margin-bottom: 2px;
+  border: 1px solid rgba(0, 0, 0, 0.2);
 }
 div.achievement p{
  margin: 0;
