@@ -169,6 +169,7 @@ div.achievement p.meta{
   bottom: 0;
   right: 5px;
   color: #A7A7A7;
+  font-size: 0.85em;
 }
 div.achievement p.meta a{
   color: #676767;
