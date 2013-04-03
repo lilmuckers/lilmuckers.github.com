@@ -4,7 +4,7 @@
 
 {{content}}
 
-<div class="row-fluid">
+<div class="row-fluid extender">
   <div class="span5 gamertag xboxpage">
     <h3>Profile <small>Xbox Live Gamercard</small></h3>
     <div class="avatar">
@@ -47,7 +47,7 @@
             {% if game.game.boxart.small %}
             <img src="{{game.game.boxart.small}}" alt="{{game.title}}" >
             {% else %}
-            <div class="boxart-ph"></div>
+            <div class="boxart-ph"><i class="icon-warning-sign icon-white"></i></div>
             {% endif %}
             <h4>{{game.title}}</h4>
             {% assign cheevecount = 0 %}
@@ -89,4 +89,34 @@
   </div>
   {% endfor %}
 
+  <div class="span12 mask">
+    <div class="more">
+      <p><i class="icon-chevron-down"></i> <span>View More</span> <i class="icon-chevron-down"></i></p>
+    </div>
+  </div>
 </div>
+
+<script type="text/javascript">
+//<!--
+  $(window).load(function () {
+    var div = $('.row-fluid.extender');
+    var maskDiv = $('.span12.mask');
+    var oldHeight = div.height();
+    var newHeight = div.height('auto').height() + maskDiv.height();
+    div.height(oldHeight);
+  
+    // On click, animate it to its full natural height
+    div.click(function() {
+      if(div.height() == oldHeight){
+        div.animate({height: newHeight + "px"}, "slow");
+        maskDiv.find('i').attr('class', 'icon-chevron-up');
+        maskDiv.find('span').html('View Less');
+      } else {
+        div.animate({height: oldHeight + "px"}, "slow");
+        maskDiv.find('i').attr('class', 'icon-chevron-down');
+        maskDiv.find('span').html('View More');
+      }
+    });
+  });
+//-->
+</script>

@@ -1,0 +1,81 @@
+<div class="page-header">
+  <h1>{{ page.title }} {% if page.tagline %} <small>{{ page.tagline }}</small>{% endif %}</h1>
+</div>
+
+{{content}}
+
+<div class="row-fluid">
+  <div class="span6 gameinfo">
+    <h3>Game Info <small>Because I can</small></h3>
+    {% if page.game.boxart.large %}
+    <img src="{{page.game.boxart.large}}" alt="{{ page.title }}" class="boxart" >
+    {% endif %}
+    
+    <dl>
+      <dt>Score</dt>
+      <dd id="score">{{page.game.score}}G of {{page.game.totalScore}}G</dd>
+      <dd class="scorePercentage percentage">
+        <div class="filler"></div>
+        <div class="number"><span>0</span>% completion</div>
+      </dd>
+      
+      <dt>Achievements</dt>
+      <dd id="cheeveCount">{{page.game.achievements | size}} of {{page.game.totalAchievements}}</dd>
+      <dd class="cheevePercentage percentage">
+        <div class="filler"></div>
+        <div class="number"><span>0</span>% completion</div>
+      </dd>
+      
+      {% if page.game.ratingImages %}
+      <dt>Rating</dt>
+      <dd class="ratingimgs">
+      {% for rating in page.game.ratingImages %}
+      <img src="{{rating.src}}" alt="{{rating.title}}" >      
+      {% endfor %}
+      </dd>
+      {% endif %}
+      
+    </dl>
+    <script type="text/javascript">
+      //<!--
+      $(window).load(function(){
+        var regex = /^([0-9]+)G of ([0-9]+)G$/;
+        var scoreData = $('#score').html().match(regex);
+        
+        //calculate the percentage
+        var percentage = Math.round((scoreData[1] / scoreData[2]) * 100);
+        
+        $('.scorePercentage .number span').html(percentage);
+        $('.scorePercentage .filler').width(percentage+'%');
+        
+        var cheeveRegex = /^([0-9]+) of ([0-9]+)$/;
+        var cheeveData = $('#cheeveCount').html().match(cheeveRegex);
+        
+        //calculate the percentage
+        var cheevePercentage = Math.round((cheeveData[1] / cheeveData[2]) * 100);
+        
+        $('.cheevePercentage .number span').html(cheevePercentage);
+        $('.cheevePercentage .filler').width(cheevePercentage+'%');
+      });
+      //-->
+    </script>
+    
+    {% if page.game.banner %}
+    <img src="{{page.game.banner}}" alt="{{ page.title }}" class="banner" >
+    {% endif %}
+  </div>
+  
+  <div class="span6">
+    <h3>Achievements <small>I've won {{page.game.achievements | size}} achievements!</small></h3>
+  </div>
+  
+  {% for achievement in page.game.achievements %}
+  <div class="span6 achievement xboxgamepage {% if forloop.index0 < 5 %}firstfive{% endif %}" id="{{achievement.slug}}">
+    <img src="{{achievement.image}}" alt="{{achievement.name}}" >
+    <h4>{{achievement.name}} <small>{{achievement.score}}G</small></h4>
+    <p>{{achievement.description}}</p>
+    <p class="meta">{{achievement.acquired | date: "%d %b %Y"}} at {{ achievement.scraped | date: "%H:%M" }}</p>
+  </div>
+  {% endfor %}
+  
+</div>

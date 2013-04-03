@@ -100,5 +100,86 @@ latest:
     slug: "dishonored_wall-of-sparks"
     gameSlug: dishonored
     scraped: "2013-04-02T23:11:24.725Z"
+  - image: "https://live.xbox.com/tiles/C5/cO/1YCLiGJhbC8RAhsCGltTVmUzL2FjaC8wLzhlAAAAAOfn5-ohlxc=.jpg"
+    name: An Unfortunate Accident
+    description: You killed Morgan Pendleton with steam
+    score: 10
+    acquired: "2013-03-10"
+    slug: "dishonored_an-unfortunate-accident"
+    gameSlug: dishonored
+    scraped: "2013-04-02T23:11:24.725Z"
+  - image: "https://live.xbox.com/tiles/nq/54/0oCLiGJhbC8SDBsCGltTVmUzL2FjaC8wLzZmAAAAAOfn5-1XroI=.jpg"
+    name: Rogue
+    description: You assassinated 10 unaware enemies
+    score: 10
+    acquired: "2013-03-09"
+    slug: dishonored_rogue
+    gameSlug: dishonored
+    scraped: "2013-04-02T23:11:24.725Z"
+  - image: "https://live.xbox.com/tiles/6y/qi/0YCLiGJhbC9NAhsCGltTVmUzL2FjaC8wLzg5AAAAAOfn5-6NKvc=.jpg"
+    name: Just Dark Enough
+    description: You completed the game in low chaos
+    score: 50
+    acquired: "2013-02-17"
+    slug: "dishonored_just-dark-enough"
+    gameSlug: dishonored
+    scraped: "2013-04-02T23:11:24.725Z"
+  - image: "https://live.xbox.com/tiles/ds/Zl/04CLiGJhbC9DAhsCGltTVmUzL2FjaC8wLzg3AAAAAOfn5-xKxmo=.jpg"
+    name: Resolution
+    description: You completed the game
+    score: 100
+    acquired: "2013-02-17"
+    slug: dishonored_resolution
+    gameSlug: dishonored
+    scraped: "2013-04-02T23:11:24.725Z"
+  - image: "https://live.xbox.com/tiles/gT/bL/14CLiGJhbC9AAxsCGltTVmUzL2FjaC8wLzk0AAAAAOfn5-jkNp0=.jpg"
+    name: Long Live the Empress
+    description: You saved Empress Emily Kaldwin
+    score: 10
+    acquired: "2013-02-17"
+    slug: "dishonored_long-live-the-empress"
+    gameSlug: dishonored
+    scraped: "2013-04-02T23:11:24.725Z"
+  - image: "https://live.xbox.com/tiles/Oi/vN/1oCLiGJhbC9MAxsCGltTVmUzL2FjaC8wLzk4AAAAAOfn5-niKyY=.jpg"
+    name: Creepy Crawly
+    description: You used a rat tunnel
+    score: 10
+    acquired: "2013-02-17"
+    slug: "dishonored_creepy-crawly"
+    gameSlug: dishonored
+    scraped: "2013-04-02T23:11:24.726Z"
+  - image: "https://live.xbox.com/tiles/aV/7W/1oCLiGJhbC8RDRsCGltTVmUzL2FjaC8wLzdlAAAAAOfn5-n5XnU=.jpg"
+    name: The Escapist
+    description: "After Coldridge Prison, you eluded 5 pursuers at once without killing them or leaving the map"
+    score: 10
+    acquired: "2013-02-17"
+    slug: "dishonored_the-escapist"
+    gameSlug: dishonored
+    scraped: "2013-04-02T23:11:24.726Z"
+  - image: "https://live.xbox.com/tiles/YY/RM/0YCLiGJhbC8XAhsCGltTVmUzL2FjaC8wLzhjAAAAAOfn5-5jhH0=.jpg"
+    name: Street Conspiracy
+    description: You completed all the Slackjaw side missions
+    score: 10
+    acquired: "2013-02-17"
+    slug: "dishonored_street-conspiracy"
+    gameSlug: dishonored
+    scraped: "2013-04-02T23:11:24.726Z"
+  - image: "https://live.xbox.com/tiles/6y/WJ/04CLiGJhbC9GAxsCGltTVmUzL2FjaC8wLzkyAAAAAOfn5-ymJfc=.jpg"
+    name: Mercy is the Mark
+    description: "You spared Daud&rsquo;s life"
+    score: 10
+    acquired: "2013-02-17"
+    slug: "dishonored_mercy-is-the-mark"
+    gameSlug: dishonored
+    scraped: "2013-04-02T23:11:24.726Z"
+  - image: "https://live.xbox.com/tiles/p8/cK/1ICLiGJhbC9CAxsCGltTVmUzL2FjaC8wLzk2AAAAAOfn5-slx7s=.jpg"
+    name: Food Chain
+    description: You assassinated an assassin
+    score: 10
+    acquired: "2013-02-17"
+    slug: "dishonored_food-chain"
+    gameSlug: dishonored
+    scraped: "2013-04-02T23:11:24.726Z"
+    
 ---
 {% include JB/setup %}

@@ -137,7 +137,9 @@ div.gamertag {
 }
 div.gamertag div.avatar,
 div.gamertag dl, 
-div.gamertag div.gamerpic {
+div.gamertag div.gamerpic, 
+div.gameinfo dl, 
+div.gameinfo img.boxart {
   float: left;
 }
 div.gamertag div.gamerpic {
@@ -160,6 +162,7 @@ div.achievement{
   border-radius:4px;
   margin-bottom: 2px;
   border: 1px solid rgba(0, 0, 0, 0.2);
+  overflow: hidden;
 }
 div.achievement p{
  margin: 2px;
@@ -182,7 +185,7 @@ div.achievement img{
   margin: 4px;
 }
 
-div.achievement.xboxpage{
+div.achievement.xboxpage, div.achievement.xboxgamepage{
   margin-bottom: 10px;
 }
 
@@ -211,6 +214,10 @@ div.gamertag div.game div.boxart-ph {
   height: 120px;
   border: 1px solid rgba(0, 0, 0, 0.2);
   background-color: rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+div.gamertag div.game div.boxart-ph i {
+  margin-top: 48px;
 }
 div.gamertag div.game p, 
 div.gamertag div.game h4{
@@ -218,4 +225,97 @@ div.gamertag div.game h4{
 } 
 div.gamertag div.game h4{
   padding-top: 15px;
+}
+.row-fluid.extender{
+  height: 1810px;
+  position: relative;
+  overflow: hidden;
+}
+.row-fluid.extender div.mask {
+  position: absolute;
+  bottom: 0;
+  height: 90px;
+  width: 100%;
+  margin: 0;
+  
+  background: -moz-linear-gradient(top,  rgba(255,255,255,0) 0%, rgba(255,255,255,1) 100%); /* FF3.6+ */
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(255,255,255,0)), color-stop(100%,rgba(255,255,255,1))); /* Chrome,Safari4+ */
+  background: -webkit-linear-gradient(top,  rgba(255,255,255,0) 0%,rgba(255,255,255,1) 100%); /* Chrome10+,Safari5.1+ */
+  background: -o-linear-gradient(top,  rgba(255,255,255,0) 0%,rgba(255,255,255,1) 100%); /* Opera 11.10+ */
+  background: -ms-linear-gradient(top,  rgba(255,255,255,0) 0%,rgba(255,255,255,1) 100%); /* IE10+ */
+  background: linear-gradient(to bottom,  rgba(255,255,255,0) 0%,rgba(255,255,255,1) 100%); /* W3C */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00ffffff', endColorstr='#ffffff',GradientType=0 ); /* IE6-9 */
+}
+.row-fluid.extender div.mask .more p {
+  margin: 0;
+}
+.row-fluid.extender div.mask .more {
+  width: 120px;
+  text-align:center;
+  background-color: #FFFFFF;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  border-radius:12px;
+  position: absolute;
+  bottom: 0;
+  left: 130px;
+  cursor: pointer;
+}
+div.gameinfo img.boxart {
+  margin: 2px;
+  margin-right: 10px;
+}
+div.gameinfo dl{
+  width: 180px;
+  margin-top: 36px;
+}
+dd.percentage {
+  width: 99%;
+  background-color: #E7E7E7;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  position: relative;
+  height: 1.5em;
+  border-radius:4px;
+  
+}
+dd.percentage div.filler {
+  background-color: #b1d770;
+  border-right: 1px solid #95a486;
+  position:absolute;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  border-radius:4px;
+}
+dd.percentage div.number {
+  text-align: center;
+  color: #3d6611;
+  position: absolute;
+  font-weight: bold;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+}
+div.achievement.xboxgamepage p.meta {
+  display: none;
+  border-bottom-right-radius: 4px;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  background-color: #F7F7F7;
+  z-index: 10;
+  bottom: -3px;
+  right: -3px;
+  padding: 0 3px;
+}
+div.achievement.xboxgamepage:hover p.meta {
+  display: inline;
+}
+div.achievement.firstfive {
+  position: relative;
+  right: -10px;
+}
+img.banner{
+  padding-left:2px;
+}
+div.achievement.xboxgamepage {
+  margin-right: 10px;
 }
