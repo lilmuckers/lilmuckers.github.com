@@ -1,6 +1,6 @@
 ---
 layout: xboxgame
-title: "Ooops! What happened to this page?"
+title: "Kinect PlayFit"
 showPage: true
 tagline: ""
 group: xboxgame
@@ -11,7 +11,7 @@ game:
   marketLink: "http://marketplace.xbox.com/en-GB/Title/1481115753"
   achievementLink: "http://live.xbox.com/en-GB/Activity/Details?titleId=1481115753"
   boxart: 
-    small: null
+    small: https://live.xbox.com/consoleAssets/484707d1/en-gb/smallboxart.jpg
     large: null
   lastPlayed: "2012-08-26"
   totalScore: 200
@@ -19,7 +19,7 @@ game:
   totalAchievements: 20
   achievements: []
   slug: "kinect-playfit"
-  title: "Ooops! What happened to this page?"
+  title: "Kinect PlayFit"
   description: null
   rating: null
   ratingImages: []
