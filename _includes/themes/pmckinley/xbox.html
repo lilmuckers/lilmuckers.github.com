@@ -2,3 +2,87 @@
   <h1>{{ page.title }} {% if page.tagline %} <small>{{ page.tagline }}</small>{% endif %}</h1>
 </div>
 
+{{content}}
+
+<div class="row-fluid">
+  <div class="span5 gamertag xboxpage">
+    <h3>Profile <small>Xbox Live Gamercard</small></h3>
+    <div class="avatar">
+      <img src="{{page.gamer.avatar.unsecure}}" class="avatar" alt="{{page.gamer.gamertag}}" >
+    </div>
+    <dl>
+      <dt>Gamertag</dt>
+        <dd><a href="{{page.gamer.profile}}">{{page.gamer.gamertag}}</a></dd>
+      <dt>Gamerscore</dt>
+        <dd>{{page.gamer.score}}G</dd>
+      <dt>Bio</dt>
+        <dd>{{page.gamer.bio}}</dd>
+      <dt>Motto</dt>
+        <dd>{{page.gamer.motto}}</dd>
+      <dt>Achievements</dt>
+        {% assign gamecount = 0 %}
+        {% assign cheevecount = 0 %}
+        {% for game in site.pages %}
+          {% if game.group == "xboxgame" %}
+            {% if game.showPage == true %}
+              {% capture gamecount %}{{gamecount | plus:1 }}{% endcapture %}
+              {% for cheeve in game.game.achievements %}
+                {% capture cheevecount %}{{cheevecount | plus:1 }}{% endcapture %}
+              {% endfor %}
+            {% endif %}
+          {% endif %}
+        {% endfor %}
+        <dd>{{cheevecount}} won in {{gamecount}} games</dd>
+    </dl>
+    
+    <hr>
+    
+    <h3>Games <small>I spend time and money on these</small></h3>
+    
+    {% for weight in (0..page.gamecount) reversed %}
+    {% for game in site.pages %}
+      {% if game.group == "xboxgame" %}
+        {% if game.showPage == true and weight == game.weight %}
+          <div class="game">
+            <img src="{{game.game.boxart.small}}" alt="{{game.title}}" >
+            <h4>{{game.title}}</h4>
+            {% assign cheevecount = 0 %}
+            {% for cheeve in game.game.achievements %}
+              {% capture cheevecount %}{{cheevecount | plus:1 }}{% endcapture %}
+            {% endfor %}
+            <p>{{game.game.score}}G / {{game.game.totalScore}}G</p>
+            <p>{{cheevecount}} / {{game.game.totalAchievements}} achievements</p>
+            <p class="seemore"><a href="{{game.url}}" id="{{game.game.slug}}">See Achievements</a></p>
+          </div>
+          {% if weight != 0 %}
+          <hr class="games">
+          {% endif %}
+        {% endif %}
+      {% endif %}
+    {% endfor %}
+    {% endfor %}
+    
+    
+  </div>
+  
+  <div class="span7">
+    <h3>Latest Achievements <small>I've been playing!</small></h3>
+  </div>
+  
+  {% for achievement in page.latest %}
+  {% for game in site.pages %}
+    {% if game.group == "xboxgame" %}
+      {% if game.game.slug == achievement.gameSlug %}
+        {% assign thisGame = game %}
+      {% endif %}
+    {% endif %}
+  {% endfor %}
+  <div class="span7 achievement xboxpage" id="{{achievement.slug}}">
+    <img src="{{achievement.image}}" alt="{{achievement.name}}" >
+    <h4>{{achievement.name}} <small>{{achievement.score}}G</small></h4>
+    <p>{{achievement.description}}</p>
+    <p class="meta">in <a href="{{thisGame.url}}">{{thisGame.game.name}}</a> on {{achievement.acquired | date: "%d %b %Y"}} at {{ achievement.scraped | date: "%H:%M" }}</p>
+  </div>
+  {% endfor %}
+
+</div>

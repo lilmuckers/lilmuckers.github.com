@@ -146,7 +146,7 @@ div.gamertag div.gamerpic {
   padding-top: 15px;
   padding-bottom: 15px;
 }
-div.gamertag p{
+div.gamertag p.seemore{
   clear: both;
   position: absolute;
   bottom: 0;
@@ -162,12 +162,12 @@ div.achievement{
   border: 1px solid rgba(0, 0, 0, 0.2);
 }
 div.achievement p{
- margin: 0;
+ margin: 2px;
 }
 div.achievement p.meta{
   position: absolute;
   bottom: 0;
-  right: 5px;
+  right: 0;
   color: #A7A7A7;
   font-size: 0.85em;
 }
@@ -180,4 +180,35 @@ div.achievement h4{
 div.achievement img{
   float: left;
   margin: 4px;
+}
+
+div.achievement.xboxpage{
+  margin-bottom: 10px;
+}
+
+div.gamertag.xboxpage {
+  height: 100%;
+}
+div.gamertag hr{
+  clear: both;
+  margin: 20px;
+}
+div.gamertag hr.games{
+  margin: 5px 20px;
+}
+div.gamertag div.game {
+  height: 126px;
+  position: relative;
+}
+div.gamertag div.game img{
+  clear: left;
+  float: left;
+  margin: 3px;
+}
+div.gamertag div.game p, 
+div.gamertag div.game h4{
+  margin-left: 5px;
+} 
+div.gamertag div.game h4{
+  padding-top: 15px;
 }
