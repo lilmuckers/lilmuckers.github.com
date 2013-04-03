@@ -106,7 +106,7 @@
     div.height(oldHeight);
   
     // On click, animate it to its full natural height
-    div.click(function() {
+    $('.mask .more').click(function() {
       if(div.height() == oldHeight){
         div.animate({height: newHeight + "px"}, "slow");
         maskDiv.find('i').attr('class', 'icon-chevron-up');
