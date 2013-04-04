@@ -12,7 +12,7 @@ weight: 1
 
 <div class="row-fluid portfolio-row">
   <div class="span4">
-    <img src="/assets/images/portfolio/public-creative/public-creative.png" >
+    <img src="/assets/images/portfolio/public-creative/public-creative-small.png" >
   </div>
   <div class="span8">
     <h3>Public Creative <small><a href="http://www.publicreative.com/">http://www.publicreative.com/</a></small></h3>
@@ -36,7 +36,7 @@ weight: 1
     </dl>
   </div>
   <div class="span4">
-    <img src="/assets/images/portfolio/public-creative/public-social.png" >
+    <img src="/assets/images/portfolio/public-creative/public-social-small.png" >
   </div>
 </div>
 

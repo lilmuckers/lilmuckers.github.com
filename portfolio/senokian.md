@@ -12,7 +12,7 @@ weight: 3
 
 <div class="row-fluid portfolio-row">
   <div class="span4">
-    <img src="/assets/images/portfolio/senokian/mitsubishi.png" >
+    <img src="/assets/images/portfolio/senokian/mitsubishi-small.png" >
   </div>
   <div class="span8">
     <h3>Mitsubishi Electric Europe <small><a href="http://www.mitsubishielectric.eu/">http://www.mitsubishielectric.eu/</a></small></h3>
@@ -36,6 +36,6 @@ weight: 3
     </dl>
   </div>
   <div class="span4">
-    <img src="/assets/images/portfolio/senokian/vis-mitsubishi.png" >
+    <img src="/assets/images/portfolio/senokian/vis-mitsubishi-small.png" >
   </div>
 </div>

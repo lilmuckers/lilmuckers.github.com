@@ -12,7 +12,7 @@ weight: 2
 
 <div class="row-fluid portfolio-row">
   <div class="span4">
-    <img src="/assets/images/portfolio/pod1/probikekit.png" >
+    <img src="/assets/images/portfolio/pod1/probikekit-small.png" >
   </div>
   <div class="span8">
     <h3>Pro Bike Kit <small><a href="http://www.probikekit.com/">http://www.probikekit.com/</a></small></h3>
@@ -36,7 +36,7 @@ weight: 2
     </dl>
   </div>
   <div class="span4">
-    <img src="/assets/images/portfolio/pod1/harvey-nichols.png" >
+    <img src="/assets/images/portfolio/pod1/harvey-nichols-small.png" >
   </div>
 </div>
 
@@ -44,7 +44,7 @@ weight: 2
 
 <div class="row-fluid portfolio-row">
   <div class="span4">
-    <img src="/assets/images/portfolio/pod1/dia.png" >
+    <img src="/assets/images/portfolio/pod1/dia-small.png" >
   </div>
   <div class="span8">
     <h3>Dia Boutique <small><a href="http://www.dia-boutique.com/">http://www.dia-boutique.com/</a></small></h3>
@@ -68,7 +68,7 @@ weight: 2
     </dl>
   </div>
   <div class="span4">
-    <img src="/assets/images/portfolio/pod1/links-of-london.png" >
+    <img src="/assets/images/portfolio/pod1/links-of-london-small.png" >
   </div>
 </div>
 
@@ -76,7 +76,7 @@ weight: 2
 
 <div class="row-fluid portfolio-row">
   <div class="span4">
-    <img src="/assets/images/portfolio/pod1/gieves.png" >
+    <img src="/assets/images/portfolio/pod1/gieves-small.png" >
   </div>
   <div class="span8">
     <h3>Gieves and Hawkes <small><a href="http://www.gievesandhawkes.com/">http://www.gievesandhawkes.com/</a></small></h3>
@@ -100,7 +100,7 @@ weight: 2
     </dl>
   </div>
   <div class="span4">
-    <img src="/assets/images/portfolio/pod1/amanda-wakeley.png" >
+    <img src="/assets/images/portfolio/pod1/amanda-wakeley-small.png" >
   </div>
 </div>
 
@@ -108,7 +108,7 @@ weight: 2
 
 <div class="row-fluid portfolio-row">
   <div class="span4">
-    <img src="/assets/images/portfolio/pod1/kabiri.png" >
+    <img src="/assets/images/portfolio/pod1/kabiri-small.png" >
   </div>
   <div class="span8">
     <h3>Kabiri Accessories <small><a href="http://www.kabiri.co.uk/">http://www.kabiri.co.uk/</a></small></h3>
@@ -132,7 +132,7 @@ weight: 2
     </dl>
   </div>
   <div class="span4">
-    <img src="/assets/images/portfolio/pod1/matthewwilliamson.png" >
+    <img src="/assets/images/portfolio/pod1/matthewwilliamson-small.png" >
   </div>
 </div>
 
@@ -140,7 +140,7 @@ weight: 2
 
 <div class="row-fluid portfolio-row">
   <div class="span4">
-    <img src="/assets/images/portfolio/pod1/myla.png" >
+    <img src="/assets/images/portfolio/pod1/myla-small.png" >
   </div>
   <div class="span8">
     <h3>Myla Designer Lingerie <small><a href="http://www.myla.com/">http://www.myla.com/</a></small></h3>
@@ -164,7 +164,7 @@ weight: 2
     </dl>
   </div>
   <div class="span4">
-    <img src="/assets/images/portfolio/pod1/linksoflondon.png" >
+    <img src="/assets/images/portfolio/pod1/linksoflondon-small.png" >
   </div>
 </div>
 
@@ -172,7 +172,7 @@ weight: 2
 
 <div class="row-fluid portfolio-row">
   <div class="span4">
-    <img src="/assets/images/portfolio/pod1/uniqlo.png" >
+    <img src="/assets/images/portfolio/pod1/uniqlo-small.png" >
   </div>
   <div class="span8">
     <h3>Uniqlo <small><a href="http://www.uniqlo.co.uk/">http://www.uniqlo.co.uk/</a></small></h3>
@@ -196,7 +196,7 @@ weight: 2
     </dl>
   </div>
   <div class="span4">
-    <img src="/assets/images/portfolio/pod1/kurt-geiger.png" >
+    <img src="/assets/images/portfolio/pod1/kurt-geiger-small.png" >
   </div>
 </div>
 
