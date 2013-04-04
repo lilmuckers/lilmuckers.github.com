@@ -107,6 +107,10 @@ ul.portfolio li div small{
   margin: 0;
 }
 
+.row-fluid.warner-portfolio .span3{
+  margin-left: 1.9%;
+}
+
 .notfound {
   text-align:center;
 }
