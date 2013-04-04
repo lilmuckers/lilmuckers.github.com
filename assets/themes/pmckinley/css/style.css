@@ -184,6 +184,8 @@ div.achievement h4{
 div.achievement img{
   float: left;
   margin: 4px;
+  width: 64px;
+  height: 64px;
 }
 
 div.achievement.xboxpage, div.achievement.xboxgamepage{
@@ -268,6 +270,8 @@ div.gamertag div.game h4{
 div.gameinfo img.boxart, div.gameinfo div.boxart-ph {
   margin: 2px;
   margin-right: 10px;
+  width: 219px;
+  height: 300px;
 }
 div.gameinfo dl{
   width: 180px;
@@ -321,20 +325,14 @@ div.achievement.firstfive {
 img.banner, div.gameinfo div.banner-ph{
   margin-left:2px;
   clear: both;
+  width: 420px;
+  height: 95px;
 }
 div.achievement.xboxgamepage {
   margin-right: 10px;
 }
-div.gameinfo div.boxart-ph {
-  width: 219px;
-  height: 300px;
-}
 div.gameinfo div.boxart-ph i {
   margin-top: 140px;
-}
-div.gameinfo div.banner-ph {
-  width: 420px;
-  height: 95px;
 }
 div.gameinfo div.banner-ph i {
   margin-top: 35px;
