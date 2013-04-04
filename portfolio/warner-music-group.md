@@ -32,25 +32,25 @@ weight: 0
   
   <div class="span3">
     <a href="http://michaelbuble.warnerartists.net/en/">
-      <img src="/assets/images/portfolio/warner-music-group/michaelbuble.png" alt="Michael Bubl&eacute;">
+      <img src="/assets/images/portfolio/warner-music-group/michaelbuble-small.png" alt="Michael Bubl&eacute;">
       Michael Bubl&eacute;
     </a>
   </div>
   <div class="span3">
     <a href="http://greenday.warnerartists.net/en/">
-      <img src="/assets/images/portfolio/warner-music-group/greenday.png" alt="Green Day">
+      <img src="/assets/images/portfolio/warner-music-group/greenday-small.png" alt="Green Day">
       Green Day
     </a>
   </div>
   <div class="span3">
     <a href="http://pinkfloyd.warnerartists.net/en/">
-      <img src="/assets/images/portfolio/warner-music-group/pinkfloyd.png" alt="Pink Floyd">
+      <img src="/assets/images/portfolio/warner-music-group/pinkfloyd-small.png" alt="Pink Floyd">
       Pink Floyd
     </a>
   </div>
   <div class="span3">
     <a href="http://udolindenberg.warnerartists.net/de/">
-      <img src="/assets/images/portfolio/warner-music-group/udolindenberg.png" alt="Udo Lindenberg">
+      <img src="/assets/images/portfolio/warner-music-group/udolindenberg-small.png" alt="Udo Lindenberg">
       Udo Lindenberg
     </a>
   </div>
