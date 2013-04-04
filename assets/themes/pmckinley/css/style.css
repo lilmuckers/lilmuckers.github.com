@@ -139,6 +139,7 @@ div.gamertag div.avatar,
 div.gamertag dl, 
 div.gamertag div.gamerpic, 
 div.gameinfo dl, 
+div.gameinfo div.boxart-ph, 
 div.gameinfo img.boxart {
   float: left;
 }
@@ -212,10 +213,14 @@ div.gamertag div.game div.boxart-ph{
 div.gamertag div.game div.boxart-ph {
   width: 85px;
   height: 120px;
+}
+
+div.boxart-ph, div.banner-ph {
   border: 1px solid rgba(0, 0, 0, 0.2);
   background-color: rgba(0, 0, 0, 0.1);
   text-align: center;
 }
+
 div.gamertag div.game div.boxart-ph i {
   margin-top: 48px;
 }
@@ -260,7 +265,7 @@ div.gamertag div.game h4{
   left: 130px;
   cursor: pointer;
 }
-div.gameinfo img.boxart {
+div.gameinfo img.boxart, div.gameinfo div.boxart-ph {
   margin: 2px;
   margin-right: 10px;
 }
@@ -313,9 +318,35 @@ div.achievement.firstfive {
   position: relative;
   right: -10px;
 }
-img.banner{
-  padding-left:2px;
+img.banner, div.gameinfo div.banner-ph{
+  margin-left:2px;
+  clear: both;
 }
 div.achievement.xboxgamepage {
   margin-right: 10px;
+}
+div.gameinfo div.boxart-ph {
+  width: 219px;
+  height: 300px;
+}
+div.gameinfo div.boxart-ph i {
+  margin-top: 140px;
+}
+div.gameinfo div.banner-ph {
+  width: 420px;
+  height: 95px;
+}
+div.gameinfo div.banner-ph i {
+  margin-top: 35px;
+}
+p.backlink {
+  position: absolute;
+  top: -25px;
+  left: 0px;
+}
+div.gameinfo {
+  margin-left: 0 !important;
+}
+div.row-fluid.xboxgamepage {
+  position: relative;
 }

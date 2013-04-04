@@ -4,11 +4,14 @@
 
 {{content}}
 
-<div class="row-fluid">
+<div class="row-fluid xboxgamepage">
+  <p class="backlink"><a href="/games/xbox.html"><i class="icon-chevron-left"></i>Back to games</a></p>
   <div class="span6 gameinfo">
     <h3>Game Info <small>Because I can</small></h3>
     {% if page.game.boxart.large %}
     <img src="{{page.game.boxart.large}}" alt="{{ page.title }}" class="boxart" >
+    {% else %}
+    <div class="boxart-ph"><i class="icon-warning-sign icon-white"></i></div>
     {% endif %}
     
     <dl>
@@ -26,7 +29,7 @@
         <div class="number"><span>0</span>% completion</div>
       </dd>
       
-      {% if page.game.ratingImages %}
+      {% if page.game.ratingImages != empty %}
       <dt>Rating</dt>
       <dd class="ratingimgs">
       {% for rating in page.game.ratingImages %}
@@ -62,6 +65,8 @@
     
     {% if page.game.banner %}
     <img src="{{page.game.banner}}" alt="{{ page.title }}" class="banner" >
+    {% else %}
+    <div class="banner-ph"><i class="icon-warning-sign icon-white"></i></div>
     {% endif %}
   </div>
   
