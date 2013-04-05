@@ -8,6 +8,7 @@
 
 .navbar .nav {
   float: right; }
+  
 
 /* posts index */
 .post > h3.title {
@@ -63,6 +64,17 @@
   background: #57A957;
   border: 1px solid #4c964d;
   color: #FFF; }
+  
+  footer p{
+    float: left;
+  }
+  
+  footer ul.inline{
+    float: right;
+    width: 200px;
+    margin-bottom: 0;
+    margin-top: -8px;
+  }
   
 body{
   text-align: justify;
