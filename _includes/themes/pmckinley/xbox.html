@@ -8,7 +8,7 @@
   <div class="span5 gamertag xboxpage">
     <h3>Profile <small>Xbox Live Gamercard</small></h3>
     <div class="avatar">
-      <img src="{{page.gamer.avatar.unsecure}}" class="avatar" alt="{{page.gamer.gamertag}}" >
+      <img src="{{page.gamer.avatar.unsecure}}" class="avatar" alt="{{page.gamer.gamertag}}" title="{{page.gamer.gamertag}}" >
     </div>
     <dl>
       <dt>Gamertag</dt>
@@ -45,7 +45,7 @@
         {% if game.showPage == true and weight == game.weight %}
           <div class="game">
             {% if game.game.boxart.small %}
-            <a href="{{game.url}}" id="{{game.game.slug}}-boxart"><img src="{{game.game.boxart.small}}" alt="{{game.title}}" ></a>
+            <a href="{{game.url}}" id="{{game.game.slug}}-boxart"><img src="{{game.game.boxart.small}}" alt="{{game.title}}" title="{{game.title}}" ></a>
             {% else %}
             <div class="boxart-ph"><a href="{{game.url}}" id="{{game.game.slug}}-boxart"><i class="icon-warning-sign icon-white"></i></a></div>
             {% endif %}
@@ -82,7 +82,7 @@
     {% endif %}
   {% endfor %}
   <div class="span7 achievement xboxpage" id="{{achievement.slug}}">
-    <img src="{{achievement.image}}" alt="{{achievement.name}}" >
+    <img src="{{achievement.image}}" alt="{{thisGame.game.name}} - {{achievement.name}}" title="{{thisGame.game.name}} - {{achievement.name}}" >
     <h4>{{achievement.name}} <small>{{achievement.score}}G</small></h4>
     <p>{{achievement.description}}</p>
     <p class="meta">in <a href="{{thisGame.url}}">{{thisGame.game.name}}</a> on {{achievement.acquired | date: "%d %b %Y"}} at {{ achievement.scraped | date: "%H:%M" }}</p>

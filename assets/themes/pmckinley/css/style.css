@@ -298,7 +298,7 @@ div.gameinfo img.boxart, div.gameinfo div.boxart-ph {
 }
 div.gameinfo dl{
   width: 180px;
-  margin-top: 36px;
+  margin-top: 0;
 }
 dd.percentage {
   width: 99%;
