@@ -2,10 +2,11 @@
 layout: portfolio
 title: "Senokian Solutions"
 tagline: "Junior Developer"
+info: Unfortunately Senokian Solutions are no longer an extant company in the 5 years since I worked there, so in lieu of a fancy banner, I have used kittens. Who doesn't like kittens?
 period: "June 2007 - December 2008"
 group: portfolio
 big_image: http://placekitten.com/940/200
-small_image: http://placekitten.com/g/600/200
+small_image: http://placekitten.com/600/200
 weight: 3
 ---
 {% include JB/setup %}
