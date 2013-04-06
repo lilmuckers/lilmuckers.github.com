@@ -4,8 +4,8 @@ title: "Pod1"
 tagline: "Developer"
 period: "January 2009 - April 2011"
 group: portfolio
-big_image: http://placekitten.com/940/200
-small_image: http://placekitten.com/600/200
+big_image: /assets/images/portfolio/icons/pod1-big.png
+small_image: /assets/images/portfolio/icons/pod1-small.png
 weight: 2
 ---
 {% include JB/setup %}
