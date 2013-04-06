@@ -364,3 +364,7 @@ div.gameinfo {
 div.row-fluid.xboxgamepage {
   position: relative;
 }
+
+div.post-full [class*="span"] {
+  margin-left: 1.7%;
+}
