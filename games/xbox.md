@@ -3,23 +3,31 @@ layout: xbox
 title: Xbox Tracker
 tagline: "I play games, they are fun"
 group: games
-achievementcount: 1376
+achievementcount: 1377
 gamer: 
   gamertag: Lilmuckers
   avatar: 
     secure: "https://avatar-ssl.xboxlive.com/avatar/Lilmuckers/avatar-body.png"
     unsecure: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatar-body.png"
-  activity: Last seen 30 minutes ago playing Xbox.com
+  activity: Last seen 04/04/2013 playing Xbox.com
   picture: 
     small: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatarpic-s.png"
     large: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatarpic-l.png"
-  score: 25765
+  score: 25780
   location: Londinium
   motto: "meritocracy!"
   bio: "ARGH! BEES!"
   profile: "http://live.xbox.com/en-GB/Profile?gamertag=lilmuckers"
 gamecount: 100
 latest: 
+  - image: "https://live.xbox.com/tiles/7D/EL/14CLiGJhbC9EAhtVGwxTWTNhL2FjaC8wLzgwAAAAAOfn5-gkMfA=.jpg"
+    name: Reach Lordran
+    description: Arrive in Lordran.
+    score: 15
+    acquired: "2013-03-17"
+    slug: "dark-souls_reach-lordran"
+    gameSlug: "dark-souls"
+    scraped: "2013-04-06T15:19:31.712Z"
   - image: "https://live.xbox.com/tiles/v0/s7/1YCLiGJhbC8SDRtVGwxTWTNhL2FjaC8wLzdmAAAAAOfn5-oUS6M=.jpg"
     name: Estus Flask
     description: Acquire Estus Flask.
@@ -172,6 +180,5 @@ latest:
     slug: "dishonored_food-chain"
     gameSlug: dishonored
     scraped: "2013-04-02T23:11:24.726Z"
-    
 ---
 {% include JB/setup %}
