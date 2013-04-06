@@ -45,9 +45,9 @@
         {% if game.showPage == true and weight == game.weight %}
           <div class="game">
             {% if game.game.boxart.small %}
-            <img src="{{game.game.boxart.small}}" alt="{{game.title}}" >
+            <a href="{{game.url}}" id="{{game.game.slug}}-boxart"><img src="{{game.game.boxart.small}}" alt="{{game.title}}" ></a>
             {% else %}
-            <div class="boxart-ph"><i class="icon-warning-sign icon-white"></i></div>
+            <div class="boxart-ph"><a href="{{game.url}}" id="{{game.game.slug}}-boxart"><i class="icon-warning-sign icon-white"></i></a></div>
             {% endif %}
             <h4>{{game.title}}</h4>
             {% assign cheevecount = 0 %}

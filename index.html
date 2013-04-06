@@ -17,7 +17,7 @@ title: Patrick McKinley - London Based PHP Magento Developer!
   <div class="span6">
     <a href="{{ post.url }}">
       <h4>{{ post.title }}  <small>{{post.date | date_to_long_string }}</small></h4>
-      <img src="{% if post.external == true %}{{ post.image }}{% else %}/images/{{ post.slug }}/{{ post.image }}{%endif%}" alt="{{ post.title }}" >
+      <img src="{{ post.image }}" alt="{{ post.title }}" >
     </a>
   </div>
 {% endfor %}

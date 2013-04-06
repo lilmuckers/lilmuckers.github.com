@@ -4,8 +4,6 @@ category : lessons
 tagline: "Supporting tagline"
 tags : [intro, beginner, jekyll, tutorial]
 summary: "Basic jekyll documentation to get started with the bootstrap setup"
-slug: 'enforcer-by-matthew-farrer'
-external: true
 image: http://placekitten.com/940/400
 ---
 {% include JB/setup %}
