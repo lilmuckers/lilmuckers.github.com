@@ -1,20 +1,36 @@
 ---
-layout: page
+layout: raw
 title: Tags
+tagline: These are the things I write stuff about...
 header: Posts By Tag
 ---
 {% include JB/setup %}
 
-<ul class="tag_box inline">
-  {% assign tags_list = site.tags %}  
-  {% include JB/tags_list %}
-</ul>
 
+<div class="page-header">
+  <h1>{{ page.title }} {% if page.tagline %} <small>{{ page.tagline }}</small>{% endif %}</h1>
+</div>
+
+
+
+<!-- ul class="unstyled inline">
+  {% assign categories_list = site.categories %}
+  {% include JB/categories_list %}
+</ul -->
+
+
+
+<div class="row-fluid archive">
 
 {% for tag in site.tags %} 
-  <h2 id="{{ tag[0] }}-ref">{{ tag[0] }}</h2>
-  <ul>
-    {% assign pages_list = tag[1] %}  
-    {% include JB/pages_list %}
-  </ul>
+  <div class="span6">
+    <h2 id="{{ tag[0] }}-ref">{{ tag[0] }}</h2>
+    <ul class="unstyled">
+    {% for post in tag[1] %}
+      <li><a href="{{post.url}}"><i class="icon-file"></i> {{post.title}}</a> - {{post.date | date_to_long_string }}</li>
+    {% endfor %}
+    </ul>
+  </div>
 {% endfor %}
+
+</div>
