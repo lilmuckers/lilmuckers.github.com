@@ -25,7 +25,7 @@ group: navigation
 
 {% for category in site.categories %} 
   <div class="span6">
-    <h2 id="{{ category[0] }}-ref">{{ category[0] | join: "/" }}</h2>
+    <h2 id="{{ category[0] }}-ref">{{ category[0] | join: "/" | capitalize }}</h2>
     <ul class="unstyled">
     {% for post in category[1] %}
       <li><a href="{{post.url}}"><i class="icon-file"></i> {{post.title}}</a> - {{post.date | date_to_long_string }}</li>

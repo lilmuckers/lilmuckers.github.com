@@ -1,6 +1,6 @@
 ---
 layout: raw
-category : Tech
+category : tech
 tagline: "This ain't your grandmas blog engine"
 tags : [jekyll, wordpress, thoughts]
 summary: "My faltering first steps into GitHub Pages"

@@ -1,6 +1,6 @@
 ---
 layout: raw
-category : Tech
+category : tech
 title : "GitHub API oAuth"
 tagline: "For your command line helpers"
 tags : [github, api, oauth, javascript]
