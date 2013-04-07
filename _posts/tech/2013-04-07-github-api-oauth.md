@@ -5,7 +5,7 @@ title : "GitHub API oAuth"
 tagline: "For your command line helpers"
 tags : [github, api, oauth, javascript]
 summary: "Sometimes it can be a real pain to get GitHub oAuth sorted out"
-image: /assets/images/posts/using-jekyll/header.png
+image: /assets/images/posts/github-api-oauth/header.png
 ---
 {% include JB/setup %}
 
