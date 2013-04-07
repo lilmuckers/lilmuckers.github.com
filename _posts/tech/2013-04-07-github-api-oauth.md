@@ -23,7 +23,7 @@ image: /assets/images/posts/github-api-oauth/header.png
   <div class="span12">
     <div class="content">
       <h2>Authorisations Tool</h2>
-      <p>Enter in your username, password, and the scopes you want the oAuth token to cover, along with a note so that you know what this oAuth is for, y'know, it's handy. I can assure that this code does not save the password anywhere and merely uses it to log into GitHub and set up a new authorisation token. If you want to check it out, the code for this is in the gist below (I'm using the gist as the hosting for the script too, just so you can be 100% sure there's no funny business).</p>
+      <p>Enter in your username, password, and the scopes you want the oAuth token to cover, along with a note so that you know what this oAuth is for, y'know, it's handy. I can assure that this code does not save the password anywhere and merely uses it to log into GitHub and set up a new authorisation token. If you want to check it out, the code for this is in the gist below (I'm using the gist as the hosting for the script too, just so you can be 100% sure there's no funny business). There is a bit of Google Analytics event tracking, purely for my own curiosity as to how much it is used, but it doesn't track anything except for the fact that it is being used, if it succeeds, or if it fails.</p>
     </div>
   </div>
 
