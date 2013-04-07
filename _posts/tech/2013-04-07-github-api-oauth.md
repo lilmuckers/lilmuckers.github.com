@@ -64,6 +64,7 @@ image: /assets/images/posts/github-api-oauth/header.png
               <option value="notifications">notifications</option>
               <option value="gist">gist</option>
             </select>
+            <span class="help-block"><a href="http://developer.github.com/v3/oauth/#scopes" alt="GitHub API oAuth scopes">GitHub API Scopes</a></span>
           </div>
         </div>
         <div class="control-group">
