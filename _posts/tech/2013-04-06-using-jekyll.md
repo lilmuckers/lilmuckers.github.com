@@ -3,7 +3,7 @@ layout: raw
 category : Tech
 tagline: "This ain't your grandmas blog engine"
 tags : [jekyll, wordpress, thoughts]
-summary: "Basic jekyll documentation to get started with the bootstrap setup"
+summary: "My faltering first steps into GitHub Pages"
 image: /assets/images/posts/using-jekyll/header.png
 ---
 {% include JB/setup %}
