@@ -1,0 +1,62 @@
+  <div class="span12">
+    <hr>
+  </div>
+  
+  <div class="span6">
+    <h4><i class="icon-certificate"> </i> Related Posts <small>They might not be good...</small></h4>
+    {% if site.related_posts == empty %}
+      <p>There are no related posts. How sad...</p>
+    {% else %}
+      <ul class="unstyled">
+      {% for post in site.related_posts limit:3 %}
+        <li><a href="{{post.url}}"><i class="icon-file"> </i> {{post.title}}</a> - {{post.date | date_to_long_string }}</li>
+      {% endfor %}
+      </ul>
+    {% endif %}
+  </div>
+  
+  <div class="span3">
+  {% unless page.categories == empty %}
+    <h4><i class="icon-folder-open"> </i> Categories</h4>
+    <ul class="unstyled">
+      {% assign categories_list = page.categories %}
+      {% include JB/categories_list %}
+    </ul>
+  {% endunless %}
+  </div>
+
+  <div class="span3">
+  {% unless page.tags == empty %}
+    <h4><i class="icon-tags"> </i> Tags</h4>
+    <ul class="unstyled">
+      {% assign tags_list = page.tags %}
+      {% include JB/tags_list %}
+    </ul>
+  {% endunless %}  
+  </div>
+  
+  <div class="span12">
+    <div class="pagination">
+      <ul>
+      {% if page.previous %}
+        <li class="prev"><a href="{{ BASE_PATH }}{{ page.previous.url }}" title="{{ page.previous.title }}">&larr; Previous</a></li>
+      {% else %}
+        <li class="prev disabled"><a>&larr; Previous</a></li>
+      {% endif %}
+        <li><a href="{{ BASE_PATH }}{{ site.JB.archive_path }}">Archive</a></li>
+      {% if page.next %}
+        <li class="next"><a href="{{ BASE_PATH }}{{ page.next.url }}" title="{{ page.next.title }}">Next &rarr;</a></li>
+      {% else %}
+        <li class="next disabled"><a>Next &rarr;</a></li>
+      {% endif %}
+      </ul>
+    </div>
+  </div>
+  
+  <div class="span12">
+    <hr>
+  </div>
+  
+  <div class="span12">
+    {% include JB/comments %}
+  </div>

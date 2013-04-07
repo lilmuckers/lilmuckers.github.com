@@ -32,7 +32,7 @@ Usage:
     <ul class="unstyled">
   {% endif %}
 
-  <li><a href="{{post.url}}"><i class="icon-file"></i> {{post.title}}</a> - {{post.date | date_to_long_string }}</li>
+  <li><a href="{{post.url}}"><i class="icon-file"> </i> {{post.title}}</a> - {{post.date | date_to_long_string }}</li>
 
   {% if forloop.last %}
     </ul>

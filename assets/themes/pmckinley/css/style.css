@@ -373,8 +373,11 @@ div.row-fluid.xboxgamepage {
 }
 
 div.post-full [class*="span"] {
-  margin-left: 1.7%;
+  margin-left: 1.2%;
 }
 .archive [class*="span"], .nomargin {
   margin-left: 0 !important;
+}
+.post-pagination .span6 {
+  margin-bottom: 8px;
 }

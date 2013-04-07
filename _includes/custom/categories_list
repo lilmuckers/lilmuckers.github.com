@@ -19,12 +19,12 @@ Usage:
 
 {% if categories_list.first[0] == null %}
   {% for category in categories_list %} 
-  	<li><a href="{{ BASE_PATH }}{{ site.JB.categories_path }}#{{ category }}-ref"><i class="icon-file"></i>
+  	<li><a href="{{ BASE_PATH }}{{ site.JB.categories_path }}#{{ category }}-ref"><i class="icon-file"> </i>
   		{{ category | join: "/" }}</a>  - {{ site.categories[category].size }} posts</li>
   {% endfor %}
 {% else %}
   {% for category in categories_list %} 
-  	<li><a href="{{ BASE_PATH }}{{ site.JB.categories_path }}#{{ category[0] }}-ref"><i class="icon-file"></i>
+  	<li><a href="{{ BASE_PATH }}{{ site.JB.categories_path }}#{{ category[0] }}-ref"><i class="icon-file"> </i>
   		{{ category[0] | join: "/" }}</a> - {{ category[1].size }} posts</li>
   {% endfor %}
 {% endif %}

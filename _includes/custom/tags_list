@@ -19,11 +19,11 @@ Usage:
 
 {% if tags_list.first[0] == null %}
   {% for tag in tags_list %} 
-  	<li><a href="{{ BASE_PATH }}{{ site.JB.tags_path }}#{{ tag }}-ref"><i class="icon-tag"></i> {{ tag }}</a> - {{ site.tags[tag].size }} posts</li>
+  	<li><a href="{{ BASE_PATH }}{{ site.JB.tags_path }}#{{ tag }}-ref"><i class="icon-tag"> </i> {{ tag }}</a> - {{ site.tags[tag].size }} posts</li>
   {% endfor %}
 {% else %}
   {% for tag in tags_list %} 
-  	<li><a href="{{ BASE_PATH }}{{ site.JB.tags_path }}#{{ tag[0] }}-ref"><i class="icon-tag"></i> {{ tag[0] }}</a> - {{ site.tags[1].size }} posts</li>
+  	<li><a href="{{ BASE_PATH }}{{ site.JB.tags_path }}#{{ tag[0] }}-ref"><i class="icon-tag"> </i> {{ tag[0] }}</a> - {{ site.tags[1].size }} posts</li>
   {% endfor %}
 {% endif %}
 {% assign tags_list = nil %}
