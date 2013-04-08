@@ -22,6 +22,8 @@ The main one I would consider using is [Gitteh] [gitteh], however it seems that 
 
 Well, the main thing is that it's completely platform agnostic, all you need is the ability to sent **https** based requests to a server, and you don't need to have the git repo on your local system to interact with it. It's a lot simpler, and in all honesty I don't know why I didn't go for it from square one...
 
+---
+
 ## Commits
 
 Unfortunately, as complete as the GitHub API is when it comes to the [git data] [git-data] calls to interact with your repository you kinda need to understand the inner workings of [git itself] [git]. I'm a web developer, that's not something I've ever really had cause to research. 
@@ -272,9 +274,13 @@ You've now successfully committed a change to your repository, I suggest you mak
 
 You can view your change on GitHub now, and you can see the change I made whilst writing this article [here] [github-api-commit-link].
 
+---
+
 ## Why?
 
 Well, I've been wanting to do this kind of thing for some time in a professional capacity, use GitHub has a way to version reports built by reporting systems, and in a personal use - for example, I use this stuff for keeping by [Xbox Live Tracker] [xbox-live] up to date. I also want to add more things in the future that keep this Jekyll website up to date. So it's pretty handy.
+
+---
 
 ## Code
 This whole process is pretty annoying complicated, so I wrote a **node.js** script to do the whole thing for me, that runs off my [githubber] [githubber] library. there is a usage example as a part of the gist.
