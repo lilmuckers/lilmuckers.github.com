@@ -3,23 +3,39 @@ layout: xbox
 title: Xbox Tracker
 tagline: "I play games, they are fun"
 group: games
-achievementcount: 1377
+achievementcount: 1379
 gamer: 
   gamertag: Lilmuckers
   avatar: 
     secure: "https://avatar-ssl.xboxlive.com/avatar/Lilmuckers/avatar-body.png"
     unsecure: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatar-body.png"
-  activity: Last seen 04/04/2013 playing Xbox.com
+  activity: Online playing Xbox Dashboard
   picture: 
     small: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatarpic-s.png"
     large: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatarpic-l.png"
-  score: 25780
+  score: 25805
   location: Londinium
   motto: "meritocracy!"
   bio: "ARGH! BEES!"
   profile: "http://live.xbox.com/en-GB/Profile?gamertag=lilmuckers"
-gamecount: 100
+gamecount: 101
 latest: 
+  - image: "https://live.xbox.com/tiles/wO/OS/04CLiGJhbC8WDRoEGlFTVmQxL2FjaC8wLzdiAAAAAOfn5-y949w=.jpg"
+    name: Bit of an EGO
+    description: Von Bach has unlocked the secrets of EGO technology for commercial use; You are proof
+    score: 10
+    acquired: "2013-04-08"
+    slug: "defiance_bit-of-an-ego"
+    gameSlug: defiance
+    scraped: "2013-04-08T20:19:47.682Z"
+  - image: "https://live.xbox.com/tiles/de/qz/0YCLiGJhbC8VDRoEGlFTVmQxL2FjaC8wLzdhAAAAAOfn5-6c6mk=.jpg"
+    name: "Holy Shtako!"
+    description: "New Freedom has crashed, you&apos;ve made a few new friends and one of them lives inside your head"
+    score: 15
+    acquired: "2013-04-08"
+    slug: "defiance_holy-shtako"
+    gameSlug: defiance
+    scraped: "2013-04-08T20:19:47.682Z"
   - image: "https://live.xbox.com/tiles/7D/EL/14CLiGJhbC9EAhtVGwxTWTNhL2FjaC8wLzgwAAAAAOfn5-gkMfA=.jpg"
     name: Reach Lordran
     description: Arrive in Lordran.
@@ -162,22 +178,6 @@ latest:
     score: 10
     acquired: "2013-02-17"
     slug: "dishonored_street-conspiracy"
-    gameSlug: dishonored
-    scraped: "2013-04-02T23:11:24.726Z"
-  - image: "https://live.xbox.com/tiles/6y/WJ/04CLiGJhbC9GAxsCGltTVmUzL2FjaC8wLzkyAAAAAOfn5-ymJfc=.jpg"
-    name: Mercy is the Mark
-    description: "You spared Daud&rsquo;s life"
-    score: 10
-    acquired: "2013-02-17"
-    slug: "dishonored_mercy-is-the-mark"
-    gameSlug: dishonored
-    scraped: "2013-04-02T23:11:24.726Z"
-  - image: "https://live.xbox.com/tiles/p8/cK/1ICLiGJhbC9CAxsCGltTVmUzL2FjaC8wLzk2AAAAAOfn5-slx7s=.jpg"
-    name: Food Chain
-    description: You assassinated an assassin
-    score: 10
-    acquired: "2013-02-17"
-    slug: "dishonored_food-chain"
     gameSlug: dishonored
     scraped: "2013-04-02T23:11:24.726Z"
 ---
