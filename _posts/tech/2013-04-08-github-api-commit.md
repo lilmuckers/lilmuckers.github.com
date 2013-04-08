@@ -32,6 +32,12 @@ Obviously you'll need an [oAuth access token] [github-oauth] with at least `repo
 
 ### Process
 
+1. [Get the SHA of the latest commit on the branch] [step1]
+2. [Get the tree information for that commit] [step2]
+3. [Create a new tree for your commit] [step3]
+4. [Create the commit] [step4]
+5. [Link commit to the reference] [step5]
+
 #### 1. Get the SHA of the latest commit on the branch
 
 Step 1 is to get the `SHA` of the latest commit on the target branch. To get that we need to get data about the `reference` through the API. The api documentation for this is [here] [ref-get-info], but in short, if I were doing this with **cURL** the command, and response, would be (remember that the reference name needs to be a full reference, like `heads/master`:
@@ -62,7 +68,7 @@ The `SHA` you're looking for is at the `object.sha` point in the response. I sha
 
 #### 2. Get the tree information for that commit
 
-Step 2 is that we need to get the tree `SHA` for that commit. The api documentation for this api command is [here] [commit-get-info], and here's the cURL command, using the `initialCommitSha` from **Step 1**. Or, if you like, you can use the `object.url` as the API endpoint.
+Step 2 is that we need to get the tree `SHA` for that commit. The api documentation for this api command is [here] [commit-get-info], and here's the cURL command, using the `initialCommitSha` from [**Step 1**] [step1]. Or, if you like, you can use the `object.url` as the API endpoint.
 
 {% highlight bash %}
  $ curl -i https://api.github.com/repos/lilmuckers/api-commits/git/commits/544aed9214ab1fd7b83bad5ebfac5b9bacf1c78a?access_token=<access_token>
@@ -104,7 +110,7 @@ The `SHA` you're looking for here is in the `tree.sha` point in the response. I 
 
 #### 3. Create a new tree for your commit
 
-The next step is to create a new tree containing the changes that you want to push to the repository, this would be a `POST` request referencing the `initialTreeSha` as `base_tree` and an array of hashes representing the details for the file changes you're making. The documentation for this API request is [here] [create-tree]. The `path` property on the file hash can be a full path with folders and suchlike.
+The next step is to create a new tree containing the changes that you want to push to the repository, this would be a `POST` request referencing the `initialTreeSha` from [**Step 2**] [step2] as `base_tree` and an array of hashes representing the details for the file changes you're making. The documentation for this API request is [here] [create-tree]. The `path` property on the file hash can be a full path with folders and suchlike.
 
 This request body would be something like:
 {% highlight json linenos %}
@@ -174,7 +180,7 @@ This is sent using a request like:
 The response sent back has details of the `tree` that was created, and the key bit of information in the response is the `sha` property of the JSON. I shall refer to this as `newTreeSha` from here.
 
 #### 4. Create the commit
-Step 4 is to create a commit to describe this tree. The documentation for this is [here] [create-commit]. For this you need to set its parent to be the `initialCommitSha` from **Step 1** as an array in the `parents` property, and you need to link it to the `newTreeSha` from **Step 3** as the `tree` property. This is also where you would enter the commit message.
+Step 4 is to create a commit to describe this tree. The documentation for this is [here] [create-commit]. For this you need to set its parent to be the `initialCommitSha` from [**Step 1**] [step1] as an array in the `parents` property, and you need to link it to the `newTreeSha` from [**Step 3**] [step3] as the `tree` property. This is also where you would enter the commit message.
 
 The request body would be something like:
 {% highlight json %}
@@ -229,7 +235,7 @@ And you would send this data with a request like
 The key bit of information is the `sha` property on the response, as this is the commit `sha`. I shall refer to this as `newCommitSha`.
 
 #### 5. Link commit to the reference
-The next, *and final*, step is to update the `reference` to refer to this new `commit`. You'll only need to send the `reference` label from **Step 1** in the format of `heads/master`, and the `newCommitSha` from **Step 4**. The documentation for this api call is [here] [update-ref]. Remember it needs to use a **HTTP Verb** of `PATCH`.
+The next, *and final*, step is to update the `reference` to refer to this new `commit`. You'll only need to send the `reference` label from [**Step 1**] [step1] in the format of `heads/master`, and the `newCommitSha` from [**Step 4**] [step4]. The documentation for this api call is [here] [update-ref]. Remember it needs to use a **HTTP Verb** of `PATCH`.
 
 The request body would be something like:
 {% highlight json %}
@@ -291,3 +297,9 @@ This whole process is pretty annoying complicated, so I wrote a **node.js** scri
 [github-api-commit-link]: https://github.com/lilmuckers/api-commits "Link to my API Commits repo"
 [githubber]: https://npmjs.org/package/githubber "node.js GitHub API bindings"
 [xbox-live]: /games/xbox.html "Xbox Live Achievement Tracker"
+
+[step1]: #1_get_the_sha_of_the_latest_commit_on_the_branch "Step 1: Get the SHA of the latest commit on the branch"
+[step2]: #2_get_the_tree_information_for_that_commit "Step 2: Get the tree information for that commit"
+[step3]: #3_create_a_new_tree_for_your_commit "Step 3: Create a new tree for your commit"
+[step4]: #4_create_the_commit "Step 4: Create the commit"
+[step5]: #5_link_commit_to_the_reference "Step 5: Link commit to the reference"
