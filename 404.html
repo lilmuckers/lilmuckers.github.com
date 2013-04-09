@@ -1,8 +1,50 @@
 ---
-layout: page
+layout: raw
 title: 404 - Dead Link 
 header: 404 - Dead Link
 ---
-<div class="notfound">
-  <img class="" src="/assets/images/404.png" alt="Dead Link" >
+<script type="text/javascript">
+  var forwardLinks = []
+  {% for post in site.posts %}	
+  	{% if post.oldurl %}
+  	  forwardLinks.push({ "old":"{{post.oldurl}}", "new":"{{post.url}}" })
+  	{% endif %}
+  {% endfor %}
+  jQuery(function($)
+  {
+    //get the current pathname
+    var currentPath = window.location.pathname
+    
+    //compare to the list
+    for(var key in forwardLinks){
+      var link = forwardLinks[key]
+      if(link.old == currentPath){
+        //if it matches, update and show the error...
+        $('.notfound .alert a').attr('href', link.new)
+        $('.notfound .alert').fadeIn()
+        
+        //and set the redirect
+        setTimeout("window.location.replace('"+link.new+"')", 5000)
+        
+        return
+      }
+    }
+  })
+</script>
+
+
+
+<div class="page-header">
+  <h1>{{ page.title }} {% if page.tagline %} <small>{{ page.tagline }}</small>{% endif %}</h1>
+</div>
+
+
+<div class="row-fluid notfound">
+  <div style="display: none;" class="alert alert-block alert-error">
+    <h4>This Page Has Moved!</h4>
+    <p>You will be redirected in 5 seconds. If you are not, please click <a href="">here</a>.</p>
+  </div>
+  <div class="span12">
+    <img class="" src="/assets/images/404.png" alt="Dead Link" >
+  </div>
 </div>

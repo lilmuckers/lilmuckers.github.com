@@ -6,6 +6,7 @@ tagline: "Conciliation"
 tags : [tutorial, magento, php, best practices]
 summary: "Basic concepts a good magento developer should follow"
 image: /assets/images/posts/magento-part-1/header.png
+oldurl: /2011/02/a-guide-to-magento-development-part-1-conciliation/
 ---
 {% include JB/setup %}
 
