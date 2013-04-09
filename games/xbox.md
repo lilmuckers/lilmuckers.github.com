@@ -3,23 +3,55 @@ layout: xbox
 title: Xbox Tracker
 tagline: "I play games, they are fun"
 group: games
-achievementcount: 1379
+achievementcount: 1383
 gamer: 
   gamertag: Lilmuckers
   avatar: 
     secure: "https://avatar-ssl.xboxlive.com/avatar/Lilmuckers/avatar-body.png"
     unsecure: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatar-body.png"
-  activity: Online playing Xbox Dashboard
+  activity: Last seen 4 minutes ago playing Defiance
   picture: 
     small: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatarpic-s.png"
     large: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatarpic-l.png"
-  score: 25805
+  score: 25850
   location: Londinium
   motto: "meritocracy!"
   bio: "ARGH! BEES!"
   profile: "http://live.xbox.com/en-GB/Profile?gamertag=lilmuckers"
 gamecount: 101
 latest: 
+  - image: "https://live.xbox.com/tiles/k5/mi/0YCLiGJhbC9AAhoEGlFTVmQxL2FjaC8wLzg0AAAAAOfn5-6NmY8=.jpg"
+    name: Stroking Your EGO
+    description: "EGO hosts a Votan artifical intelligence, the implications of which are not fully understood"
+    score: 15
+    acquired: "2013-04-09"
+    slug: "defiance_stroking-your-ego"
+    gameSlug: defiance
+    scraped: "2013-04-09T14:19:56.495Z"
+  - image: "https://live.xbox.com/tiles/tW/hj/0oCLiGJhbC9CAhoEGlFTVmQxL2FjaC8wLzg2AAAAAOfn5-1MaKk=.jpg"
+    name: Individual Pursuit
+    description: You completed your first pursuit in the Bay Area
+    score: 15
+    acquired: "2013-04-09"
+    slug: "defiance_individual-pursuit"
+    gameSlug: defiance
+    scraped: "2013-04-09T14:19:56.495Z"
+  - image: "https://live.xbox.com/tiles/33/sh/1oCLiGJhbC9EAhoEGlFTVmQxL2FjaC8wLzgwAAAAAOfn5-kOe8M=.jpg"
+    name: Arkhunting
+    description: Valuable relics from the destroyed Votan arks frequently and dangerously rain from the sky
+    score: 10
+    acquired: "2013-04-09"
+    slug: defiance_arkhunting
+    gameSlug: defiance
+    scraped: "2013-04-09T14:19:56.495Z"
+  - image: "https://live.xbox.com/tiles/an/IA/1ICLiGJhbC9HAhoEGlFTVmQxL2FjaC8wLzgzAAAAAOfn5-svcnY=.jpg"
+    name: A Friend in Need
+    description: Arkhunting can be a lonely vocation without trusted friends
+    score: 5
+    acquired: "2013-04-09"
+    slug: "defiance_a-friend-in-need"
+    gameSlug: defiance
+    scraped: "2013-04-09T14:19:56.496Z"
   - image: "https://live.xbox.com/tiles/wO/OS/04CLiGJhbC8WDRoEGlFTVmQxL2FjaC8wLzdiAAAAAOfn5-y949w=.jpg"
     name: Bit of an EGO
     description: Von Bach has unlocked the secrets of EGO technology for commercial use; You are proof
@@ -148,37 +180,5 @@ latest:
     slug: dishonored_resolution
     gameSlug: dishonored
     scraped: "2013-04-02T23:11:24.725Z"
-  - image: "https://live.xbox.com/tiles/gT/bL/14CLiGJhbC9AAxsCGltTVmUzL2FjaC8wLzk0AAAAAOfn5-jkNp0=.jpg"
-    name: Long Live the Empress
-    description: You saved Empress Emily Kaldwin
-    score: 10
-    acquired: "2013-02-17"
-    slug: "dishonored_long-live-the-empress"
-    gameSlug: dishonored
-    scraped: "2013-04-02T23:11:24.725Z"
-  - image: "https://live.xbox.com/tiles/Oi/vN/1oCLiGJhbC9MAxsCGltTVmUzL2FjaC8wLzk4AAAAAOfn5-niKyY=.jpg"
-    name: Creepy Crawly
-    description: You used a rat tunnel
-    score: 10
-    acquired: "2013-02-17"
-    slug: "dishonored_creepy-crawly"
-    gameSlug: dishonored
-    scraped: "2013-04-02T23:11:24.726Z"
-  - image: "https://live.xbox.com/tiles/aV/7W/1oCLiGJhbC8RDRsCGltTVmUzL2FjaC8wLzdlAAAAAOfn5-n5XnU=.jpg"
-    name: The Escapist
-    description: "After Coldridge Prison, you eluded 5 pursuers at once without killing them or leaving the map"
-    score: 10
-    acquired: "2013-02-17"
-    slug: "dishonored_the-escapist"
-    gameSlug: dishonored
-    scraped: "2013-04-02T23:11:24.726Z"
-  - image: "https://live.xbox.com/tiles/YY/RM/0YCLiGJhbC8XAhsCGltTVmUzL2FjaC8wLzhjAAAAAOfn5-5jhH0=.jpg"
-    name: Street Conspiracy
-    description: You completed all the Slackjaw side missions
-    score: 10
-    acquired: "2013-02-17"
-    slug: "dishonored_street-conspiracy"
-    gameSlug: dishonored
-    scraped: "2013-04-02T23:11:24.726Z"
 ---
 {% include JB/setup %}
