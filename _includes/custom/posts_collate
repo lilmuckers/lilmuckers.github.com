@@ -27,7 +27,7 @@ Usage:
     <div class="span12">
       <h2>{{this_year}}</h2>
     </div>
-    <div class="span4">
+    <div class="span6">
     <h3>{{this_month}}</h3>
     <ul class="unstyled">
   {% endif %}
@@ -44,14 +44,14 @@ Usage:
         <hr>
         <h2>{{next_year}}</h2>
       </div>
-      <div class="span4">
+      <div class="span6">
       <h3>{{next_month}}</h3>
       <ul class="unstyled">
     {% else %}    
       {% if this_month != next_month %}
         </ul>
         </div>
-        <div class="span4">
+        <div class="span6">
         <h3>{{next_month}}</h3>
         <ul class="unstyled">
       {% endif %}
