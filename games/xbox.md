@@ -3,23 +3,31 @@ layout: xbox
 title: Xbox Tracker
 tagline: "I play games, they are fun"
 group: games
-achievementcount: 1383
+achievementcount: 1384
 gamer: 
   gamertag: Lilmuckers
   avatar: 
     secure: "https://avatar-ssl.xboxlive.com/avatar/Lilmuckers/avatar-body.png"
     unsecure: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatar-body.png"
-  activity: Last seen 4 minutes ago playing Defiance
+  activity: Online playing Xbox Dashboard
   picture: 
     small: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatarpic-s.png"
     large: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatarpic-l.png"
-  score: 25850
+  score: 25860
   location: Londinium
   motto: "meritocracy!"
   bio: "ARGH! BEES!"
   profile: "http://live.xbox.com/en-GB/Profile?gamertag=lilmuckers"
 gamecount: 101
 latest: 
+  - image: "https://live.xbox.com/tiles/+i/tg/0ICLiGJhbC8XDhoEGlFTVmQxL2FjaC8wLzRjAAAAAOfn5-9PK+Y=.jpg"
+    name: Arkhunting Party
+    description: "Arkfalls draw quite a crowd for as dangerous as they are;  Risk vs. reward, or so they say"
+    score: 10
+    acquired: "2013-04-10"
+    slug: "defiance_arkhunting-party"
+    gameSlug: defiance
+    scraped: "2013-04-09T23:44:42.043Z"
   - image: "https://live.xbox.com/tiles/k5/mi/0YCLiGJhbC9AAhoEGlFTVmQxL2FjaC8wLzg0AAAAAOfn5-6NmY8=.jpg"
     name: Stroking Your EGO
     description: "EGO hosts a Votan artifical intelligence, the implications of which are not fully understood"
@@ -170,14 +178,6 @@ latest:
     score: 50
     acquired: "2013-02-17"
     slug: "dishonored_just-dark-enough"
-    gameSlug: dishonored
-    scraped: "2013-04-02T23:11:24.725Z"
-  - image: "https://live.xbox.com/tiles/ds/Zl/04CLiGJhbC9DAhsCGltTVmUzL2FjaC8wLzg3AAAAAOfn5-xKxmo=.jpg"
-    name: Resolution
-    description: You completed the game
-    score: 100
-    acquired: "2013-02-17"
-    slug: dishonored_resolution
     gameSlug: dishonored
     scraped: "2013-04-02T23:11:24.725Z"
 ---
