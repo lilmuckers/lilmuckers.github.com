@@ -1,0 +1,46 @@
+<div class="page-header">
+  <h1>All of My Posts <small>Everything I've Written!</small></h1>
+</div>
+
+
+<div class="row-fluid post-pagination">
+  
+{% for post in paginator.posts %}
+  <div class="span6">
+    <a href="{{ post.url }}">
+      <h4>{{ post.title }}  <small>{{post.date | date_to_long_string }}</small></h4>
+      <img src="{{ post.image }}" alt="{{ post.title }}" >
+    </a>
+  </div>
+{% endfor %}
+
+
+  <div class="span12">
+    <div class="pagination">
+      <ul>
+      
+      {% if paginator.previous_page %}
+        <li class="prev"><a href="/posts/page{{ paginator.previous_page }}" title="Previous Page">&larr; Previous</a></li>
+      {% else %}
+        <li class="prev disabled"><a>&larr; Previous</a></li>
+      {% endif %}
+      
+      <li{% if paginator.page == 1 %} class="active"{% endif %}><a href="/posts/">1</a></li>
+      
+      {% for count in (2..paginator.total_pages) %}
+        {% if count == paginator.page %}
+        <li class="active"><a href="/posts/page{{count}}">{{count}}</a></li>
+        {% else %}
+        <li><a href="/posts/page{{count}}">{{count}}</a></li>
+        {% endif %}
+      {% endfor %}
+      
+      {% if paginator.next_page %}
+        <li class="next"><a href="/posts/page{{ paginator.next_page }}" title="Next Page">Next &rarr;</a></li>
+      {% else %}
+        <li class="next disabled"><a>Next &rarr;</a></li>
+      {% endif %}
+      </ul>
+    </div>
+  </div>
+</div>

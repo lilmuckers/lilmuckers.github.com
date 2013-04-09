@@ -381,3 +381,8 @@ div.post-full [class*="span"] {
 .post-pagination .span6 {
   margin-bottom: 8px;
 }
+
+h2 small a {
+  float: right;
+  margin-top: 17px;
+}

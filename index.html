@@ -4,6 +4,13 @@ title: Patrick McKinley - London Based PHP Magento Developer!
 ---
 {% include JB/setup %}
 
+{% if paginator.page != 1 %}
+
+  {% include custom/pagination %}
+
+{% else %}
+
+
 <div class="page-header">
   <h1>Patrick McKinley <small>One of them Magento developer types</small></h1>
 </div>
@@ -11,9 +18,9 @@ title: Patrick McKinley - London Based PHP Magento Developer!
 
 <div class="row-fluid post-pagination">
   <div class="span12">
-    <h2>Latest Posts <small>Stuff I've written</small></h2>
+    <h2>Latest Posts <small>Stuff I've written <a href="/posts/">More...</a></small></h2>
   </div>
-{% for post in paginator.posts %}
+{% for post in site.posts limit:4 %}
   <div class="span6">
     <a href="{{ post.url }}">
       <h4>{{ post.title }}  <small>{{post.date | date_to_long_string }}</small></h4>
@@ -141,3 +148,5 @@ title: Patrick McKinley - London Based PHP Magento Developer!
   </ul>
   
 </div>
+
+{% endif %}
