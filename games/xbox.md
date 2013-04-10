@@ -27,7 +27,7 @@ latest:
     acquired: "2013-04-10"
     slug: "defiance_arkhunting-party"
     gameSlug: defiance
-    scraped: "2013-04-09T23:44:42.043Z"
+    scraped: "Wed Apr 10 2013 00:44:42 GMT+0100 (BST)"
   - image: "https://live.xbox.com/tiles/k5/mi/0YCLiGJhbC9AAhoEGlFTVmQxL2FjaC8wLzg0AAAAAOfn5-6NmY8=.jpg"
     name: Stroking Your EGO
     description: "EGO hosts a Votan artifical intelligence, the implications of which are not fully understood"
