@@ -15,9 +15,17 @@ game:
     large: "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545907d1/1033/boxartlg.jpg"
   lastPlayed: "2013-04-10"
   totalScore: 1000
-  score: 95
+  score: 110
   totalAchievements: 50
   achievements: 
+    - image: "https://live.xbox.com/tiles/Jp/CD/04CLiGJhbC9DAhoEGlFTVmQxL2FjaC8wLzg3AAAAAOfn5-yskDo=.jpg"
+      name: Hot Pursuit
+      description: You completed 5 pursuits in the Bay Area
+      score: 15
+      acquired: "2013-04-10"
+      slug: "defiance_hot-pursuit"
+      gameSlug: defiance
+      scraped: "Wed Apr 10 2013 17:25:56 GMT+0100 (BST)"
     - image: "https://live.xbox.com/tiles/iW/EH/14CLiGJhbC9BDxoEGlFTVmQxL2FjaC8wLzU1AAAAAOfn5-goYZU=.jpg"
       name: "Skruggin&apos; Ark Core"
       description: "Von Bach is alive, he has an Ark Core, and Cass is not happy about it"

@@ -3,23 +3,31 @@ layout: xbox
 title: Xbox Tracker
 tagline: "I play games, they are fun"
 group: games
-achievementcount: 1385
+achievementcount: 1386
 gamer: 
   gamertag: Lilmuckers
   avatar: 
     secure: "https://avatar-ssl.xboxlive.com/avatar/Lilmuckers/avatar-body.png"
     unsecure: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatar-body.png"
-  activity: "Online playing Defiance - Exploring Paradise"
+  activity: Last seen 48 minutes ago playing Xbox Dashboard
   picture: 
     small: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatarpic-s.png"
     large: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatarpic-l.png"
-  score: 25875
+  score: 25890
   location: Londinium
   motto: "meritocracy!"
   bio: "ARGH! BEES!"
   profile: "http://live.xbox.com/en-GB/Profile?gamertag=lilmuckers"
 gamecount: 101
 latest: 
+  - image: "https://live.xbox.com/tiles/Jp/CD/04CLiGJhbC9DAhoEGlFTVmQxL2FjaC8wLzg3AAAAAOfn5-yskDo=.jpg"
+    name: Hot Pursuit
+    description: You completed 5 pursuits in the Bay Area
+    score: 15
+    acquired: "2013-04-10"
+    slug: "defiance_hot-pursuit"
+    gameSlug: defiance
+    scraped: "Wed Apr 10 2013 17:25:56 GMT+0100 (BST)"
   - image: "https://live.xbox.com/tiles/iW/EH/14CLiGJhbC9BDxoEGlFTVmQxL2FjaC8wLzU1AAAAAOfn5-goYZU=.jpg"
     name: "Skruggin&apos; Ark Core"
     description: "Von Bach is alive, he has an Ark Core, and Cass is not happy about it"
@@ -170,14 +178,6 @@ latest:
     score: 10
     acquired: "2013-03-10"
     slug: "dishonored_an-unfortunate-accident"
-    gameSlug: dishonored
-    scraped: "2013-04-02T23:11:24.725Z"
-  - image: "https://live.xbox.com/tiles/nq/54/0oCLiGJhbC8SDBsCGltTVmUzL2FjaC8wLzZmAAAAAOfn5-1XroI=.jpg"
-    name: Rogue
-    description: You assassinated 10 unaware enemies
-    score: 10
-    acquired: "2013-03-09"
-    slug: dishonored_rogue
     gameSlug: dishonored
     scraped: "2013-04-02T23:11:24.725Z"
 ---
