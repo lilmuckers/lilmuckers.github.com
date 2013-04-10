@@ -3,23 +3,31 @@ layout: xbox
 title: Xbox Tracker
 tagline: "I play games, they are fun"
 group: games
-achievementcount: 1384
+achievementcount: 1385
 gamer: 
   gamertag: Lilmuckers
   avatar: 
     secure: "https://avatar-ssl.xboxlive.com/avatar/Lilmuckers/avatar-body.png"
     unsecure: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatar-body.png"
-  activity: Online playing Xbox Dashboard
+  activity: "Online playing Defiance - Exploring Paradise"
   picture: 
     small: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatarpic-s.png"
     large: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatarpic-l.png"
-  score: 25860
+  score: 25875
   location: Londinium
   motto: "meritocracy!"
   bio: "ARGH! BEES!"
   profile: "http://live.xbox.com/en-GB/Profile?gamertag=lilmuckers"
 gamecount: 101
 latest: 
+  - image: "https://live.xbox.com/tiles/iW/EH/14CLiGJhbC9BDxoEGlFTVmQxL2FjaC8wLzU1AAAAAOfn5-goYZU=.jpg"
+    name: "Skruggin&apos; Ark Core"
+    description: "Von Bach is alive, he has an Ark Core, and Cass is not happy about it"
+    score: 15
+    acquired: "2013-04-10"
+    slug: "defiance_skruggin-ark-core"
+    gameSlug: defiance
+    scraped: "Wed Apr 10 2013 14:16:30 GMT+0100 (BST)"
   - image: "https://live.xbox.com/tiles/+i/tg/0ICLiGJhbC8XDhoEGlFTVmQxL2FjaC8wLzRjAAAAAOfn5-9PK+Y=.jpg"
     name: Arkhunting Party
     description: "Arkfalls draw quite a crowd for as dangerous as they are;  Risk vs. reward, or so they say"
@@ -170,14 +178,6 @@ latest:
     score: 10
     acquired: "2013-03-09"
     slug: dishonored_rogue
-    gameSlug: dishonored
-    scraped: "2013-04-02T23:11:24.725Z"
-  - image: "https://live.xbox.com/tiles/6y/qi/0YCLiGJhbC9NAhsCGltTVmUzL2FjaC8wLzg5AAAAAOfn5-6NKvc=.jpg"
-    name: Just Dark Enough
-    description: You completed the game in low chaos
-    score: 50
-    acquired: "2013-02-17"
-    slug: "dishonored_just-dark-enough"
     gameSlug: dishonored
     scraped: "2013-04-02T23:11:24.725Z"
 ---

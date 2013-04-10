@@ -13,11 +13,19 @@ game:
   boxart: 
     small: "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545907d1/1033/boxartsm.jpg"
     large: "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545907d1/1033/boxartlg.jpg"
-  lastPlayed: "2013-04-09"
+  lastPlayed: "2013-04-10"
   totalScore: 1000
-  score: 80
+  score: 95
   totalAchievements: 50
   achievements: 
+    - image: "https://live.xbox.com/tiles/iW/EH/14CLiGJhbC9BDxoEGlFTVmQxL2FjaC8wLzU1AAAAAOfn5-goYZU=.jpg"
+      name: "Skruggin&apos; Ark Core"
+      description: "Von Bach is alive, he has an Ark Core, and Cass is not happy about it"
+      score: 15
+      acquired: "2013-04-10"
+      slug: "defiance_skruggin-ark-core"
+      gameSlug: defiance
+      scraped: "Wed Apr 10 2013 14:16:30 GMT+0100 (BST)"
     - image: "https://live.xbox.com/tiles/+i/tg/0ICLiGJhbC8XDhoEGlFTVmQxL2FjaC8wLzRjAAAAAOfn5-9PK+Y=.jpg"
       name: Arkhunting Party
       description: "Arkfalls draw quite a crowd for as dangerous as they are;  Risk vs. reward, or so they say"
