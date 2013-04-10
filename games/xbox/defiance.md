@@ -15,9 +15,17 @@ game:
     large: "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545907d1/1033/boxartlg.jpg"
   lastPlayed: "2013-04-09"
   totalScore: 1000
-  score: 70
+  score: 80
   totalAchievements: 50
   achievements: 
+    - image: "https://live.xbox.com/tiles/+i/tg/0ICLiGJhbC8XDhoEGlFTVmQxL2FjaC8wLzRjAAAAAOfn5-9PK+Y=.jpg"
+      name: Arkhunting Party
+      description: "Arkfalls draw quite a crowd for as dangerous as they are;  Risk vs. reward, or so they say"
+      score: 10
+      acquired: "2013-04-10"
+      slug: "defiance_arkhunting-party"
+      gameSlug: defiance
+      scraped: "2013-04-09T23:44:42.043Z"
     - image: "https://live.xbox.com/tiles/k5/mi/0YCLiGJhbC9AAhoEGlFTVmQxL2FjaC8wLzg0AAAAAOfn5-6NmY8=.jpg"
       name: Stroking Your EGO
       description: "EGO hosts a Votan artifical intelligence, the implications of which are not fully understood"
