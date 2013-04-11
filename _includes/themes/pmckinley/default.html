@@ -56,10 +56,109 @@
             {% assign pages_list = site.pages %}
             {% assign group = 'navigation' %}
             {% include JB/pages_list %}
+            <li class="li-search"><a href="#" id="search"><i class="icon-search"></i></a></li>
+          </ul>
+          <div class="search-box" style="display:none;">
+            <form class="form-search">
+              <div class="input-append">
+                <input type="text" class="span2 input-large search-query">
+                <button type="submit" class="btn"><i class="icon-search icon-white"></i></button>
+              </div>
+            </form>
+          </div>
+          <ul class="search-results unstyled" style="display:none;">
+            <li style="display:none;" class="template">
+              <h4>Title <small>date</small></h4>
+              <p>summary</p>
+            </li>
           </ul>
         </div>
       </div>
     </div>
+    
+    <script type="text/javascript">
+      jQuery(function($)
+      {
+        //load the js object to search
+        var searchHash = []
+        $.ajax('/search.json', {
+          success: function(data, status, response){
+            searchHash = JSON.parse(data);
+          }
+        })
+        
+        //attach the funky show/hide functionality to .click() and .blur()
+        $('#search').click(function()
+        {
+          if($('.li-search').hasClass('active')){
+            return false
+          } else {
+            $('div.search-box').slideDown()
+            $('input.search-query').focus()
+            $('.li-search').addClass('active')
+          }
+        })
+        $('input.search-query').blur(function(){
+          $('div.search-box').slideUp()
+          if($('ul.search-results').is(':visible')){
+            $('ul.search-results').slideUp()
+          }
+          $('.li-search').removeClass('active')
+        })
+        
+        //register the arrow keys
+        var arrow = {left: 37, up: 38, right: 39, down: 40 }
+        var selectedItemIndex = -1;
+        
+        //now the actual search
+        $('input.search-query').keyup(function(e)
+        {
+          //traverse the results
+/*          if($('ul.search-results')){
+            switch(e.keyCode){
+              case arrow.down:
+                if($('ul.search-results li:not(.template)').length > (selectedItemIndex+1)){
+                  selectedItemIndex++
+                  console.log(selectedItemIndex, $('ul.search-results li:not(.template)')[selectedItemIndex])
+                  $('ul.search-results li:not(.template)').removeClass('selected')
+                  $($('ul.search-results li:not(.template)')[selectedItemIndex]).addClass('selected')
+                }
+                break
+              case arrow.up:
+                if(0 <= (selectedItemIndex-1)){
+                  selectedItemIndex--
+                  console.log(selectedItemIndex, $('ul.search-results li:not(.template)')[selectedItemIndex])
+                  $('ul.search-results li:not(.template)').removeClass('selected')
+                  $($('ul.search-results li:not(.template)')[selectedItemIndex]).addClass('selected')
+                }
+                break;
+            }
+          }*/
+          
+          
+          if($(this).val().length < 2){
+            return
+          } 
+          $('ul.search-results li:not(.template)').remove()
+          
+          //loop through the hash
+          $.each(searchHash, function(index, searchItem){
+            
+            if(searchItem && (searchItem.title.toLowerCase().indexOf($(this).val().toLowerCase()) > -1 || 
+              searchItem.summary.toLowerCase().indexOf($(this).val().toLowerCase()) > -1))
+            {
+              if(!$('ul.search-results').is(':visible')){
+                $('ul.search-results').slideDown()
+              }
+              $('ul.search-results li.template').clone().removeClass('template').attr('style', '')
+              .find('h4').html(searchItem.title+' <small>'+searchItem.date+'</small>').end()
+              .find('p').html(searchItem.summary).end().click(function(){ window.location.href = searchItem.url })
+              .appendTo('ul.search-results')
+            }
+          }.bind(this))
+        })
+      })
+    </script>
 
     <div class="container-narrow">
       <div class="content">

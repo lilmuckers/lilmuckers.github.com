@@ -1,0 +1,23 @@
+---
+---
+[
+{% for post in site.posts %}
+  {
+    "category": "{{post.category}}",
+    "title": "{{post.title}}",
+    "summary": "{{post.summary}}",
+    "url": "{{post.url}}",
+    "date": "{{post.date | date_to_long_string}}"
+  },
+{% endfor %}
+{% for page in site.pages %}
+  {
+    "category": "",
+    "title": "{{page.title}}",
+    "summary": "",
+    "url": "{{page.url}}",
+    "date": ""
+  },
+{% endfor %}
+  false
+]

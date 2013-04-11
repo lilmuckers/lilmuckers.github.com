@@ -1,7 +1,9 @@
 /* Custom container */
 .container-narrow {
   margin: 0 auto;
-  max-width: 900px; }
+  max-width: 900px; 
+  position: relative;
+  }
 
 .container-narrow > hr {
   margin: 30px 0; }
@@ -385,4 +387,36 @@ div.post-full [class*="span"] {
 h2 small a {
   float: right;
   margin-top: 17px;
+}
+
+
+div.search-box{
+  background-image: linear-gradient(to bottom, #ffffff, #f2f2f2);
+  background-repeat: repeat-x;
+  border: 1px solid #d4d4d4;
+  position: absolute;
+  top: 40px;
+  right: 10px;
+  padding: 10px;
+  z-index: 10;
+}
+div.search-box form {
+  margin: 0;
+}
+
+ul.search-results {
+  position: absolute;
+  top: 91px;
+  right: 10px;
+  background-color: #FFFFFF;
+  z-index: 11;
+  border: 1px solid #d4d4d4;
+}
+ul.search-results li{
+  padding: 0 10px;
+  cursor: pointer;
+}
+
+ul.search-results li:hover, ul.search-results li.selected{
+  background-color: #e7e7e7;
 }
