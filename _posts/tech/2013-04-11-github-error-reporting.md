@@ -44,7 +44,7 @@ My error handler process is pretty simple, it does a few things:
 
 Pretty straightforward, really. My error handler class and full usage example depend upon my [githubber] [githubber] library  and can be found below:
 
-<script src="https://gist.github.com/lilmuckers/5362755.js"></script>
+<script src="https://gist.github.com/lilmuckers/5362755.js">   </script>
 
 ---
 
