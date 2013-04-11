@@ -5,7 +5,7 @@ title : "GitHub error reporting"
 tagline: "Logging errors on automated systems"
 tags : [github, issues, node.js, api]
 summary: "I want to log errors with my automates processes"
-image: /assets/images/posts/jekyll-pagination/header.png
+image: /assets/images/posts/github-error-reporting/header.png
 ---
 {% include JB/setup %}
 
