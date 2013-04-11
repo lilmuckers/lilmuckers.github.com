@@ -33,6 +33,10 @@
     
     <!-- jQuery-ness -->
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+    
+    {% if page.url %}
+    <link rel="canonical" href="{{site.production_url}}{{page.url}}"/>
+    {% endif %}
 
   </head>
 
