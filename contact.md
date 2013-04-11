@@ -4,6 +4,7 @@ title: Contact
 tagline: You want to talk to little old me?
 group: navigation
 header: Contact Me
+oldurl: /contact/
 ---
 {% include JB/setup %}
 

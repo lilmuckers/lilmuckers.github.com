@@ -10,6 +10,11 @@ header: 404 - Dead Link
   	  forwardLinks.push({ "old":"{{post.oldurl}}", "new":"{{post.url}}" })
   	{% endif %}
   {% endfor %}
+  {% for page in site.pages %}
+    {% if page.oldurl %}
+      forwardLinks.push({ "old":"{{page.oldurl}}", "new":"{{page.url}}" })
+    {% endif %}
+  {% endfor %}
   jQuery(function($)
   {
     //get the current pathname

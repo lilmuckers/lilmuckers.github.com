@@ -4,6 +4,7 @@ title: CV
 header: CV
 tagline: Something in latin beginning with C and V.
 group: navigation
+oldurl: /cv/
 ---
 
 ### Summary

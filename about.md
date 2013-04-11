@@ -4,6 +4,7 @@ title: About Me
 header: About Me
 tagline: Here be dragons.
 group: navigation
+oldurl: /about/
 ---
 
 I am a London-based PHP developer, with a large amount of commercial eCommerce experience from both an agency side, and from a client side, mostly concentrated on the [Magento eCommerce platform](http://www.magentocommerce.com/), currently employed by [Warner Music Group](http://www.wmg.com) in Londons delightful Kensington. For a more detailed (and drier) breakdown of my professional qualifications, head on over to my [CV](/cv.html) or [Portfolio](/#portfolio) to have a look.
