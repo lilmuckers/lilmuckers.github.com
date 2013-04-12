@@ -10,5 +10,14 @@
     "date": "{{post.date | date_to_long_string}}"
   },
 {% endfor %}
+{% for page in site.pages %}
+  {
+    "category": "",
+    "title": "{{page.title}}",
+    "summary": "",
+    "url": "{{page.url}}",
+    "date": ""
+  },
+{% endfor %}
   false
 ]
