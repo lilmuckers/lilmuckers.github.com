@@ -85,6 +85,8 @@
           success: function(data, status, response){
             if(typeof data == 'string'){
               searchHash = JSON.parse(data)
+            } else {
+              searchHash = data
             }
           }
         })
