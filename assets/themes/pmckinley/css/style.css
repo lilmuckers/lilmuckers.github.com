@@ -411,6 +411,7 @@ ul.search-results {
   background-color: #FFFFFF;
   z-index: 11;
   border: 1px solid #d4d4d4;
+  min-width: 300px;
 }
 ul.search-results li{
   padding: 0 10px;
