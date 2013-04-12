@@ -83,7 +83,9 @@
         var searchHash = []
         $.ajax('/search.json', {
           success: function(data, status, response){
-            searchHash = JSON.parse(data);
+            if(typeof data == 'string'){
+              searchHash = JSON.parse(data)
+            }
           }
         })
         
