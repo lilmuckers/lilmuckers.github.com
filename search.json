@@ -1,4 +1,5 @@
 ---
+nosearch: true
 ---
 [
 {% for post in site.posts %}
@@ -10,14 +11,14 @@
     "date": "{{post.date | date_to_long_string}}"
   },
 {% endfor %}
-{% for page in site.pages %}
+{% for page in site.pages %}{% unless page.nosearch == true %}
   {
     "category": "",
     "title": "{{page.title}}",
-    "summary": "",
+    "summary": "{{page.summary}}",
     "url": "{{page.url}}",
     "date": ""
   },
-{% endfor %}
+{% endunless %}{% endfor %}
   false
 ]
