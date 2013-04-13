@@ -3,23 +3,143 @@ layout: xbox
 title: Xbox Tracker
 tagline: "I play games, they are fun"
 group: games
-achievementcount: 1386
+achievementcount: 1401
 gamer: 
   gamertag: Lilmuckers
   avatar: 
     secure: "https://avatar-ssl.xboxlive.com/avatar/Lilmuckers/avatar-body.png"
     unsecure: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatar-body.png"
-  activity: Last seen 48 minutes ago playing Xbox Dashboard
+  activity: Last seen 11/04/2013 playing Xbox Dashboard
   picture: 
     small: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatarpic-s.png"
     large: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatarpic-l.png"
-  score: 25880
+  score: 25890
   location: Londinium
   motto: "meritocracy!"
   bio: "ARGH! BEES!"
   profile: "http://live.xbox.com/en-GB/Profile?gamertag=lilmuckers"
 gamecount: 101
 latest: 
+  - image: "https://live.xbox.com/tiles/It/DJ/0ICLiGJhbC9BFQQaXFJRF2M1L2FjaC8wLzUAAAAA5+fn-+bQOQ==.jpg"
+    name: Serpent Samaritan
+    description: Freed 40 Bound Serpents
+    score: 10
+    acquired: "2009-10-24"
+    slug: "bruetal-legend_serpent-samaritan"
+    gameSlug: "bruetal-legend"
+    scraped: "Sat Apr 13 2013 12:10:45 GMT+0100 (BST)"
+  - image: "https://live.xbox.com/tiles/qd/6V/0YCLiGJhbC9BCRsFG1lTWWM1L2FjaC8wLzM1AAAAAOfn5-663rU=.jpg"
+    name: Groupie
+    description: Completed Campaign mode on Gentle
+    score: 25
+    acquired: "2009-10-24"
+    slug: "bruetal-legend_groupie"
+    gameSlug: "bruetal-legend"
+    scraped: "Sat Apr 13 2013 12:10:45 GMT+0100 (BST)"
+  - image: "https://live.xbox.com/tiles/HN/e0/04CLiGJhbC9CCRsFG1lTWWM1L2FjaC8wLzM2AAAAAOfn5-yb1wA=.jpg"
+    name: Roadie
+    description: Completed Campaign mode on Normal
+    score: 25
+    acquired: "2009-10-24"
+    slug: "bruetal-legend_roadie"
+    gameSlug: "bruetal-legend"
+    scraped: "Sat Apr 13 2013 12:10:45 GMT+0100 (BST)"
+  - image: "https://live.xbox.com/tiles/KA/RK/0YCLiGJhbC9HCxsFG1lTWWM1L2FjaC8wLzEzAAAAAOfn5-5lBDQ=.jpg"
+    name: "I&apos;ve never touched an axe before"
+    description: "Personally smoted 300 enemies - any mode"
+    score: 30
+    acquired: "2009-10-24"
+    slug: "bruetal-legend_ive-never-touched-an-axe-before"
+    gameSlug: "bruetal-legend"
+    scraped: "Sat Apr 13 2013 12:10:45 GMT+0100 (BST)"
+  - image: "https://live.xbox.com/tiles/6y/ca/14CLiGJhbC9BCBsFG1lTWWM1L2FjaC8wLzI1AAAAAOfn5-g1J-c=.jpg"
+    name: No More Tears
+    description: "Completed &quot;Sea of Black Tears&quot;"
+    score: 15
+    acquired: "2009-10-24"
+    slug: "bruetal-legend_no-more-tears"
+    gameSlug: "bruetal-legend"
+    scraped: "Sat Apr 13 2013 12:10:45 GMT+0100 (BST)"
+  - image: "https://live.xbox.com/tiles/-G/Uz/1YCLiGJhbC8VCBsFG1lTWWM1L2FjaC8wLzJhAAAAAOfn5-ocZeA=.jpg"
+    name: Master of the Flame
+    description: Double Teamed with every Ironheade unit
+    score: 20
+    acquired: "2009-10-24"
+    slug: "bruetal-legend_master-of-the-flame"
+    gameSlug: "bruetal-legend"
+    scraped: "Sat Apr 13 2013 12:10:45 GMT+0100 (BST)"
+  - image: "https://live.xbox.com/tiles/eN/-6/1oCLiGJhbC9ACBsFG1lTWWM1L2FjaC8wLzI0AAAAAOfn5-nV32Q=.jpg"
+    name: Fistful of Fog
+    description: "Completed &quot;Dry Ice, Wet Graves&quot;"
+    score: 15
+    acquired: "2009-10-23"
+    slug: "bruetal-legend_fistful-of-fog"
+    gameSlug: "bruetal-legend"
+    scraped: "Sat Apr 13 2013 12:10:45 GMT+0100 (BST)"
+  - image: "https://live.xbox.com/tiles/gT/RY/04CLiGJhbC9HCBsFG1lTWWM1L2FjaC8wLzIzAAAAAOfn5-x3NJ0=.jpg"
+    name: Ran to the Hills
+    description: "Completed &quot;It&apos;s Raining Death&quot;"
+    score: 15
+    acquired: "2009-10-23"
+    slug: "bruetal-legend_ran-to-the-hills"
+    gameSlug: "bruetal-legend"
+    scraped: "Sat Apr 13 2013 12:10:45 GMT+0100 (BST)"
+  - image: "https://live.xbox.com/tiles/Es/y4/0oCLiGJhbC9GCBsFG1lTWWM1L2FjaC8wLzIyAAAAAOfn5-2XzA4=.jpg"
+    name: "Chicks n&apos; Booze n&apos; Stuff"
+    description: "Completed &quot;Sanctuary of Sin&quot;"
+    score: 15
+    acquired: "2009-10-23"
+    slug: "bruetal-legend_chicks-n-booze-n-stuff"
+    gameSlug: "bruetal-legend"
+    scraped: "Sat Apr 13 2013 12:10:45 GMT+0100 (BST)"
+  - image: "https://live.xbox.com/tiles/p8/WZ/0ICLiGJhbC9FCBsFG1lTWWM1L2FjaC8wLzIxAAAAAOfn5-+2xbs=.jpg"
+    name: French Kiss Instructor
+    description: "Completed &quot;Pilgrimage of Screams&quot;"
+    score: 15
+    acquired: "2009-10-22"
+    slug: "bruetal-legend_french-kiss-instructor"
+    gameSlug: "bruetal-legend"
+    scraped: "Sat Apr 13 2013 12:10:45 GMT+0100 (BST)"
+  - image: "https://live.xbox.com/tiles/ND/15/0YCLiGJhbC9ECBsFG1lTWWM1L2FjaC8wLzIwAAAAAOfn5-5WPSg=.jpg"
+    name: Hair Remover
+    description: "Completed &quot;Battle for Bladehenge&quot;"
+    score: 15
+    acquired: "2009-10-22"
+    slug: "bruetal-legend_hair-remover"
+    gameSlug: "bruetal-legend"
+    scraped: "Sat Apr 13 2013 12:10:45 GMT+0100 (BST)"
+  - image: "https://live.xbox.com/tiles/rL/6D/0oCLiGJhbC8SCxsFG1lTWWM1L2FjaC8wLzFmAAAAAOfn5-2svrA=.jpg"
+    name: "Thick as a Baby&apos;s Arm"
+    description: "Completed &quot;Lair of the Metal Queen&quot;"
+    score: 15
+    acquired: "2009-10-21"
+    slug: "bruetal-legend_thick-as-a-babys-arm"
+    gameSlug: "bruetal-legend"
+    scraped: "Sat Apr 13 2013 12:10:45 GMT+0100 (BST)"
+  - image: "https://live.xbox.com/tiles/sS/gp/0YCLiGJhbC9AFQQaXFJRF2M1L2FjaC8wLzQAAAAA5+fn-gYoqg==.jpg"
+    name: One Hit Wonder
+    description: Purchased 1 upgrade in the Motor Forge
+    score: 5
+    acquired: "2009-10-21"
+    slug: "bruetal-legend_one-hit-wonder"
+    gameSlug: "bruetal-legend"
+    scraped: "Sat Apr 13 2013 12:10:45 GMT+0100 (BST)"
+  - image: "https://live.xbox.com/tiles/Gb/ei/0ICLiGJhbC8RCxsFG1lTWWM1L2FjaC8wLzFlAAAAAOfn5-+NtwU=.jpg"
+    name: Start a Revolution
+    description: "Completed &quot;Exploited in the Bowels of Hell&quot;"
+    score: 15
+    acquired: "2009-10-21"
+    slug: "bruetal-legend_start-a-revolution"
+    gameSlug: "bruetal-legend"
+    scraped: "Sat Apr 13 2013 12:10:45 GMT+0100 (BST)"
+  - image: "https://live.xbox.com/tiles/ik/9C/0YCLiGJhbC8QCxsFG1lTWWM1L2FjaC8wLzFkAAAAAOfn5-5tT5Y=.jpg"
+    name: Got a Car and a Date
+    description: "Completed &quot;Welcome to the Age of Metal&quot;"
+    score: 15
+    acquired: "2009-10-21"
+    slug: "bruetal-legend_got-a-car-and-a-date"
+    gameSlug: "bruetal-legend"
+    scraped: "Sat Apr 13 2013 12:10:45 GMT+0100 (BST)"
   - image: "https://live.xbox.com/tiles/Jp/CD/04CLiGJhbC9DAhoEGlFTVmQxL2FjaC8wLzg3AAAAAOfn5-yskDo=.jpg"
     name: Hot Pursuit
     description: You completed 5 pursuits in the Bay Area
@@ -60,125 +180,5 @@ latest:
     slug: "defiance_individual-pursuit"
     gameSlug: defiance
     scraped: "2013-04-09T14:19:56.495Z"
-  - image: "https://live.xbox.com/tiles/33/sh/1oCLiGJhbC9EAhoEGlFTVmQxL2FjaC8wLzgwAAAAAOfn5-kOe8M=.jpg"
-    name: Arkhunting
-    description: Valuable relics from the destroyed Votan arks frequently and dangerously rain from the sky
-    score: 10
-    acquired: "2013-04-09"
-    slug: defiance_arkhunting
-    gameSlug: defiance
-    scraped: "2013-04-09T14:19:56.495Z"
-  - image: "https://live.xbox.com/tiles/an/IA/1ICLiGJhbC9HAhoEGlFTVmQxL2FjaC8wLzgzAAAAAOfn5-svcnY=.jpg"
-    name: A Friend in Need
-    description: Arkhunting can be a lonely vocation without trusted friends
-    score: 5
-    acquired: "2013-04-09"
-    slug: "defiance_a-friend-in-need"
-    gameSlug: defiance
-    scraped: "2013-04-09T14:19:56.496Z"
-  - image: "https://live.xbox.com/tiles/wO/OS/04CLiGJhbC8WDRoEGlFTVmQxL2FjaC8wLzdiAAAAAOfn5-y949w=.jpg"
-    name: Bit of an EGO
-    description: Von Bach has unlocked the secrets of EGO technology for commercial use; You are proof
-    score: 10
-    acquired: "2013-04-08"
-    slug: "defiance_bit-of-an-ego"
-    gameSlug: defiance
-    scraped: "2013-04-08T20:19:47.682Z"
-  - image: "https://live.xbox.com/tiles/de/qz/0YCLiGJhbC8VDRoEGlFTVmQxL2FjaC8wLzdhAAAAAOfn5-6c6mk=.jpg"
-    name: "Holy Shtako!"
-    description: "New Freedom has crashed, you&apos;ve made a few new friends and one of them lives inside your head"
-    score: 15
-    acquired: "2013-04-08"
-    slug: "defiance_holy-shtako"
-    gameSlug: defiance
-    scraped: "2013-04-08T20:19:47.682Z"
-  - image: "https://live.xbox.com/tiles/7D/EL/14CLiGJhbC9EAhtVGwxTWTNhL2FjaC8wLzgwAAAAAOfn5-gkMfA=.jpg"
-    name: Reach Lordran
-    description: Arrive in Lordran.
-    score: 15
-    acquired: "2013-03-17"
-    slug: "dark-souls_reach-lordran"
-    gameSlug: "dark-souls"
-    scraped: "2013-04-06T15:19:31.712Z"
-  - image: "https://live.xbox.com/tiles/v0/s7/1YCLiGJhbC8SDRtVGwxTWTNhL2FjaC8wLzdmAAAAAOfn5-oUS6M=.jpg"
-    name: Estus Flask
-    description: Acquire Estus Flask.
-    score: 15
-    acquired: "2013-03-17"
-    slug: "dark-souls_estus-flask"
-    gameSlug: "dark-souls"
-    scraped: "2013-04-02T23:11:04.120Z"
-  - image: "https://live.xbox.com/tiles/Ck/Ia/14CLiGJhbC8RDRtVGwxTWTNhL2FjaC8wLzdlAAAAAOfn5-g1QhY=.jpg"
-    name: Enkindle
-    description: Light bonfire flame.
-    score: 15
-    acquired: "2013-03-17"
-    slug: "dark-souls_enkindle"
-    gameSlug: "dark-souls"
-    scraped: "2013-04-02T23:11:04.120Z"
-  - image: "https://live.xbox.com/tiles/eN/JC/0ICLiGJhbC9MAhsCGltTVmUzL2FjaC8wLzg4AAAAAOfn5-9t0mQ=.jpg"
-    name: Dunwall in Chaos
-    description: You completed the game in high chaos
-    score: 50
-    acquired: "2013-03-13"
-    slug: "dishonored_dunwall-in-chaos"
-    gameSlug: dishonored
-    scraped: "2013-04-02T23:11:24.724Z"
-  - image: "https://live.xbox.com/tiles/uF/+5/0YCLiGJhbC8QDBsCGltTVmUzL2FjaC8wLzZkAAAAAOfn5-6WX6Q=.jpg"
-    name: Mostly Flesh and Steel
-    description: "You finished the game without purchasing any supernatural powers or enhancements, besides Blink"
-    score: 50
-    acquired: "2013-03-13"
-    slug: "dishonored_mostly-flesh-and-steel"
-    gameSlug: dishonored
-    scraped: "2013-04-02T23:11:24.724Z"
-  - image: "https://live.xbox.com/tiles/A0/2U/0oCLiGJhbC8XDRsCGltTVmUzL2FjaC8wLzdjAAAAAOfn5-27TR8=.jpg"
-    name: Art Dealer
-    description: You collected all the Sokolov paintings
-    score: 50
-    acquired: "2013-03-13"
-    slug: "dishonored_art-dealer"
-    gameSlug: dishonored
-    scraped: "2013-04-02T23:11:24.724Z"
-  - image: "https://live.xbox.com/tiles/w8/9E/0YCLiGJhbC9AAhsCGltTVmUzL2FjaC8wLzg0AAAAAOfn5-5rz98=.jpg"
-    name: Regicide
-    description: "You assassinated the Lord Regent, Hiram Burrows"
-    score: 10
-    acquired: "2013-03-10"
-    slug: dishonored_regicide
-    gameSlug: dishonored
-    scraped: "2013-04-02T23:11:24.724Z"
-  - image: "https://live.xbox.com/tiles/BY/wC/1ICLiGJhbC8VAxsCGltTVmUzL2FjaC8wLzlhAAAAAOfn5-stjBk=.jpg"
-    name: Big Boy
-    description: You killed a tallboy using only your sword
-    score: 20
-    acquired: "2013-03-10"
-    slug: "dishonored_big-boy"
-    gameSlug: dishonored
-    scraped: "2013-04-02T23:11:24.724Z"
-  - image: "https://live.xbox.com/tiles/kL/V0/04CLiGJhbC8WDRsCGltTVmUzL2FjaC8wLzdiAAAAAOfn5-xbtYw=.jpg"
-    name: Merchant of Disorder
-    description: You acquired 15 equipment upgrades
-    score: 20
-    acquired: "2013-03-10"
-    slug: "dishonored_merchant-of-disorder"
-    gameSlug: dishonored
-    scraped: "2013-04-02T23:11:24.725Z"
-  - image: "https://live.xbox.com/tiles/K6/dZ/0ICLiGJhbC8RDBsCGltTVmUzL2FjaC8wLzZlAAAAAOfn5-92pzc=.jpg"
-    name: Wall of Sparks
-    description: You killed an enemy with the Wall of Light
-    score: 10
-    acquired: "2013-03-10"
-    slug: "dishonored_wall-of-sparks"
-    gameSlug: dishonored
-    scraped: "2013-04-02T23:11:24.725Z"
-  - image: "https://live.xbox.com/tiles/C5/cO/1YCLiGJhbC8RAhsCGltTVmUzL2FjaC8wLzhlAAAAAOfn5-ohlxc=.jpg"
-    name: An Unfortunate Accident
-    description: You killed Morgan Pendleton with steam
-    score: 10
-    acquired: "2013-03-10"
-    slug: "dishonored_an-unfortunate-accident"
-    gameSlug: dishonored
-    scraped: "2013-04-02T23:11:24.725Z"
 ---
 {% include JB/setup %}
