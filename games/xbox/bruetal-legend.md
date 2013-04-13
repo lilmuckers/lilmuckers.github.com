@@ -15,7 +15,7 @@ game:
     large: "http://mktplassets.xbox.com/NR/rdonlyres/5DC07343-7535-49EA-964B-B2D939A263C3/0/cboxbrutallegend.jpg"
   lastPlayed: "2011-10-10"
   totalScore: 1090
-  score: 250
+  score: 240
   totalAchievements: 59
   achievements: []
   slug: "bruetal-legend"
