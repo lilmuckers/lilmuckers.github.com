@@ -63,13 +63,17 @@ For example, in my time i have seen good and bad and overdone namespacing in a M
 
 
 <div class="span6">
-  <h4>Good</h4>
-  <p><strong>PatrickMcKinley_Blog_Model_Post_Image_Type</strong> – You can quickly tell, just by the classname, what this class is responsible for. It is clearly a model for handling the image type on a post. This means that if there’s an issue with the code that handles the image type then you can quickly jump to the code that is causing the issue.</p>
-  <p><strong>PatrickMcKinley_Blog_Post_CommentController</strong> - Following the class naming paradigm of controllers, you can tell that this controller is for managing the comments attached to a blogpost. This doesn’t follow the usual Zend/Magento name-spacing as it is a controller, and you don’t (generally) want this to be auto-loadable.</p>
+  <div class="alert alert-block alert-success">
+    <h4>Good</h4>
+    <p><strong>PatrickMcKinley_Blog_Model_Post_Image_Type</strong> – You can quickly tell, just by the classname, what this class is responsible for. It is clearly a model for handling the image type on a post. This means that if there’s an issue with the code that handles the image type then you can quickly jump to the code that is causing the issue.</p>
+    <p><strong>PatrickMcKinley_Blog_Post_CommentController</strong> - Following the class naming paradigm of controllers, you can tell that this controller is for managing the comments attached to a blogpost. This doesn’t follow the usual Zend/Magento name-spacing as it is a controller, and you don’t (generally) want this to be auto-loadable.</p>
+  </div>
 </div>
 <div class="span6">
-  <h4>Bad</h4>
-  <p><strong>MySite_Derp_Model_Biscuit</strong> – What, pray tell, is a "derp" and what does it relate to? There’s no easy way of telling just by looking at the directory structure and the classname what this class does. Presumably it does something to do with “Biscuits” that relates to “Derp” but what exactly is that all about? I always like to think of things like this as if someone else is going to have to maintain it, even if it’s personal work, because after-all; <strong>Future You</strong> is a different person to <strong>Present You</strong>. You know it to be true, Search your feelings...</p>
+  <div class="alert alert-block alert-error">
+    <h4>Bad</h4>
+    <p><strong>MySite_Derp_Model_Biscuit</strong> – What, pray tell, is a "derp" and what does it relate to? There’s no easy way of telling just by looking at the directory structure and the classname what this class does. Presumably it does something to do with “Biscuits” that relates to “Derp” but what exactly is that all about? I always like to think of things like this as if someone else is going to have to maintain it, even if it’s personal work, because after-all; <strong>Future You</strong> is a different person to <strong>Present You</strong>. You know it to be true, Search your feelings...</p>
+  </div>
 </div>
 <div class="span12">
   <h4>In Summary...</h4>
