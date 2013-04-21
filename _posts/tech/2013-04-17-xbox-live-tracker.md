@@ -173,15 +173,20 @@ The game pages were going to require a bit more thought, as I can't really hardc
 
 ---
 ## Bringing it all together
-The best way I can think of to bring all elements of the build together in an easy to read format is with another web sequence diagram that explains all the logic that the system goes through (warning, this is pretty exhaustive):
+To view the outputted pages you can view the games volder within this sites github repository [here] [github-homepage-games].
+The best way I can think of to bring all elements of the build together in an easy to read format is with another web sequence diagram that explains all the logic that the system goes through (warning; this is pretty exhaustive):
 
 ![Full Xbox Tracker Logic](http://www.websequencediagrams.com/files/render?link=OjD4QvWLkNH8FGPqRiG2 "Full Xbox Tracker Logic")
+
+
 
 ---
 ## Conclusion
 This was actually a really fun and interesting project to work on, and i can only hope I explained something in an understandable way. I've gone into the main challenges that I worked through, along with a sequence diagram to explain the full logic on how the system works, and hopefully that is understandable.
 It turns out that using the GitHub API and making sure my Jekyll site can be compiled by GitHub Pages itself means that I can add some really nice bits of "dynamic" functionality to my site without having to worry about backend code securities, or even hosting. Plus it means that *everything* on my site is versioned, including all the achievement updates I get.
 This means GitHub can tell my how much time i'm spending on my Xbox, so I can feel guilty when I see it on day to day work hours...
+
+
 
 [xbox-tracker]: /games/xbox.html "Xbox Live Achievement Tracker"
 [nodejs]: http://nodejs.org/ "Node.js"
@@ -197,3 +202,4 @@ This means GitHub can tell my how much time i'm spending on my Xbox, so I can fe
 [github-get-contents]: http://developer.github.com/v3/repos/contents/#get-contents "GitHub Get Contents API Call"
 [github-tree-recursive]: http://developer.github.com/v3/git/trees/#get-a-tree-recursively "GitHub Get Tree Recursively"
 [jekyll-bootstrap]: http://jekyllbootstrap.com/ "Jekyll Bootstrap"
+[github-homepage-games]: https://github.com/lilmuckers/lilmuckers.github.com/tree/master/games "My Games Folder"
