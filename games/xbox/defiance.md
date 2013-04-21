@@ -4,7 +4,7 @@ title: "Defiance&trade;"
 showPage: true
 tagline: ""
 group: xboxgame
-weight: 100
+weight: 101
 game: 
   name: Defiance
   gameId: 1415120849
@@ -13,11 +13,19 @@ game:
   boxart: 
     small: "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545907d1/1033/boxartsm.jpg"
     large: "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545907d1/1033/boxartlg.jpg"
-  lastPlayed: "2013-04-10"
+  lastPlayed: "2013-04-21"
   totalScore: 1000
-  score: 110
+  score: 140
   totalAchievements: 50
   achievements: 
+    - image: "https://live.xbox.com/tiles/W8/Ho/1YCLiGJhbC8RAhoEGlFTVmQxL2FjaC8wLzhlAAAAAOfn5-rHwUc=.jpg"
+      name: "Yeeeeeeehaaaaawww!"
+      description: "It would be more impressive if you did it in a single jump&hellip;"
+      score: 30
+      acquired: "2013-04-21"
+      slug: defiance_yeeeeeeehaaaaawww
+      gameSlug: defiance
+      scraped: "Sun Apr 21 2013 21:56:38 GMT+0100 (BST)"
     - image: "https://live.xbox.com/tiles/Jp/CD/04CLiGJhbC9DAhoEGlFTVmQxL2FjaC8wLzg3AAAAAOfn5-yskDo=.jpg"
       name: Hot Pursuit
       description: You completed 5 pursuits in the Bay Area
