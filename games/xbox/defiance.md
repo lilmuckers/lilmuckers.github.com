@@ -15,9 +15,17 @@ game:
     large: "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545907d1/1033/boxartlg.jpg"
   lastPlayed: "2013-04-21"
   totalScore: 1000
-  score: 140
+  score: 155
   totalAchievements: 50
   achievements: 
+    - image: "https://live.xbox.com/tiles/43/JF/04CLiGJhbC9HDxoEGlFTVmQxL2FjaC8wLzUzAAAAAOfn5-xqcv8=.jpg"
+      name: Wrong Hands
+      description: "Cooper and Ara are good people and you&apos;ll need them now that Dark Matter has the Matrix"
+      score: 15
+      acquired: "2013-04-21"
+      slug: "defiance_wrong-hands"
+      gameSlug: defiance
+      scraped: "Sun Apr 21 2013 23:00:50 GMT+0100 (BST)"
     - image: "https://live.xbox.com/tiles/W8/Ho/1YCLiGJhbC8RAhoEGlFTVmQxL2FjaC8wLzhlAAAAAOfn5-rHwUc=.jpg"
       name: "Yeeeeeeehaaaaawww!"
       description: "It would be more impressive if you did it in a single jump&hellip;"

@@ -3,23 +3,31 @@ layout: xbox
 title: Xbox Tracker
 tagline: "I play games, they are fun"
 group: games
-achievementcount: 1402
+achievementcount: 1403
 gamer: 
   gamertag: Lilmuckers
   avatar: 
     secure: "https://avatar-ssl.xboxlive.com/avatar/Lilmuckers/avatar-body.png"
     unsecure: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatar-body.png"
-  activity: "Online playing Defiance - Exploring Paradise"
+  activity: Last seen 18 minutes ago playing Defiance
   picture: 
     small: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatarpic-s.png"
     large: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatarpic-l.png"
-  score: 25920
+  score: 25935
   location: Londinium
   motto: "meritocracy!"
   bio: "ARGH! BEES!"
   profile: "http://live.xbox.com/en-GB/Profile?gamertag=lilmuckers"
 gamecount: 102
 latest: 
+  - image: "https://live.xbox.com/tiles/43/JF/04CLiGJhbC9HDxoEGlFTVmQxL2FjaC8wLzUzAAAAAOfn5-xqcv8=.jpg"
+    name: Wrong Hands
+    description: "Cooper and Ara are good people and you&apos;ll need them now that Dark Matter has the Matrix"
+    score: 15
+    acquired: "2013-04-21"
+    slug: "defiance_wrong-hands"
+    gameSlug: defiance
+    scraped: "Sun Apr 21 2013 23:00:50 GMT+0100 (BST)"
   - image: "https://live.xbox.com/tiles/W8/Ho/1YCLiGJhbC8RAhoEGlFTVmQxL2FjaC8wLzhlAAAAAOfn5-rHwUc=.jpg"
     name: "Yeeeeeeehaaaaawww!"
     description: "It would be more impressive if you did it in a single jump&hellip;"
@@ -170,14 +178,6 @@ latest:
     score: 20
     acquired: "2013-03-10"
     slug: "dishonored_merchant-of-disorder"
-    gameSlug: dishonored
-    scraped: "2013-04-02T23:11:24.725Z"
-  - image: "https://live.xbox.com/tiles/K6/dZ/0ICLiGJhbC8RDBsCGltTVmUzL2FjaC8wLzZlAAAAAOfn5-92pzc=.jpg"
-    name: Wall of Sparks
-    description: You killed an enemy with the Wall of Light
-    score: 10
-    acquired: "2013-03-10"
-    slug: "dishonored_wall-of-sparks"
     gameSlug: dishonored
     scraped: "2013-04-02T23:11:24.725Z"
 ---
