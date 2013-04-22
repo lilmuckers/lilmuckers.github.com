@@ -15,9 +15,17 @@ game:
     large: "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545907d1/1033/boxartlg.jpg"
   lastPlayed: "2013-04-22"
   totalScore: 1000
-  score: 205
+  score: 220
   totalAchievements: 50
   achievements: 
+    - image: "https://live.xbox.com/tiles/Mn/wB/1oCLiGJhbC9NDxoEGlFTVmQxL2FjaC8wLzU5AAAAAOfn5-kufC4=.jpg"
+      name: Overdosing
+      description: Piercer needed an intervention
+      score: 15
+      acquired: "2013-04-23"
+      slug: defiance_overdosing
+      gameSlug: defiance
+      scraped: "Tue Apr 23 2013 00:16:10 GMT+0100 (BST)"
     - image: "https://live.xbox.com/tiles/KI/Sk/0ICLiGJhbC9MAhoEGlFTVmQxL2FjaC8wLzg4AAAAAOfn5-+LhDQ=.jpg"
       name: Pursuit of Happiness
       description: You completed 10 pursuits in the Bay Area

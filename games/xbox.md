@@ -3,23 +3,31 @@ layout: xbox
 title: Xbox Tracker
 tagline: "I play games, they are fun"
 group: games
-achievementcount: 1405
+achievementcount: 1406
 gamer: 
   gamertag: Lilmuckers
   avatar: 
     secure: "https://avatar-ssl.xboxlive.com/avatar/Lilmuckers/avatar-body.png"
     unsecure: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatar-body.png"
-  activity: "Online playing Defiance - In Menus"
+  activity: Online playing Xbox Dashboard
   picture: 
     small: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatarpic-s.png"
     large: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatarpic-l.png"
-  score: 25985
+  score: 26000
   location: Londinium
   motto: "meritocracy!"
   bio: "ARGH! BEES!"
   profile: "http://live.xbox.com/en-GB/Profile?gamertag=lilmuckers"
 gamecount: 102
 latest: 
+  - image: "https://live.xbox.com/tiles/Mn/wB/1oCLiGJhbC9NDxoEGlFTVmQxL2FjaC8wLzU5AAAAAOfn5-kufC4=.jpg"
+    name: Overdosing
+    description: Piercer needed an intervention
+    score: 15
+    acquired: "2013-04-23"
+    slug: defiance_overdosing
+    gameSlug: defiance
+    scraped: "Tue Apr 23 2013 00:16:10 GMT+0100 (BST)"
   - image: "https://live.xbox.com/tiles/KI/Sk/0ICLiGJhbC9MAhoEGlFTVmQxL2FjaC8wLzg4AAAAAOfn5-+LhDQ=.jpg"
     name: Pursuit of Happiness
     description: You completed 10 pursuits in the Bay Area
@@ -170,14 +178,6 @@ latest:
     score: 50
     acquired: "2013-03-13"
     slug: "dishonored_art-dealer"
-    gameSlug: dishonored
-    scraped: "2013-04-02T23:11:24.724Z"
-  - image: "https://live.xbox.com/tiles/w8/9E/0YCLiGJhbC9AAhsCGltTVmUzL2FjaC8wLzg0AAAAAOfn5-5rz98=.jpg"
-    name: Regicide
-    description: "You assassinated the Lord Regent, Hiram Burrows"
-    score: 10
-    acquired: "2013-03-10"
-    slug: dishonored_regicide
     gameSlug: dishonored
     scraped: "2013-04-02T23:11:24.724Z"
 ---
