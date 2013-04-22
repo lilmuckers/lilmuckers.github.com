@@ -4,7 +4,7 @@ title: "Warhammer&reg; 40,000&reg;: Space Marine&reg;"
 showPage: true
 tagline: ""
 group: xboxgame
-weight: 69
+weight: 68
 game: 
   name: Space Marine
   gameId: 1414596652

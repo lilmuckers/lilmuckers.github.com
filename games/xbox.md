@@ -3,23 +3,39 @@ layout: xbox
 title: Xbox Tracker
 tagline: "I play games, they are fun"
 group: games
-achievementcount: 1403
+achievementcount: 1405
 gamer: 
   gamertag: Lilmuckers
   avatar: 
     secure: "https://avatar-ssl.xboxlive.com/avatar/Lilmuckers/avatar-body.png"
     unsecure: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatar-body.png"
-  activity: Last seen 18 minutes ago playing Defiance
+  activity: "Online playing Defiance - In Menus"
   picture: 
     small: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatarpic-s.png"
     large: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatarpic-l.png"
-  score: 25935
+  score: 25985
   location: Londinium
   motto: "meritocracy!"
   bio: "ARGH! BEES!"
   profile: "http://live.xbox.com/en-GB/Profile?gamertag=lilmuckers"
 gamecount: 102
 latest: 
+  - image: "https://live.xbox.com/tiles/KI/Sk/0ICLiGJhbC9MAhoEGlFTVmQxL2FjaC8wLzg4AAAAAOfn5-+LhDQ=.jpg"
+    name: Pursuit of Happiness
+    description: You completed 10 pursuits in the Bay Area
+    score: 15
+    acquired: "2013-04-22"
+    slug: "defiance_pursuit-of-happiness"
+    gameSlug: defiance
+    scraped: "Mon Apr 22 2013 21:06:04 GMT+0100 (BST)"
+  - image: "https://live.xbox.com/tiles/7s/jJ/14CLiGJhbC8SAhoEGlFTVmQxL2FjaC8wLzhmAAAAAOfn5-jmyPI=.jpg"
+    name: Good Cardio
+    description: "Sure, it&rsquo;s fun.&nbsp; But swimming&rsquo;s not the most effective means of travel&hellip;"
+    score: 35
+    acquired: "2013-04-22"
+    slug: "defiance_good-cardio"
+    gameSlug: defiance
+    scraped: "Mon Apr 22 2013 21:06:04 GMT+0100 (BST)"
   - image: "https://live.xbox.com/tiles/43/JF/04CLiGJhbC9HDxoEGlFTVmQxL2FjaC8wLzUzAAAAAOfn5-xqcv8=.jpg"
     name: Wrong Hands
     description: "Cooper and Ara are good people and you&apos;ll need them now that Dark Matter has the Matrix"
@@ -164,21 +180,5 @@ latest:
     slug: dishonored_regicide
     gameSlug: dishonored
     scraped: "2013-04-02T23:11:24.724Z"
-  - image: "https://live.xbox.com/tiles/BY/wC/1ICLiGJhbC8VAxsCGltTVmUzL2FjaC8wLzlhAAAAAOfn5-stjBk=.jpg"
-    name: Big Boy
-    description: You killed a tallboy using only your sword
-    score: 20
-    acquired: "2013-03-10"
-    slug: "dishonored_big-boy"
-    gameSlug: dishonored
-    scraped: "2013-04-02T23:11:24.724Z"
-  - image: "https://live.xbox.com/tiles/kL/V0/04CLiGJhbC8WDRsCGltTVmUzL2FjaC8wLzdiAAAAAOfn5-xbtYw=.jpg"
-    name: Merchant of Disorder
-    description: You acquired 15 equipment upgrades
-    score: 20
-    acquired: "2013-03-10"
-    slug: "dishonored_merchant-of-disorder"
-    gameSlug: dishonored
-    scraped: "2013-04-02T23:11:24.725Z"
 ---
 {% include JB/setup %}

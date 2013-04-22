@@ -1,10 +1,10 @@
 ---
 layout: xboxgame
-title: "Kinect PlayFit"
+title: Kinect PlayFit
 showPage: true
 tagline: ""
 group: xboxgame
-weight: 76
+weight: 75
 game: 
   name: Kinect PlayFit
   gameId: 1481115753
@@ -19,7 +19,7 @@ game:
   totalAchievements: 20
   achievements: []
   slug: "kinect-playfit"
-  title: "Kinect PlayFit"
+  title: Kinect PlayFit
   description: null
   rating: null
   ratingImages: []

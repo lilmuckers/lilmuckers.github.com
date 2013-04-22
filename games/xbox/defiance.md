@@ -13,11 +13,27 @@ game:
   boxart: 
     small: "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545907d1/1033/boxartsm.jpg"
     large: "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545907d1/1033/boxartlg.jpg"
-  lastPlayed: "2013-04-21"
+  lastPlayed: "2013-04-22"
   totalScore: 1000
-  score: 155
+  score: 205
   totalAchievements: 50
   achievements: 
+    - image: "https://live.xbox.com/tiles/KI/Sk/0ICLiGJhbC9MAhoEGlFTVmQxL2FjaC8wLzg4AAAAAOfn5-+LhDQ=.jpg"
+      name: Pursuit of Happiness
+      description: You completed 10 pursuits in the Bay Area
+      score: 15
+      acquired: "2013-04-22"
+      slug: "defiance_pursuit-of-happiness"
+      gameSlug: defiance
+      scraped: "Mon Apr 22 2013 21:06:04 GMT+0100 (BST)"
+    - image: "https://live.xbox.com/tiles/7s/jJ/14CLiGJhbC8SAhoEGlFTVmQxL2FjaC8wLzhmAAAAAOfn5-jmyPI=.jpg"
+      name: Good Cardio
+      description: "Sure, it&rsquo;s fun.&nbsp; But swimming&rsquo;s not the most effective means of travel&hellip;"
+      score: 35
+      acquired: "2013-04-22"
+      slug: "defiance_good-cardio"
+      gameSlug: defiance
+      scraped: "Mon Apr 22 2013 21:06:04 GMT+0100 (BST)"
     - image: "https://live.xbox.com/tiles/43/JF/04CLiGJhbC9HDxoEGlFTVmQxL2FjaC8wLzUzAAAAAOfn5-xqcv8=.jpg"
       name: Wrong Hands
       description: "Cooper and Ara are good people and you&apos;ll need them now that Dark Matter has the Matrix"

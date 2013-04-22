@@ -4,7 +4,7 @@ title: "LEGO Pirates of the Caribbean: The Video Game"
 showPage: true
 tagline: ""
 group: xboxgame
-weight: 57
+weight: 56
 game: 
   name: "LEGO&reg; Pirates"
   gameId: 1112934402

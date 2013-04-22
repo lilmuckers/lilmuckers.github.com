@@ -4,7 +4,7 @@ title: Sonic Generations
 showPage: true
 tagline: ""
 group: xboxgame
-weight: 56
+weight: 55
 game: 
   name: SONIC GENERATIONS
   gameId: 1397033032

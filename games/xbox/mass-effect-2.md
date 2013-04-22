@@ -4,7 +4,7 @@ title: Mass Effect 2
 showPage: true
 tagline: ""
 group: xboxgame
-weight: 72
+weight: 71
 game: 
   name: Mass Effect 2
   gameId: 1161889998

@@ -4,7 +4,7 @@ title: "Saints Row&reg;: The Third&trade;"
 showPage: true
 tagline: ""
 group: xboxgame
-weight: 55
+weight: 54
 game: 
   name: "Saints Row: The Third"
   gameId: 1414596717
