@@ -3,23 +3,31 @@ layout: xbox
 title: Xbox Tracker
 tagline: "I play games, they are fun"
 group: games
-achievementcount: 1406
+achievementcount: 1407
 gamer: 
   gamertag: Lilmuckers
   avatar: 
     secure: "https://avatar-ssl.xboxlive.com/avatar/Lilmuckers/avatar-body.png"
     unsecure: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatar-body.png"
-  activity: Online playing Xbox Dashboard
+  activity: "Online playing FEZ - Exploring!\n(0 cubes)"
   picture: 
     small: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatarpic-s.png"
     large: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatarpic-l.png"
-  score: 26000
+  score: 26015
   location: Londinium
   motto: "meritocracy!"
   bio: "ARGH! BEES!"
   profile: "http://live.xbox.com/en-GB/Profile?gamertag=lilmuckers"
-gamecount: 102
+gamecount: 103
 latest: 
+  - image: "https://live.xbox.com/tiles/u3/xE/0YCLiGJhbC9NAhoEGlFTVmQxL2FjaC8wLzg5AAAAAOfn5-5rfKc=.jpg"
+    name: High Speed Pursuit
+    description: You completed 15 pursuits in the Bay Area
+    score: 15
+    acquired: "2013-04-23"
+    slug: "defiance_high-speed-pursuit"
+    gameSlug: defiance
+    scraped: "Tue Apr 23 2013 23:26:23 GMT+0100 (BST)"
   - image: "https://live.xbox.com/tiles/Mn/wB/1oCLiGJhbC9NDxoEGlFTVmQxL2FjaC8wLzU5AAAAAOfn5-kufC4=.jpg"
     name: Overdosing
     description: Piercer needed an intervention
@@ -170,14 +178,6 @@ latest:
     score: 50
     acquired: "2013-03-13"
     slug: "dishonored_mostly-flesh-and-steel"
-    gameSlug: dishonored
-    scraped: "2013-04-02T23:11:24.724Z"
-  - image: "https://live.xbox.com/tiles/A0/2U/0oCLiGJhbC8XDRsCGltTVmUzL2FjaC8wLzdjAAAAAOfn5-27TR8=.jpg"
-    name: Art Dealer
-    description: You collected all the Sokolov paintings
-    score: 50
-    acquired: "2013-03-13"
-    slug: "dishonored_art-dealer"
     gameSlug: dishonored
     scraped: "2013-04-02T23:11:24.724Z"
 ---

@@ -4,7 +4,7 @@ title: "Dark Souls&trade;"
 showPage: true
 tagline: ""
 group: xboxgame
-weight: 98
+weight: 97
 game: 
   name: DARK SOULS
   gameId: 1313671226
