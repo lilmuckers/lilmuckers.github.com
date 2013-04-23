@@ -3,23 +3,31 @@ layout: xbox
 title: Xbox Tracker
 tagline: "I play games, they are fun"
 group: games
-achievementcount: 1407
+achievementcount: 1408
 gamer: 
   gamertag: Lilmuckers
   avatar: 
     secure: "https://avatar-ssl.xboxlive.com/avatar/Lilmuckers/avatar-body.png"
     unsecure: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatar-body.png"
-  activity: "Online playing FEZ - Exploring!\n(0 cubes)"
+  activity: Last seen 2 minutes ago playing Xbox Dashboard
   picture: 
     small: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatarpic-s.png"
     large: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatarpic-l.png"
-  score: 26015
+  score: 26025
   location: Londinium
   motto: "meritocracy!"
   bio: "ARGH! BEES!"
   profile: "http://live.xbox.com/en-GB/Profile?gamertag=lilmuckers"
 gamecount: 103
 latest: 
+  - image: "https://live.xbox.com/tiles/9P/ik/0YCLiGJhbC9GFQUXXFJRFmMwL2FjaC8wLzIAAAAA5+fn-ov47w==.jpg"
+    name: Get a cube
+    description: "Cube GET!"
+    score: 10
+    acquired: "2013-04-24"
+    slug: "fez_get-a-cube"
+    gameSlug: fez
+    scraped: "Wed Apr 24 2013 00:26:04 GMT+0100 (BST)"
   - image: "https://live.xbox.com/tiles/u3/xE/0YCLiGJhbC9NAhoEGlFTVmQxL2FjaC8wLzg5AAAAAOfn5-5rfKc=.jpg"
     name: High Speed Pursuit
     description: You completed 15 pursuits in the Bay Area
@@ -170,14 +178,6 @@ latest:
     score: 50
     acquired: "2013-03-13"
     slug: "dishonored_dunwall-in-chaos"
-    gameSlug: dishonored
-    scraped: "2013-04-02T23:11:24.724Z"
-  - image: "https://live.xbox.com/tiles/uF/+5/0YCLiGJhbC8QDBsCGltTVmUzL2FjaC8wLzZkAAAAAOfn5-6WX6Q=.jpg"
-    name: Mostly Flesh and Steel
-    description: "You finished the game without purchasing any supernatural powers or enhancements, besides Blink"
-    score: 50
-    acquired: "2013-03-13"
-    slug: "dishonored_mostly-flesh-and-steel"
     gameSlug: dishonored
     scraped: "2013-04-02T23:11:24.724Z"
 ---

@@ -15,9 +15,17 @@ game:
     large: "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109c0/1033/boxartlg.jpg"
   lastPlayed: "2013-04-23"
   totalScore: 200
-  score: 0
+  score: 10
   totalAchievements: 12
-  achievements: []
+  achievements: 
+    - image: "https://live.xbox.com/tiles/9P/ik/0YCLiGJhbC9GFQUXXFJRFmMwL2FjaC8wLzIAAAAA5+fn-ov47w==.jpg"
+      name: Get a cube
+      description: "Cube GET!"
+      score: 10
+      acquired: "2013-04-24"
+      slug: "fez_get-a-cube"
+      gameSlug: fez
+      scraped: "Wed Apr 24 2013 00:26:04 GMT+0100 (BST)"
   slug: fez
   title: Fez
   description: "Gomez is a 2D creature living in a 2D world. Or is he? When the existence of a  mysterious 3rd dimension is revealed to him, Gomez is sent out on a journey that will take him to the very end of time and space. Use your ability to navigate 3D structures from 4 distinct classic 2D perspectives. Explore a serene and beautiful open-ended world full of secrets, puzzles and hidden treasures. Unearth the mysteries of the past and discover the truth about reality and perception. Change your perspective and look at the world in a different way."
