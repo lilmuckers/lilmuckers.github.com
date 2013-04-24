@@ -17,7 +17,7 @@ nosearch: true
     "title": "{{page.title}}",
     "summary": "{{page.summary}}",
     "url": "{{page.url}}",{% if page.game.lastPlayed %}
-    "date": "{{page.game.lastPlayed | | date: "%d %B %Y"}}"{% else %}
+    "date": "Last Played {{page.game.lastPlayed | | date: "%d %B %Y"}}"{% else %}
     "date": ""{% endif %}
   },
 {% endunless %}{% endfor %}
