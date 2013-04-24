@@ -3,23 +3,31 @@ layout: xbox
 title: Xbox Tracker
 tagline: "I play games, they are fun"
 group: games
-achievementcount: 1408
+achievementcount: 1409
 gamer: 
   gamertag: Lilmuckers
   avatar: 
     secure: "https://avatar-ssl.xboxlive.com/avatar/Lilmuckers/avatar-body.png"
     unsecure: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatar-body.png"
-  activity: Last seen 2 minutes ago playing Xbox Dashboard
+  activity: Last seen 39 minutes ago playing Xbox Dashboard
   picture: 
     small: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatarpic-s.png"
     large: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatarpic-l.png"
-  score: 26025
+  score: 26040
   location: Londinium
   motto: "meritocracy!"
   bio: "ARGH! BEES!"
   profile: "http://live.xbox.com/en-GB/Profile?gamertag=lilmuckers"
 gamecount: 103
 latest: 
+  - image: "https://live.xbox.com/tiles/43/1u/0YCLiGJhbC9MDhoEGlFTVmQxL2FjaC8wLzQ4AAAAAOfn5-5Bff8=.jpg"
+    name: Save Your Ganchis
+    description: That darn Varus
+    score: 15
+    acquired: "2013-04-24"
+    slug: "defiance_save-your-ganchis"
+    gameSlug: defiance
+    scraped: "Wed Apr 24 2013 21:51:17 GMT+0100 (BST)"
   - image: "https://live.xbox.com/tiles/9P/ik/0YCLiGJhbC9GFQUXXFJRFmMwL2FjaC8wLzIAAAAA5+fn-ov47w==.jpg"
     name: Get a cube
     description: "Cube GET!"
@@ -172,13 +180,5 @@ latest:
     slug: "dark-souls_enkindle"
     gameSlug: "dark-souls"
     scraped: "2013-04-02T23:11:04.120Z"
-  - image: "https://live.xbox.com/tiles/eN/JC/0ICLiGJhbC9MAhsCGltTVmUzL2FjaC8wLzg4AAAAAOfn5-9t0mQ=.jpg"
-    name: Dunwall in Chaos
-    description: You completed the game in high chaos
-    score: 50
-    acquired: "2013-03-13"
-    slug: "dishonored_dunwall-in-chaos"
-    gameSlug: dishonored
-    scraped: "2013-04-02T23:11:24.724Z"
 ---
 {% include JB/setup %}
