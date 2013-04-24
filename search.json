@@ -16,12 +16,9 @@ nosearch: true
     "category": "",
     "title": "{{page.title}}",
     "summary": "{{page.summary}}",
-    "url": "{{page.url}}",
-    {% if page.game.lastPlayed %}
-    "date": "{{page.game.lastPlayed}}"
-    {% else %}
-    "date": ""
-    {% endif %}
+    "url": "{{page.url}}",{% if page.game.lastPlayed %}
+    "date": "{{page.game.lastPlayed | date_to_long_string}}"{% else %}
+    "date": ""{% endif %}
   },
 {% endunless %}{% endfor %}
   false
