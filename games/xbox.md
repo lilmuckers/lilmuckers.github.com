@@ -3,23 +3,31 @@ layout: xbox
 title: Xbox Tracker
 tagline: "I play games, they are fun"
 group: games
-achievementcount: 1411
+achievementcount: 1412
 gamer: 
   gamertag: Lilmuckers
   avatar: 
     secure: "https://avatar-ssl.xboxlive.com/avatar/Lilmuckers/avatar-body.png"
     unsecure: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatar-body.png"
-  activity: "Online playing Defiance - Exploring Paradise"
+  activity: Online playing Xbox Dashboard
   picture: 
     small: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatarpic-s.png"
     large: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatarpic-l.png"
-  score: 26070
+  score: 26085
   location: Londinium
   motto: "meritocracy!"
   bio: "ARGH! BEES!"
   profile: "http://live.xbox.com/en-GB/Profile?gamertag=lilmuckers"
 gamecount: 103
 latest: 
+  - image: "https://live.xbox.com/tiles/6A/lf/0YCLiGJhbC8QDBoEGlFTVmQxL2FjaC8wLzZkAAAAAOfn5-5wCfQ=.jpg"
+    name: Broom Closet
+    description: Varus killed a monster
+    score: 15
+    acquired: "2013-04-26"
+    slug: "defiance_broom-closet"
+    gameSlug: defiance
+    scraped: "Thu Apr 25 2013 23:56:42 GMT+0100 (BST)"
   - image: "https://live.xbox.com/tiles/2b/Wc/0oCLiGJhbC9NDRoEGlFTVmQxL2FjaC8wLzc5AAAAAOfn5-2ztcU=.jpg"
     name: Executive Wash Room
     description: "On the cutting edge, Von Bach Industries is one of the few corporations with truly global reach"
@@ -172,13 +180,5 @@ latest:
     slug: "defiance_holy-shtako"
     gameSlug: defiance
     scraped: "2013-04-08T20:19:47.682Z"
-  - image: "https://live.xbox.com/tiles/7D/EL/14CLiGJhbC9EAhtVGwxTWTNhL2FjaC8wLzgwAAAAAOfn5-gkMfA=.jpg"
-    name: Reach Lordran
-    description: Arrive in Lordran.
-    score: 15
-    acquired: "2013-03-17"
-    slug: "dark-souls_reach-lordran"
-    gameSlug: "dark-souls"
-    scraped: "2013-04-06T15:19:31.712Z"
 ---
 {% include JB/setup %}

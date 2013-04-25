@@ -15,9 +15,17 @@ game:
     large: "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545907d1/1033/boxartlg.jpg"
   lastPlayed: "2013-04-25"
   totalScore: 1000
-  score: 280
+  score: 295
   totalAchievements: 50
   achievements: 
+    - image: "https://live.xbox.com/tiles/6A/lf/0YCLiGJhbC8QDBoEGlFTVmQxL2FjaC8wLzZkAAAAAOfn5-5wCfQ=.jpg"
+      name: Broom Closet
+      description: Varus killed a monster
+      score: 15
+      acquired: "2013-04-26"
+      slug: "defiance_broom-closet"
+      gameSlug: defiance
+      scraped: "Thu Apr 25 2013 23:56:42 GMT+0100 (BST)"
     - image: "https://live.xbox.com/tiles/2b/Wc/0oCLiGJhbC9NDRoEGlFTVmQxL2FjaC8wLzc5AAAAAOfn5-2ztcU=.jpg"
       name: Executive Wash Room
       description: "On the cutting edge, Von Bach Industries is one of the few corporations with truly global reach"
