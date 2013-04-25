@@ -3,23 +3,39 @@ layout: xbox
 title: Xbox Tracker
 tagline: "I play games, they are fun"
 group: games
-achievementcount: 1409
+achievementcount: 1411
 gamer: 
   gamertag: Lilmuckers
   avatar: 
     secure: "https://avatar-ssl.xboxlive.com/avatar/Lilmuckers/avatar-body.png"
     unsecure: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatar-body.png"
-  activity: Last seen 39 minutes ago playing Xbox Dashboard
+  activity: "Online playing Defiance - Exploring Paradise"
   picture: 
     small: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatarpic-s.png"
     large: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatarpic-l.png"
-  score: 26040
+  score: 26070
   location: Londinium
   motto: "meritocracy!"
   bio: "ARGH! BEES!"
   profile: "http://live.xbox.com/en-GB/Profile?gamertag=lilmuckers"
 gamecount: 103
 latest: 
+  - image: "https://live.xbox.com/tiles/2b/Wc/0oCLiGJhbC9NDRoEGlFTVmQxL2FjaC8wLzc5AAAAAOfn5-2ztcU=.jpg"
+    name: Executive Wash Room
+    description: "On the cutting edge, Von Bach Industries is one of the few corporations with truly global reach"
+    score: 15
+    acquired: "2013-04-25"
+    slug: "defiance_executive-wash-room"
+    gameSlug: defiance
+    scraped: "Thu Apr 25 2013 23:01:22 GMT+0100 (BST)"
+  - image: "https://live.xbox.com/tiles/Ux/ty/0oCLiGJhbC8XDRoEGlFTVmQxL2FjaC8wLzdjAAAAAOfn5-1dG08=.jpg"
+    name: Powerful EGO
+    description: "EGO integrates at the genetic level, boosting the capabilities of the host beyond natural limits"
+    score: 15
+    acquired: "2013-04-25"
+    slug: "defiance_powerful-ego"
+    gameSlug: defiance
+    scraped: "Thu Apr 25 2013 23:01:22 GMT+0100 (BST)"
   - image: "https://live.xbox.com/tiles/43/1u/0YCLiGJhbC9MDhoEGlFTVmQxL2FjaC8wLzQ4AAAAAOfn5-5Bff8=.jpg"
     name: Save Your Ganchis
     description: That darn Varus
@@ -164,21 +180,5 @@ latest:
     slug: "dark-souls_reach-lordran"
     gameSlug: "dark-souls"
     scraped: "2013-04-06T15:19:31.712Z"
-  - image: "https://live.xbox.com/tiles/v0/s7/1YCLiGJhbC8SDRtVGwxTWTNhL2FjaC8wLzdmAAAAAOfn5-oUS6M=.jpg"
-    name: Estus Flask
-    description: Acquire Estus Flask.
-    score: 15
-    acquired: "2013-03-17"
-    slug: "dark-souls_estus-flask"
-    gameSlug: "dark-souls"
-    scraped: "2013-04-02T23:11:04.120Z"
-  - image: "https://live.xbox.com/tiles/Ck/Ia/14CLiGJhbC8RDRtVGwxTWTNhL2FjaC8wLzdlAAAAAOfn5-g1QhY=.jpg"
-    name: Enkindle
-    description: Light bonfire flame.
-    score: 15
-    acquired: "2013-03-17"
-    slug: "dark-souls_enkindle"
-    gameSlug: "dark-souls"
-    scraped: "2013-04-02T23:11:04.120Z"
 ---
 {% include JB/setup %}

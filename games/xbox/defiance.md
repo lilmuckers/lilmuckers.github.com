@@ -13,11 +13,27 @@ game:
   boxart: 
     small: "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545907d1/1033/boxartsm.jpg"
     large: "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545907d1/1033/boxartlg.jpg"
-  lastPlayed: "2013-04-24"
+  lastPlayed: "2013-04-25"
   totalScore: 1000
-  score: 250
+  score: 280
   totalAchievements: 50
   achievements: 
+    - image: "https://live.xbox.com/tiles/2b/Wc/0oCLiGJhbC9NDRoEGlFTVmQxL2FjaC8wLzc5AAAAAOfn5-2ztcU=.jpg"
+      name: Executive Wash Room
+      description: "On the cutting edge, Von Bach Industries is one of the few corporations with truly global reach"
+      score: 15
+      acquired: "2013-04-25"
+      slug: "defiance_executive-wash-room"
+      gameSlug: defiance
+      scraped: "Thu Apr 25 2013 23:01:22 GMT+0100 (BST)"
+    - image: "https://live.xbox.com/tiles/Ux/ty/0oCLiGJhbC8XDRoEGlFTVmQxL2FjaC8wLzdjAAAAAOfn5-1dG08=.jpg"
+      name: Powerful EGO
+      description: "EGO integrates at the genetic level, boosting the capabilities of the host beyond natural limits"
+      score: 15
+      acquired: "2013-04-25"
+      slug: "defiance_powerful-ego"
+      gameSlug: defiance
+      scraped: "Thu Apr 25 2013 23:01:22 GMT+0100 (BST)"
     - image: "https://live.xbox.com/tiles/43/1u/0YCLiGJhbC9MDhoEGlFTVmQxL2FjaC8wLzQ4AAAAAOfn5-5Bff8=.jpg"
       name: Save Your Ganchis
       description: That darn Varus
