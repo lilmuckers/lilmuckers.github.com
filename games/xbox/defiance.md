@@ -4,7 +4,7 @@ title: "Defiance&trade;"
 showPage: true
 tagline: ""
 group: xboxgame
-weight: 102
+weight: 101
 game: 
   name: Defiance
   gameId: 1415120849
@@ -191,5 +191,6 @@ game:
     - "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545907d1/1033/screenlg4.jpg"
     - "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545907d1/1033/screenlg5.jpg"
   video: null
+lastPlayed: "2013-04-26"
 ---
 {% include JB/setup %}

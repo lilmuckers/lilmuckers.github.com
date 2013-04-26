@@ -4,7 +4,7 @@ title: Tomb Raider
 showPage: true
 tagline: ""
 group: xboxgame
-weight: 98
+weight: 102
 game: 
   name: Tomb Raider
   gameId: 1397819394
@@ -13,11 +13,19 @@ game:
   boxart: 
     small: "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253510802/1033/boxartsm.jpg"
     large: "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253510802/1033/boxartlg.jpg"
-  lastPlayed: "2013-04-14"
+  lastPlayed: "2013-04-26"
   totalScore: 1000
-  score: 0
+  score: 15
   totalAchievements: 50
-  achievements: []
+  achievements: 
+    - image: "https://live.xbox.com/tiles/lS/bT/04CLiGJhbC9FCxoDGllTWTAyL2FjaC8wLzExAAAAAOfn5-z8Jok=.jpg"
+      name: Big Game Hunter
+      description: 10 large animals killed and looted.
+      score: 15
+      acquired: "2013-04-26"
+      slug: "tomb-raider_big-game-hunter"
+      gameSlug: "tomb-raider"
+      scraped: "Fri Apr 26 2013 23:14:59 GMT+0100 (BST)"
   slug: "tomb-raider"
   title: Tomb Raider
   description: "Armed with only the raw instincts and physical ability to push beyond the limits of human endurance, Tomb Raider delivers an intense and gritty story into the origins of Lara Croft and her ascent from a frightened young woman to a hardened survivor."

@@ -469,5 +469,6 @@ game:
   video: 
     preview: "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108ce/1033/background.jpg"
     video: "http://mktplassets.xbox.com/NR/rdonlyres/F3DA422A-E9A4-4EF1-B177-1EA4736D6BD0/0/vidMassEffect2E3cdnhi.asx"
+lastPlayed: "2012-07-14"
 ---
 {% include JB/setup %}

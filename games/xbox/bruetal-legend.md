@@ -174,5 +174,6 @@ game:
   video: 
     preview: "http://mktplassets.xbox.com/NR/rdonlyres/25BFFF93-57D2-4E6F-B2E6-DD3ADCC18308/0/cbackbrutallegend.jpg"
     video: "http://mktplassets.xbox.com/NR/rdonlyres/18B9BEEA-FACF-44CF-9956-DB762CA3B717/0/vidBrutalLegendE3cdnhi.asx"
+lastPlayed: "2011-10-10"
 ---
 {% include JB/setup %}

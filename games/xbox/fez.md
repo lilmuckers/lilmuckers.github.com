@@ -4,7 +4,7 @@ title: Fez
 showPage: true
 tagline: ""
 group: xboxgame
-weight: 101
+weight: 100
 game: 
   name: FEZ
   gameId: 1480657344
@@ -50,5 +50,6 @@ game:
     - "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109c0/1033/screenlg5.jpg"
     - "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109c0/1033/screenlg6.jpg"
   video: null
+lastPlayed: "2013-04-23"
 ---
 {% include JB/setup %}

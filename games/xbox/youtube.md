@@ -4,7 +4,7 @@ title: YouTube
 showPage: false
 tagline: ""
 group: xboxgame
-weight: 99
+weight: 98
 game: 
   name: YouTube
   gameId: 1110837201
@@ -28,5 +28,6 @@ game:
   banner: null
   images: []
   video: null
+lastPlayed: "2013-04-21"
 ---
 {% include JB/setup %}

@@ -4,7 +4,7 @@ title: Jet Set Radio
 showPage: true
 tagline: ""
 group: xboxgame
-weight: 100
+weight: 99
 game: 
   name: Jet Set Radio
   gameId: 1480659527
@@ -106,5 +106,6 @@ game:
     - "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411247/1033/screenlg9.jpg"
     - "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411247/1033/screenlg10.jpg"
   video: null
+lastPlayed: "2013-04-23"
 ---
 {% include JB/setup %}

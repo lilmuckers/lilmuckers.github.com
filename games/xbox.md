@@ -3,7 +3,7 @@ layout: xbox
 title: Xbox Tracker
 tagline: "I play games, they are fun"
 group: games
-achievementcount: 1412
+achievementcount: 1413
 gamer: 
   gamertag: Lilmuckers
   avatar: 
@@ -13,13 +13,21 @@ gamer:
   picture: 
     small: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatarpic-s.png"
     large: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatarpic-l.png"
-  score: 26085
+  score: 26100
   location: Londinium
   motto: "meritocracy!"
   bio: "ARGH! BEES!"
   profile: "http://live.xbox.com/en-GB/Profile?gamertag=lilmuckers"
 gamecount: 103
 latest: 
+  - image: "https://live.xbox.com/tiles/lS/bT/04CLiGJhbC9FCxoDGllTWTAyL2FjaC8wLzExAAAAAOfn5-z8Jok=.jpg"
+    name: Big Game Hunter
+    description: 10 large animals killed and looted.
+    score: 15
+    acquired: "2013-04-26"
+    slug: "tomb-raider_big-game-hunter"
+    gameSlug: "tomb-raider"
+    scraped: "Fri Apr 26 2013 23:14:59 GMT+0100 (BST)"
   - image: "https://live.xbox.com/tiles/6A/lf/0YCLiGJhbC8QDBoEGlFTVmQxL2FjaC8wLzZkAAAAAOfn5-5wCfQ=.jpg"
     name: Broom Closet
     description: Varus killed a monster
@@ -170,14 +178,6 @@ latest:
     score: 10
     acquired: "2013-04-08"
     slug: "defiance_bit-of-an-ego"
-    gameSlug: defiance
-    scraped: "2013-04-08T20:19:47.682Z"
-  - image: "https://live.xbox.com/tiles/de/qz/0YCLiGJhbC8VDRoEGlFTVmQxL2FjaC8wLzdhAAAAAOfn5-6c6mk=.jpg"
-    name: "Holy Shtako!"
-    description: "New Freedom has crashed, you&apos;ve made a few new friends and one of them lives inside your head"
-    score: 15
-    acquired: "2013-04-08"
-    slug: "defiance_holy-shtako"
     gameSlug: defiance
     scraped: "2013-04-08T20:19:47.682Z"
 ---

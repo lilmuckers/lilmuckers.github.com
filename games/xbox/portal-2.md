@@ -280,5 +280,6 @@ game:
   video: 
     preview: "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410912/1033/background.jpg"
     video: "http://download.xbox.com/content/45410912/Portal%202%20PEGI.asx"
+lastPlayed: "2012-05-20"
 ---
 {% include JB/setup %}
