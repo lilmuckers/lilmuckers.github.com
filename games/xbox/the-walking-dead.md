@@ -369,6 +369,5 @@ game:
   video: 
     preview: "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111de/1033/background.jpg"
     video: "http://download.xbox.com/content/584111de/PEGI.asx"
-lastPlayed: "2013-01-27"
 ---
 {% include JB/setup %}

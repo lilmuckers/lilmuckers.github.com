@@ -66,6 +66,5 @@ game:
   video: 
     preview: "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545407f2/1033/background.jpg"
     video: "http://mktplassets.xbox.com/NR/rdonlyres/529640C4-EA07-4DCC-A855-4B44D73A39EC/0/vidgtaIVcdnhi.asx"
-lastPlayed: "2010-04-03"
 ---
 {% include JB/setup %}

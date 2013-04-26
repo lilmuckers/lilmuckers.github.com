@@ -28,6 +28,5 @@ game:
   banner: null
   images: []
   video: null
-lastPlayed: "2012-08-31"
 ---
 {% include JB/setup %}

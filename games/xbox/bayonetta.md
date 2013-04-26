@@ -221,6 +221,5 @@ game:
   video: 
     preview: "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253450813/1033/background.jpg"
     video: "http://mktplassets.xbox.com/NR/rdonlyres/78B7908C-7F10-499A-BB7E-B722570B4C6D/0/vidBayonettaE3cdnhi.asx"
-lastPlayed: "2012-05-01"
 ---
 {% include JB/setup %}

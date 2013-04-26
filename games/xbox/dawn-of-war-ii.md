@@ -322,6 +322,5 @@ game:
     - "http://mktplassets.xbox.com/NR/rdonlyres/1B963A0B-9764-4C36-932D-27E62DC86304/0/simdawnofwarii16.jpg"
     - "http://mktplassets.xbox.com/NR/rdonlyres/842614F7-A85C-4AFB-AEBD-A0440CA96687/0/simdawnofwarii17.jpg"
   video: null
-lastPlayed: "2010-09-11"
 ---
 {% include JB/setup %}

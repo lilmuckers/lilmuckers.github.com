@@ -326,6 +326,5 @@ game:
   video: 
     preview: "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454082b/1033/background.jpg"
     video: "http://mktplassets.xbox.com/NR/rdonlyres/5CA8C717-0FF6-42A6-BC76-C845340DF6E9/0/vidRedDeadRedemptionE3cdnhi.asx"
-lastPlayed: "2012-10-04"
 ---
 {% include JB/setup %}

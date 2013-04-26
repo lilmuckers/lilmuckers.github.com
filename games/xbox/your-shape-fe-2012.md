@@ -244,6 +244,5 @@ game:
   video: 
     preview: "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530886/2057/background.jpg"
     video: "http://download.xbox.com/content/55530886/Your%20Shape%20Fitness%20Evolved%202012.asx"
-lastPlayed: "2012-05-22"
 ---
 {% include JB/setup %}

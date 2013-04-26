@@ -130,6 +130,5 @@ game:
   video: 
     preview: "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5307dc/1033/background.jpg"
     video: "http://mktplassets.xbox.com/NR/rdonlyres/8C697EB8-3362-48F0-821C-6010215ED9EB/0/vidcrackdown_testcdnhi.asx"
-lastPlayed: "2010-05-07"
 ---
 {% include JB/setup %}

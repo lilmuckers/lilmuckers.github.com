@@ -52,6 +52,5 @@ game:
     - "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5307d3/1033/screenlg13.jpg"
     - "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5307d3/1033/screenlg14.jpg"
   video: null
-lastPlayed: "2011-04-25"
 ---
 {% include JB/setup %}
