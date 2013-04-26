@@ -13,7 +13,7 @@ game:
   boxart: 
     small: "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545907d1/1033/boxartsm.jpg"
     large: "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545907d1/1033/boxartlg.jpg"
-  lastPlayed: "2013-04-25"
+  lastPlayed: "2013-04-26"
   totalScore: 1000
   score: 295
   totalAchievements: 50
@@ -191,6 +191,5 @@ game:
     - "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545907d1/1033/screenlg4.jpg"
     - "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545907d1/1033/screenlg5.jpg"
   video: null
-lastPlayed: "2013-04-26"
 ---
 {% include JB/setup %}

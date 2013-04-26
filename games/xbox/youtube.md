@@ -13,7 +13,7 @@ game:
   boxart: 
     small: null
     large: null
-  lastPlayed: "2011-12-30"
+  lastPlayed: "2013-04-21"
   totalScore: 0
   score: 0
   totalAchievements: 0
@@ -28,6 +28,5 @@ game:
   banner: null
   images: []
   video: null
-lastPlayed: "2013-04-21"
 ---
 {% include JB/setup %}
