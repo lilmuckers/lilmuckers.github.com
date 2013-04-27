@@ -3,23 +3,31 @@ layout: xbox
 title: Xbox Tracker
 tagline: "I play games, they are fun"
 group: games
-achievementcount: 1413
+achievementcount: 1414
 gamer: 
   gamertag: Lilmuckers
   avatar: 
     secure: "https://avatar-ssl.xboxlive.com/avatar/Lilmuckers/avatar-body.png"
     unsecure: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatar-body.png"
-  activity: Online playing Xbox Dashboard
+  activity: "Online playing Mass Effect 3 - Level 60 Soldier\nDifficulty: Insanity"
   picture: 
     small: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatarpic-s.png"
     large: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatarpic-l.png"
-  score: 26100
+  score: 26125
   location: Londinium
   motto: "meritocracy!"
   bio: "ARGH! BEES!"
   profile: "http://live.xbox.com/en-GB/Profile?gamertag=lilmuckers"
 gamecount: 103
 latest: 
+  - image: "https://live.xbox.com/tiles/6V/cd/1YCLiGJhbC9DDAUaBB5YWlRkL2FjaC8wLzE2NwAAAADn5+f6Mlf0.jpg"
+    name: Conspiracy Theorist
+    description: Use clues to pinpoint the exact location of an objective.
+    score: 25
+    acquired: "2013-04-28"
+    slug: "mass-effect-3_conspiracy-theorist"
+    gameSlug: "mass-effect-3"
+    scraped: "Sat Apr 27 2013 23:42:50 GMT+0100 (BST)"
   - image: "https://live.xbox.com/tiles/lS/bT/04CLiGJhbC9FCxoDGllTWTAyL2FjaC8wLzExAAAAAOfn5-z8Jok=.jpg"
     name: Big Game Hunter
     description: 10 large animals killed and looted.
@@ -172,13 +180,5 @@ latest:
     slug: "defiance_a-friend-in-need"
     gameSlug: defiance
     scraped: "2013-04-09T14:19:56.496Z"
-  - image: "https://live.xbox.com/tiles/wO/OS/04CLiGJhbC8WDRoEGlFTVmQxL2FjaC8wLzdiAAAAAOfn5-y949w=.jpg"
-    name: Bit of an EGO
-    description: Von Bach has unlocked the secrets of EGO technology for commercial use; You are proof
-    score: 10
-    acquired: "2013-04-08"
-    slug: "defiance_bit-of-an-ego"
-    gameSlug: defiance
-    scraped: "2013-04-08T20:19:47.682Z"
 ---
 {% include JB/setup %}

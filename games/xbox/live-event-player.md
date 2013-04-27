@@ -4,7 +4,7 @@ title: Live Event Player
 showPage: false
 tagline: ""
 group: xboxgame
-weight: 86
+weight: 85
 game: 
   name: Live Event Player
   gameId: 1297287707

@@ -4,7 +4,7 @@ title: "SVC: ToeJam &amp; Earl"
 showPage: true
 tagline: ""
 group: xboxgame
-weight: 89
+weight: 88
 game: 
   name: "SVC: ToeJam &amp; Earl"
   gameId: 1480659532

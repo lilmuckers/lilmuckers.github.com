@@ -4,7 +4,7 @@ title: "Mass Effect&trade; 3"
 showPage: true
 tagline: ""
 group: xboxgame
-weight: 77
+weight: 102
 game: 
   name: Mass Effect 3
   gameId: 1161890141
@@ -13,11 +13,19 @@ game:
   boxart: 
     small: "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541095d/2057/boxartsm.jpg"
     large: "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541095d/2057/boxartlg.jpg"
-  lastPlayed: "2012-09-22"
+  lastPlayed: "2013-04-27"
   totalScore: 1550
-  score: 1050
+  score: 1075
   totalAchievements: 68
   achievements: 
+    - image: "https://live.xbox.com/tiles/6V/cd/1YCLiGJhbC9DDAUaBB5YWlRkL2FjaC8wLzE2NwAAAADn5+f6Mlf0.jpg"
+      name: Conspiracy Theorist
+      description: Use clues to pinpoint the exact location of an objective.
+      score: 25
+      acquired: "2013-04-28"
+      slug: "mass-effect-3_conspiracy-theorist"
+      gameSlug: "mass-effect-3"
+      scraped: "Sat Apr 27 2013 23:42:50 GMT+0100 (BST)"
     - image: "https://live.xbox.com/tiles/ZC/Nx/1YCLiGJhbC9NCwUaBB5YWlRkL2FjaC8wLzExOQAAAADn5+f6XiN5.jpg"
       name: Insanity
       description: Finish the game on Insanity without changing difficulty after leaving Earth.

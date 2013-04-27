@@ -4,7 +4,7 @@ title: The Cave
 showPage: true
 tagline: ""
 group: xboxgame
-weight: 91
+weight: 90
 game: 
   name: The Cave
   gameId: 1480659512
