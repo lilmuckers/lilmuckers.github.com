@@ -15,9 +15,17 @@ game:
     large: "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541095d/2057/boxartlg.jpg"
   lastPlayed: "2013-04-28"
   totalScore: 1550
-  score: 1300
+  score: 1325
   totalAchievements: 68
   achievements: 
+    - image: "https://live.xbox.com/tiles/pb/q1/0ICLiGJhbC9MDQUaBB5YWlRkL2FjaC8wLzE3OAAAAADn5+f-mrq4.jpg"
+      name: Priority Target
+      description: Discover a plot against you.
+      score: 25
+      acquired: "2013-04-28"
+      slug: "mass-effect-3_priority-target"
+      gameSlug: "mass-effect-3"
+      scraped: "Sun Apr 28 2013 20:42:47 GMT+0100 (BST)"
     - image: "https://live.xbox.com/tiles/be/3U/1oCLiGJhbC8WDAUaBB5YWlRkL2FjaC8wLzE2YgAAAADn5+f5++1w.jpg"
       name: Savior
       description: Free Omega from Cerberus Occupation.

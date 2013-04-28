@@ -3,23 +3,31 @@ layout: xbox
 title: Xbox Tracker
 tagline: "I play games, they are fun"
 group: games
-achievementcount: 1420
+achievementcount: 1421
 gamer: 
   gamertag: Lilmuckers
   avatar: 
     secure: "https://avatar-ssl.xboxlive.com/avatar/Lilmuckers/avatar-body.png"
     unsecure: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatar-body.png"
-  activity: "Online playing Mass Effect 3 - Level 60 Soldier\nDifficulty: Casual"
+  activity: "Online playing Mass Effect 3 - Level 60 Soldier\nDifficulty: Normal"
   picture: 
     small: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatarpic-s.png"
     large: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatarpic-l.png"
-  score: 26350
+  score: 26375
   location: Londinium
   motto: "meritocracy!"
   bio: "ARGH! BEES!"
   profile: "http://live.xbox.com/en-GB/Profile?gamertag=lilmuckers"
 gamecount: 103
 latest: 
+  - image: "https://live.xbox.com/tiles/pb/q1/0ICLiGJhbC9MDQUaBB5YWlRkL2FjaC8wLzE3OAAAAADn5+f-mrq4.jpg"
+    name: Priority Target
+    description: Discover a plot against you.
+    score: 25
+    acquired: "2013-04-28"
+    slug: "mass-effect-3_priority-target"
+    gameSlug: "mass-effect-3"
+    scraped: "Sun Apr 28 2013 20:42:47 GMT+0100 (BST)"
   - image: "https://live.xbox.com/tiles/be/3U/1oCLiGJhbC8WDAUaBB5YWlRkL2FjaC8wLzE2YgAAAADn5+f5++1w.jpg"
     name: Savior
     description: Free Omega from Cerberus Occupation.
@@ -172,13 +180,5 @@ latest:
     slug: defiance_yeeeeeeehaaaaawww
     gameSlug: defiance
     scraped: "Sun Apr 21 2013 21:56:38 GMT+0100 (BST)"
-  - image: "https://live.xbox.com/tiles/Jp/CD/04CLiGJhbC9DAhoEGlFTVmQxL2FjaC8wLzg3AAAAAOfn5-yskDo=.jpg"
-    name: Hot Pursuit
-    description: You completed 5 pursuits in the Bay Area
-    score: 15
-    acquired: "2013-04-10"
-    slug: "defiance_hot-pursuit"
-    gameSlug: defiance
-    scraped: "Wed Apr 10 2013 17:25:56 GMT+0100 (BST)"
 ---
 {% include JB/setup %}
