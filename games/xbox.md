@@ -3,7 +3,7 @@ layout: xbox
 title: Xbox Tracker
 tagline: "I play games, they are fun"
 group: games
-achievementcount: 1418
+achievementcount: 1419
 gamer: 
   gamertag: Lilmuckers
   avatar: 
@@ -13,13 +13,21 @@ gamer:
   picture: 
     small: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatarpic-s.png"
     large: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatarpic-l.png"
-  score: 26275
+  score: 26325
   location: Londinium
   motto: "meritocracy!"
   bio: "ARGH! BEES!"
   profile: "http://live.xbox.com/en-GB/Profile?gamertag=lilmuckers"
 gamecount: 103
 latest: 
+  - image: "https://live.xbox.com/tiles/2O/T1/1ICLiGJhbC8VDAUaBB5YWlRkL2FjaC8wLzE2YQAAAADn5+f72uTF.jpg"
+    name: Meticulous
+    description: "Complete all the Command Center side-missions on Omega."
+    score: 50
+    acquired: "2013-04-28"
+    slug: "mass-effect-3_meticulous"
+    gameSlug: "mass-effect-3"
+    scraped: "Sun Apr 28 2013 18:37:52 GMT+0100 (BST)"
   - image: "https://live.xbox.com/tiles/-h/U0/14CLiGJhbC8XDAUaBB5YWlRkL2FjaC8wLzE2YwAAAADn5+f4GxXj.jpg"
     name: Talon
     description: Find the Talon leader.
@@ -172,13 +180,5 @@ latest:
     slug: "defiance_skruggin-ark-core"
     gameSlug: defiance
     scraped: "Wed Apr 10 2013 14:16:30 GMT+0100 (BST)"
-  - image: "https://live.xbox.com/tiles/+i/tg/0ICLiGJhbC8XDhoEGlFTVmQxL2FjaC8wLzRjAAAAAOfn5-9PK+Y=.jpg"
-    name: Arkhunting Party
-    description: "Arkfalls draw quite a crowd for as dangerous as they are;  Risk vs. reward, or so they say"
-    score: 10
-    acquired: "2013-04-10"
-    slug: "defiance_arkhunting-party"
-    gameSlug: defiance
-    scraped: "Wed Apr 10 2013 00:44:42 GMT+0100 (BST)"
 ---
 {% include JB/setup %}

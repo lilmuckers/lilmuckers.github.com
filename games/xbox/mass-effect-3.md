@@ -15,9 +15,17 @@ game:
     large: "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541095d/2057/boxartlg.jpg"
   lastPlayed: "2013-04-28"
   totalScore: 1550
-  score: 1225
+  score: 1275
   totalAchievements: 68
   achievements: 
+    - image: "https://live.xbox.com/tiles/2O/T1/1ICLiGJhbC8VDAUaBB5YWlRkL2FjaC8wLzE2YQAAAADn5+f72uTF.jpg"
+      name: Meticulous
+      description: "Complete all the Command Center side-missions on Omega."
+      score: 50
+      acquired: "2013-04-28"
+      slug: "mass-effect-3_meticulous"
+      gameSlug: "mass-effect-3"
+      scraped: "Sun Apr 28 2013 18:37:52 GMT+0100 (BST)"
     - image: "https://live.xbox.com/tiles/-h/U0/14CLiGJhbC8XDAUaBB5YWlRkL2FjaC8wLzE2YwAAAADn5+f4GxXj.jpg"
       name: Talon
       description: Find the Talon leader.
