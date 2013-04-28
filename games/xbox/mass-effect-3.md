@@ -15,9 +15,17 @@ game:
     large: "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541095d/2057/boxartlg.jpg"
   lastPlayed: "2013-04-28"
   totalScore: 1550
-  score: 1125
+  score: 1175
   totalAchievements: 68
   achievements: 
+    - image: "https://live.xbox.com/tiles/eq/-9/1ICLiGJhbC9CDAUaBB5YWlRkL2FjaC8wLzE2NgAAAADn5+f70q9n.jpg"
+      name: Under Pressure
+      description: Uncover an ancient secret.
+      score: 50
+      acquired: "2013-04-28"
+      slug: "mass-effect-3_under-pressure"
+      gameSlug: "mass-effect-3"
+      scraped: "Sun Apr 28 2013 16:32:46 GMT+0100 (BST)"
     - image: "https://live.xbox.com/tiles/z6/bc/1oCLiGJhbC9BDAUaBB5YWlRkL2FjaC8wLzE2NQAAAADn5+f586bS.jpg"
       name: Family Matters
       description: Rescue a civilian from Reaper forces.
