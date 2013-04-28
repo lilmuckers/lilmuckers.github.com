@@ -3,7 +3,7 @@ layout: xbox
 title: Xbox Tracker
 tagline: "I play games, they are fun"
 group: games
-achievementcount: 1421
+achievementcount: 1423
 gamer: 
   gamertag: Lilmuckers
   avatar: 
@@ -13,13 +13,29 @@ gamer:
   picture: 
     small: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatarpic-s.png"
     large: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatarpic-l.png"
-  score: 26375
+  score: 26425
   location: Londinium
   motto: "meritocracy!"
   bio: "ARGH! BEES!"
   profile: "http://live.xbox.com/en-GB/Profile?gamertag=lilmuckers"
 gamecount: 103
 latest: 
+  - image: "https://live.xbox.com/tiles/mh/16/0oCLiGJhbC8VDQUaBB5YWlRkL2FjaC8wLzE3YQAAAADn5+f9VR2H.jpg"
+    name: Team Player
+    description: Infiltrate an enemy stronghold with your crew.
+    score: 25
+    acquired: "2013-04-28"
+    slug: "mass-effect-3_team-player"
+    gameSlug: "mass-effect-3"
+    scraped: "Sun Apr 28 2013 21:47:45 GMT+0100 (BST)"
+  - image: "https://live.xbox.com/tiles/Nk/JV/0YCLiGJhbC9NDQUaBB5YWlRkL2FjaC8wLzE3OQAAAADn5+f+ekIr.jpg"
+    name: High Society
+    description: Go undercover to follow a lead.
+    score: 25
+    acquired: "2013-04-28"
+    slug: "mass-effect-3_high-society"
+    gameSlug: "mass-effect-3"
+    scraped: "Sun Apr 28 2013 21:47:45 GMT+0100 (BST)"
   - image: "https://live.xbox.com/tiles/pb/q1/0ICLiGJhbC9MDQUaBB5YWlRkL2FjaC8wLzE3OAAAAADn5+f-mrq4.jpg"
     name: Priority Target
     description: Discover a plot against you.
@@ -164,21 +180,5 @@ latest:
     slug: "defiance_good-cardio"
     gameSlug: defiance
     scraped: "Mon Apr 22 2013 21:06:04 GMT+0100 (BST)"
-  - image: "https://live.xbox.com/tiles/43/JF/04CLiGJhbC9HDxoEGlFTVmQxL2FjaC8wLzUzAAAAAOfn5-xqcv8=.jpg"
-    name: Wrong Hands
-    description: "Cooper and Ara are good people and you&apos;ll need them now that Dark Matter has the Matrix"
-    score: 15
-    acquired: "2013-04-21"
-    slug: "defiance_wrong-hands"
-    gameSlug: defiance
-    scraped: "Sun Apr 21 2013 23:00:50 GMT+0100 (BST)"
-  - image: "https://live.xbox.com/tiles/W8/Ho/1YCLiGJhbC8RAhoEGlFTVmQxL2FjaC8wLzhlAAAAAOfn5-rHwUc=.jpg"
-    name: "Yeeeeeeehaaaaawww!"
-    description: "It would be more impressive if you did it in a single jump&hellip;"
-    score: 30
-    acquired: "2013-04-21"
-    slug: defiance_yeeeeeeehaaaaawww
-    gameSlug: defiance
-    scraped: "Sun Apr 21 2013 21:56:38 GMT+0100 (BST)"
 ---
 {% include JB/setup %}

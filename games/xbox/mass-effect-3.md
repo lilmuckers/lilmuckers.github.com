@@ -15,9 +15,25 @@ game:
     large: "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541095d/2057/boxartlg.jpg"
   lastPlayed: "2013-04-28"
   totalScore: 1550
-  score: 1325
+  score: 1375
   totalAchievements: 68
   achievements: 
+    - image: "https://live.xbox.com/tiles/mh/16/0oCLiGJhbC8VDQUaBB5YWlRkL2FjaC8wLzE3YQAAAADn5+f9VR2H.jpg"
+      name: Team Player
+      description: Infiltrate an enemy stronghold with your crew.
+      score: 25
+      acquired: "2013-04-28"
+      slug: "mass-effect-3_team-player"
+      gameSlug: "mass-effect-3"
+      scraped: "Sun Apr 28 2013 21:47:45 GMT+0100 (BST)"
+    - image: "https://live.xbox.com/tiles/Nk/JV/0YCLiGJhbC9NDQUaBB5YWlRkL2FjaC8wLzE3OQAAAADn5+f+ekIr.jpg"
+      name: High Society
+      description: Go undercover to follow a lead.
+      score: 25
+      acquired: "2013-04-28"
+      slug: "mass-effect-3_high-society"
+      gameSlug: "mass-effect-3"
+      scraped: "Sun Apr 28 2013 21:47:45 GMT+0100 (BST)"
     - image: "https://live.xbox.com/tiles/pb/q1/0ICLiGJhbC9MDQUaBB5YWlRkL2FjaC8wLzE3OAAAAADn5+f-mrq4.jpg"
       name: Priority Target
       description: Discover a plot against you.
