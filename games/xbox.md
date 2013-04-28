@@ -3,23 +3,31 @@ layout: xbox
 title: Xbox Tracker
 tagline: "I play games, they are fun"
 group: games
-achievementcount: 1419
+achievementcount: 1420
 gamer: 
   gamertag: Lilmuckers
   avatar: 
     secure: "https://avatar-ssl.xboxlive.com/avatar/Lilmuckers/avatar-body.png"
     unsecure: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatar-body.png"
-  activity: "Online playing Mass Effect 3 - Level 60 Soldier\nDifficulty: Normal"
+  activity: "Online playing Mass Effect 3 - Level 60 Soldier\nDifficulty: Casual"
   picture: 
     small: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatarpic-s.png"
     large: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatarpic-l.png"
-  score: 26325
+  score: 26350
   location: Londinium
   motto: "meritocracy!"
   bio: "ARGH! BEES!"
   profile: "http://live.xbox.com/en-GB/Profile?gamertag=lilmuckers"
 gamecount: 103
 latest: 
+  - image: "https://live.xbox.com/tiles/be/3U/1oCLiGJhbC8WDAUaBB5YWlRkL2FjaC8wLzE2YgAAAADn5+f5++1w.jpg"
+    name: Savior
+    description: Free Omega from Cerberus Occupation.
+    score: 25
+    acquired: "2013-04-28"
+    slug: "mass-effect-3_savior"
+    gameSlug: "mass-effect-3"
+    scraped: "Sun Apr 28 2013 19:42:45 GMT+0100 (BST)"
   - image: "https://live.xbox.com/tiles/2O/T1/1ICLiGJhbC8VDAUaBB5YWlRkL2FjaC8wLzE2YQAAAADn5+f72uTF.jpg"
     name: Meticulous
     description: "Complete all the Command Center side-missions on Omega."
@@ -172,13 +180,5 @@ latest:
     slug: "defiance_hot-pursuit"
     gameSlug: defiance
     scraped: "Wed Apr 10 2013 17:25:56 GMT+0100 (BST)"
-  - image: "https://live.xbox.com/tiles/iW/EH/14CLiGJhbC9BDxoEGlFTVmQxL2FjaC8wLzU1AAAAAOfn5-goYZU=.jpg"
-    name: "Skruggin&apos; Ark Core"
-    description: "Von Bach is alive, he has an Ark Core, and Cass is not happy about it"
-    score: 15
-    acquired: "2013-04-10"
-    slug: "defiance_skruggin-ark-core"
-    gameSlug: defiance
-    scraped: "Wed Apr 10 2013 14:16:30 GMT+0100 (BST)"
 ---
 {% include JB/setup %}
