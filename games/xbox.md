@@ -3,23 +3,31 @@ layout: xbox
 title: Xbox Tracker
 tagline: "I play games, they are fun"
 group: games
-achievementcount: 1423
+achievementcount: 1424
 gamer: 
   gamertag: Lilmuckers
   avatar: 
     secure: "https://avatar-ssl.xboxlive.com/avatar/Lilmuckers/avatar-body.png"
     unsecure: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatar-body.png"
-  activity: "Online playing Mass Effect 3 - Level 60 Soldier\nDifficulty: Normal"
+  activity: Last seen 24 minutes ago playing Mass Effect 3
   picture: 
     small: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatarpic-s.png"
     large: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatarpic-l.png"
-  score: 26425
+  score: 26475
   location: Londinium
   motto: "meritocracy!"
   bio: "ARGH! BEES!"
   profile: "http://live.xbox.com/en-GB/Profile?gamertag=lilmuckers"
 gamecount: 103
 latest: 
+  - image: "https://live.xbox.com/tiles/Lx/Rb/0ICLiGJhbC8WDQUaBB5YWlRkL2FjaC8wLzE3YgAAAADn5+f-dBQy.jpg"
+    name: Last Resort
+    description: "Stop an out-of-control scheme before it&apos;s too late."
+    score: 50
+    acquired: "2013-04-28"
+    slug: "mass-effect-3_last-resort"
+    gameSlug: "mass-effect-3"
+    scraped: "Sun Apr 28 2013 22:52:49 GMT+0100 (BST)"
   - image: "https://live.xbox.com/tiles/mh/16/0oCLiGJhbC8VDQUaBB5YWlRkL2FjaC8wLzE3YQAAAADn5+f9VR2H.jpg"
     name: Team Player
     description: Infiltrate an enemy stronghold with your crew.
@@ -170,14 +178,6 @@ latest:
     score: 15
     acquired: "2013-04-22"
     slug: "defiance_pursuit-of-happiness"
-    gameSlug: defiance
-    scraped: "Mon Apr 22 2013 21:06:04 GMT+0100 (BST)"
-  - image: "https://live.xbox.com/tiles/7s/jJ/14CLiGJhbC8SAhoEGlFTVmQxL2FjaC8wLzhmAAAAAOfn5-jmyPI=.jpg"
-    name: Good Cardio
-    description: "Sure, it&rsquo;s fun.&nbsp; But swimming&rsquo;s not the most effective means of travel&hellip;"
-    score: 35
-    acquired: "2013-04-22"
-    slug: "defiance_good-cardio"
     gameSlug: defiance
     scraped: "Mon Apr 22 2013 21:06:04 GMT+0100 (BST)"
 ---

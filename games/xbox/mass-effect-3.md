@@ -15,9 +15,17 @@ game:
     large: "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541095d/2057/boxartlg.jpg"
   lastPlayed: "2013-04-28"
   totalScore: 1550
-  score: 1375
+  score: 1425
   totalAchievements: 68
   achievements: 
+    - image: "https://live.xbox.com/tiles/Lx/Rb/0ICLiGJhbC8WDQUaBB5YWlRkL2FjaC8wLzE3YgAAAADn5+f-dBQy.jpg"
+      name: Last Resort
+      description: "Stop an out-of-control scheme before it&apos;s too late."
+      score: 50
+      acquired: "2013-04-28"
+      slug: "mass-effect-3_last-resort"
+      gameSlug: "mass-effect-3"
+      scraped: "Sun Apr 28 2013 22:52:49 GMT+0100 (BST)"
     - image: "https://live.xbox.com/tiles/mh/16/0oCLiGJhbC8VDQUaBB5YWlRkL2FjaC8wLzE3YQAAAADn5+f9VR2H.jpg"
       name: Team Player
       description: Infiltrate an enemy stronghold with your crew.
