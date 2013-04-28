@@ -15,9 +15,17 @@ game:
     large: "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541095d/2057/boxartlg.jpg"
   lastPlayed: "2013-04-28"
   totalScore: 1550
-  score: 1175
+  score: 1225
   totalAchievements: 68
   achievements: 
+    - image: "https://live.xbox.com/tiles/-h/U0/14CLiGJhbC8XDAUaBB5YWlRkL2FjaC8wLzE2YwAAAADn5+f4GxXj.jpg"
+      name: Talon
+      description: Find the Talon leader.
+      score: 50
+      acquired: "2013-04-28"
+      slug: "mass-effect-3_talon"
+      gameSlug: "mass-effect-3"
+      scraped: "Sun Apr 28 2013 17:37:49 GMT+0100 (BST)"
     - image: "https://live.xbox.com/tiles/eq/-9/1ICLiGJhbC9CDAUaBB5YWlRkL2FjaC8wLzE2NgAAAADn5+f70q9n.jpg"
       name: Under Pressure
       description: Uncover an ancient secret.

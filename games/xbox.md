@@ -3,7 +3,7 @@ layout: xbox
 title: Xbox Tracker
 tagline: "I play games, they are fun"
 group: games
-achievementcount: 1417
+achievementcount: 1418
 gamer: 
   gamertag: Lilmuckers
   avatar: 
@@ -13,13 +13,21 @@ gamer:
   picture: 
     small: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatarpic-s.png"
     large: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatarpic-l.png"
-  score: 26225
+  score: 26275
   location: Londinium
   motto: "meritocracy!"
   bio: "ARGH! BEES!"
   profile: "http://live.xbox.com/en-GB/Profile?gamertag=lilmuckers"
 gamecount: 103
 latest: 
+  - image: "https://live.xbox.com/tiles/-h/U0/14CLiGJhbC8XDAUaBB5YWlRkL2FjaC8wLzE2YwAAAADn5+f4GxXj.jpg"
+    name: Talon
+    description: Find the Talon leader.
+    score: 50
+    acquired: "2013-04-28"
+    slug: "mass-effect-3_talon"
+    gameSlug: "mass-effect-3"
+    scraped: "Sun Apr 28 2013 17:37:49 GMT+0100 (BST)"
   - image: "https://live.xbox.com/tiles/eq/-9/1ICLiGJhbC9CDAUaBB5YWlRkL2FjaC8wLzE2NgAAAADn5+f70q9n.jpg"
     name: Under Pressure
     description: Uncover an ancient secret.
@@ -172,13 +180,5 @@ latest:
     slug: "defiance_arkhunting-party"
     gameSlug: defiance
     scraped: "Wed Apr 10 2013 00:44:42 GMT+0100 (BST)"
-  - image: "https://live.xbox.com/tiles/k5/mi/0YCLiGJhbC9AAhoEGlFTVmQxL2FjaC8wLzg0AAAAAOfn5-6NmY8=.jpg"
-    name: Stroking Your EGO
-    description: "EGO hosts a Votan artifical intelligence, the implications of which are not fully understood"
-    score: 15
-    acquired: "2013-04-09"
-    slug: "defiance_stroking-your-ego"
-    gameSlug: defiance
-    scraped: "2013-04-09T14:19:56.495Z"
 ---
 {% include JB/setup %}
