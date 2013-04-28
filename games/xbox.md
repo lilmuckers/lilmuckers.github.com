@@ -3,23 +3,39 @@ layout: xbox
 title: Xbox Tracker
 tagline: "I play games, they are fun"
 group: games
-achievementcount: 1414
+achievementcount: 1416
 gamer: 
   gamertag: Lilmuckers
   avatar: 
     secure: "https://avatar-ssl.xboxlive.com/avatar/Lilmuckers/avatar-body.png"
     unsecure: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatar-body.png"
-  activity: "Online playing Mass Effect 3 - Level 60 Soldier\nDifficulty: Insanity"
+  activity: "Online playing Mass Effect 3 - Level 60 Soldier\nDifficulty: Normal"
   picture: 
     small: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatarpic-s.png"
     large: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatarpic-l.png"
-  score: 26125
+  score: 26175
   location: Londinium
   motto: "meritocracy!"
   bio: "ARGH! BEES!"
   profile: "http://live.xbox.com/en-GB/Profile?gamertag=lilmuckers"
 gamecount: 103
 latest: 
+  - image: "https://live.xbox.com/tiles/z6/bc/1oCLiGJhbC9BDAUaBB5YWlRkL2FjaC8wLzE2NQAAAADn5+f586bS.jpg"
+    name: Family Matters
+    description: Rescue a civilian from Reaper forces.
+    score: 25
+    acquired: "2013-04-28"
+    slug: "mass-effect-3_family-matters"
+    gameSlug: "mass-effect-3"
+    scraped: "Sun Apr 28 2013 15:27:43 GMT+0100 (BST)"
+  - image: "https://live.xbox.com/tiles/XF/48/14CLiGJhbC9ADAUaBB5YWlRkL2FjaC8wLzE2NAAAAADn5+f4E15B.jpg"
+    name: No Stone Unturned
+    description: Investigate a sinister conspiracy.
+    score: 25
+    acquired: "2013-04-28"
+    slug: "mass-effect-3_no-stone-unturned"
+    gameSlug: "mass-effect-3"
+    scraped: "Sun Apr 28 2013 15:27:43 GMT+0100 (BST)"
   - image: "https://live.xbox.com/tiles/6V/cd/1YCLiGJhbC9DDAUaBB5YWlRkL2FjaC8wLzE2NwAAAADn5+f6Mlf0.jpg"
     name: Conspiracy Theorist
     description: Use clues to pinpoint the exact location of an objective.
@@ -164,21 +180,5 @@ latest:
     slug: "defiance_individual-pursuit"
     gameSlug: defiance
     scraped: "2013-04-09T14:19:56.495Z"
-  - image: "https://live.xbox.com/tiles/33/sh/1oCLiGJhbC9EAhoEGlFTVmQxL2FjaC8wLzgwAAAAAOfn5-kOe8M=.jpg"
-    name: Arkhunting
-    description: Valuable relics from the destroyed Votan arks frequently and dangerously rain from the sky
-    score: 10
-    acquired: "2013-04-09"
-    slug: defiance_arkhunting
-    gameSlug: defiance
-    scraped: "2013-04-09T14:19:56.495Z"
-  - image: "https://live.xbox.com/tiles/an/IA/1ICLiGJhbC9HAhoEGlFTVmQxL2FjaC8wLzgzAAAAAOfn5-svcnY=.jpg"
-    name: A Friend in Need
-    description: Arkhunting can be a lonely vocation without trusted friends
-    score: 5
-    acquired: "2013-04-09"
-    slug: "defiance_a-friend-in-need"
-    gameSlug: defiance
-    scraped: "2013-04-09T14:19:56.496Z"
 ---
 {% include JB/setup %}
