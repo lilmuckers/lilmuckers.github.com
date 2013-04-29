@@ -13,11 +13,27 @@ game:
   boxart: 
     small: "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541095d/2057/boxartsm.jpg"
     large: "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541095d/2057/boxartlg.jpg"
-  lastPlayed: "2013-04-28"
+  lastPlayed: "2013-04-29"
   totalScore: 1550
-  score: 1425
+  score: 1450
   totalAchievements: 68
   achievements: 
+    - image: "https://live.xbox.com/tiles/RQ/cZ/1ICLiGJhbC8QDQUaBB5YWlRkL2FjaC8wLzE3ZAAAAADn5+f7NgdY.jpg"
+      name: King of the Castle
+      description: Win a prize at one of the arcade games.
+      score: 15
+      acquired: "2013-04-29"
+      slug: "mass-effect-3_king-of-the-castle"
+      gameSlug: "mass-effect-3"
+      scraped: "Mon Apr 29 2013 20:47:52 GMT+0100 (BST)"
+    - image: "https://live.xbox.com/tiles/vO/y7/0YCLiGJhbC8XDQUaBB5YWlRkL2FjaC8wLzE3YwAAAADn5+f+lOyh.jpg"
+      name: Perfect Host
+      description: Throw a party for your friends.
+      score: 10
+      acquired: "2013-04-29"
+      slug: "mass-effect-3_perfect-host"
+      gameSlug: "mass-effect-3"
+      scraped: "Mon Apr 29 2013 20:47:52 GMT+0100 (BST)"
     - image: "https://live.xbox.com/tiles/Lx/Rb/0ICLiGJhbC8WDQUaBB5YWlRkL2FjaC8wLzE3YgAAAADn5+f-dBQy.jpg"
       name: Last Resort
       description: "Stop an out-of-control scheme before it&apos;s too late."

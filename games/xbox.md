@@ -3,23 +3,39 @@ layout: xbox
 title: Xbox Tracker
 tagline: "I play games, they are fun"
 group: games
-achievementcount: 1424
+achievementcount: 1426
 gamer: 
   gamertag: Lilmuckers
   avatar: 
     secure: "https://avatar-ssl.xboxlive.com/avatar/Lilmuckers/avatar-body.png"
     unsecure: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatar-body.png"
-  activity: Last seen 24 minutes ago playing Mass Effect 3
+  activity: "Online playing Mass Effect 3 - Level 60 Soldier\nDifficulty: Normal"
   picture: 
     small: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatarpic-s.png"
     large: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatarpic-l.png"
-  score: 26475
+  score: 26500
   location: Londinium
   motto: "meritocracy!"
   bio: "ARGH! BEES!"
   profile: "http://live.xbox.com/en-GB/Profile?gamertag=lilmuckers"
 gamecount: 103
 latest: 
+  - image: "https://live.xbox.com/tiles/RQ/cZ/1ICLiGJhbC8QDQUaBB5YWlRkL2FjaC8wLzE3ZAAAAADn5+f7NgdY.jpg"
+    name: King of the Castle
+    description: Win a prize at one of the arcade games.
+    score: 15
+    acquired: "2013-04-29"
+    slug: "mass-effect-3_king-of-the-castle"
+    gameSlug: "mass-effect-3"
+    scraped: "Mon Apr 29 2013 20:47:52 GMT+0100 (BST)"
+  - image: "https://live.xbox.com/tiles/vO/y7/0YCLiGJhbC8XDQUaBB5YWlRkL2FjaC8wLzE3YwAAAADn5+f+lOyh.jpg"
+    name: Perfect Host
+    description: Throw a party for your friends.
+    score: 10
+    acquired: "2013-04-29"
+    slug: "mass-effect-3_perfect-host"
+    gameSlug: "mass-effect-3"
+    scraped: "Mon Apr 29 2013 20:47:52 GMT+0100 (BST)"
   - image: "https://live.xbox.com/tiles/Lx/Rb/0ICLiGJhbC8WDQUaBB5YWlRkL2FjaC8wLzE3YgAAAADn5+f-dBQy.jpg"
     name: Last Resort
     description: "Stop an out-of-control scheme before it&apos;s too late."
@@ -164,21 +180,5 @@ latest:
     slug: "defiance_high-speed-pursuit"
     gameSlug: defiance
     scraped: "Tue Apr 23 2013 23:26:23 GMT+0100 (BST)"
-  - image: "https://live.xbox.com/tiles/Mn/wB/1oCLiGJhbC9NDxoEGlFTVmQxL2FjaC8wLzU5AAAAAOfn5-kufC4=.jpg"
-    name: Overdosing
-    description: Piercer needed an intervention
-    score: 15
-    acquired: "2013-04-23"
-    slug: defiance_overdosing
-    gameSlug: defiance
-    scraped: "Tue Apr 23 2013 00:16:10 GMT+0100 (BST)"
-  - image: "https://live.xbox.com/tiles/KI/Sk/0ICLiGJhbC9MAhoEGlFTVmQxL2FjaC8wLzg4AAAAAOfn5-+LhDQ=.jpg"
-    name: Pursuit of Happiness
-    description: You completed 10 pursuits in the Bay Area
-    score: 15
-    acquired: "2013-04-22"
-    slug: "defiance_pursuit-of-happiness"
-    gameSlug: defiance
-    scraped: "Mon Apr 22 2013 21:06:04 GMT+0100 (BST)"
 ---
 {% include JB/setup %}
