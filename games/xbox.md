@@ -3,23 +3,31 @@ layout: xbox
 title: Xbox Tracker
 tagline: "I play games, they are fun"
 group: games
-achievementcount: 1426
+achievementcount: 1427
 gamer: 
   gamertag: Lilmuckers
   avatar: 
     secure: "https://avatar-ssl.xboxlive.com/avatar/Lilmuckers/avatar-body.png"
     unsecure: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatar-body.png"
-  activity: "Online playing Mass Effect 3 - Level 60 Soldier\nDifficulty: Normal"
+  activity: Last seen 51 minutes ago playing Mass Effect 3
   picture: 
     small: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatarpic-s.png"
     large: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatarpic-l.png"
-  score: 26500
+  score: 26525
   location: Londinium
   motto: "meritocracy!"
   bio: "ARGH! BEES!"
   profile: "http://live.xbox.com/en-GB/Profile?gamertag=lilmuckers"
 gamecount: 103
 latest: 
+  - image: "https://live.xbox.com/tiles/Y-/bY/14CLiGJhbC8SDQUaBB5YWlRkL2FjaC8wLzE3ZgAAAADn5+f49-Z+.jpg"
+    name: Simulated Hero
+    description: "Score 9999 points in the combat simulator on Normal, Hardcore, or Insanity."
+    score: 25
+    acquired: "2013-05-01"
+    slug: "mass-effect-3_simulated-hero"
+    gameSlug: "mass-effect-3"
+    scraped: "Wed May 01 2013 01:03:30 GMT+0100 (BST)"
   - image: "https://live.xbox.com/tiles/RQ/cZ/1ICLiGJhbC8QDQUaBB5YWlRkL2FjaC8wLzE3ZAAAAADn5+f7NgdY.jpg"
     name: King of the Castle
     description: Win a prize at one of the arcade games.
@@ -172,13 +180,5 @@ latest:
     slug: "fez_get-a-cube"
     gameSlug: fez
     scraped: "Wed Apr 24 2013 00:26:04 GMT+0100 (BST)"
-  - image: "https://live.xbox.com/tiles/u3/xE/0YCLiGJhbC9NAhoEGlFTVmQxL2FjaC8wLzg5AAAAAOfn5-5rfKc=.jpg"
-    name: High Speed Pursuit
-    description: You completed 15 pursuits in the Bay Area
-    score: 15
-    acquired: "2013-04-23"
-    slug: "defiance_high-speed-pursuit"
-    gameSlug: defiance
-    scraped: "Tue Apr 23 2013 23:26:23 GMT+0100 (BST)"
 ---
 {% include JB/setup %}

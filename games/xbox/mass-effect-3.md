@@ -13,11 +13,19 @@ game:
   boxart: 
     small: "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541095d/2057/boxartsm.jpg"
     large: "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541095d/2057/boxartlg.jpg"
-  lastPlayed: "2013-04-29"
+  lastPlayed: "2013-04-30"
   totalScore: 1550
-  score: 1450
+  score: 1475
   totalAchievements: 68
   achievements: 
+    - image: "https://live.xbox.com/tiles/Y-/bY/14CLiGJhbC8SDQUaBB5YWlRkL2FjaC8wLzE3ZgAAAADn5+f49-Z+.jpg"
+      name: Simulated Hero
+      description: "Score 9999 points in the combat simulator on Normal, Hardcore, or Insanity."
+      score: 25
+      acquired: "2013-05-01"
+      slug: "mass-effect-3_simulated-hero"
+      gameSlug: "mass-effect-3"
+      scraped: "Wed May 01 2013 01:03:30 GMT+0100 (BST)"
     - image: "https://live.xbox.com/tiles/RQ/cZ/1ICLiGJhbC8QDQUaBB5YWlRkL2FjaC8wLzE3ZAAAAADn5+f7NgdY.jpg"
       name: King of the Castle
       description: Win a prize at one of the arcade games.
