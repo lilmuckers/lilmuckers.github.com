@@ -258,7 +258,7 @@ div.gamertag div.game h4{
   padding-top: 15px;
 }
 .row-fluid.extender{
-  height: 1810px;
+  height: 1735px;
   position: relative;
   overflow: hidden;
 }
@@ -266,7 +266,6 @@ div.gamertag div.game h4{
   position: absolute;
   bottom: 0;
   height: 90px;
-  width: 100%;
   margin: 0;
   
   background: -moz-linear-gradient(top,  rgba(255,255,255,0) 0%, rgba(255,255,255,1) 100%); /* FF3.6+ */
