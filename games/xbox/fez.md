@@ -15,9 +15,25 @@ game:
     large: "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109c0/1033/boxartlg.jpg"
   lastPlayed: "2013-05-03"
   totalScore: 200
-  score: 40
+  score: 65
   totalAchievements: 12
   achievements: 
+    - image: "https://live.xbox.com/tiles/r1/gO/1ICLiGJhbC8WFQUXXFJRFmMwL2FjaC8wL2IAAAAA5+fn+yFYtA==.jpg"
+      name: Cryptographer
+      description: There are patterns everywhere.
+      score: 15
+      acquired: "2013-05-03"
+      slug: fez_cryptographer
+      gameSlug: fez
+      scraped: "Fri May 03 2013 22:28:01 GMT+0100 (BST)"
+    - image: "https://live.xbox.com/tiles/K+/LH/14CLiGJhbC9DFQUXXFJRFmMwL2FjaC8wLzcAAAAA5+fn+OjiMA==.jpg"
+      name: Mightier than the sword
+      description: A cube for writing.
+      score: 10
+      acquired: "2013-05-03"
+      slug: "fez_mightier-than-the-sword"
+      gameSlug: fez
+      scraped: "Fri May 03 2013 22:28:01 GMT+0100 (BST)"
     - image: "https://live.xbox.com/tiles/tg/4A/1YCLiGJhbC9NFQUXXFJRFmMwL2FjaC8wLzkAAAAA5+fn+i8OrQ==.jpg"
       name: Equal and opposite
       description: Negative space.

@@ -3,23 +3,39 @@ layout: xbox
 title: Xbox Tracker
 tagline: "I play games, they are fun"
 group: games
-achievementcount: 1431
+achievementcount: 1433
 gamer: 
   gamertag: Lilmuckers
   avatar: 
     secure: "https://avatar-ssl.xboxlive.com/avatar/Lilmuckers/avatar-body.png"
     unsecure: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatar-body.png"
-  activity: "Online playing FEZ - Taking a break."
+  activity: "Online playing FEZ - Exploring!\n(12 cubes)"
   picture: 
     small: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatarpic-s.png"
     large: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatarpic-l.png"
-  score: 26630
+  score: 26655
   location: Londinium
   motto: "meritocracy!"
   bio: "ARGH! BEES!"
   profile: "http://live.xbox.com/en-GB/Profile?gamertag=lilmuckers"
 gamecount: 103
 latest: 
+  - image: "https://live.xbox.com/tiles/r1/gO/1ICLiGJhbC8WFQUXXFJRFmMwL2FjaC8wL2IAAAAA5+fn+yFYtA==.jpg"
+    name: Cryptographer
+    description: There are patterns everywhere.
+    score: 15
+    acquired: "2013-05-03"
+    slug: fez_cryptographer
+    gameSlug: fez
+    scraped: "Fri May 03 2013 22:28:01 GMT+0100 (BST)"
+  - image: "https://live.xbox.com/tiles/K+/LH/14CLiGJhbC9DFQUXXFJRFmMwL2FjaC8wLzcAAAAA5+fn+OjiMA==.jpg"
+    name: Mightier than the sword
+    description: A cube for writing.
+    score: 10
+    acquired: "2013-05-03"
+    slug: "fez_mightier-than-the-sword"
+    gameSlug: fez
+    scraped: "Fri May 03 2013 22:28:01 GMT+0100 (BST)"
   - image: "https://live.xbox.com/tiles/tg/4A/1YCLiGJhbC9NFQUXXFJRFmMwL2FjaC8wLzkAAAAA5+fn+i8OrQ==.jpg"
     name: Equal and opposite
     description: Negative space.
@@ -164,21 +180,5 @@ latest:
     slug: "mass-effect-3_conspiracy-theorist"
     gameSlug: "mass-effect-3"
     scraped: "Sat Apr 27 2013 23:42:50 GMT+0100 (BST)"
-  - image: "https://live.xbox.com/tiles/lS/bT/04CLiGJhbC9FCxoDGllTWTAyL2FjaC8wLzExAAAAAOfn5-z8Jok=.jpg"
-    name: Big Game Hunter
-    description: 10 large animals killed and looted.
-    score: 15
-    acquired: "2013-04-26"
-    slug: "tomb-raider_big-game-hunter"
-    gameSlug: "tomb-raider"
-    scraped: "Fri Apr 26 2013 23:14:59 GMT+0100 (BST)"
-  - image: "https://live.xbox.com/tiles/6A/lf/0YCLiGJhbC8QDBoEGlFTVmQxL2FjaC8wLzZkAAAAAOfn5-5wCfQ=.jpg"
-    name: Broom Closet
-    description: Varus killed a monster
-    score: 15
-    acquired: "2013-04-26"
-    slug: "defiance_broom-closet"
-    gameSlug: defiance
-    scraped: "Thu Apr 25 2013 23:56:42 GMT+0100 (BST)"
 ---
 {% include JB/setup %}
