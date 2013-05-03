@@ -4,7 +4,7 @@ title: Fez
 showPage: true
 tagline: ""
 group: xboxgame
-weight: 99
+weight: 102
 game: 
   name: FEZ
   gameId: 1480657344
@@ -13,11 +13,27 @@ game:
   boxart: 
     small: "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109c0/1033/boxartsm.jpg"
     large: "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109c0/1033/boxartlg.jpg"
-  lastPlayed: "2013-04-23"
+  lastPlayed: "2013-05-03"
   totalScore: 200
-  score: 10
+  score: 40
   totalAchievements: 12
   achievements: 
+    - image: "https://live.xbox.com/tiles/tg/4A/1YCLiGJhbC9NFQUXXFJRFmMwL2FjaC8wLzkAAAAA5+fn+i8OrQ==.jpg"
+      name: Equal and opposite
+      description: Negative space.
+      score: 15
+      acquired: "2013-05-03"
+      slug: "fez_equal-and-opposite"
+      gameSlug: fez
+      scraped: "Fri May 03 2013 19:27:58 GMT+0100 (BST)"
+    - image: "https://live.xbox.com/tiles/PK/Du/1YCLiGJhbC8XFQUXXFJRFmMwL2FjaC8wL2MAAAAA5+fn+sGgJw==.jpg"
+      name: Achievement unlocked
+      description: Unlocking achieved.
+      score: 15
+      acquired: "2013-05-03"
+      slug: "fez_achievement-unlocked"
+      gameSlug: fez
+      scraped: "Fri May 03 2013 19:27:58 GMT+0100 (BST)"
     - image: "https://live.xbox.com/tiles/9P/ik/0YCLiGJhbC9GFQUXXFJRFmMwL2FjaC8wLzIAAAAA5+fn-ov47w==.jpg"
       name: Get a cube
       description: "Cube GET!"

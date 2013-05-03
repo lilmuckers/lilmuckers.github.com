@@ -3,23 +3,55 @@ layout: xbox
 title: Xbox Tracker
 tagline: "I play games, they are fun"
 group: games
-achievementcount: 1427
+achievementcount: 1431
 gamer: 
   gamertag: Lilmuckers
   avatar: 
     secure: "https://avatar-ssl.xboxlive.com/avatar/Lilmuckers/avatar-body.png"
     unsecure: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatar-body.png"
-  activity: Last seen 51 minutes ago playing Mass Effect 3
+  activity: "Online playing FEZ - Taking a break."
   picture: 
     small: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatarpic-s.png"
     large: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatarpic-l.png"
-  score: 26525
+  score: 26630
   location: Londinium
   motto: "meritocracy!"
   bio: "ARGH! BEES!"
   profile: "http://live.xbox.com/en-GB/Profile?gamertag=lilmuckers"
 gamecount: 103
 latest: 
+  - image: "https://live.xbox.com/tiles/tg/4A/1YCLiGJhbC9NFQUXXFJRFmMwL2FjaC8wLzkAAAAA5+fn+i8OrQ==.jpg"
+    name: Equal and opposite
+    description: Negative space.
+    score: 15
+    acquired: "2013-05-03"
+    slug: "fez_equal-and-opposite"
+    gameSlug: fez
+    scraped: "Fri May 03 2013 19:27:58 GMT+0100 (BST)"
+  - image: "https://live.xbox.com/tiles/PK/Du/1YCLiGJhbC8XFQUXXFJRFmMwL2FjaC8wL2MAAAAA5+fn+sGgJw==.jpg"
+    name: Achievement unlocked
+    description: Unlocking achieved.
+    score: 15
+    acquired: "2013-05-03"
+    slug: "fez_achievement-unlocked"
+    gameSlug: fez
+    scraped: "Fri May 03 2013 19:27:58 GMT+0100 (BST)"
+  - image: "https://live.xbox.com/tiles/1v/-5/1YCLiGJhbC8RDQUaBB5YWlRkL2FjaC8wLzE3ZQAAAADn5+f61v-L.jpg"
+    name: Technical Issues
+    description: Investigate a strange occurrence in the combat simulator.
+    score: 25
+    acquired: "2013-05-02"
+    slug: "mass-effect-3_technical-issues"
+    gameSlug: "mass-effect-3"
+    scraped: "Fri May 03 2013 19:28:13 GMT+0100 (BST)"
+  - image: "https://live.xbox.com/tiles/MI/zo/1YCLiGJhbC9EAgUaBB5YWlRkL2FjaC8wLzE4MAAAAADn5+f6x4wt.jpg"
+    name: The One and Only
+    description: "Defeat a group of Spectre-level opponents on Normal, Hardcore, or Insanity."
+    score: 50
+    acquired: "2013-05-02"
+    slug: "mass-effect-3_the-one-and-only"
+    gameSlug: "mass-effect-3"
+    scraped: "Fri May 03 2013 19:28:13 GMT+0100 (BST)"
   - image: "https://live.xbox.com/tiles/Y-/bY/14CLiGJhbC8SDQUaBB5YWlRkL2FjaC8wLzE3ZgAAAADn5+f49-Z+.jpg"
     name: Simulated Hero
     description: "Score 9999 points in the combat simulator on Normal, Hardcore, or Insanity."
@@ -148,37 +180,5 @@ latest:
     slug: "defiance_broom-closet"
     gameSlug: defiance
     scraped: "Thu Apr 25 2013 23:56:42 GMT+0100 (BST)"
-  - image: "https://live.xbox.com/tiles/2b/Wc/0oCLiGJhbC9NDRoEGlFTVmQxL2FjaC8wLzc5AAAAAOfn5-2ztcU=.jpg"
-    name: Executive Wash Room
-    description: "On the cutting edge, Von Bach Industries is one of the few corporations with truly global reach"
-    score: 15
-    acquired: "2013-04-25"
-    slug: "defiance_executive-wash-room"
-    gameSlug: defiance
-    scraped: "Thu Apr 25 2013 23:01:22 GMT+0100 (BST)"
-  - image: "https://live.xbox.com/tiles/Ux/ty/0oCLiGJhbC8XDRoEGlFTVmQxL2FjaC8wLzdjAAAAAOfn5-1dG08=.jpg"
-    name: Powerful EGO
-    description: "EGO integrates at the genetic level, boosting the capabilities of the host beyond natural limits"
-    score: 15
-    acquired: "2013-04-25"
-    slug: "defiance_powerful-ego"
-    gameSlug: defiance
-    scraped: "Thu Apr 25 2013 23:01:22 GMT+0100 (BST)"
-  - image: "https://live.xbox.com/tiles/43/1u/0YCLiGJhbC9MDhoEGlFTVmQxL2FjaC8wLzQ4AAAAAOfn5-5Bff8=.jpg"
-    name: Save Your Ganchis
-    description: That darn Varus
-    score: 15
-    acquired: "2013-04-24"
-    slug: "defiance_save-your-ganchis"
-    gameSlug: defiance
-    scraped: "Wed Apr 24 2013 21:51:17 GMT+0100 (BST)"
-  - image: "https://live.xbox.com/tiles/9P/ik/0YCLiGJhbC9GFQUXXFJRFmMwL2FjaC8wLzIAAAAA5+fn-ov47w==.jpg"
-    name: Get a cube
-    description: "Cube GET!"
-    score: 10
-    acquired: "2013-04-24"
-    slug: "fez_get-a-cube"
-    gameSlug: fez
-    scraped: "Wed Apr 24 2013 00:26:04 GMT+0100 (BST)"
 ---
 {% include JB/setup %}

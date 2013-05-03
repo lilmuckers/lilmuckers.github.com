@@ -4,7 +4,7 @@ title: "Mass Effect&trade; 3"
 showPage: true
 tagline: ""
 group: xboxgame
-weight: 102
+weight: 101
 game: 
   name: Mass Effect 3
   gameId: 1161890141
@@ -13,11 +13,27 @@ game:
   boxart: 
     small: "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541095d/2057/boxartsm.jpg"
     large: "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541095d/2057/boxartlg.jpg"
-  lastPlayed: "2013-04-30"
+  lastPlayed: "2013-05-03"
   totalScore: 1550
-  score: 1475
+  score: 1550
   totalAchievements: 68
   achievements: 
+    - image: "https://live.xbox.com/tiles/1v/-5/1YCLiGJhbC8RDQUaBB5YWlRkL2FjaC8wLzE3ZQAAAADn5+f61v-L.jpg"
+      name: Technical Issues
+      description: Investigate a strange occurrence in the combat simulator.
+      score: 25
+      acquired: "2013-05-02"
+      slug: "mass-effect-3_technical-issues"
+      gameSlug: "mass-effect-3"
+      scraped: "Fri May 03 2013 19:28:13 GMT+0100 (BST)"
+    - image: "https://live.xbox.com/tiles/MI/zo/1YCLiGJhbC9EAgUaBB5YWlRkL2FjaC8wLzE4MAAAAADn5+f6x4wt.jpg"
+      name: The One and Only
+      description: "Defeat a group of Spectre-level opponents on Normal, Hardcore, or Insanity."
+      score: 50
+      acquired: "2013-05-02"
+      slug: "mass-effect-3_the-one-and-only"
+      gameSlug: "mass-effect-3"
+      scraped: "Fri May 03 2013 19:28:13 GMT+0100 (BST)"
     - image: "https://live.xbox.com/tiles/Y-/bY/14CLiGJhbC8SDQUaBB5YWlRkL2FjaC8wLzE3ZgAAAADn5+f49-Z+.jpg"
       name: Simulated Hero
       description: "Score 9999 points in the combat simulator on Normal, Hardcore, or Insanity."
