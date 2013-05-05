@@ -3,23 +3,31 @@ layout: xbox
 title: Xbox Tracker
 tagline: "I play games, they are fun"
 group: games
-achievementcount: 1433
+achievementcount: 1434
 gamer: 
   gamertag: Lilmuckers
   avatar: 
     secure: "https://avatar-ssl.xboxlive.com/avatar/Lilmuckers/avatar-body.png"
     unsecure: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatar-body.png"
-  activity: "Online playing FEZ - Exploring!\n(12 cubes)"
+  activity: "Online playing FEZ - Exploring!\n(32 cubes)"
   picture: 
     small: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatarpic-s.png"
     large: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatarpic-l.png"
-  score: 26655
+  score: 26680
   location: Londinium
   motto: "meritocracy!"
   bio: "ARGH! BEES!"
   profile: "http://live.xbox.com/en-GB/Profile?gamertag=lilmuckers"
 gamecount: 103
 latest: 
+  - image: "https://live.xbox.com/tiles/Zw/BE/0ICLiGJhbC9HFQUXXFJRFmMwL2FjaC8wLzMAAAAA5+fn-2sAfA==.jpg"
+    name: Kill screen
+    description: Visited the Visitors.
+    score: 25
+    acquired: "2013-05-05"
+    slug: "fez_kill-screen"
+    gameSlug: fez
+    scraped: "Sun May 05 2013 18:12:54 GMT+0100 (BST)"
   - image: "https://live.xbox.com/tiles/r1/gO/1ICLiGJhbC8WFQUXXFJRFmMwL2FjaC8wL2IAAAAA5+fn+yFYtA==.jpg"
     name: Cryptographer
     description: There are patterns everywhere.
@@ -172,13 +180,5 @@ latest:
     slug: "mass-effect-3_no-stone-unturned"
     gameSlug: "mass-effect-3"
     scraped: "Sun Apr 28 2013 15:27:43 GMT+0100 (BST)"
-  - image: "https://live.xbox.com/tiles/6V/cd/1YCLiGJhbC9DDAUaBB5YWlRkL2FjaC8wLzE2NwAAAADn5+f6Mlf0.jpg"
-    name: Conspiracy Theorist
-    description: Use clues to pinpoint the exact location of an objective.
-    score: 25
-    acquired: "2013-04-28"
-    slug: "mass-effect-3_conspiracy-theorist"
-    gameSlug: "mass-effect-3"
-    scraped: "Sat Apr 27 2013 23:42:50 GMT+0100 (BST)"
 ---
 {% include JB/setup %}

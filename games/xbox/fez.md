@@ -13,11 +13,19 @@ game:
   boxart: 
     small: "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109c0/1033/boxartsm.jpg"
     large: "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109c0/1033/boxartlg.jpg"
-  lastPlayed: "2013-05-03"
+  lastPlayed: "2013-05-05"
   totalScore: 200
-  score: 65
+  score: 90
   totalAchievements: 12
   achievements: 
+    - image: "https://live.xbox.com/tiles/Zw/BE/0ICLiGJhbC9HFQUXXFJRFmMwL2FjaC8wLzMAAAAA5+fn-2sAfA==.jpg"
+      name: Kill screen
+      description: Visited the Visitors.
+      score: 25
+      acquired: "2013-05-05"
+      slug: "fez_kill-screen"
+      gameSlug: fez
+      scraped: "Sun May 05 2013 18:12:54 GMT+0100 (BST)"
     - image: "https://live.xbox.com/tiles/r1/gO/1ICLiGJhbC8WFQUXXFJRFmMwL2FjaC8wL2IAAAAA5+fn+yFYtA==.jpg"
       name: Cryptographer
       description: There are patterns everywhere.
