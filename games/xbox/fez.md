@@ -15,9 +15,33 @@ game:
     large: "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109c0/1033/boxartlg.jpg"
   lastPlayed: "2013-05-05"
   totalScore: 200
-  score: 90
+  score: 125
   totalAchievements: 12
   achievements: 
+    - image: "https://live.xbox.com/tiles/Jf/bg/1ICLiGJhbC9MFQUXXFJRFmMwL2FjaC8wLzgAAAAA5+fn+8-2Pg==.jpg"
+      name: A numbers game
+      description: A cube for counting.
+      score: 10
+      acquired: "2013-05-05"
+      slug: "fez_a-numbers-game"
+      gameSlug: fez
+      scraped: "Sun May 05 2013 21:17:56 GMT+0100 (BST)"
+    - image: "https://live.xbox.com/tiles/DR/MG/1ICLiGJhbC9BFQUXXFJRFmMwL2FjaC8wLzUAAAAA5+fn+ykTFg==.jpg"
+      name: Haikus not epics
+      description: An anthology of ZU knowledge.
+      score: 10
+      acquired: "2013-05-05"
+      slug: "fez_haikus-not-epics"
+      gameSlug: fez
+      scraped: "Sun May 05 2013 21:17:56 GMT+0100 (BST)"
+    - image: "https://live.xbox.com/tiles/Gl/Ev/1oCLiGJhbC8VFQUXXFJRFmMwL2FjaC8wL2EAAAAA5+fn+QBRAQ==.jpg"
+      name: Warp zone
+      description: Like folding a sheet of paper.
+      score: 15
+      acquired: "2013-05-05"
+      slug: "fez_warp-zone"
+      gameSlug: fez
+      scraped: "Sun May 05 2013 21:17:56 GMT+0100 (BST)"
     - image: "https://live.xbox.com/tiles/Zw/BE/0ICLiGJhbC9HFQUXXFJRFmMwL2FjaC8wLzMAAAAA5+fn-2sAfA==.jpg"
       name: Kill screen
       description: Visited the Visitors.

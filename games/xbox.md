@@ -3,23 +3,47 @@ layout: xbox
 title: Xbox Tracker
 tagline: "I play games, they are fun"
 group: games
-achievementcount: 1434
+achievementcount: 1437
 gamer: 
   gamertag: Lilmuckers
   avatar: 
     secure: "https://avatar-ssl.xboxlive.com/avatar/Lilmuckers/avatar-body.png"
     unsecure: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatar-body.png"
-  activity: "Online playing FEZ - Exploring!\n(32 cubes)"
+  activity: "Online playing FEZ - Exploring!\n(55 cubes)"
   picture: 
     small: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatarpic-s.png"
     large: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatarpic-l.png"
-  score: 26680
+  score: 26705
   location: Londinium
   motto: "meritocracy!"
   bio: "ARGH! BEES!"
   profile: "http://live.xbox.com/en-GB/Profile?gamertag=lilmuckers"
 gamecount: 103
 latest: 
+  - image: "https://live.xbox.com/tiles/Jf/bg/1ICLiGJhbC9MFQUXXFJRFmMwL2FjaC8wLzgAAAAA5+fn+8-2Pg==.jpg"
+    name: A numbers game
+    description: A cube for counting.
+    score: 10
+    acquired: "2013-05-05"
+    slug: "fez_a-numbers-game"
+    gameSlug: fez
+    scraped: "Sun May 05 2013 21:17:56 GMT+0100 (BST)"
+  - image: "https://live.xbox.com/tiles/DR/MG/1ICLiGJhbC9BFQUXXFJRFmMwL2FjaC8wLzUAAAAA5+fn+ykTFg==.jpg"
+    name: Haikus not epics
+    description: An anthology of ZU knowledge.
+    score: 10
+    acquired: "2013-05-05"
+    slug: "fez_haikus-not-epics"
+    gameSlug: fez
+    scraped: "Sun May 05 2013 21:17:56 GMT+0100 (BST)"
+  - image: "https://live.xbox.com/tiles/Gl/Ev/1oCLiGJhbC8VFQUXXFJRFmMwL2FjaC8wL2EAAAAA5+fn+QBRAQ==.jpg"
+    name: Warp zone
+    description: Like folding a sheet of paper.
+    score: 15
+    acquired: "2013-05-05"
+    slug: "fez_warp-zone"
+    gameSlug: fez
+    scraped: "Sun May 05 2013 21:17:56 GMT+0100 (BST)"
   - image: "https://live.xbox.com/tiles/Zw/BE/0ICLiGJhbC9HFQUXXFJRFmMwL2FjaC8wLzMAAAAA5+fn-2sAfA==.jpg"
     name: Kill screen
     description: Visited the Visitors.
@@ -156,29 +180,5 @@ latest:
     slug: "mass-effect-3_talon"
     gameSlug: "mass-effect-3"
     scraped: "Sun Apr 28 2013 17:37:49 GMT+0100 (BST)"
-  - image: "https://live.xbox.com/tiles/eq/-9/1ICLiGJhbC9CDAUaBB5YWlRkL2FjaC8wLzE2NgAAAADn5+f70q9n.jpg"
-    name: Under Pressure
-    description: Uncover an ancient secret.
-    score: 50
-    acquired: "2013-04-28"
-    slug: "mass-effect-3_under-pressure"
-    gameSlug: "mass-effect-3"
-    scraped: "Sun Apr 28 2013 16:32:46 GMT+0100 (BST)"
-  - image: "https://live.xbox.com/tiles/z6/bc/1oCLiGJhbC9BDAUaBB5YWlRkL2FjaC8wLzE2NQAAAADn5+f586bS.jpg"
-    name: Family Matters
-    description: Rescue a civilian from Reaper forces.
-    score: 25
-    acquired: "2013-04-28"
-    slug: "mass-effect-3_family-matters"
-    gameSlug: "mass-effect-3"
-    scraped: "Sun Apr 28 2013 15:27:43 GMT+0100 (BST)"
-  - image: "https://live.xbox.com/tiles/XF/48/14CLiGJhbC9ADAUaBB5YWlRkL2FjaC8wLzE2NAAAAADn5+f4E15B.jpg"
-    name: No Stone Unturned
-    description: Investigate a sinister conspiracy.
-    score: 25
-    acquired: "2013-04-28"
-    slug: "mass-effect-3_no-stone-unturned"
-    gameSlug: "mass-effect-3"
-    scraped: "Sun Apr 28 2013 15:27:43 GMT+0100 (BST)"
 ---
 {% include JB/setup %}
