@@ -8,6 +8,9 @@
   <p class="backlink"><a href="/games/xbox.html"><i class="icon-chevron-left"></i>Back to games</a></p>
   <div class="span6 gameinfo">
     <h3>Game Info <small>Because I can</small></h3>
+    {% if page.game.score == page.game.totalScore %}
+      <img src="/assets/images/star_big.png" class="completed" title="Game Completed!" >
+    {% endif %}
     {% if page.game.boxart.large %}
     <img src="{{page.game.boxart.large}}" alt="{{ page.title }}" title="{{ page.title }}"  class="boxart" >
     {% else %}

@@ -223,31 +223,31 @@ div.gamertag div.game {
   height: 126px;
   position: relative;
 }
-div.gamertag div.game img,
+div.gamertag div.game a.imglink,
 div.gamertag div.game div.boxart-ph{
+  position: relative;
+  display: block;
   clear: left;
   float: left;
   margin: 3px;
 }
-div.gamertag div.game div.boxart-ph {
+div.gamertag div.game a.imglink img.completed{
+  position: absolute;
+  top:-7px;
+  right: -15px;
+}
+div.gamertag div.game a.imglink {
   width: 85px;
   height: 120px;
 }
-.boxart-ph a {
-  display: block;
-  width: 100%;
-  height: 100%;
-  margin: 0;
-  padding: 0;
-}
 
-div.boxart-ph, div.banner-ph {
+div.gamertag div.game a.imglink.missing, div.boxart-ph, div.banner-ph {
   border: 1px solid rgba(0, 0, 0, 0.2);
   background-color: rgba(0, 0, 0, 0.1);
   text-align: center;
 }
 
-div.gamertag div.game div.boxart-ph i {
+div.gamertag div.game a.imglink i, div.gamertag div.game div.boxart-ph i {
   margin-top: 48px;
 }
 div.gamertag div.game p, 
@@ -290,6 +290,14 @@ div.gamertag div.game h4{
   left: 130px;
   cursor: pointer;
 }
+div.gameinfo {
+  position: relative;
+}
+div.gameinfo img.completed{
+  position: absolute;
+  top: 45px;
+  left: 190px;
+}
 div.gameinfo img.boxart, div.gameinfo div.boxart-ph {
   margin: 2px;
   margin-right: 10px;
@@ -299,6 +307,8 @@ div.gameinfo img.boxart, div.gameinfo div.boxart-ph {
 div.gameinfo dl{
   width: 180px;
   margin-top: 0;
+  z-index: 10;
+  position: relative;
 }
 dd.percentage {
   width: 99%;

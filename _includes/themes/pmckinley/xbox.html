@@ -43,17 +43,29 @@
     {% for game in site.pages %}
       {% if game.group == "xboxgame" %}
         {% if game.showPage == true and weight == game.weight %}
+          
+          {% assign cheevecount = 0 %}
+          {% for cheeve in game.game.achievements %}
+            {% capture cheevecount %}{{cheevecount | plus:1 }}{% endcapture %}
+          {% endfor %}
+          
           <div class="game">
             {% if game.game.boxart.small %}
-            <a href="{{game.url}}" id="{{game.game.slug}}-boxart"><img src="{{game.game.boxart.small}}" alt="{{game.title}}" title="{{game.title}}" ></a>
+              <a href="{{game.url}}" id="{{game.game.slug}}-boxart" class="imglink">
+                {% if game.game.score == game.game.totalScore %}
+                  <img src="/assets/images/star.png" class="completed" title="Game Completed!" >
+                {% endif %}
+                <img src="{{game.game.boxart.small}}" alt="{{game.title}}" title="{{game.title}}" >
+              </a>
             {% else %}
-            <div class="boxart-ph"><a href="{{game.url}}" id="{{game.game.slug}}-boxart"><i class="icon-warning-sign icon-white"></i></a></div>
+              <a href="{{game.url}}" id="{{game.game.slug}}-boxart" class="imglink missing">
+                {% if cheevecount == game.game.totalAchievements %}
+                  <img src="/assets/images/star.png" class="completed" title="Game Completed!" >
+                {% endif %}
+                <i class="icon-warning-sign icon-white"></i>
+              </a>
             {% endif %}
             <h4>{{game.title}}</h4>
-            {% assign cheevecount = 0 %}
-            {% for cheeve in game.game.achievements %}
-              {% capture cheevecount %}{{cheevecount | plus:1 }}{% endcapture %}
-            {% endfor %}
             <p>{{game.game.score}}G / {{game.game.totalScore}}G</p>
             <p>{{cheevecount}} / {{game.game.totalAchievements}} achievements</p>
             <p class="seemore"><a href="{{game.url}}" id="{{game.game.slug}}">See Achievements</a></p>
