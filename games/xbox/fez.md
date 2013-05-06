@@ -15,9 +15,33 @@ game:
     large: "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109c0/1033/boxartlg.jpg"
   lastPlayed: "2013-05-05"
   totalScore: 200
-  score: 125
+  score: 200
   totalAchievements: 12
   achievements: 
+    - image: "https://live.xbox.com/tiles/nu/vm/1YCLiGJhbC9AFQUXXFJRFmMwL2FjaC8wLzQAAAAA5+fn+snrhQ==.jpg"
+      name: Hexahedronaut
+      description: "It won&rsquo;t forget."
+      score: 25
+      acquired: "2013-05-05"
+      slug: fez_hexahedronaut
+      gameSlug: fez
+      scraped: "Mon May 06 2013 11:12:14 GMT+0100 (BST)"
+    - image: "https://live.xbox.com/tiles/Qf/GF/04CLiGJhbC9FFQUXXFJRFmMwL2FjaC8wLzEAAAAA5+fn-KrxWg==.jpg"
+      name: Sum total
+      description: "You don&rsquo;t have to go home, but you can&rsquo;t stay here. Okay, you can stay here."
+      score: 40
+      acquired: "2013-05-05"
+      slug: "fez_sum-total"
+      gameSlug: fez
+      scraped: "Mon May 06 2013 11:12:14 GMT+0100 (BST)"
+    - image: "https://live.xbox.com/tiles/uB/on/1oCLiGJhbC9CFQUXXFJRFmMwL2FjaC8wLzYAAAAA5+fn+Qgaow==.jpg"
+      name: Phrenologist
+      description: The seat of knowledge is in the head.
+      score: 10
+      acquired: "2013-05-05"
+      slug: fez_phrenologist
+      gameSlug: fez
+      scraped: "Mon May 06 2013 11:12:14 GMT+0100 (BST)"
     - image: "https://live.xbox.com/tiles/Jf/bg/1ICLiGJhbC9MFQUXXFJRFmMwL2FjaC8wLzgAAAAA5+fn+8-2Pg==.jpg"
       name: A numbers game
       description: A cube for counting.

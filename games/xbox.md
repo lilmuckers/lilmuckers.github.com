@@ -3,23 +3,47 @@ layout: xbox
 title: Xbox Tracker
 tagline: "I play games, they are fun"
 group: games
-achievementcount: 1437
+achievementcount: 1440
 gamer: 
   gamertag: Lilmuckers
   avatar: 
     secure: "https://avatar-ssl.xboxlive.com/avatar/Lilmuckers/avatar-body.png"
     unsecure: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatar-body.png"
-  activity: "Online playing FEZ - Exploring!\n(55 cubes)"
+  activity: Last seen 12 hours ago playing Xbox Dashboard
   picture: 
     small: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatarpic-s.png"
     large: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatarpic-l.png"
-  score: 26705
+  score: 26790
   location: Londinium
   motto: "meritocracy!"
   bio: "ARGH! BEES!"
   profile: "http://live.xbox.com/en-GB/Profile?gamertag=lilmuckers"
 gamecount: 103
 latest: 
+  - image: "https://live.xbox.com/tiles/nu/vm/1YCLiGJhbC9AFQUXXFJRFmMwL2FjaC8wLzQAAAAA5+fn+snrhQ==.jpg"
+    name: Hexahedronaut
+    description: "It won&rsquo;t forget."
+    score: 25
+    acquired: "2013-05-05"
+    slug: fez_hexahedronaut
+    gameSlug: fez
+    scraped: "Mon May 06 2013 11:12:14 GMT+0100 (BST)"
+  - image: "https://live.xbox.com/tiles/Qf/GF/04CLiGJhbC9FFQUXXFJRFmMwL2FjaC8wLzEAAAAA5+fn-KrxWg==.jpg"
+    name: Sum total
+    description: "You don&rsquo;t have to go home, but you can&rsquo;t stay here. Okay, you can stay here."
+    score: 40
+    acquired: "2013-05-05"
+    slug: "fez_sum-total"
+    gameSlug: fez
+    scraped: "Mon May 06 2013 11:12:14 GMT+0100 (BST)"
+  - image: "https://live.xbox.com/tiles/uB/on/1oCLiGJhbC9CFQUXXFJRFmMwL2FjaC8wLzYAAAAA5+fn+Qgaow==.jpg"
+    name: Phrenologist
+    description: The seat of knowledge is in the head.
+    score: 10
+    acquired: "2013-05-05"
+    slug: fez_phrenologist
+    gameSlug: fez
+    scraped: "Mon May 06 2013 11:12:14 GMT+0100 (BST)"
   - image: "https://live.xbox.com/tiles/Jf/bg/1ICLiGJhbC9MFQUXXFJRFmMwL2FjaC8wLzgAAAAA5+fn+8-2Pg==.jpg"
     name: A numbers game
     description: A cube for counting.
@@ -156,29 +180,5 @@ latest:
     slug: "mass-effect-3_priority-target"
     gameSlug: "mass-effect-3"
     scraped: "Sun Apr 28 2013 20:42:47 GMT+0100 (BST)"
-  - image: "https://live.xbox.com/tiles/be/3U/1oCLiGJhbC8WDAUaBB5YWlRkL2FjaC8wLzE2YgAAAADn5+f5++1w.jpg"
-    name: Savior
-    description: Free Omega from Cerberus Occupation.
-    score: 25
-    acquired: "2013-04-28"
-    slug: "mass-effect-3_savior"
-    gameSlug: "mass-effect-3"
-    scraped: "Sun Apr 28 2013 19:42:45 GMT+0100 (BST)"
-  - image: "https://live.xbox.com/tiles/2O/T1/1ICLiGJhbC8VDAUaBB5YWlRkL2FjaC8wLzE2YQAAAADn5+f72uTF.jpg"
-    name: Meticulous
-    description: "Complete all the Command Center side-missions on Omega."
-    score: 50
-    acquired: "2013-04-28"
-    slug: "mass-effect-3_meticulous"
-    gameSlug: "mass-effect-3"
-    scraped: "Sun Apr 28 2013 18:37:52 GMT+0100 (BST)"
-  - image: "https://live.xbox.com/tiles/-h/U0/14CLiGJhbC8XDAUaBB5YWlRkL2FjaC8wLzE2YwAAAADn5+f4GxXj.jpg"
-    name: Talon
-    description: Find the Talon leader.
-    score: 50
-    acquired: "2013-04-28"
-    slug: "mass-effect-3_talon"
-    gameSlug: "mass-effect-3"
-    scraped: "Sun Apr 28 2013 17:37:49 GMT+0100 (BST)"
 ---
 {% include JB/setup %}
