@@ -3,23 +3,31 @@ layout: xbox
 title: Xbox Tracker
 tagline: "I play games, they are fun"
 group: games
-achievementcount: 1440
+achievementcount: 1441
 gamer: 
   gamertag: Lilmuckers
   avatar: 
     secure: "https://avatar-ssl.xboxlive.com/avatar/Lilmuckers/avatar-body.png"
     unsecure: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatar-body.png"
-  activity: Last seen 12 hours ago playing Xbox Dashboard
+  activity: Last seen 26 minutes ago playing Dishonored
   picture: 
     small: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatarpic-s.png"
     large: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatarpic-l.png"
-  score: 26790
+  score: 26805
   location: Londinium
   motto: "meritocracy!"
   bio: "ARGH! BEES!"
   profile: "http://live.xbox.com/en-GB/Profile?gamertag=lilmuckers"
 gamecount: 103
 latest: 
+  - image: "https://live.xbox.com/tiles/lS/Qt/0ICLiGJhbC8SWxsCGltTVmUzL2FjaC8wL2FmAAAAAOfn5-8CJIk=.jpg"
+    name: Just Business
+    description: You got the information you needed from the Rothwild Slaughterhouse
+    score: 15
+    acquired: "2013-05-06"
+    slug: "dishonored_just-business"
+    gameSlug: dishonored
+    scraped: "Mon May 06 2013 15:32:13 GMT+0100 (BST)"
   - image: "https://live.xbox.com/tiles/nu/vm/1YCLiGJhbC9AFQUXXFJRFmMwL2FjaC8wLzQAAAAA5+fn+snrhQ==.jpg"
     name: Hexahedronaut
     description: "It won&rsquo;t forget."
@@ -172,13 +180,5 @@ latest:
     slug: "mass-effect-3_high-society"
     gameSlug: "mass-effect-3"
     scraped: "Sun Apr 28 2013 21:47:45 GMT+0100 (BST)"
-  - image: "https://live.xbox.com/tiles/pb/q1/0ICLiGJhbC9MDQUaBB5YWlRkL2FjaC8wLzE3OAAAAADn5+f-mrq4.jpg"
-    name: Priority Target
-    description: Discover a plot against you.
-    score: 25
-    acquired: "2013-04-28"
-    slug: "mass-effect-3_priority-target"
-    gameSlug: "mass-effect-3"
-    scraped: "Sun Apr 28 2013 20:42:47 GMT+0100 (BST)"
 ---
 {% include JB/setup %}
