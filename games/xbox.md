@@ -3,23 +3,31 @@ layout: xbox
 title: Xbox Tracker
 tagline: "I play games, they are fun"
 group: games
-achievementcount: 1441
+achievementcount: 1442
 gamer: 
   gamertag: Lilmuckers
   avatar: 
     secure: "https://avatar-ssl.xboxlive.com/avatar/Lilmuckers/avatar-body.png"
     unsecure: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatar-body.png"
-  activity: Last seen 26 minutes ago playing Dishonored
+  activity: "Online playing Tomb Raider - In single player game"
   picture: 
     small: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatarpic-s.png"
     large: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatarpic-l.png"
-  score: 26805
+  score: 26825
   location: Londinium
   motto: "meritocracy!"
   bio: "ARGH! BEES!"
   profile: "http://live.xbox.com/en-GB/Profile?gamertag=lilmuckers"
 gamecount: 103
 latest: 
+  - image: "https://live.xbox.com/tiles/r+/4h/0ICLiGJhbC9ECBoDGllTWTAyL2FjaC8wLzIwAAAAAOfn5-8O7rM=.jpg"
+    name: One Smart Cookie
+    description: One optional tomb completed.
+    score: 20
+    acquired: "2013-05-10"
+    slug: "tomb-raider_one-smart-cookie"
+    gameSlug: "tomb-raider"
+    scraped: "Fri May 10 2013 21:47:29 GMT+0100 (BST)"
   - image: "https://live.xbox.com/tiles/lS/Qt/0ICLiGJhbC8SWxsCGltTVmUzL2FjaC8wL2FmAAAAAOfn5-8CJIk=.jpg"
     name: Just Business
     description: You got the information you needed from the Rothwild Slaughterhouse
@@ -170,14 +178,6 @@ latest:
     score: 25
     acquired: "2013-04-28"
     slug: "mass-effect-3_team-player"
-    gameSlug: "mass-effect-3"
-    scraped: "Sun Apr 28 2013 21:47:45 GMT+0100 (BST)"
-  - image: "https://live.xbox.com/tiles/Nk/JV/0YCLiGJhbC9NDQUaBB5YWlRkL2FjaC8wLzE3OQAAAADn5+f+ekIr.jpg"
-    name: High Society
-    description: Go undercover to follow a lead.
-    score: 25
-    acquired: "2013-04-28"
-    slug: "mass-effect-3_high-society"
     gameSlug: "mass-effect-3"
     scraped: "Sun Apr 28 2013 21:47:45 GMT+0100 (BST)"
 ---

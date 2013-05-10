@@ -4,7 +4,7 @@ title: Tomb Raider
 showPage: true
 tagline: ""
 group: xboxgame
-weight: 99
+weight: 102
 game: 
   name: Tomb Raider
   gameId: 1397819394
@@ -13,11 +13,19 @@ game:
   boxart: 
     small: "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253510802/1033/boxartsm.jpg"
     large: "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253510802/1033/boxartlg.jpg"
-  lastPlayed: "2013-04-27"
+  lastPlayed: "2013-05-10"
   totalScore: 1000
-  score: 15
+  score: 35
   totalAchievements: 50
   achievements: 
+    - image: "https://live.xbox.com/tiles/r+/4h/0ICLiGJhbC9ECBoDGllTWTAyL2FjaC8wLzIwAAAAAOfn5-8O7rM=.jpg"
+      name: One Smart Cookie
+      description: One optional tomb completed.
+      score: 20
+      acquired: "2013-05-10"
+      slug: "tomb-raider_one-smart-cookie"
+      gameSlug: "tomb-raider"
+      scraped: "Fri May 10 2013 21:47:29 GMT+0100 (BST)"
     - image: "https://live.xbox.com/tiles/lS/bT/04CLiGJhbC9FCxoDGllTWTAyL2FjaC8wLzExAAAAAOfn5-z8Jok=.jpg"
       name: Big Game Hunter
       description: 10 large animals killed and looted.
