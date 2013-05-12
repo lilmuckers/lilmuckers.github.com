@@ -3,7 +3,7 @@ layout: xbox
 title: Xbox Tracker
 tagline: "I play games, they are fun"
 group: games
-achievementcount: 1442
+achievementcount: 1444
 gamer: 
   gamertag: Lilmuckers
   avatar: 
@@ -13,13 +13,29 @@ gamer:
   picture: 
     small: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatarpic-s.png"
     large: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatarpic-l.png"
-  score: 26825
+  score: 26850
   location: Londinium
   motto: "meritocracy!"
   bio: "ARGH! BEES!"
   profile: "http://live.xbox.com/en-GB/Profile?gamertag=lilmuckers"
 gamecount: 103
 latest: 
+  - image: "https://live.xbox.com/tiles/2c/RQ/1ICLiGJhbC9BCxoDGllTWTAyL2FjaC8wLzE1AAAAAOfn5-t-xMU=.jpg"
+    name: Predator
+    description: 50 enemies killed with the bow.
+    score: 10
+    acquired: "2013-05-12"
+    slug: "tomb-raider_predator"
+    gameSlug: "tomb-raider"
+    scraped: "Sun May 12 2013 16:47:30 GMT+0100 (BST)"
+  - image: "https://live.xbox.com/tiles/EZ/wa/0ICLiGJhbC8QCxoDGllTWTAyL2FjaC8wLzFkAAAAAOfn5-81nA0=.jpg"
+    name: Down and Dirty
+    description: 15 finishers performed.
+    score: 15
+    acquired: "2013-05-12"
+    slug: "tomb-raider_down-and-dirty"
+    gameSlug: "tomb-raider"
+    scraped: "Sun May 12 2013 16:47:30 GMT+0100 (BST)"
   - image: "https://live.xbox.com/tiles/r+/4h/0ICLiGJhbC9ECBoDGllTWTAyL2FjaC8wLzIwAAAAAOfn5-8O7rM=.jpg"
     name: One Smart Cookie
     description: One optional tomb completed.
@@ -164,21 +180,5 @@ latest:
     slug: "mass-effect-3_perfect-host"
     gameSlug: "mass-effect-3"
     scraped: "Mon Apr 29 2013 20:47:52 GMT+0100 (BST)"
-  - image: "https://live.xbox.com/tiles/Lx/Rb/0ICLiGJhbC8WDQUaBB5YWlRkL2FjaC8wLzE3YgAAAADn5+f-dBQy.jpg"
-    name: Last Resort
-    description: "Stop an out-of-control scheme before it&apos;s too late."
-    score: 50
-    acquired: "2013-04-28"
-    slug: "mass-effect-3_last-resort"
-    gameSlug: "mass-effect-3"
-    scraped: "Sun Apr 28 2013 22:52:49 GMT+0100 (BST)"
-  - image: "https://live.xbox.com/tiles/mh/16/0oCLiGJhbC8VDQUaBB5YWlRkL2FjaC8wLzE3YQAAAADn5+f9VR2H.jpg"
-    name: Team Player
-    description: Infiltrate an enemy stronghold with your crew.
-    score: 25
-    acquired: "2013-04-28"
-    slug: "mass-effect-3_team-player"
-    gameSlug: "mass-effect-3"
-    scraped: "Sun Apr 28 2013 21:47:45 GMT+0100 (BST)"
 ---
 {% include JB/setup %}
