@@ -15,9 +15,17 @@ game:
     large: "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253510802/1033/boxartlg.jpg"
   lastPlayed: "2013-05-12"
   totalScore: 1000
-  score: 70
+  score: 85
   totalAchievements: 50
   achievements: 
+    - image: "https://live.xbox.com/tiles/e4/9Y/1ICLiGJhbC8WCxoDGllTWTAyL2FjaC8wLzFiAAAAAOfn5-t3j2c=.jpg"
+      name: Opportunist
+      description: 25 unaware enemies killed.
+      score: 15
+      acquired: "2013-05-12"
+      slug: "tomb-raider_opportunist"
+      gameSlug: "tomb-raider"
+      scraped: "Sun May 12 2013 18:57:13 GMT+0100 (BST)"
     - image: "https://live.xbox.com/tiles/sx/ll/0ICLiGJhbC9CFQUcXVJRFzAyL2FjaC8wLzYAAAAA5+fn-0oZqA==.jpg"
       name: Bookworm
       description: "25% of all documents found."

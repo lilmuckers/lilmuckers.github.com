@@ -3,7 +3,7 @@ layout: xbox
 title: Xbox Tracker
 tagline: "I play games, they are fun"
 group: games
-achievementcount: 1445
+achievementcount: 1446
 gamer: 
   gamertag: Lilmuckers
   avatar: 
@@ -13,13 +13,21 @@ gamer:
   picture: 
     small: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatarpic-s.png"
     large: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatarpic-l.png"
-  score: 26860
+  score: 26875
   location: Londinium
   motto: "meritocracy!"
   bio: "ARGH! BEES!"
   profile: "http://live.xbox.com/en-GB/Profile?gamertag=lilmuckers"
 gamecount: 103
 latest: 
+  - image: "https://live.xbox.com/tiles/e4/9Y/1ICLiGJhbC8WCxoDGllTWTAyL2FjaC8wLzFiAAAAAOfn5-t3j2c=.jpg"
+    name: Opportunist
+    description: 25 unaware enemies killed.
+    score: 15
+    acquired: "2013-05-12"
+    slug: "tomb-raider_opportunist"
+    gameSlug: "tomb-raider"
+    scraped: "Sun May 12 2013 18:57:13 GMT+0100 (BST)"
   - image: "https://live.xbox.com/tiles/sx/ll/0ICLiGJhbC9CFQUcXVJRFzAyL2FjaC8wLzYAAAAA5+fn-0oZqA==.jpg"
     name: Bookworm
     description: "25% of all documents found."
@@ -172,13 +180,5 @@ latest:
     slug: "mass-effect-3_simulated-hero"
     gameSlug: "mass-effect-3"
     scraped: "Wed May 01 2013 01:03:30 GMT+0100 (BST)"
-  - image: "https://live.xbox.com/tiles/RQ/cZ/1ICLiGJhbC8QDQUaBB5YWlRkL2FjaC8wLzE3ZAAAAADn5+f7NgdY.jpg"
-    name: King of the Castle
-    description: Win a prize at one of the arcade games.
-    score: 15
-    acquired: "2013-04-29"
-    slug: "mass-effect-3_king-of-the-castle"
-    gameSlug: "mass-effect-3"
-    scraped: "Mon Apr 29 2013 20:47:52 GMT+0100 (BST)"
 ---
 {% include JB/setup %}
