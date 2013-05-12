@@ -3,8 +3,8 @@ layout: raw
 title: Patrick McKinley
 ---
 {% include JB/setup %}
-{{paginator.page}}
-{% if paginator.page != 1 %}
+
+{% if paginator.page > 1 %}
   {% include custom/pagination %}
 {% else %}
 
