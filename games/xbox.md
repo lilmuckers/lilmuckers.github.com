@@ -3,23 +3,31 @@ layout: xbox
 title: Xbox Tracker
 tagline: "I play games, they are fun"
 group: games
-achievementcount: 1446
+achievementcount: 1447
 gamer: 
   gamertag: Lilmuckers
   avatar: 
     secure: "https://avatar-ssl.xboxlive.com/avatar/Lilmuckers/avatar-body.png"
     unsecure: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatar-body.png"
-  activity: "Online playing Tomb Raider - In single player game"
+  activity: "Online playing Xbox Dashboard - Watching a video"
   picture: 
     small: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatarpic-s.png"
     large: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatarpic-l.png"
-  score: 26875
+  score: 26890
   location: Londinium
   motto: "meritocracy!"
   bio: "ARGH! BEES!"
   profile: "http://live.xbox.com/en-GB/Profile?gamertag=lilmuckers"
 gamecount: 103
 latest: 
+  - image: "https://live.xbox.com/tiles/Sj/yw/1YCLiGJhbC9ACxoDGllTWTAyL2FjaC8wLzE0AAAAAOfn5-qfPFY=.jpg"
+    name: Sharp Shooter
+    description: 50 headshot kills performed in the single player campaign.
+    score: 15
+    acquired: "2013-05-12"
+    slug: "tomb-raider_sharp-shooter"
+    gameSlug: "tomb-raider"
+    scraped: "Sun May 12 2013 20:02:16 GMT+0100 (BST)"
   - image: "https://live.xbox.com/tiles/e4/9Y/1ICLiGJhbC8WCxoDGllTWTAyL2FjaC8wLzFiAAAAAOfn5-t3j2c=.jpg"
     name: Opportunist
     description: 25 unaware enemies killed.
@@ -172,13 +180,5 @@ latest:
     slug: "mass-effect-3_the-one-and-only"
     gameSlug: "mass-effect-3"
     scraped: "Fri May 03 2013 19:28:13 GMT+0100 (BST)"
-  - image: "https://live.xbox.com/tiles/Y-/bY/14CLiGJhbC8SDQUaBB5YWlRkL2FjaC8wLzE3ZgAAAADn5+f49-Z+.jpg"
-    name: Simulated Hero
-    description: "Score 9999 points in the combat simulator on Normal, Hardcore, or Insanity."
-    score: 25
-    acquired: "2013-05-01"
-    slug: "mass-effect-3_simulated-hero"
-    gameSlug: "mass-effect-3"
-    scraped: "Wed May 01 2013 01:03:30 GMT+0100 (BST)"
 ---
 {% include JB/setup %}

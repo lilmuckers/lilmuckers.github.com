@@ -15,9 +15,17 @@ game:
     large: "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253510802/1033/boxartlg.jpg"
   lastPlayed: "2013-05-12"
   totalScore: 1000
-  score: 85
+  score: 100
   totalAchievements: 50
   achievements: 
+    - image: "https://live.xbox.com/tiles/Sj/yw/1YCLiGJhbC9ACxoDGllTWTAyL2FjaC8wLzE0AAAAAOfn5-qfPFY=.jpg"
+      name: Sharp Shooter
+      description: 50 headshot kills performed in the single player campaign.
+      score: 15
+      acquired: "2013-05-12"
+      slug: "tomb-raider_sharp-shooter"
+      gameSlug: "tomb-raider"
+      scraped: "Sun May 12 2013 20:02:16 GMT+0100 (BST)"
     - image: "https://live.xbox.com/tiles/e4/9Y/1ICLiGJhbC8WCxoDGllTWTAyL2FjaC8wLzFiAAAAAOfn5-t3j2c=.jpg"
       name: Opportunist
       description: 25 unaware enemies killed.
