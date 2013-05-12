@@ -15,9 +15,17 @@ game:
     large: "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253510802/1033/boxartlg.jpg"
   lastPlayed: "2013-05-12"
   totalScore: 1000
-  score: 110
+  score: 130
   totalAchievements: 50
   achievements: 
+    - image: "https://live.xbox.com/tiles/EV/Jt/0ICLiGJhbC8VFQUcXVJRFzAyL2FjaC8wL2EAAAAA5+fn-0JSCg==.jpg"
+      name: Scrounger
+      description: 5000 pieces of salvage collected.
+      score: 20
+      acquired: "2013-05-12"
+      slug: "tomb-raider_scrounger"
+      gameSlug: "tomb-raider"
+      scraped: "Sun May 12 2013 22:07:15 GMT+0100 (BST)"
     - image: "https://live.xbox.com/tiles/Lv/Wi/0oCLiGJhbC9MFQUcXVJRFzAyL2FjaC8wLzgAAAAA5+fn-Y31NQ==.jpg"
       name: Relic Hunter
       description: "25% of all relics collected."

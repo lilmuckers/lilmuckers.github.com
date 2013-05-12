@@ -3,23 +3,31 @@ layout: xbox
 title: Xbox Tracker
 tagline: "I play games, they are fun"
 group: games
-achievementcount: 1448
+achievementcount: 1449
 gamer: 
   gamertag: Lilmuckers
   avatar: 
     secure: "https://avatar-ssl.xboxlive.com/avatar/Lilmuckers/avatar-body.png"
     unsecure: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatar-body.png"
-  activity: "Online playing Tomb Raider - In single player game"
+  activity: Last seen 22 minutes ago playing Xbox Dashboard
   picture: 
     small: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatarpic-s.png"
     large: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatarpic-l.png"
-  score: 26900
+  score: 26920
   location: Londinium
   motto: "meritocracy!"
   bio: "ARGH! BEES!"
   profile: "http://live.xbox.com/en-GB/Profile?gamertag=lilmuckers"
 gamecount: 103
 latest: 
+  - image: "https://live.xbox.com/tiles/EV/Jt/0ICLiGJhbC8VFQUcXVJRFzAyL2FjaC8wL2EAAAAA5+fn-0JSCg==.jpg"
+    name: Scrounger
+    description: 5000 pieces of salvage collected.
+    score: 20
+    acquired: "2013-05-12"
+    slug: "tomb-raider_scrounger"
+    gameSlug: "tomb-raider"
+    scraped: "Sun May 12 2013 22:07:15 GMT+0100 (BST)"
   - image: "https://live.xbox.com/tiles/Lv/Wi/0oCLiGJhbC9MFQUcXVJRFzAyL2FjaC8wLzgAAAAA5+fn-Y31NQ==.jpg"
     name: Relic Hunter
     description: "25% of all relics collected."
@@ -172,13 +180,5 @@ latest:
     slug: "fez_achievement-unlocked"
     gameSlug: fez
     scraped: "Fri May 03 2013 19:27:58 GMT+0100 (BST)"
-  - image: "https://live.xbox.com/tiles/1v/-5/1YCLiGJhbC8RDQUaBB5YWlRkL2FjaC8wLzE3ZQAAAADn5+f61v-L.jpg"
-    name: Technical Issues
-    description: Investigate a strange occurrence in the combat simulator.
-    score: 25
-    acquired: "2013-05-02"
-    slug: "mass-effect-3_technical-issues"
-    gameSlug: "mass-effect-3"
-    scraped: "Fri May 03 2013 19:28:13 GMT+0100 (BST)"
 ---
 {% include JB/setup %}
