@@ -15,9 +15,17 @@ game:
     large: "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253510802/1033/boxartlg.jpg"
   lastPlayed: "2013-05-12"
   totalScore: 1000
-  score: 60
+  score: 70
   totalAchievements: 50
   achievements: 
+    - image: "https://live.xbox.com/tiles/sx/ll/0ICLiGJhbC9CFQUcXVJRFzAyL2FjaC8wLzYAAAAA5+fn-0oZqA==.jpg"
+      name: Bookworm
+      description: "25% of all documents found."
+      score: 10
+      acquired: "2013-05-12"
+      slug: "tomb-raider_bookworm"
+      gameSlug: "tomb-raider"
+      scraped: "Sun May 12 2013 17:52:15 GMT+0100 (BST)"
     - image: "https://live.xbox.com/tiles/2c/RQ/1ICLiGJhbC9BCxoDGllTWTAyL2FjaC8wLzE1AAAAAOfn5-t-xMU=.jpg"
       name: Predator
       description: 50 enemies killed with the bow.

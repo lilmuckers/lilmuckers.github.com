@@ -3,7 +3,7 @@ layout: xbox
 title: Xbox Tracker
 tagline: "I play games, they are fun"
 group: games
-achievementcount: 1444
+achievementcount: 1445
 gamer: 
   gamertag: Lilmuckers
   avatar: 
@@ -13,13 +13,21 @@ gamer:
   picture: 
     small: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatarpic-s.png"
     large: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatarpic-l.png"
-  score: 26850
+  score: 26860
   location: Londinium
   motto: "meritocracy!"
   bio: "ARGH! BEES!"
   profile: "http://live.xbox.com/en-GB/Profile?gamertag=lilmuckers"
 gamecount: 103
 latest: 
+  - image: "https://live.xbox.com/tiles/sx/ll/0ICLiGJhbC9CFQUcXVJRFzAyL2FjaC8wLzYAAAAA5+fn-0oZqA==.jpg"
+    name: Bookworm
+    description: "25% of all documents found."
+    score: 10
+    acquired: "2013-05-12"
+    slug: "tomb-raider_bookworm"
+    gameSlug: "tomb-raider"
+    scraped: "Sun May 12 2013 17:52:15 GMT+0100 (BST)"
   - image: "https://live.xbox.com/tiles/2c/RQ/1ICLiGJhbC9BCxoDGllTWTAyL2FjaC8wLzE1AAAAAOfn5-t-xMU=.jpg"
     name: Predator
     description: 50 enemies killed with the bow.
@@ -170,14 +178,6 @@ latest:
     score: 15
     acquired: "2013-04-29"
     slug: "mass-effect-3_king-of-the-castle"
-    gameSlug: "mass-effect-3"
-    scraped: "Mon Apr 29 2013 20:47:52 GMT+0100 (BST)"
-  - image: "https://live.xbox.com/tiles/vO/y7/0YCLiGJhbC8XDQUaBB5YWlRkL2FjaC8wLzE3YwAAAADn5+f+lOyh.jpg"
-    name: Perfect Host
-    description: Throw a party for your friends.
-    score: 10
-    acquired: "2013-04-29"
-    slug: "mass-effect-3_perfect-host"
     gameSlug: "mass-effect-3"
     scraped: "Mon Apr 29 2013 20:47:52 GMT+0100 (BST)"
 ---
