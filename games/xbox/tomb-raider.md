@@ -15,9 +15,17 @@ game:
     large: "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253510802/1033/boxartlg.jpg"
   lastPlayed: "2013-05-12"
   totalScore: 1000
-  score: 100
+  score: 110
   totalAchievements: 50
   achievements: 
+    - image: "https://live.xbox.com/tiles/Lv/Wi/0oCLiGJhbC9MFQUcXVJRFzAyL2FjaC8wLzgAAAAA5+fn-Y31NQ==.jpg"
+      name: Relic Hunter
+      description: "25% of all relics collected."
+      score: 10
+      acquired: "2013-05-12"
+      slug: "tomb-raider_relic-hunter"
+      gameSlug: "tomb-raider"
+      scraped: "Sun May 12 2013 21:02:14 GMT+0100 (BST)"
     - image: "https://live.xbox.com/tiles/Sj/yw/1YCLiGJhbC9ACxoDGllTWTAyL2FjaC8wLzE0AAAAAOfn5-qfPFY=.jpg"
       name: Sharp Shooter
       description: 50 headshot kills performed in the single player campaign.

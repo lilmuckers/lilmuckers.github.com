@@ -3,23 +3,31 @@ layout: xbox
 title: Xbox Tracker
 tagline: "I play games, they are fun"
 group: games
-achievementcount: 1447
+achievementcount: 1448
 gamer: 
   gamertag: Lilmuckers
   avatar: 
     secure: "https://avatar-ssl.xboxlive.com/avatar/Lilmuckers/avatar-body.png"
     unsecure: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatar-body.png"
-  activity: "Online playing Xbox Dashboard - Watching a video"
+  activity: "Online playing Tomb Raider - In single player game"
   picture: 
     small: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatarpic-s.png"
     large: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatarpic-l.png"
-  score: 26890
+  score: 26900
   location: Londinium
   motto: "meritocracy!"
   bio: "ARGH! BEES!"
   profile: "http://live.xbox.com/en-GB/Profile?gamertag=lilmuckers"
 gamecount: 103
 latest: 
+  - image: "https://live.xbox.com/tiles/Lv/Wi/0oCLiGJhbC9MFQUcXVJRFzAyL2FjaC8wLzgAAAAA5+fn-Y31NQ==.jpg"
+    name: Relic Hunter
+    description: "25% of all relics collected."
+    score: 10
+    acquired: "2013-05-12"
+    slug: "tomb-raider_relic-hunter"
+    gameSlug: "tomb-raider"
+    scraped: "Sun May 12 2013 21:02:14 GMT+0100 (BST)"
   - image: "https://live.xbox.com/tiles/Sj/yw/1YCLiGJhbC9ACxoDGllTWTAyL2FjaC8wLzE0AAAAAOfn5-qfPFY=.jpg"
     name: Sharp Shooter
     description: 50 headshot kills performed in the single player campaign.
@@ -170,14 +178,6 @@ latest:
     score: 25
     acquired: "2013-05-02"
     slug: "mass-effect-3_technical-issues"
-    gameSlug: "mass-effect-3"
-    scraped: "Fri May 03 2013 19:28:13 GMT+0100 (BST)"
-  - image: "https://live.xbox.com/tiles/MI/zo/1YCLiGJhbC9EAgUaBB5YWlRkL2FjaC8wLzE4MAAAAADn5+f6x4wt.jpg"
-    name: The One and Only
-    description: "Defeat a group of Spectre-level opponents on Normal, Hardcore, or Insanity."
-    score: 50
-    acquired: "2013-05-02"
-    slug: "mass-effect-3_the-one-and-only"
     gameSlug: "mass-effect-3"
     scraped: "Fri May 03 2013 19:28:13 GMT+0100 (BST)"
 ---
