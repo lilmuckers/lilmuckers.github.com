@@ -3,23 +3,31 @@ layout: xbox
 title: Xbox Tracker
 tagline: "I play games, they are fun"
 group: games
-achievementcount: 1449
+achievementcount: 1450
 gamer: 
   gamertag: Lilmuckers
   avatar: 
     secure: "https://avatar-ssl.xboxlive.com/avatar/Lilmuckers/avatar-body.png"
     unsecure: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatar-body.png"
-  activity: Last seen 22 minutes ago playing Xbox Dashboard
+  activity: "Online playing Tomb Raider - In single player game"
   picture: 
     small: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatarpic-s.png"
     large: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatarpic-l.png"
-  score: 26920
+  score: 26925
   location: Londinium
   motto: "meritocracy!"
   bio: "ARGH! BEES!"
   profile: "http://live.xbox.com/en-GB/Profile?gamertag=lilmuckers"
 gamecount: 103
 latest: 
+  - image: "https://live.xbox.com/tiles/xf/1j/1ICLiGJhbC9CCBoDGllTWTAyL2FjaC8wLzI2AAAAAOfn5-tM-dk=.jpg"
+    name: Crab Cakes
+    description: FeeFee the crab killed.
+    score: 5
+    acquired: "2013-05-17"
+    slug: "tomb-raider_crab-cakes"
+    gameSlug: "tomb-raider"
+    scraped: "Fri May 17 2013 21:12:27 GMT+0100 (BST)"
   - image: "https://live.xbox.com/tiles/EV/Jt/0ICLiGJhbC8VFQUcXVJRFzAyL2FjaC8wL2EAAAAA5+fn-0JSCg==.jpg"
     name: Scrounger
     description: 5000 pieces of salvage collected.
@@ -170,14 +178,6 @@ latest:
     score: 15
     acquired: "2013-05-03"
     slug: "fez_equal-and-opposite"
-    gameSlug: fez
-    scraped: "Fri May 03 2013 19:27:58 GMT+0100 (BST)"
-  - image: "https://live.xbox.com/tiles/PK/Du/1YCLiGJhbC8XFQUXXFJRFmMwL2FjaC8wL2MAAAAA5+fn+sGgJw==.jpg"
-    name: Achievement unlocked
-    description: Unlocking achieved.
-    score: 15
-    acquired: "2013-05-03"
-    slug: "fez_achievement-unlocked"
     gameSlug: fez
     scraped: "Fri May 03 2013 19:27:58 GMT+0100 (BST)"
 ---
