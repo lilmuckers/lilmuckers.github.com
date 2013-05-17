@@ -3,7 +3,7 @@ layout: xbox
 title: Xbox Tracker
 tagline: "I play games, they are fun"
 group: games
-achievementcount: 1450
+achievementcount: 1454
 gamer: 
   gamertag: Lilmuckers
   avatar: 
@@ -13,13 +13,45 @@ gamer:
   picture: 
     small: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatarpic-s.png"
     large: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatarpic-l.png"
-  score: 26925
+  score: 26980
   location: Londinium
   motto: "meritocracy!"
   bio: "ARGH! BEES!"
   profile: "http://live.xbox.com/en-GB/Profile?gamertag=lilmuckers"
 gamecount: 103
 latest: 
+  - image: "https://live.xbox.com/tiles/bM/1x/1oCLiGJhbC9CCxoDGllTWTAyL2FjaC8wLzE2AAAAAOfn5-lezXA=.jpg"
+    name: Equalizer
+    description: 75 enemies killed with the rifle.
+    score: 10
+    acquired: "2013-05-17"
+    slug: "tomb-raider_equalizer"
+    gameSlug: "tomb-raider"
+    scraped: "Fri May 17 2013 22:17:15 GMT+0100 (BST)"
+  - image: "https://live.xbox.com/tiles/zk/gO/1oCLiGJhbC8QFQUcXVJRFzAyL2FjaC8wL2QAAAAA5+fn+SFI1Q==.jpg"
+    name: Clever Girl
+    description: Purchased all skills in one category.
+    score: 25
+    acquired: "2013-05-17"
+    slug: "tomb-raider_clever-girl"
+    gameSlug: "tomb-raider"
+    scraped: "Fri May 17 2013 22:17:15 GMT+0100 (BST)"
+  - image: "https://live.xbox.com/tiles/N6/Os/04CLiGJhbC8XFQUcXVJRFzAyL2FjaC8wL2MAAAAA5+fn-IOjLA==.jpg"
+    name: Picky
+    description: 200 enemies looted.
+    score: 15
+    acquired: "2013-05-17"
+    slug: "tomb-raider_picky"
+    gameSlug: "tomb-raider"
+    scraped: "Fri May 17 2013 22:17:15 GMT+0100 (BST)"
+  - image: "https://live.xbox.com/tiles/Yt/lW/1YCLiGJhbC9NCxoDGllTWTAyL2FjaC8wLzE5AAAAAOfn5-p52X4=.jpg"
+    name: Epic Fumble
+    description: Forced an enemy to drop dynamite that killed two people.
+    score: 15
+    acquired: "2013-05-17"
+    slug: "tomb-raider_epic-fumble"
+    gameSlug: "tomb-raider"
+    scraped: "Fri May 17 2013 22:17:15 GMT+0100 (BST)"
   - image: "https://live.xbox.com/tiles/xf/1j/1ICLiGJhbC9CCBoDGllTWTAyL2FjaC8wLzI2AAAAAOfn5-tM-dk=.jpg"
     name: Crab Cakes
     description: FeeFee the crab killed.
@@ -148,37 +180,5 @@ latest:
     slug: "fez_warp-zone"
     gameSlug: fez
     scraped: "Sun May 05 2013 21:17:56 GMT+0100 (BST)"
-  - image: "https://live.xbox.com/tiles/Zw/BE/0ICLiGJhbC9HFQUXXFJRFmMwL2FjaC8wLzMAAAAA5+fn-2sAfA==.jpg"
-    name: Kill screen
-    description: Visited the Visitors.
-    score: 25
-    acquired: "2013-05-05"
-    slug: "fez_kill-screen"
-    gameSlug: fez
-    scraped: "Sun May 05 2013 18:12:54 GMT+0100 (BST)"
-  - image: "https://live.xbox.com/tiles/r1/gO/1ICLiGJhbC8WFQUXXFJRFmMwL2FjaC8wL2IAAAAA5+fn+yFYtA==.jpg"
-    name: Cryptographer
-    description: There are patterns everywhere.
-    score: 15
-    acquired: "2013-05-03"
-    slug: fez_cryptographer
-    gameSlug: fez
-    scraped: "Fri May 03 2013 22:28:01 GMT+0100 (BST)"
-  - image: "https://live.xbox.com/tiles/K+/LH/14CLiGJhbC9DFQUXXFJRFmMwL2FjaC8wLzcAAAAA5+fn+OjiMA==.jpg"
-    name: Mightier than the sword
-    description: A cube for writing.
-    score: 10
-    acquired: "2013-05-03"
-    slug: "fez_mightier-than-the-sword"
-    gameSlug: fez
-    scraped: "Fri May 03 2013 22:28:01 GMT+0100 (BST)"
-  - image: "https://live.xbox.com/tiles/tg/4A/1YCLiGJhbC9NFQUXXFJRFmMwL2FjaC8wLzkAAAAA5+fn+i8OrQ==.jpg"
-    name: Equal and opposite
-    description: Negative space.
-    score: 15
-    acquired: "2013-05-03"
-    slug: "fez_equal-and-opposite"
-    gameSlug: fez
-    scraped: "Fri May 03 2013 19:27:58 GMT+0100 (BST)"
 ---
 {% include JB/setup %}
