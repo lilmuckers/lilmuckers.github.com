@@ -193,7 +193,7 @@ This means GitHub can tell my how much time i'm spending on my Xbox, so I can fe
 [xbox-live]: http://www.xbox.com/ "Xbox Live"
 [phantom-js]: http://phantomjs.org/ "Phantom JS Headless Webkit Browser"
 [casper-js]: http://casperjs.org/ "Casper JS navigation and scripting utility"
-[blog-api-commits]: {% post_url 2013-04-08-github-api-commit %} "GitHub API Commits"
+[blog-api-commits]: {% post_url tech/2013-04-08-github-api-commit %} "GitHub API Commits"
 [jekyll]: http://jekyllrb.com/ "Jekyll HTML Site Builder"
 [gh-pages]: http://pages.github.com/ "GitHub Pages"
 [yaml-front-matter]: https://github.com/mojombo/jekyll/wiki/YAML-Front-Matter "Jekyll YAML Front Matter"

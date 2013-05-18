@@ -294,7 +294,7 @@ This whole process is pretty annoying complicated, so I wrote a **node.js** scri
 [git]: http://git-scm.com/ "Git Homesite"
 [git-internals]: http://git-scm.com/book/en/Git-Internals "Git internals Documentation"
 [github-oauth]: http://developer.github.com/v3/oauth/ "GitHub API oAuth"
-[oauth-token-tool]: {% post_url 2013-04-07-github-api-oauth %} "GitHub API oAuth generation tool"
+[oauth-token-tool]: {% post_url tech/2013-04-07-github-api-oauth %} "GitHub API oAuth generation tool"
 [ref-get-info]: http://developer.github.com/v3/git/refs/#get-a-reference "GitHub API Documentation - get a reference"
 [commit-get-info]: http://developer.github.com/v3/git/commits/#get-a-commit "GitHub API Documentation - get a commit"
 [create-tree]: http://developer.github.com/v3/git/trees/#create-a-tree "GitHub API Documentation - create a tree"

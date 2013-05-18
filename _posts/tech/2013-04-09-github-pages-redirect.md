@@ -81,6 +81,6 @@ This script simply loaded the redirects into an array, and then used javascript 
 This is far from an ideal solution, but it's the best I could come up with that would allow me to keep using the Jekyll generation that sits within GitHub Pages.
 
 
-[magento-part1]: {% post_url 2013-04-09-magento-part-1 %} "Magento Development Part 1"
+[magento-part1]: {% post_url lessons/magento/2013-04-09-magento-part-1 %} "Magento Development Part 1"
 [404]: /404.html "404- Dead Link"
 [redirect-jekyll]: http://www.marran.com/tech/creating-redirects-with-jekyll/ "Creating Redirects With Jekyll"
