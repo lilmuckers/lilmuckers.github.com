@@ -3,23 +3,31 @@ layout: xbox
 title: Xbox Tracker
 tagline: "I play games, they are fun"
 group: games
-achievementcount: 1456
+achievementcount: 1457
 gamer: 
   gamertag: Lilmuckers
   avatar: 
     secure: "https://avatar-ssl.xboxlive.com/avatar/Lilmuckers/avatar-body.png"
     unsecure: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatar-body.png"
-  activity: Last seen 46 minutes ago playing Xbox Dashboard
+  activity: Last seen 1 minute ago playing Xbox.com
   picture: 
     small: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatarpic-s.png"
     large: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatarpic-l.png"
-  score: 27090
+  score: 27100
   location: Londinium
   motto: "meritocracy!"
   bio: "ARGH! BEES!"
   profile: "http://live.xbox.com/en-GB/Profile?gamertag=lilmuckers"
 gamecount: 103
 latest: 
+  - image: "https://live.xbox.com/tiles/FP/wM/04CLiGJhbC9DCRoDGllTWTAyL2FjaC8wLzM3AAAAAOfn5-wj-Ag=.jpg"
+    name: Looking for Trouble
+    description: "25% of all GPS caches found."
+    score: 10
+    acquired: "2013-05-21"
+    slug: "tomb-raider_looking-for-trouble"
+    gameSlug: "tomb-raider"
+    scraped: "Tue May 21 2013 23:12:26 GMT+0100 (BST)"
   - image: "https://live.xbox.com/tiles/6L/nP/1YCLiGJhbC8SFQUcXVJRFzAyL2FjaC8wL2YAAAAA5+fn+uC58w==.jpg"
     name: "Now We&apos;re Getting Serious"
     description: One weapon fully modded and completely upgraded.
@@ -172,13 +180,5 @@ latest:
     slug: fez_phrenologist
     gameSlug: fez
     scraped: "Mon May 06 2013 11:12:14 GMT+0100 (BST)"
-  - image: "https://live.xbox.com/tiles/Jf/bg/1ICLiGJhbC9MFQUXXFJRFmMwL2FjaC8wLzgAAAAA5+fn+8-2Pg==.jpg"
-    name: A numbers game
-    description: A cube for counting.
-    score: 10
-    acquired: "2013-05-05"
-    slug: "fez_a-numbers-game"
-    gameSlug: fez
-    scraped: "Sun May 05 2013 21:17:56 GMT+0100 (BST)"
 ---
 {% include JB/setup %}

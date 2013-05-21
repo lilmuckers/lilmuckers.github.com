@@ -15,9 +15,17 @@ game:
     large: "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253510802/1033/boxartlg.jpg"
   lastPlayed: "2013-05-21"
   totalScore: 1000
-  score: 300
+  score: 310
   totalAchievements: 50
   achievements: 
+    - image: "https://live.xbox.com/tiles/FP/wM/04CLiGJhbC9DCRoDGllTWTAyL2FjaC8wLzM3AAAAAOfn5-wj-Ag=.jpg"
+      name: Looking for Trouble
+      description: "25% of all GPS caches found."
+      score: 10
+      acquired: "2013-05-21"
+      slug: "tomb-raider_looking-for-trouble"
+      gameSlug: "tomb-raider"
+      scraped: "Tue May 21 2013 23:12:26 GMT+0100 (BST)"
     - image: "https://live.xbox.com/tiles/6L/nP/1YCLiGJhbC8SFQUcXVJRFzAyL2FjaC8wL2YAAAAA5+fn+uC58w==.jpg"
       name: "Now We&apos;re Getting Serious"
       description: One weapon fully modded and completely upgraded.
