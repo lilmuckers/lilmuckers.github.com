@@ -3,23 +3,39 @@ layout: xbox
 title: Xbox Tracker
 tagline: "I play games, they are fun"
 group: games
-achievementcount: 1454
+achievementcount: 1456
 gamer: 
   gamertag: Lilmuckers
   avatar: 
     secure: "https://avatar-ssl.xboxlive.com/avatar/Lilmuckers/avatar-body.png"
     unsecure: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatar-body.png"
-  activity: Online playing Xbox Dashboard
+  activity: "Online playing Tomb Raider - In single player game"
   picture: 
     small: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatarpic-s.png"
     large: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatarpic-l.png"
-  score: 26990
+  score: 27090
   location: Londinium
   motto: "meritocracy!"
   bio: "ARGH! BEES!"
   profile: "http://live.xbox.com/en-GB/Profile?gamertag=lilmuckers"
 gamecount: 103
 latest: 
+  - image: "https://live.xbox.com/tiles/6L/nP/1YCLiGJhbC8SFQUcXVJRFzAyL2FjaC8wL2YAAAAA5+fn+uC58w==.jpg"
+    name: "Now We&apos;re Getting Serious"
+    description: One weapon fully modded and completely upgraded.
+    score: 25
+    acquired: "2013-05-21"
+    slug: "tomb-raider_now-were-getting-serious"
+    gameSlug: "tomb-raider"
+    scraped: "Tue May 21 2013 21:57:23 GMT+0100 (BST)"
+  - image: "https://live.xbox.com/tiles/4w/yi/14CLiGJhbC9ACBoDGllTWTAyL2FjaC8wLzI0AAAAAOfn5-iNDP8=.jpg"
+    name: A Survivor Is Born
+    description: Game completed.
+    score: 75
+    acquired: "2013-05-21"
+    slug: "tomb-raider_a-survivor-is-born"
+    gameSlug: "tomb-raider"
+    scraped: "Tue May 21 2013 21:57:23 GMT+0100 (BST)"
   - image: "https://live.xbox.com/tiles/bM/1x/1oCLiGJhbC9CCxoDGllTWTAyL2FjaC8wLzE2AAAAAOfn5-lezXA=.jpg"
     name: Equalizer
     description: 75 enemies killed with the rifle.
@@ -162,22 +178,6 @@ latest:
     score: 10
     acquired: "2013-05-05"
     slug: "fez_a-numbers-game"
-    gameSlug: fez
-    scraped: "Sun May 05 2013 21:17:56 GMT+0100 (BST)"
-  - image: "https://live.xbox.com/tiles/DR/MG/1ICLiGJhbC9BFQUXXFJRFmMwL2FjaC8wLzUAAAAA5+fn+ykTFg==.jpg"
-    name: Haikus not epics
-    description: An anthology of ZU knowledge.
-    score: 10
-    acquired: "2013-05-05"
-    slug: "fez_haikus-not-epics"
-    gameSlug: fez
-    scraped: "Sun May 05 2013 21:17:56 GMT+0100 (BST)"
-  - image: "https://live.xbox.com/tiles/Gl/Ev/1oCLiGJhbC8VFQUXXFJRFmMwL2FjaC8wL2EAAAAA5+fn+QBRAQ==.jpg"
-    name: Warp zone
-    description: Like folding a sheet of paper.
-    score: 15
-    acquired: "2013-05-05"
-    slug: "fez_warp-zone"
     gameSlug: fez
     scraped: "Sun May 05 2013 21:17:56 GMT+0100 (BST)"
 ---
