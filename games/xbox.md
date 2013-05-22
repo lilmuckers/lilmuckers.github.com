@@ -3,23 +3,31 @@ layout: xbox
 title: Xbox Tracker
 tagline: "I play games, they are fun"
 group: games
-achievementcount: 1457
+achievementcount: 1458
 gamer: 
   gamertag: Lilmuckers
   avatar: 
     secure: "https://avatar-ssl.xboxlive.com/avatar/Lilmuckers/avatar-body.png"
     unsecure: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatar-body.png"
-  activity: Last seen 1 minute ago playing Xbox.com
+  activity: Last seen 31 minutes ago playing Tomb Raider
   picture: 
     small: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatarpic-s.png"
     large: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatarpic-l.png"
-  score: 27100
+  score: 27115
   location: Londinium
   motto: "meritocracy!"
   bio: "ARGH! BEES!"
   profile: "http://live.xbox.com/en-GB/Profile?gamertag=lilmuckers"
 gamecount: 103
 latest: 
+  - image: "https://live.xbox.com/tiles/IO/GF/0YCLiGJhbC9DFQUcXVJRFzAyL2FjaC8wLzcAAAAA5+fn-qrhOw==.jpg"
+    name: Historian
+    description: "75% of all documents found."
+    score: 15
+    acquired: "2013-05-23"
+    slug: "tomb-raider_historian"
+    gameSlug: "tomb-raider"
+    scraped: "Wed May 22 2013 23:58:35 GMT+0100 (BST)"
   - image: "https://live.xbox.com/tiles/FP/wM/04CLiGJhbC9DCRoDGllTWTAyL2FjaC8wLzM3AAAAAOfn5-wj-Ag=.jpg"
     name: Looking for Trouble
     description: "25% of all GPS caches found."
@@ -170,14 +178,6 @@ latest:
     score: 40
     acquired: "2013-05-05"
     slug: "fez_sum-total"
-    gameSlug: fez
-    scraped: "Mon May 06 2013 11:12:14 GMT+0100 (BST)"
-  - image: "https://live.xbox.com/tiles/uB/on/1oCLiGJhbC9CFQUXXFJRFmMwL2FjaC8wLzYAAAAA5+fn+Qgaow==.jpg"
-    name: Phrenologist
-    description: The seat of knowledge is in the head.
-    score: 10
-    acquired: "2013-05-05"
-    slug: fez_phrenologist
     gameSlug: fez
     scraped: "Mon May 06 2013 11:12:14 GMT+0100 (BST)"
 ---
