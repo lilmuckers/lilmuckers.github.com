@@ -3,23 +3,31 @@ layout: xbox
 title: Xbox Tracker
 tagline: "I play games, they are fun"
 group: games
-achievementcount: 1458
+achievementcount: 1459
 gamer: 
   gamertag: Lilmuckers
   avatar: 
     secure: "https://avatar-ssl.xboxlive.com/avatar/Lilmuckers/avatar-body.png"
     unsecure: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatar-body.png"
-  activity: Last seen 31 minutes ago playing Tomb Raider
+  activity: "Online playing Tomb Raider - In single player game"
   picture: 
     small: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatarpic-s.png"
     large: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatarpic-l.png"
-  score: 27115
+  score: 27135
   location: Londinium
   motto: "meritocracy!"
   bio: "ARGH! BEES!"
   profile: "http://live.xbox.com/en-GB/Profile?gamertag=lilmuckers"
 gamecount: 103
 latest: 
+  - image: "https://live.xbox.com/tiles/iR/-g/04CLiGJhbC9GCBoDGllTWTAyL2FjaC8wLzIyAAAAAOfn5-zPH5U=.jpg"
+    name: Unfinished Business
+    description: One challenge completed.
+    score: 20
+    acquired: "2013-05-23"
+    slug: "tomb-raider_unfinished-business"
+    gameSlug: "tomb-raider"
+    scraped: "Thu May 23 2013 14:32:12 GMT+0100 (BST)"
   - image: "https://live.xbox.com/tiles/IO/GF/0YCLiGJhbC9DFQUcXVJRFzAyL2FjaC8wLzcAAAAA5+fn-qrhOw==.jpg"
     name: Historian
     description: "75% of all documents found."
@@ -170,14 +178,6 @@ latest:
     score: 25
     acquired: "2013-05-05"
     slug: fez_hexahedronaut
-    gameSlug: fez
-    scraped: "Mon May 06 2013 11:12:14 GMT+0100 (BST)"
-  - image: "https://live.xbox.com/tiles/Qf/GF/04CLiGJhbC9FFQUXXFJRFmMwL2FjaC8wLzEAAAAA5+fn-KrxWg==.jpg"
-    name: Sum total
-    description: "You don&rsquo;t have to go home, but you can&rsquo;t stay here. Okay, you can stay here."
-    score: 40
-    acquired: "2013-05-05"
-    slug: "fez_sum-total"
     gameSlug: fez
     scraped: "Mon May 06 2013 11:12:14 GMT+0100 (BST)"
 ---
