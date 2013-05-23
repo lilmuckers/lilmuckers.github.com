@@ -3,23 +3,31 @@ layout: xbox
 title: Xbox Tracker
 tagline: "I play games, they are fun"
 group: games
-achievementcount: 1469
+achievementcount: 1470
 gamer: 
   gamertag: Lilmuckers
   avatar: 
     secure: "https://avatar-ssl.xboxlive.com/avatar/Lilmuckers/avatar-body.png"
     unsecure: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatar-body.png"
-  activity: Last seen 7 minutes ago playing Xbox.com
+  activity: "Online playing Tomb Raider - In menu"
   picture: 
     small: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatarpic-s.png"
     large: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatarpic-l.png"
-  score: 27415
+  score: 27465
   location: Londinium
   motto: "meritocracy!"
   bio: "ARGH! BEES!"
   profile: "http://live.xbox.com/en-GB/Profile?gamertag=lilmuckers"
 gamecount: 103
 latest: 
+  - image: "https://live.xbox.com/tiles/Bt/4z/0oCLiGJhbC9ECxoDGllTWTAyL2FjaC8wLzEwAAAAAOfn5-0c3ho=.jpg"
+    name: The Professional
+    description: All weapons fully modded and completely upgraded.
+    score: 50
+    acquired: "2013-05-24"
+    slug: "tomb-raider_the-professional"
+    gameSlug: "tomb-raider"
+    scraped: "Fri May 24 2013 00:37:14 GMT+0100 (BST)"
   - image: "https://live.xbox.com/tiles/pF/tM/0oCLiGJhbC8WFQUcXVJRFzAyL2FjaC8wL2IAAAAA5+fn-WNbvw==.jpg"
     name: No Stone Left Unturned
     description: "All documents, relics, and GPS caches found."
@@ -172,13 +180,5 @@ latest:
     slug: "tomb-raider_epic-fumble"
     gameSlug: "tomb-raider"
     scraped: "Fri May 17 2013 22:17:15 GMT+0100 (BST)"
-  - image: "https://live.xbox.com/tiles/xf/1j/1ICLiGJhbC9CCBoDGllTWTAyL2FjaC8wLzI2AAAAAOfn5-tM-dk=.jpg"
-    name: Crab Cakes
-    description: FeeFee the crab killed.
-    score: 5
-    acquired: "2013-05-17"
-    slug: "tomb-raider_crab-cakes"
-    gameSlug: "tomb-raider"
-    scraped: "Fri May 17 2013 21:12:27 GMT+0100 (BST)"
 ---
 {% include JB/setup %}

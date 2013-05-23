@@ -15,9 +15,17 @@ game:
     large: "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253510802/1033/boxartlg.jpg"
   lastPlayed: "2013-05-23"
   totalScore: 1000
-  score: 625
+  score: 675
   totalAchievements: 50
   achievements: 
+    - image: "https://live.xbox.com/tiles/Bt/4z/0oCLiGJhbC9ECxoDGllTWTAyL2FjaC8wLzEwAAAAAOfn5-0c3ho=.jpg"
+      name: The Professional
+      description: All weapons fully modded and completely upgraded.
+      score: 50
+      acquired: "2013-05-24"
+      slug: "tomb-raider_the-professional"
+      gameSlug: "tomb-raider"
+      scraped: "Fri May 24 2013 00:37:14 GMT+0100 (BST)"
     - image: "https://live.xbox.com/tiles/pF/tM/0oCLiGJhbC8WFQUcXVJRFzAyL2FjaC8wL2IAAAAA5+fn-WNbvw==.jpg"
       name: No Stone Left Unturned
       description: "All documents, relics, and GPS caches found."
