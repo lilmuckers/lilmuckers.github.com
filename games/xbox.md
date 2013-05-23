@@ -3,7 +3,7 @@ layout: xbox
 title: Xbox Tracker
 tagline: "I play games, they are fun"
 group: games
-achievementcount: 1459
+achievementcount: 1463
 gamer: 
   gamertag: Lilmuckers
   avatar: 
@@ -13,13 +13,45 @@ gamer:
   picture: 
     small: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatarpic-s.png"
     large: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatarpic-l.png"
-  score: 27135
+  score: 27225
   location: Londinium
   motto: "meritocracy!"
   bio: "ARGH! BEES!"
   profile: "http://live.xbox.com/en-GB/Profile?gamertag=lilmuckers"
 gamecount: 103
 latest: 
+  - image: "https://live.xbox.com/tiles/IC/-y/0YCLiGJhbC9GCxoDGllTWTAyL2FjaC8wLzEyAAAAAOfn5-7dLzw=.jpg"
+    name: "Tastes Like Chicken!"
+    description: 10 small animals killed and looted.
+    score: 15
+    acquired: "2013-05-23"
+    slug: "tomb-raider_tastes-like-chicken"
+    gameSlug: "tomb-raider"
+    scraped: "Thu May 23 2013 15:37:14 GMT+0100 (BST)"
+  - image: "https://live.xbox.com/tiles/vQ/1C/04CLiGJhbC9NFQUcXVJRFzAyL2FjaC8wLzkAAAAA5+fn-G0Npg==.jpg"
+    name: Archaeologist
+    description: "75% of all relics collected."
+    score: 15
+    acquired: "2013-05-23"
+    slug: "tomb-raider_archaeologist"
+    gameSlug: "tomb-raider"
+    scraped: "Thu May 23 2013 15:37:14 GMT+0100 (BST)"
+  - image: "https://live.xbox.com/tiles/PB/bB/0YCLiGJhbC9FCBoDGllTWTAyL2FjaC8wLzIxAAAAAOfn5-7uFiA=.jpg"
+    name: Intellectually Superior
+    description: All optional tombs completed.
+    score: 50
+    acquired: "2013-05-23"
+    slug: "tomb-raider_intellectually-superior"
+    gameSlug: "tomb-raider"
+    scraped: "Thu May 23 2013 15:37:14 GMT+0100 (BST)"
+  - image: "https://live.xbox.com/tiles/8S/G2/1ICLiGJhbC9MCxoDGllTWTAyL2FjaC8wLzE4AAAAAOfn5-uZIe0=.jpg"
+    name: Gunslinger
+    description: 35 enemies killed with the pistol.
+    score: 10
+    acquired: "2013-05-23"
+    slug: "tomb-raider_gunslinger"
+    gameSlug: "tomb-raider"
+    scraped: "Thu May 23 2013 15:37:14 GMT+0100 (BST)"
   - image: "https://live.xbox.com/tiles/iR/-g/04CLiGJhbC9GCBoDGllTWTAyL2FjaC8wLzIyAAAAAOfn5-zPH5U=.jpg"
     name: Unfinished Business
     description: One challenge completed.
@@ -148,37 +180,5 @@ latest:
     slug: "tomb-raider_predator"
     gameSlug: "tomb-raider"
     scraped: "Sun May 12 2013 16:47:30 GMT+0100 (BST)"
-  - image: "https://live.xbox.com/tiles/EZ/wa/0ICLiGJhbC8QCxoDGllTWTAyL2FjaC8wLzFkAAAAAOfn5-81nA0=.jpg"
-    name: Down and Dirty
-    description: 15 finishers performed.
-    score: 15
-    acquired: "2013-05-12"
-    slug: "tomb-raider_down-and-dirty"
-    gameSlug: "tomb-raider"
-    scraped: "Sun May 12 2013 16:47:30 GMT+0100 (BST)"
-  - image: "https://live.xbox.com/tiles/r+/4h/0ICLiGJhbC9ECBoDGllTWTAyL2FjaC8wLzIwAAAAAOfn5-8O7rM=.jpg"
-    name: One Smart Cookie
-    description: One optional tomb completed.
-    score: 20
-    acquired: "2013-05-10"
-    slug: "tomb-raider_one-smart-cookie"
-    gameSlug: "tomb-raider"
-    scraped: "Fri May 10 2013 21:47:29 GMT+0100 (BST)"
-  - image: "https://live.xbox.com/tiles/lS/Qt/0ICLiGJhbC8SWxsCGltTVmUzL2FjaC8wL2FmAAAAAOfn5-8CJIk=.jpg"
-    name: Just Business
-    description: You got the information you needed from the Rothwild Slaughterhouse
-    score: 15
-    acquired: "2013-05-06"
-    slug: "dishonored_just-business"
-    gameSlug: dishonored
-    scraped: "Mon May 06 2013 15:32:13 GMT+0100 (BST)"
-  - image: "https://live.xbox.com/tiles/nu/vm/1YCLiGJhbC9AFQUXXFJRFmMwL2FjaC8wLzQAAAAA5+fn+snrhQ==.jpg"
-    name: Hexahedronaut
-    description: "It won&rsquo;t forget."
-    score: 25
-    acquired: "2013-05-05"
-    slug: fez_hexahedronaut
-    gameSlug: fez
-    scraped: "Mon May 06 2013 11:12:14 GMT+0100 (BST)"
 ---
 {% include JB/setup %}

@@ -15,9 +15,41 @@ game:
     large: "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253510802/1033/boxartlg.jpg"
   lastPlayed: "2013-05-23"
   totalScore: 1000
-  score: 345
+  score: 435
   totalAchievements: 50
   achievements: 
+    - image: "https://live.xbox.com/tiles/IC/-y/0YCLiGJhbC9GCxoDGllTWTAyL2FjaC8wLzEyAAAAAOfn5-7dLzw=.jpg"
+      name: "Tastes Like Chicken!"
+      description: 10 small animals killed and looted.
+      score: 15
+      acquired: "2013-05-23"
+      slug: "tomb-raider_tastes-like-chicken"
+      gameSlug: "tomb-raider"
+      scraped: "Thu May 23 2013 15:37:14 GMT+0100 (BST)"
+    - image: "https://live.xbox.com/tiles/vQ/1C/04CLiGJhbC9NFQUcXVJRFzAyL2FjaC8wLzkAAAAA5+fn-G0Npg==.jpg"
+      name: Archaeologist
+      description: "75% of all relics collected."
+      score: 15
+      acquired: "2013-05-23"
+      slug: "tomb-raider_archaeologist"
+      gameSlug: "tomb-raider"
+      scraped: "Thu May 23 2013 15:37:14 GMT+0100 (BST)"
+    - image: "https://live.xbox.com/tiles/PB/bB/0YCLiGJhbC9FCBoDGllTWTAyL2FjaC8wLzIxAAAAAOfn5-7uFiA=.jpg"
+      name: Intellectually Superior
+      description: All optional tombs completed.
+      score: 50
+      acquired: "2013-05-23"
+      slug: "tomb-raider_intellectually-superior"
+      gameSlug: "tomb-raider"
+      scraped: "Thu May 23 2013 15:37:14 GMT+0100 (BST)"
+    - image: "https://live.xbox.com/tiles/8S/G2/1ICLiGJhbC9MCxoDGllTWTAyL2FjaC8wLzE4AAAAAOfn5-uZIe0=.jpg"
+      name: Gunslinger
+      description: 35 enemies killed with the pistol.
+      score: 10
+      acquired: "2013-05-23"
+      slug: "tomb-raider_gunslinger"
+      gameSlug: "tomb-raider"
+      scraped: "Thu May 23 2013 15:37:14 GMT+0100 (BST)"
     - image: "https://live.xbox.com/tiles/iR/-g/04CLiGJhbC9GCBoDGllTWTAyL2FjaC8wLzIyAAAAAOfn5-zPH5U=.jpg"
       name: Unfinished Business
       description: One challenge completed.
