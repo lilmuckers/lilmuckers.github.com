@@ -3,7 +3,7 @@ layout: xbox
 title: Xbox Tracker
 tagline: "I play games, they are fun"
 group: games
-achievementcount: 1463
+achievementcount: 1465
 gamer: 
   gamertag: Lilmuckers
   avatar: 
@@ -13,13 +13,29 @@ gamer:
   picture: 
     small: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatarpic-s.png"
     large: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatarpic-l.png"
-  score: 27225
+  score: 27290
   location: Londinium
   motto: "meritocracy!"
   bio: "ARGH! BEES!"
   profile: "http://live.xbox.com/en-GB/Profile?gamertag=lilmuckers"
 gamecount: 103
 latest: 
+  - image: "https://live.xbox.com/tiles/Gu/gr/0ICLiGJhbC9MCRoDGllTWTAyL2FjaC8wLzM4AAAAAOfn5-8E6AY=.jpg"
+    name: "Bag Full O&apos; Cache"
+    description: "75% of all GPS caches found."
+    score: 15
+    acquired: "2013-05-23"
+    slug: "tomb-raider_bag-full-o-cache"
+    gameSlug: "tomb-raider"
+    scraped: "Thu May 23 2013 16:37:18 GMT+0100 (BST)"
+  - image: "https://live.xbox.com/tiles/Xb/Du/14CLiGJhbC8RFQUcXVJRFzAyL2FjaC8wL2UAAAAA5+fn+MGwRg==.jpg"
+    name: Lethal
+    description: Purchased all skills in all categories.
+    score: 50
+    acquired: "2013-05-23"
+    slug: "tomb-raider_lethal"
+    gameSlug: "tomb-raider"
+    scraped: "Thu May 23 2013 16:37:18 GMT+0100 (BST)"
   - image: "https://live.xbox.com/tiles/IC/-y/0YCLiGJhbC9GCxoDGllTWTAyL2FjaC8wLzEyAAAAAOfn5-7dLzw=.jpg"
     name: "Tastes Like Chicken!"
     description: 10 small animals killed and looted.
@@ -164,21 +180,5 @@ latest:
     slug: "tomb-raider_opportunist"
     gameSlug: "tomb-raider"
     scraped: "Sun May 12 2013 18:57:13 GMT+0100 (BST)"
-  - image: "https://live.xbox.com/tiles/sx/ll/0ICLiGJhbC9CFQUcXVJRFzAyL2FjaC8wLzYAAAAA5+fn-0oZqA==.jpg"
-    name: Bookworm
-    description: "25% of all documents found."
-    score: 10
-    acquired: "2013-05-12"
-    slug: "tomb-raider_bookworm"
-    gameSlug: "tomb-raider"
-    scraped: "Sun May 12 2013 17:52:15 GMT+0100 (BST)"
-  - image: "https://live.xbox.com/tiles/2c/RQ/1ICLiGJhbC9BCxoDGllTWTAyL2FjaC8wLzE1AAAAAOfn5-t-xMU=.jpg"
-    name: Predator
-    description: 50 enemies killed with the bow.
-    score: 10
-    acquired: "2013-05-12"
-    slug: "tomb-raider_predator"
-    gameSlug: "tomb-raider"
-    scraped: "Sun May 12 2013 16:47:30 GMT+0100 (BST)"
 ---
 {% include JB/setup %}

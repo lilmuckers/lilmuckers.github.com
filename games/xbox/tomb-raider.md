@@ -15,9 +15,25 @@ game:
     large: "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253510802/1033/boxartlg.jpg"
   lastPlayed: "2013-05-23"
   totalScore: 1000
-  score: 435
+  score: 500
   totalAchievements: 50
   achievements: 
+    - image: "https://live.xbox.com/tiles/Gu/gr/0ICLiGJhbC9MCRoDGllTWTAyL2FjaC8wLzM4AAAAAOfn5-8E6AY=.jpg"
+      name: "Bag Full O&apos; Cache"
+      description: "75% of all GPS caches found."
+      score: 15
+      acquired: "2013-05-23"
+      slug: "tomb-raider_bag-full-o-cache"
+      gameSlug: "tomb-raider"
+      scraped: "Thu May 23 2013 16:37:18 GMT+0100 (BST)"
+    - image: "https://live.xbox.com/tiles/Xb/Du/14CLiGJhbC8RFQUcXVJRFzAyL2FjaC8wL2UAAAAA5+fn+MGwRg==.jpg"
+      name: Lethal
+      description: Purchased all skills in all categories.
+      score: 50
+      acquired: "2013-05-23"
+      slug: "tomb-raider_lethal"
+      gameSlug: "tomb-raider"
+      scraped: "Thu May 23 2013 16:37:18 GMT+0100 (BST)"
     - image: "https://live.xbox.com/tiles/IC/-y/0YCLiGJhbC9GCxoDGllTWTAyL2FjaC8wLzEyAAAAAOfn5-7dLzw=.jpg"
       name: "Tastes Like Chicken!"
       description: 10 small animals killed and looted.
