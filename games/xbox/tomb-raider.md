@@ -15,9 +15,25 @@ game:
     large: "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253510802/1033/boxartlg.jpg"
   lastPlayed: "2013-05-23"
   totalScore: 1000
-  score: 500
+  score: 525
   totalAchievements: 50
   achievements: 
+    - image: "https://live.xbox.com/tiles/s9/cS/0ICLiGJhbC9HCxoDGllTWTAyL2FjaC8wLzEzAAAAAOfn5-89168=.jpg"
+      name: Feather Duster
+      description: 10 flying animals killed and looted.
+      score: 15
+      acquired: "2013-05-23"
+      slug: "tomb-raider_feather-duster"
+      gameSlug: "tomb-raider"
+      scraped: "Thu May 23 2013 17:37:12 GMT+0100 (BST)"
+    - image: "https://live.xbox.com/tiles/-z/WR/14CLiGJhbC9DCxoDGllTWTAyL2FjaC8wLzE3AAAAAOfn5-i+NeM=.jpg"
+      name: Widowmaker
+      description: 40 enemies killed with the shotgun.
+      score: 10
+      acquired: "2013-05-23"
+      slug: "tomb-raider_widowmaker"
+      gameSlug: "tomb-raider"
+      scraped: "Thu May 23 2013 17:37:12 GMT+0100 (BST)"
     - image: "https://live.xbox.com/tiles/Gu/gr/0ICLiGJhbC9MCRoDGllTWTAyL2FjaC8wLzM4AAAAAOfn5-8E6AY=.jpg"
       name: "Bag Full O&apos; Cache"
       description: "75% of all GPS caches found."

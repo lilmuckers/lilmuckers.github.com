@@ -3,7 +3,7 @@ layout: xbox
 title: Xbox Tracker
 tagline: "I play games, they are fun"
 group: games
-achievementcount: 1465
+achievementcount: 1467
 gamer: 
   gamertag: Lilmuckers
   avatar: 
@@ -13,13 +13,29 @@ gamer:
   picture: 
     small: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatarpic-s.png"
     large: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatarpic-l.png"
-  score: 27290
+  score: 27315
   location: Londinium
   motto: "meritocracy!"
   bio: "ARGH! BEES!"
   profile: "http://live.xbox.com/en-GB/Profile?gamertag=lilmuckers"
 gamecount: 103
 latest: 
+  - image: "https://live.xbox.com/tiles/s9/cS/0ICLiGJhbC9HCxoDGllTWTAyL2FjaC8wLzEzAAAAAOfn5-89168=.jpg"
+    name: Feather Duster
+    description: 10 flying animals killed and looted.
+    score: 15
+    acquired: "2013-05-23"
+    slug: "tomb-raider_feather-duster"
+    gameSlug: "tomb-raider"
+    scraped: "Thu May 23 2013 17:37:12 GMT+0100 (BST)"
+  - image: "https://live.xbox.com/tiles/-z/WR/14CLiGJhbC9DCxoDGllTWTAyL2FjaC8wLzE3AAAAAOfn5-i+NeM=.jpg"
+    name: Widowmaker
+    description: 40 enemies killed with the shotgun.
+    score: 10
+    acquired: "2013-05-23"
+    slug: "tomb-raider_widowmaker"
+    gameSlug: "tomb-raider"
+    scraped: "Thu May 23 2013 17:37:12 GMT+0100 (BST)"
   - image: "https://live.xbox.com/tiles/Gu/gr/0ICLiGJhbC9MCRoDGllTWTAyL2FjaC8wLzM4AAAAAOfn5-8E6AY=.jpg"
     name: "Bag Full O&apos; Cache"
     description: "75% of all GPS caches found."
@@ -164,21 +180,5 @@ latest:
     slug: "tomb-raider_relic-hunter"
     gameSlug: "tomb-raider"
     scraped: "Sun May 12 2013 21:02:14 GMT+0100 (BST)"
-  - image: "https://live.xbox.com/tiles/Sj/yw/1YCLiGJhbC9ACxoDGllTWTAyL2FjaC8wLzE0AAAAAOfn5-qfPFY=.jpg"
-    name: Sharp Shooter
-    description: 50 headshot kills performed in the single player campaign.
-    score: 15
-    acquired: "2013-05-12"
-    slug: "tomb-raider_sharp-shooter"
-    gameSlug: "tomb-raider"
-    scraped: "Sun May 12 2013 20:02:16 GMT+0100 (BST)"
-  - image: "https://live.xbox.com/tiles/e4/9Y/1ICLiGJhbC8WCxoDGllTWTAyL2FjaC8wLzFiAAAAAOfn5-t3j2c=.jpg"
-    name: Opportunist
-    description: 25 unaware enemies killed.
-    score: 15
-    acquired: "2013-05-12"
-    slug: "tomb-raider_opportunist"
-    gameSlug: "tomb-raider"
-    scraped: "Sun May 12 2013 18:57:13 GMT+0100 (BST)"
 ---
 {% include JB/setup %}
