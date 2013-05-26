@@ -3,23 +3,39 @@ layout: xbox
 title: Xbox Tracker
 tagline: "I play games, they are fun"
 group: games
-achievementcount: 1470
+achievementcount: 1472
 gamer: 
   gamertag: Lilmuckers
   avatar: 
     secure: "https://avatar-ssl.xboxlive.com/avatar/Lilmuckers/avatar-body.png"
     unsecure: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatar-body.png"
-  activity: "Online playing Tomb Raider - In menu"
+  activity: "Online playing Tomb Raider - In single player game"
   picture: 
     small: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatarpic-s.png"
     large: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatarpic-l.png"
-  score: 27465
+  score: 27495
   location: Londinium
   motto: "meritocracy!"
   bio: "ARGH! BEES!"
   profile: "http://live.xbox.com/en-GB/Profile?gamertag=lilmuckers"
 gamecount: 103
 latest: 
+  - image: "https://live.xbox.com/tiles/N2/3b/04CLiGJhbC8SCxoDGllTWTAyL2FjaC8wLzFmAAAAAOfn5-z0bSs=.jpg"
+    name: Former Adventurer
+    description: 25 enemies incapacitated with dodge counter.
+    score: 20
+    acquired: "2013-05-26"
+    slug: "tomb-raider_former-adventurer"
+    gameSlug: "tomb-raider"
+    scraped: "Sun May 26 2013 11:57:13 GMT+0100 (BST)"
+  - image: "https://live.xbox.com/tiles/cP/RC/1oCLiGJhbC9BCBoDGllTWTAyL2FjaC8wLzI1AAAAAOfn5-lt9Gw=.jpg"
+    name: Boom Goes the Dynamite
+    description: Bundle of dynamite shot out of the air.
+    score: 10
+    acquired: "2013-05-26"
+    slug: "tomb-raider_boom-goes-the-dynamite"
+    gameSlug: "tomb-raider"
+    scraped: "Sun May 26 2013 11:57:13 GMT+0100 (BST)"
   - image: "https://live.xbox.com/tiles/Bt/4z/0oCLiGJhbC9ECxoDGllTWTAyL2FjaC8wLzEwAAAAAOfn5-0c3ho=.jpg"
     name: The Professional
     description: All weapons fully modded and completely upgraded.
@@ -162,22 +178,6 @@ latest:
     score: 25
     acquired: "2013-05-17"
     slug: "tomb-raider_clever-girl"
-    gameSlug: "tomb-raider"
-    scraped: "Fri May 17 2013 22:17:15 GMT+0100 (BST)"
-  - image: "https://live.xbox.com/tiles/N6/Os/04CLiGJhbC8XFQUcXVJRFzAyL2FjaC8wL2MAAAAA5+fn-IOjLA==.jpg"
-    name: Picky
-    description: 200 enemies looted.
-    score: 15
-    acquired: "2013-05-17"
-    slug: "tomb-raider_picky"
-    gameSlug: "tomb-raider"
-    scraped: "Fri May 17 2013 22:17:15 GMT+0100 (BST)"
-  - image: "https://live.xbox.com/tiles/Yt/lW/1YCLiGJhbC9NCxoDGllTWTAyL2FjaC8wLzE5AAAAAOfn5-p52X4=.jpg"
-    name: Epic Fumble
-    description: Forced an enemy to drop dynamite that killed two people.
-    score: 15
-    acquired: "2013-05-17"
-    slug: "tomb-raider_epic-fumble"
     gameSlug: "tomb-raider"
     scraped: "Fri May 17 2013 22:17:15 GMT+0100 (BST)"
 ---
