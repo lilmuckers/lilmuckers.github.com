@@ -15,9 +15,17 @@ game:
     large: "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80253510802/1033/boxartlg.jpg"
   lastPlayed: "2013-05-26"
   totalScore: 1000
-  score: 705
+  score: 710
   totalAchievements: 50
   achievements: 
+    - image: "https://live.xbox.com/tiles/iR/DL/0YCLiGJhbC9NCRoDGllTWTAyL2FjaC8wLzM5AAAAAOfn5-7kEJU=.jpg"
+      name: Chatterbox
+      description: All conversations with the Endurance crew completed.
+      score: 5
+      acquired: "2013-05-26"
+      slug: "tomb-raider_chatterbox"
+      gameSlug: "tomb-raider"
+      scraped: "Sun May 26 2013 20:17:10 GMT+0100 (BST)"
     - image: "https://live.xbox.com/tiles/N2/3b/04CLiGJhbC8SCxoDGllTWTAyL2FjaC8wLzFmAAAAAOfn5-z0bSs=.jpg"
       name: Former Adventurer
       description: 25 enemies incapacitated with dodge counter.

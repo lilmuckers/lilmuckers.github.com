@@ -3,23 +3,31 @@ layout: xbox
 title: Xbox Tracker
 tagline: "I play games, they are fun"
 group: games
-achievementcount: 1472
+achievementcount: 1473
 gamer: 
   gamertag: Lilmuckers
   avatar: 
     secure: "https://avatar-ssl.xboxlive.com/avatar/Lilmuckers/avatar-body.png"
     unsecure: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatar-body.png"
-  activity: "Online playing Tomb Raider - In single player game"
+  activity: Last seen 34 minutes ago playing Xbox Dashboard
   picture: 
     small: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatarpic-s.png"
     large: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatarpic-l.png"
-  score: 27495
+  score: 27500
   location: Londinium
   motto: "meritocracy!"
   bio: "ARGH! BEES!"
   profile: "http://live.xbox.com/en-GB/Profile?gamertag=lilmuckers"
 gamecount: 103
 latest: 
+  - image: "https://live.xbox.com/tiles/iR/DL/0YCLiGJhbC9NCRoDGllTWTAyL2FjaC8wLzM5AAAAAOfn5-7kEJU=.jpg"
+    name: Chatterbox
+    description: All conversations with the Endurance crew completed.
+    score: 5
+    acquired: "2013-05-26"
+    slug: "tomb-raider_chatterbox"
+    gameSlug: "tomb-raider"
+    scraped: "Sun May 26 2013 20:17:10 GMT+0100 (BST)"
   - image: "https://live.xbox.com/tiles/N2/3b/04CLiGJhbC8SCxoDGllTWTAyL2FjaC8wLzFmAAAAAOfn5-z0bSs=.jpg"
     name: Former Adventurer
     description: 25 enemies incapacitated with dodge counter.
@@ -170,14 +178,6 @@ latest:
     score: 10
     acquired: "2013-05-17"
     slug: "tomb-raider_equalizer"
-    gameSlug: "tomb-raider"
-    scraped: "Fri May 17 2013 22:17:15 GMT+0100 (BST)"
-  - image: "https://live.xbox.com/tiles/zk/gO/1oCLiGJhbC8QFQUcXVJRFzAyL2FjaC8wL2QAAAAA5+fn+SFI1Q==.jpg"
-    name: Clever Girl
-    description: Purchased all skills in one category.
-    score: 25
-    acquired: "2013-05-17"
-    slug: "tomb-raider_clever-girl"
     gameSlug: "tomb-raider"
     scraped: "Fri May 17 2013 22:17:15 GMT+0100 (BST)"
 ---
