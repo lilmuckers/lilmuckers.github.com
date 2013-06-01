@@ -4,7 +4,7 @@ title: "Dragon Age&trade; 2"
 showPage: true
 tagline: ""
 group: xboxgame
-weight: 66
+weight: 65
 game: 
   name: Dragon Age II
   gameId: 1161890059

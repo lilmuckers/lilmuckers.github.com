@@ -4,7 +4,7 @@ title: "Defiance&trade;"
 showPage: true
 tagline: ""
 group: xboxgame
-weight: 98
+weight: 96
 game: 
   name: Defiance
   gameId: 1415120849

@@ -4,7 +4,7 @@ title: LOVEFiLM
 showPage: false
 tagline: ""
 group: xboxgame
-weight: 58
+weight: 57
 game: 
   name: LOVEFiLM
   gameId: 810551249

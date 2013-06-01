@@ -4,7 +4,7 @@ title: The Walking Dead
 showPage: true
 tagline: ""
 group: xboxgame
-weight: 89
+weight: 87
 game: 
   name: The Walking Dead
   gameId: 1480659422

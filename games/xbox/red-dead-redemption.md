@@ -4,7 +4,7 @@ title: Red Dead Redemption
 showPage: true
 tagline: ""
 group: xboxgame
-weight: 77
+weight: 101
 game: 
   name: Red Dead Redemption
   gameId: 1414793259
@@ -13,7 +13,7 @@ game:
   boxart: 
     small: "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454082b/1033/boxartsm.jpg"
     large: "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025454082b/1033/boxartlg.jpg"
-  lastPlayed: "2012-10-04"
+  lastPlayed: "2013-05-27"
   totalScore: 1500
   score: 695
   totalAchievements: 95

@@ -4,7 +4,7 @@ title: Sonic The Hedgehog 2
 showPage: true
 tagline: ""
 group: xboxgame
-weight: 81
+weight: 79
 game: 
   name: Sonic The Hedgehog 2
   gameId: 1480656995

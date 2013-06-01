@@ -3,23 +3,31 @@ layout: xbox
 title: Xbox Tracker
 tagline: "I play games, they are fun"
 group: games
-achievementcount: 1473
+achievementcount: 1474
 gamer: 
   gamertag: Lilmuckers
   avatar: 
     secure: "https://avatar-ssl.xboxlive.com/avatar/Lilmuckers/avatar-body.png"
     unsecure: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatar-body.png"
-  activity: Last seen 34 minutes ago playing Xbox Dashboard
+  activity: Last seen 19 minutes ago playing Xbox SmartGlass
   picture: 
     small: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatarpic-s.png"
     large: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatarpic-l.png"
-  score: 27500
+  score: 27580
   location: Londinium
   motto: "meritocracy!"
   bio: "ARGH! BEES!"
   profile: "http://live.xbox.com/en-GB/Profile?gamertag=lilmuckers"
 gamecount: 103
 latest: 
+  - image: "https://live.xbox.com/tiles/nl/DR/1ICLiGJhbC9MFQQaXFJRFzUwL2FjaC8wLzgAAAAA5+fn+-5QhQ==.jpg"
+    name: Test of Faith
+    description: Complete the game without shooting an enemy
+    score: 80
+    acquired: "2013-06-01"
+    slug: "mirrors-edge_test-of-faith"
+    gameSlug: "mirrors-edge"
+    scraped: "Sat Jun 01 2013 22:22:21 GMT+0100 (BST)"
   - image: "https://live.xbox.com/tiles/iR/DL/0YCLiGJhbC9NCRoDGllTWTAyL2FjaC8wLzM5AAAAAOfn5-7kEJU=.jpg"
     name: Chatterbox
     description: All conversations with the Endurance crew completed.
@@ -172,13 +180,5 @@ latest:
     slug: "tomb-raider_a-survivor-is-born"
     gameSlug: "tomb-raider"
     scraped: "Tue May 21 2013 21:57:23 GMT+0100 (BST)"
-  - image: "https://live.xbox.com/tiles/bM/1x/1oCLiGJhbC9CCxoDGllTWTAyL2FjaC8wLzE2AAAAAOfn5-lezXA=.jpg"
-    name: Equalizer
-    description: 75 enemies killed with the rifle.
-    score: 10
-    acquired: "2013-05-17"
-    slug: "tomb-raider_equalizer"
-    gameSlug: "tomb-raider"
-    scraped: "Fri May 17 2013 22:17:15 GMT+0100 (BST)"
 ---
 {% include JB/setup %}

@@ -4,7 +4,7 @@ title: "Mirror&apos;s Edge&trade;"
 showPage: true
 tagline: ""
 group: xboxgame
-weight: 34
+weight: 102
 game: 
   name: "Mirror&apos;s Edge&trade;"
   gameId: 1161889872
@@ -13,11 +13,19 @@ game:
   boxart: 
     small: "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410850/1033/boxartsm.jpg"
     large: "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410850/1033/boxartlg.jpg"
-  lastPlayed: "2011-08-07"
+  lastPlayed: "2013-06-01"
   totalScore: 1250
-  score: 345
+  score: 425
   totalAchievements: 50
   achievements: 
+    - image: "https://live.xbox.com/tiles/nl/DR/1ICLiGJhbC9MFQQaXFJRFzUwL2FjaC8wLzgAAAAA5+fn+-5QhQ==.jpg"
+      name: Test of Faith
+      description: Complete the game without shooting an enemy
+      score: 80
+      acquired: "2013-06-01"
+      slug: "mirrors-edge_test-of-faith"
+      gameSlug: "mirrors-edge"
+      scraped: "Sat Jun 01 2013 22:22:21 GMT+0100 (BST)"
     - image: "https://live.xbox.com/tiles/kt/SR/0ICLiGJhbC9ECRsFG1lTWTUwL2FjaC8wLzMwAAAAAOfn5-++1I4=.jpg"
       name: On the clock
       description: Beat the qualifier time on any Time Trial stretch

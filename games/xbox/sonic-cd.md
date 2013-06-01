@@ -4,7 +4,7 @@ title: Sonic CD
 showPage: true
 tagline: ""
 group: xboxgame
-weight: 45
+weight: 44
 game: 
   name: Sonic CD
   gameId: 1480659441

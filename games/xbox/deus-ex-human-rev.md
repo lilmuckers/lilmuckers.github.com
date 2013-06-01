@@ -4,7 +4,7 @@ title: "DEUS EX: HUMAN REVOLUTION"
 showPage: true
 tagline: ""
 group: xboxgame
-weight: 53
+weight: 52
 game: 
   name: "Deus Ex: Human Rev."
   gameId: 1397819386

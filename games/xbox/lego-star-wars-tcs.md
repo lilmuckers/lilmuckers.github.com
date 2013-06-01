@@ -4,7 +4,7 @@ title: "LEGO Star Wars: TCS"
 showPage: true
 tagline: ""
 group: xboxgame
-weight: 35
+weight: 34
 game: 
   name: "LEGO Star Wars: TCS"
   gameId: 1279330263
