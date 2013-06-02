@@ -13,11 +13,35 @@ game:
   boxart: 
     small: "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410850/1033/boxartsm.jpg"
     large: "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410850/1033/boxartlg.jpg"
-  lastPlayed: "2013-06-01"
+  lastPlayed: "2013-06-02"
   totalScore: 1250
-  score: 425
+  score: 515
   totalAchievements: 50
   achievements: 
+    - image: "https://live.xbox.com/tiles/zB/Qt/1oCLiGJhbC9HCxsFG1lTWTUwL2FjaC8wLzEzAAAAAOfn5-kCFNA=.jpg"
+      name: "Vrooom!"
+      description: Maintain sprint speed for 30 seconds.
+      score: 40
+      acquired: "2013-06-02"
+      slug: "mirrors-edge_vrooom"
+      gameSlug: "mirrors-edge"
+      scraped: "Sun Jun 02 2013 01:27:47 GMT+0100 (BST)"
+    - image: "https://live.xbox.com/tiles/0C/0e/1oCLiGJhbC9ECBsFG1lTWTUwL2FjaC8wLzIwAAAAAOfn5-kxLcw=.jpg"
+      name: Ran out of fingers
+      description: Find 11 hidden bags
+      score: 30
+      acquired: "2013-06-02"
+      slug: "mirrors-edge_ran-out-of-fingers"
+      gameSlug: "mirrors-edge"
+      scraped: "Sun Jun 02 2013 01:27:47 GMT+0100 (BST)"
+    - image: "https://live.xbox.com/tiles/9t/zf/1YCLiGJhbC9GCBsFG1lTWTUwL2FjaC8wLzIyAAAAAOfn5-rw3Oo=.jpg"
+      name: Bag lady
+      description: Find all three hidden bags in one chapter
+      score: 20
+      acquired: "2013-06-02"
+      slug: "mirrors-edge_bag-lady"
+      gameSlug: "mirrors-edge"
+      scraped: "Sun Jun 02 2013 01:27:47 GMT+0100 (BST)"
     - image: "https://live.xbox.com/tiles/nl/DR/1ICLiGJhbC9MFQQaXFJRFzUwL2FjaC8wLzgAAAAA5+fn+-5QhQ==.jpg"
       name: Test of Faith
       description: Complete the game without shooting an enemy

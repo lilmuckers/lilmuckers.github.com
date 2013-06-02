@@ -3,23 +3,47 @@ layout: xbox
 title: Xbox Tracker
 tagline: "I play games, they are fun"
 group: games
-achievementcount: 1474
+achievementcount: 1477
 gamer: 
   gamertag: Lilmuckers
   avatar: 
     secure: "https://avatar-ssl.xboxlive.com/avatar/Lilmuckers/avatar-body.png"
     unsecure: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatar-body.png"
-  activity: Last seen 19 minutes ago playing Xbox SmartGlass
+  activity: "Online playing Mirror's Edge™ - Playing Story Mode\nChapter Two"
   picture: 
     small: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatarpic-s.png"
     large: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatarpic-l.png"
-  score: 27580
+  score: 27670
   location: Londinium
   motto: "meritocracy!"
   bio: "ARGH! BEES!"
   profile: "http://live.xbox.com/en-GB/Profile?gamertag=lilmuckers"
 gamecount: 103
 latest: 
+  - image: "https://live.xbox.com/tiles/zB/Qt/1oCLiGJhbC9HCxsFG1lTWTUwL2FjaC8wLzEzAAAAAOfn5-kCFNA=.jpg"
+    name: "Vrooom!"
+    description: Maintain sprint speed for 30 seconds.
+    score: 40
+    acquired: "2013-06-02"
+    slug: "mirrors-edge_vrooom"
+    gameSlug: "mirrors-edge"
+    scraped: "Sun Jun 02 2013 01:27:47 GMT+0100 (BST)"
+  - image: "https://live.xbox.com/tiles/0C/0e/1oCLiGJhbC9ECBsFG1lTWTUwL2FjaC8wLzIwAAAAAOfn5-kxLcw=.jpg"
+    name: Ran out of fingers
+    description: Find 11 hidden bags
+    score: 30
+    acquired: "2013-06-02"
+    slug: "mirrors-edge_ran-out-of-fingers"
+    gameSlug: "mirrors-edge"
+    scraped: "Sun Jun 02 2013 01:27:47 GMT+0100 (BST)"
+  - image: "https://live.xbox.com/tiles/9t/zf/1YCLiGJhbC9GCBsFG1lTWTUwL2FjaC8wLzIyAAAAAOfn5-rw3Oo=.jpg"
+    name: Bag lady
+    description: Find all three hidden bags in one chapter
+    score: 20
+    acquired: "2013-06-02"
+    slug: "mirrors-edge_bag-lady"
+    gameSlug: "mirrors-edge"
+    scraped: "Sun Jun 02 2013 01:27:47 GMT+0100 (BST)"
   - image: "https://live.xbox.com/tiles/nl/DR/1ICLiGJhbC9MFQQaXFJRFzUwL2FjaC8wLzgAAAAA5+fn+-5QhQ==.jpg"
     name: Test of Faith
     description: Complete the game without shooting an enemy
@@ -156,29 +180,5 @@ latest:
     slug: "tomb-raider_historian"
     gameSlug: "tomb-raider"
     scraped: "Wed May 22 2013 23:58:35 GMT+0100 (BST)"
-  - image: "https://live.xbox.com/tiles/FP/wM/04CLiGJhbC9DCRoDGllTWTAyL2FjaC8wLzM3AAAAAOfn5-wj-Ag=.jpg"
-    name: Looking for Trouble
-    description: "25% of all GPS caches found."
-    score: 10
-    acquired: "2013-05-21"
-    slug: "tomb-raider_looking-for-trouble"
-    gameSlug: "tomb-raider"
-    scraped: "Tue May 21 2013 23:12:26 GMT+0100 (BST)"
-  - image: "https://live.xbox.com/tiles/6L/nP/1YCLiGJhbC8SFQUcXVJRFzAyL2FjaC8wL2YAAAAA5+fn+uC58w==.jpg"
-    name: "Now We&apos;re Getting Serious"
-    description: One weapon fully modded and completely upgraded.
-    score: 25
-    acquired: "2013-05-21"
-    slug: "tomb-raider_now-were-getting-serious"
-    gameSlug: "tomb-raider"
-    scraped: "Tue May 21 2013 21:57:23 GMT+0100 (BST)"
-  - image: "https://live.xbox.com/tiles/4w/yi/14CLiGJhbC9ACBoDGllTWTAyL2FjaC8wLzI0AAAAAOfn5-iNDP8=.jpg"
-    name: A Survivor Is Born
-    description: Game completed.
-    score: 75
-    acquired: "2013-05-21"
-    slug: "tomb-raider_a-survivor-is-born"
-    gameSlug: "tomb-raider"
-    scraped: "Tue May 21 2013 21:57:23 GMT+0100 (BST)"
 ---
 {% include JB/setup %}
