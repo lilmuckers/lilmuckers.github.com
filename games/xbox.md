@@ -3,23 +3,31 @@ layout: xbox
 title: Xbox Tracker
 tagline: "I play games, they are fun"
 group: games
-achievementcount: 1489
+achievementcount: 1490
 gamer: 
   gamertag: Lilmuckers
   avatar: 
     secure: "https://avatar-ssl.xboxlive.com/avatar/Lilmuckers/avatar-body.png"
     unsecure: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatar-body.png"
-  activity: "Online playing Mirror&apos;s Edge&trade; - Playing Story Mode\nChapter Two"
+  activity: Last seen 16 minutes ago playing Xbox Dashboard
   picture: 
     small: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatarpic-s.png"
     large: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatarpic-l.png"
-  score: 28010
+  score: 28090
   location: Londinium
   motto: "meritocracy!"
   bio: "ARGH! BEES!"
   profile: "http://live.xbox.com/en-GB/Profile?gamertag=lilmuckers"
 gamecount: 103
 latest: 
+  - image: "https://live.xbox.com/tiles/bl/8l/1oCLiGJhbC8QCxsFG1lTWTUwL2FjaC8wLzFkAAAAAOfn5-kKX3I=.jpg"
+    name: Pro runner
+    description: Complete story mode on hard difficulty.
+    score: 80
+    acquired: "2013-06-03"
+    slug: "mirrors-edge_pro-runner"
+    gameSlug: "mirrors-edge"
+    scraped: "Mon Jun 03 2013 00:24:21 GMT+0100 (BST)"
   - image: "https://live.xbox.com/tiles/tr/U3/1ICLiGJhbC9BFQQaXFJRFzUwL2FjaC8wLzUAAAAA5+fn+xi1rQ==.jpg"
     name: The twister
     description: "String together: wallclimb, turn, swing, wallclimb, turn, swing, jump. [Pure Time Trials]"
@@ -172,13 +180,5 @@ latest:
     slug: "tomb-raider_boom-goes-the-dynamite"
     gameSlug: "tomb-raider"
     scraped: "Sun May 26 2013 11:57:13 GMT+0100 (BST)"
-  - image: "https://live.xbox.com/tiles/Bt/4z/0oCLiGJhbC9ECxoDGllTWTAyL2FjaC8wLzEwAAAAAOfn5-0c3ho=.jpg"
-    name: The Professional
-    description: All weapons fully modded and completely upgraded.
-    score: 50
-    acquired: "2013-05-24"
-    slug: "tomb-raider_the-professional"
-    gameSlug: "tomb-raider"
-    scraped: "Fri May 24 2013 00:37:14 GMT+0100 (BST)"
 ---
 {% include JB/setup %}

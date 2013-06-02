@@ -15,9 +15,17 @@ game:
     large: "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410850/1033/boxartlg.jpg"
   lastPlayed: "2013-06-02"
   totalScore: 1250
-  score: 855
+  score: 935
   totalAchievements: 50
   achievements: 
+    - image: "https://live.xbox.com/tiles/bl/8l/1oCLiGJhbC8QCxsFG1lTWTUwL2FjaC8wLzFkAAAAAOfn5-kKX3I=.jpg"
+      name: Pro runner
+      description: Complete story mode on hard difficulty.
+      score: 80
+      acquired: "2013-06-03"
+      slug: "mirrors-edge_pro-runner"
+      gameSlug: "mirrors-edge"
+      scraped: "Mon Jun 03 2013 00:24:21 GMT+0100 (BST)"
     - image: "https://live.xbox.com/tiles/tr/U3/1ICLiGJhbC9BFQQaXFJRFzUwL2FjaC8wLzUAAAAA5+fn+xi1rQ==.jpg"
       name: The twister
       description: "String together: wallclimb, turn, swing, wallclimb, turn, swing, jump. [Pure Time Trials]"
