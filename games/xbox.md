@@ -3,23 +3,39 @@ layout: xbox
 title: Xbox Tracker
 tagline: "I play games, they are fun"
 group: games
-achievementcount: 1480
+achievementcount: 1482
 gamer: 
   gamertag: Lilmuckers
   avatar: 
     secure: "https://avatar-ssl.xboxlive.com/avatar/Lilmuckers/avatar-body.png"
     unsecure: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatar-body.png"
-  activity: "Last seen 6 hours ago playing Mirror&apos;s Edge&trade;"
+  activity: "Online playing Mirror&apos;s Edge&trade; - Playing Story Mode\nChapter Four"
   picture: 
     small: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatarpic-s.png"
     large: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatarpic-l.png"
-  score: 27755
+  score: 27775
   location: Londinium
   motto: "meritocracy!"
   bio: "ARGH! BEES!"
   profile: "http://live.xbox.com/en-GB/Profile?gamertag=lilmuckers"
 gamecount: 103
 latest: 
+  - image: "https://live.xbox.com/tiles/X+/zN/14CLiGJhbC9GCxsFG1lTWTUwL2FjaC8wLzEyAAAAAOfn5-ji7EM=.jpg"
+    name: Martial artist
+    description: Perform a melee hit from a wallrun
+    score: 10
+    acquired: "2013-06-02"
+    slug: "mirrors-edge_martial-artist"
+    gameSlug: "mirrors-edge"
+    scraped: "Sun Jun 02 2013 13:49:24 GMT+0100 (BST)"
+  - image: "https://live.xbox.com/tiles/kE/T2/14CLiGJhbC9DFQQaXFJRFzUwL2FjaC8wLzcAAAAA5+fn+NlEiw==.jpg"
+    name: "Hey, it&apos;s-a-me!"
+    description: Execute a stomp move on an enemy
+    score: 10
+    acquired: "2013-06-02"
+    slug: "mirrors-edge_hey-its-a-me"
+    gameSlug: "mirrors-edge"
+    scraped: "Sun Jun 02 2013 13:49:24 GMT+0100 (BST)"
   - image: "https://live.xbox.com/tiles/hw/bf/1YCLiGJhbC8XFQQaXFJRFzUwL2FjaC8wL2MAAAAA5+fn+vAGnA==.jpg"
     name: "aaaand safe!"
     description: "String together the following: wallrun, jump, coil (over obstacle), skill roll"
@@ -162,22 +178,6 @@ latest:
     score: 15
     acquired: "2013-05-23"
     slug: "tomb-raider_tastes-like-chicken"
-    gameSlug: "tomb-raider"
-    scraped: "Thu May 23 2013 15:37:14 GMT+0100 (BST)"
-  - image: "https://live.xbox.com/tiles/vQ/1C/04CLiGJhbC9NFQUcXVJRFzAyL2FjaC8wLzkAAAAA5+fn-G0Npg==.jpg"
-    name: Archaeologist
-    description: "75% of all relics collected."
-    score: 15
-    acquired: "2013-05-23"
-    slug: "tomb-raider_archaeologist"
-    gameSlug: "tomb-raider"
-    scraped: "Thu May 23 2013 15:37:14 GMT+0100 (BST)"
-  - image: "https://live.xbox.com/tiles/PB/bB/0YCLiGJhbC9FCBoDGllTWTAyL2FjaC8wLzIxAAAAAOfn5-7uFiA=.jpg"
-    name: Intellectually Superior
-    description: All optional tombs completed.
-    score: 50
-    acquired: "2013-05-23"
-    slug: "tomb-raider_intellectually-superior"
     gameSlug: "tomb-raider"
     scraped: "Thu May 23 2013 15:37:14 GMT+0100 (BST)"
 ---

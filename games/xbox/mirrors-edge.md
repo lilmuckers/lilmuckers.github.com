@@ -15,9 +15,25 @@ game:
     large: "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410850/1033/boxartlg.jpg"
   lastPlayed: "2013-06-02"
   totalScore: 1250
-  score: 600
+  score: 620
   totalAchievements: 50
   achievements: 
+    - image: "https://live.xbox.com/tiles/X+/zN/14CLiGJhbC9GCxsFG1lTWTUwL2FjaC8wLzEyAAAAAOfn5-ji7EM=.jpg"
+      name: Martial artist
+      description: Perform a melee hit from a wallrun
+      score: 10
+      acquired: "2013-06-02"
+      slug: "mirrors-edge_martial-artist"
+      gameSlug: "mirrors-edge"
+      scraped: "Sun Jun 02 2013 13:49:24 GMT+0100 (BST)"
+    - image: "https://live.xbox.com/tiles/kE/T2/14CLiGJhbC9DFQQaXFJRFzUwL2FjaC8wLzcAAAAA5+fn+NlEiw==.jpg"
+      name: "Hey, it&apos;s-a-me!"
+      description: Execute a stomp move on an enemy
+      score: 10
+      acquired: "2013-06-02"
+      slug: "mirrors-edge_hey-its-a-me"
+      gameSlug: "mirrors-edge"
+      scraped: "Sun Jun 02 2013 13:49:24 GMT+0100 (BST)"
     - image: "https://live.xbox.com/tiles/hw/bf/1YCLiGJhbC8XFQQaXFJRFzUwL2FjaC8wL2MAAAAA5+fn+vAGnA==.jpg"
       name: "aaaand safe!"
       description: "String together the following: wallrun, jump, coil (over obstacle), skill roll"
