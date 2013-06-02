@@ -3,23 +3,47 @@ layout: xbox
 title: Xbox Tracker
 tagline: "I play games, they are fun"
 group: games
-achievementcount: 1477
+achievementcount: 1480
 gamer: 
   gamertag: Lilmuckers
   avatar: 
     secure: "https://avatar-ssl.xboxlive.com/avatar/Lilmuckers/avatar-body.png"
     unsecure: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatar-body.png"
-  activity: "Online playing Mirror's Edge - Playing Story Mode\nChapter Two"
+  activity: "Last seen 6 hours ago playing Mirror&apos;s Edge&trade;"
   picture: 
     small: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatarpic-s.png"
     large: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatarpic-l.png"
-  score: 27670
+  score: 27755
   location: Londinium
   motto: "meritocracy!"
   bio: "ARGH! BEES!"
   profile: "http://live.xbox.com/en-GB/Profile?gamertag=lilmuckers"
 gamecount: 103
 latest: 
+  - image: "https://live.xbox.com/tiles/hw/bf/1YCLiGJhbC8XFQQaXFJRFzUwL2FjaC8wL2MAAAAA5+fn+vAGnA==.jpg"
+    name: "aaaand safe!"
+    description: "String together the following: wallrun, jump, coil (over obstacle), skill roll"
+    score: 30
+    acquired: "2013-06-02"
+    slug: "mirrors-edge_aaaand-safe"
+    gameSlug: "mirrors-edge"
+    scraped: "Sun Jun 02 2013 08:39:35 GMT+0100 (BST)"
+  - image: "https://live.xbox.com/tiles/FP/4-/1ICLiGJhbC8WFQQaXFJRFzUwL2FjaC8wL2IAAAAA5+fn+xD+Dw==.jpg"
+    name: "May I have this dance?"
+    description: "String together the following: wallrun, turn, jump, wallclimb, turn, jump"
+    score: 30
+    acquired: "2013-06-02"
+    slug: "mirrors-edge_may-i-have-this-dance"
+    gameSlug: "mirrors-edge"
+    scraped: "Sun Jun 02 2013 08:39:35 GMT+0100 (BST)"
+  - image: "https://live.xbox.com/tiles/Da/gx/1YCLiGJhbC9NFQQaXFJRFzUwL2FjaC8wLzkAAAAA5+fn+h6oFg==.jpg"
+    name: "Up, over, under, onwards"
+    description: "String together the following: jump, coil (over obstacle), slide (under obstacle)"
+    score: 25
+    acquired: "2013-06-02"
+    slug: "mirrors-edge_up-over-under-onwards"
+    gameSlug: "mirrors-edge"
+    scraped: "Sun Jun 02 2013 08:39:35 GMT+0100 (BST)"
   - image: "https://live.xbox.com/tiles/zB/Qt/1oCLiGJhbC9HCxsFG1lTWTUwL2FjaC8wLzEzAAAAAOfn5-kCFNA=.jpg"
     name: "Vrooom!"
     description: Maintain sprint speed for 30 seconds.
@@ -156,29 +180,5 @@ latest:
     slug: "tomb-raider_intellectually-superior"
     gameSlug: "tomb-raider"
     scraped: "Thu May 23 2013 15:37:14 GMT+0100 (BST)"
-  - image: "https://live.xbox.com/tiles/8S/G2/1ICLiGJhbC9MCxoDGllTWTAyL2FjaC8wLzE4AAAAAOfn5-uZIe0=.jpg"
-    name: Gunslinger
-    description: 35 enemies killed with the pistol.
-    score: 10
-    acquired: "2013-05-23"
-    slug: "tomb-raider_gunslinger"
-    gameSlug: "tomb-raider"
-    scraped: "Thu May 23 2013 15:37:14 GMT+0100 (BST)"
-  - image: "https://live.xbox.com/tiles/iR/-g/04CLiGJhbC9GCBoDGllTWTAyL2FjaC8wLzIyAAAAAOfn5-zPH5U=.jpg"
-    name: Unfinished Business
-    description: One challenge completed.
-    score: 20
-    acquired: "2013-05-23"
-    slug: "tomb-raider_unfinished-business"
-    gameSlug: "tomb-raider"
-    scraped: "Thu May 23 2013 14:32:12 GMT+0100 (BST)"
-  - image: "https://live.xbox.com/tiles/IO/GF/0YCLiGJhbC9DFQUcXVJRFzAyL2FjaC8wLzcAAAAA5+fn-qrhOw==.jpg"
-    name: Historian
-    description: "75% of all documents found."
-    score: 15
-    acquired: "2013-05-23"
-    slug: "tomb-raider_historian"
-    gameSlug: "tomb-raider"
-    scraped: "Wed May 22 2013 23:58:35 GMT+0100 (BST)"
 ---
 {% include JB/setup %}
