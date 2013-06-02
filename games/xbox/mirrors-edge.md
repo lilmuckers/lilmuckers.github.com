@@ -15,9 +15,25 @@ game:
     large: "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410850/1033/boxartlg.jpg"
   lastPlayed: "2013-06-02"
   totalScore: 1250
-  score: 795
+  score: 855
   totalAchievements: 50
   achievements: 
+    - image: "https://live.xbox.com/tiles/tr/U3/1ICLiGJhbC9BFQQaXFJRFzUwL2FjaC8wLzUAAAAA5+fn+xi1rQ==.jpg"
+      name: The twister
+      description: "String together: wallclimb, turn, swing, wallclimb, turn, swing, jump. [Pure Time Trials]"
+      score: 30
+      acquired: "2013-06-02"
+      slug: "mirrors-edge_the-twister"
+      gameSlug: "mirrors-edge"
+      scraped: "Sun Jun 02 2013 17:04:17 GMT+0100 (BST)"
+    - image: "https://live.xbox.com/tiles/JU/3X/1YCLiGJhbC9AFQQaXFJRFzUwL2FjaC8wLzQAAAAA5+fn+vhNPg==.jpg"
+      name: Surreptitious swing
+      description: "String together: springboard, wallrun, turn, swing, jump. [Pure Time Trials]"
+      score: 30
+      acquired: "2013-06-02"
+      slug: "mirrors-edge_surreptitious-swing"
+      gameSlug: "mirrors-edge"
+      scraped: "Sun Jun 02 2013 17:04:17 GMT+0100 (BST)"
     - image: "https://live.xbox.com/tiles/T1/6V/0YCLiGJhbC9GFQQaXFJRFzUwL2FjaC8wLzIAAAAA5+fn-rpeVA==.jpg"
       name: "U-turn"
       description: "String together: wallrun, wallrun, turn, swing, jump. [Pure Time Trials]"

@@ -3,23 +3,39 @@ layout: xbox
 title: Xbox Tracker
 tagline: "I play games, they are fun"
 group: games
-achievementcount: 1487
+achievementcount: 1489
 gamer: 
   gamertag: Lilmuckers
   avatar: 
     secure: "https://avatar-ssl.xboxlive.com/avatar/Lilmuckers/avatar-body.png"
     unsecure: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatar-body.png"
-  activity: "Online playing Mirror&apos;s Edge&trade; - Playing Time Trial\nVelocity"
+  activity: "Online playing Mirror&apos;s Edge&trade; - Playing Story Mode\nChapter Two"
   picture: 
     small: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatarpic-s.png"
     large: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatarpic-l.png"
-  score: 27950
+  score: 28010
   location: Londinium
   motto: "meritocracy!"
   bio: "ARGH! BEES!"
   profile: "http://live.xbox.com/en-GB/Profile?gamertag=lilmuckers"
 gamecount: 103
 latest: 
+  - image: "https://live.xbox.com/tiles/tr/U3/1ICLiGJhbC9BFQQaXFJRFzUwL2FjaC8wLzUAAAAA5+fn+xi1rQ==.jpg"
+    name: The twister
+    description: "String together: wallclimb, turn, swing, wallclimb, turn, swing, jump. [Pure Time Trials]"
+    score: 30
+    acquired: "2013-06-02"
+    slug: "mirrors-edge_the-twister"
+    gameSlug: "mirrors-edge"
+    scraped: "Sun Jun 02 2013 17:04:17 GMT+0100 (BST)"
+  - image: "https://live.xbox.com/tiles/JU/3X/1YCLiGJhbC9AFQQaXFJRFzUwL2FjaC8wLzQAAAAA5+fn+vhNPg==.jpg"
+    name: Surreptitious swing
+    description: "String together: springboard, wallrun, turn, swing, jump. [Pure Time Trials]"
+    score: 30
+    acquired: "2013-06-02"
+    slug: "mirrors-edge_surreptitious-swing"
+    gameSlug: "mirrors-edge"
+    scraped: "Sun Jun 02 2013 17:04:17 GMT+0100 (BST)"
   - image: "https://live.xbox.com/tiles/T1/6V/0YCLiGJhbC9GFQQaXFJRFzUwL2FjaC8wLzIAAAAA5+fn-rpeVA==.jpg"
     name: "U-turn"
     description: "String together: wallrun, wallrun, turn, swing, jump. [Pure Time Trials]"
@@ -164,21 +180,5 @@ latest:
     slug: "tomb-raider_the-professional"
     gameSlug: "tomb-raider"
     scraped: "Fri May 24 2013 00:37:14 GMT+0100 (BST)"
-  - image: "https://live.xbox.com/tiles/pF/tM/0oCLiGJhbC8WFQUcXVJRFzAyL2FjaC8wL2IAAAAA5+fn-WNbvw==.jpg"
-    name: No Stone Left Unturned
-    description: "All documents, relics, and GPS caches found."
-    score: 50
-    acquired: "2013-05-23"
-    slug: "tomb-raider_no-stone-left-unturned"
-    gameSlug: "tomb-raider"
-    scraped: "Thu May 23 2013 18:22:14 GMT+0100 (BST)"
-  - image: "https://live.xbox.com/tiles/Gu/cA/0oCLiGJhbC9HCBoDGllTWTAyL2FjaC8wLzIzAAAAAOfn5-0v5wY=.jpg"
-    name: "Inconceivable!"
-    description: All challenges complete.
-    score: 50
-    acquired: "2013-05-23"
-    slug: "tomb-raider_inconceivable"
-    gameSlug: "tomb-raider"
-    scraped: "Thu May 23 2013 18:22:14 GMT+0100 (BST)"
 ---
 {% include JB/setup %}
