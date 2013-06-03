@@ -3,23 +3,31 @@ layout: xbox
 title: Xbox Tracker
 tagline: "I play games, they are fun"
 group: games
-achievementcount: 1490
+achievementcount: 1491
 gamer: 
   gamertag: Lilmuckers
   avatar: 
     secure: "https://avatar-ssl.xboxlive.com/avatar/Lilmuckers/avatar-body.png"
     unsecure: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatar-body.png"
-  activity: Last seen 16 minutes ago playing Xbox Dashboard
+  activity: "Last seen 5 minutes ago playing Mirror&apos;s Edge&trade;"
   picture: 
     small: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatarpic-s.png"
     large: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatarpic-l.png"
-  score: 28090
+  score: 28100
   location: Londinium
   motto: "meritocracy!"
   bio: "ARGH! BEES!"
   profile: "http://live.xbox.com/en-GB/Profile?gamertag=lilmuckers"
 gamecount: 103
 latest: 
+  - image: "https://live.xbox.com/tiles/ZS/Q-/1ICLiGJhbC9HCBsFG1lTWTUwL2FjaC8wLzIzAAAAAOfn5-sQJHk=.jpg"
+    name: Chapter 1 Speedrun
+    description: Complete a Speedrun of Chapter 1 below the target time.
+    score: 10
+    acquired: "2013-06-03"
+    slug: "mirrors-edge_chapter-1-speedrun"
+    gameSlug: "mirrors-edge"
+    scraped: "Mon Jun 03 2013 23:14:30 GMT+0100 (BST)"
   - image: "https://live.xbox.com/tiles/bl/8l/1oCLiGJhbC8QCxsFG1lTWTUwL2FjaC8wLzFkAAAAAOfn5-kKX3I=.jpg"
     name: Pro runner
     description: Complete story mode on hard difficulty.
@@ -170,14 +178,6 @@ latest:
     score: 20
     acquired: "2013-05-26"
     slug: "tomb-raider_former-adventurer"
-    gameSlug: "tomb-raider"
-    scraped: "Sun May 26 2013 11:57:13 GMT+0100 (BST)"
-  - image: "https://live.xbox.com/tiles/cP/RC/1oCLiGJhbC9BCBoDGllTWTAyL2FjaC8wLzI1AAAAAOfn5-lt9Gw=.jpg"
-    name: Boom Goes the Dynamite
-    description: Bundle of dynamite shot out of the air.
-    score: 10
-    acquired: "2013-05-26"
-    slug: "tomb-raider_boom-goes-the-dynamite"
     gameSlug: "tomb-raider"
     scraped: "Sun May 26 2013 11:57:13 GMT+0100 (BST)"
 ---
