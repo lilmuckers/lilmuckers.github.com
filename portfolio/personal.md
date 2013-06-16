@@ -10,9 +10,6 @@ weight: 4
 {% include JB/setup %}
 
 <div class="row-fluid portfolio-row">
-  <div class="span4">
-    <img src="/assets/images/portfolio/personal/odd-compliments-small.png" >
-  </div>
   <div class="span8">
     <h3>Odd Compliments <small><a href="/odd-compliments">http://www.patrick-mckinley.com/odd-compliments</a></small></h3>
     <p>This was just a strange idea I had one day in a coffee-shop. A JSON file filled with odd compliments, and a jQuery rotator.</p>
@@ -20,6 +17,9 @@ weight: 4
       <!-- <dt>Blogpost</dt><dd>July 2011</dd> -->
       <dt>Built with</dt><dd>jQuery</dd>
     </dl>
+  </div>
+  <div class="span4">
+    <img src="/assets/images/portfolio/personal/odd-compliments-small.png" >
   </div>
 </div>
 
