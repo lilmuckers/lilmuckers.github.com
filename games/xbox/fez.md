@@ -4,7 +4,7 @@ title: Fez
 showPage: true
 tagline: ""
 group: xboxgame
-weight: 98
+weight: 97
 game: 
   name: FEZ
   gameId: 1480657344

@@ -3,23 +3,47 @@ layout: xbox
 title: Xbox Tracker
 tagline: "I play games, they are fun"
 group: games
-achievementcount: 1491
+achievementcount: 1494
 gamer: 
   gamertag: Lilmuckers
   avatar: 
     secure: "https://avatar-ssl.xboxlive.com/avatar/Lilmuckers/avatar-body.png"
     unsecure: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatar-body.png"
-  activity: "Last seen 5 minutes ago playing Mirror&apos;s Edge&trade;"
+  activity: Last seen 2 minutes ago playing Xbox Dashboard
   picture: 
     small: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatarpic-s.png"
     large: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatarpic-l.png"
-  score: 28100
+  score: 28135
   location: Londinium
   motto: "meritocracy!"
   bio: "ARGH! BEES!"
   profile: "http://live.xbox.com/en-GB/Profile?gamertag=lilmuckers"
 gamecount: 103
 latest: 
+  - image: "https://live.xbox.com/tiles/m7/ly/1ICLiGJhbC9NDxoFGltTWTg2L2FjaC8wLzU5AAAAAOfn5-tduYc=.jpg"
+    name: Triple Threat
+    description: Completed 3 types of Classes
+    score: 10
+    acquired: "2013-06-17"
+    slug: "your-shape-fe-2012_triple-threat"
+    gameSlug: "your-shape-fe-2012"
+    scraped: "Mon Jun 17 2013 22:37:58 GMT+0100 (BST)"
+  - image: "https://live.xbox.com/tiles/nt/ZP/1YCLiGJhbC8VDBoFGltTWTg2L2FjaC8wLzZhAAAAAOfn5-pg1oI=.jpg"
+    name: Decathlete
+    description: Completed 10 types of Workouts
+    score: 15
+    acquired: "2013-06-17"
+    slug: "your-shape-fe-2012_decathlete"
+    gameSlug: "your-shape-fe-2012"
+    scraped: "Mon Jun 17 2013 22:37:58 GMT+0100 (BST)"
+  - image: "https://live.xbox.com/tiles/IK/R0/1YCLiGJhbC9BDxoFGltTWTg2L2FjaC8wLzU1AAAAAOfn5-pbpDw=.jpg"
+    name: I Get Around
+    description: "Completed every type of 1-player Activity"
+    score: 10
+    acquired: "2013-06-17"
+    slug: "your-shape-fe-2012_i-get-around"
+    gameSlug: "your-shape-fe-2012"
+    scraped: "Mon Jun 17 2013 22:37:58 GMT+0100 (BST)"
   - image: "https://live.xbox.com/tiles/ZS/Q-/1ICLiGJhbC9HCBsFG1lTWTUwL2FjaC8wLzIzAAAAAOfn5-sQJHk=.jpg"
     name: Chapter 1 Speedrun
     description: Complete a Speedrun of Chapter 1 below the target time.
@@ -156,29 +180,5 @@ latest:
     slug: "mirrors-edge_bag-lady"
     gameSlug: "mirrors-edge"
     scraped: "Sun Jun 02 2013 01:27:47 GMT+0100 (BST)"
-  - image: "https://live.xbox.com/tiles/nl/DR/1ICLiGJhbC9MFQQaXFJRFzUwL2FjaC8wLzgAAAAA5+fn+-5QhQ==.jpg"
-    name: Test of Faith
-    description: Complete the game without shooting an enemy
-    score: 80
-    acquired: "2013-06-01"
-    slug: "mirrors-edge_test-of-faith"
-    gameSlug: "mirrors-edge"
-    scraped: "Sat Jun 01 2013 22:22:21 GMT+0100 (BST)"
-  - image: "https://live.xbox.com/tiles/iR/DL/0YCLiGJhbC9NCRoDGllTWTAyL2FjaC8wLzM5AAAAAOfn5-7kEJU=.jpg"
-    name: Chatterbox
-    description: All conversations with the Endurance crew completed.
-    score: 5
-    acquired: "2013-05-26"
-    slug: "tomb-raider_chatterbox"
-    gameSlug: "tomb-raider"
-    scraped: "Sun May 26 2013 20:17:10 GMT+0100 (BST)"
-  - image: "https://live.xbox.com/tiles/N2/3b/04CLiGJhbC8SCxoDGllTWTAyL2FjaC8wLzFmAAAAAOfn5-z0bSs=.jpg"
-    name: Former Adventurer
-    description: 25 enemies incapacitated with dodge counter.
-    score: 20
-    acquired: "2013-05-26"
-    slug: "tomb-raider_former-adventurer"
-    gameSlug: "tomb-raider"
-    scraped: "Sun May 26 2013 11:57:13 GMT+0100 (BST)"
 ---
 {% include JB/setup %}

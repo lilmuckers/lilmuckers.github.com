@@ -4,7 +4,7 @@ title: Sonic The Hedgehog
 showPage: true
 tagline: ""
 group: xboxgame
-weight: 71
+weight: 70
 game: 
   name: Sonic The Hedgehog
   gameId: 1480656996

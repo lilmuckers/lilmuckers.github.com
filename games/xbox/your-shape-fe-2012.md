@@ -4,7 +4,7 @@ title: "Your Shape&trade; Fitness Evolved 2012"
 showPage: true
 tagline: ""
 group: xboxgame
-weight: 62
+weight: 102
 game: 
   name: "Your Shape: FE 2012"
   gameId: 1431505030
@@ -13,11 +13,35 @@ game:
   boxart: 
     small: "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530886/2057/boxartsm.jpg"
     large: "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530886/2057/boxartlg.jpg"
-  lastPlayed: "2012-05-22"
+  lastPlayed: "2013-06-17"
   totalScore: 1050
-  score: 225
+  score: 260
   totalAchievements: 55
   achievements: 
+    - image: "https://live.xbox.com/tiles/m7/ly/1ICLiGJhbC9NDxoFGltTWTg2L2FjaC8wLzU5AAAAAOfn5-tduYc=.jpg"
+      name: Triple Threat
+      description: Completed 3 types of Classes
+      score: 10
+      acquired: "2013-06-17"
+      slug: "your-shape-fe-2012_triple-threat"
+      gameSlug: "your-shape-fe-2012"
+      scraped: "Mon Jun 17 2013 22:37:58 GMT+0100 (BST)"
+    - image: "https://live.xbox.com/tiles/nt/ZP/1YCLiGJhbC8VDBoFGltTWTg2L2FjaC8wLzZhAAAAAOfn5-pg1oI=.jpg"
+      name: Decathlete
+      description: Completed 10 types of Workouts
+      score: 15
+      acquired: "2013-06-17"
+      slug: "your-shape-fe-2012_decathlete"
+      gameSlug: "your-shape-fe-2012"
+      scraped: "Mon Jun 17 2013 22:37:58 GMT+0100 (BST)"
+    - image: "https://live.xbox.com/tiles/IK/R0/1YCLiGJhbC9BDxoFGltTWTg2L2FjaC8wLzU1AAAAAOfn5-pbpDw=.jpg"
+      name: I Get Around
+      description: "Completed every type of 1-player Activity"
+      score: 10
+      acquired: "2013-06-17"
+      slug: "your-shape-fe-2012_i-get-around"
+      gameSlug: "your-shape-fe-2012"
+      scraped: "Mon Jun 17 2013 22:37:58 GMT+0100 (BST)"
     - image: "https://live.xbox.com/tiles/jf/tG/14CLiGJhbC9GFQUaXVBRFzg2L2FjaC8wLzIAAAAA5+fn+Gn7lg==.jpg"
       name: Start the New Year Right
       description: Completed one week of the Lose Weight plan 3 times

@@ -4,7 +4,7 @@ title: "Mirror&apos;s Edge&trade;"
 showPage: true
 tagline: ""
 group: xboxgame
-weight: 102
+weight: 101
 game: 
   name: "Mirror&apos;s Edge&trade;"
   gameId: 1161889872
@@ -13,7 +13,7 @@ game:
   boxart: 
     small: "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410850/1033/boxartsm.jpg"
     large: "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80245410850/1033/boxartlg.jpg"
-  lastPlayed: "2013-06-03"
+  lastPlayed: "2013-06-09"
   totalScore: 1250
   score: 945
   totalAchievements: 50
