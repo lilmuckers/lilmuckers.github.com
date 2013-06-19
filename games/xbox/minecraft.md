@@ -4,7 +4,7 @@ title: "Minecraft: Xbox 360 Edition"
 showPage: true
 tagline: ""
 group: xboxgame
-weight: 73
+weight: 72
 game: 
   name: Minecraft
   gameId: 1480659447

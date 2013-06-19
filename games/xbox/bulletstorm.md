@@ -4,7 +4,7 @@ title: "Bulletstorm&trade;"
 showPage: true
 tagline: ""
 group: xboxgame
-weight: 32
+weight: 31
 game: 
   name: Bulletstorm
   gameId: 1161890031

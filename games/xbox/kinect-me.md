@@ -4,7 +4,7 @@ title: Kinect Me
 showPage: true
 tagline: ""
 group: xboxgame
-weight: 31
+weight: 102
 game: 
   name: Kinect Me
   gameId: 1481115668
@@ -13,7 +13,7 @@ game:
   boxart: 
     small: "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258480814/1033/boxartsm.jpg"
     large: "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258480814/1033/boxartlg.jpg"
-  lastPlayed: "2011-06-26"
+  lastPlayed: "2013-06-19"
   totalScore: 50
   score: 15
   totalAchievements: 8

@@ -15,7 +15,7 @@ game:
     large: "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258480817/1033/boxartlg.jpg"
   lastPlayed: "2013-06-19"
   totalScore: 50
-  score: 25
+  score: 50
   totalAchievements: 8
   achievements: 
     - image: "https://live.xbox.com/tiles/zq/Vz/04CLiGJhbC9BFQUXXFtRFzE3L2FjaC8wLzUAAAAA5+fn-Fyl1Q==.jpg"

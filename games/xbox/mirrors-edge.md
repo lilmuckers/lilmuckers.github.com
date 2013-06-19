@@ -4,7 +4,7 @@ title: "Mirror&apos;s Edge&trade;"
 showPage: true
 tagline: ""
 group: xboxgame
-weight: 99
+weight: 98
 game: 
   name: "Mirror&apos;s Edge&trade;"
   gameId: 1161889872

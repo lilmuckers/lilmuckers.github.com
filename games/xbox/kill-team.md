@@ -4,7 +4,7 @@ title: "Warhammer&reg; 40,000&reg;: Kill Team&trade;"
 showPage: true
 tagline: ""
 group: xboxgame
-weight: 42
+weight: 41
 game: 
   name: Kill Team
   gameId: 1480657746
