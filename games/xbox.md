@@ -3,23 +3,127 @@ layout: xbox
 title: Xbox Tracker
 tagline: "I play games, they are fun"
 group: games
-achievementcount: 1499
+achievementcount: 1512
 gamer: 
   gamertag: Lilmuckers
   avatar: 
     secure: "https://avatar-ssl.xboxlive.com/avatar/Lilmuckers/avatar-body.png"
     unsecure: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatar-body.png"
-  activity: "Online playing Kinect Me - Setting up my shoot!"
+  activity: Online playing Kinect Fun Labs
   picture: 
     small: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatarpic-s.png"
     large: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatarpic-l.png"
-  score: 28185
+  score: 28270
   location: Londinium
   motto: "meritocracy!"
   bio: "ARGH! BEES!"
   profile: "http://live.xbox.com/en-GB/Profile?gamertag=lilmuckers"
-gamecount: 103
+gamecount: 104
 latest: 
+  - image: "https://live.xbox.com/tiles/+j/VO/1oCLiGJhbC9HFQUXXFtRFzFmL2FjaC8wLzMAAAAA5+fn+WE14Q==.jpg"
+    name: The Image of Victory
+    description: Shared 10 epic victory pictures
+    score: 5
+    acquired: "2013-06-19"
+    slug: "junk-fu_the-image-of-victory"
+    gameSlug: "junk-fu"
+    scraped: "Wed Jun 19 2013 21:44:15 GMT+0100 (BST)"
+  - image: "https://live.xbox.com/tiles/ac/2u/14CLiGJhbC9GFQUXXFtRFzFmL2FjaC8wLzIAAAAA5+fn+IHNcg==.jpg"
+    name: Learn To Share
+    description: Shared an epic victory picture with your friends
+    score: 5
+    acquired: "2013-06-19"
+    slug: "junk-fu_learn-to-share"
+    gameSlug: "junk-fu"
+    scraped: "Wed Jun 19 2013 21:44:15 GMT+0100 (BST)"
+  - image: "https://live.xbox.com/tiles/tt/fN/0YCLiGJhbC9DFQUXXFtRFzFmL2FjaC8wLzcAAAAA5+fn-uLXrQ==.jpg"
+    name: Pizza Party
+    description: Earned the pizza bonus stage
+    score: 10
+    acquired: "2013-06-19"
+    slug: "junk-fu_pizza-party"
+    gameSlug: "junk-fu"
+    scraped: "Wed Jun 19 2013 21:44:15 GMT+0100 (BST)"
+  - image: "https://live.xbox.com/tiles/A9/7s/04CLiGJhbC9AFQUXXFtRFzFmL2FjaC8wLzQAAAAA5+fn-MPeGA==.jpg"
+    name: "Chop-O-Matic"
+    description: Destroyed 40 screens of objects without missing
+    score: 5
+    acquired: "2013-06-19"
+    slug: "junk-fu_chop-o-matic"
+    gameSlug: "junk-fu"
+    scraped: "Wed Jun 19 2013 21:44:15 GMT+0100 (BST)"
+  - image: "https://live.xbox.com/tiles/Kz/sK/04CLiGJhbC9NFQUXXFtRFzFmL2FjaC8wLzkAAAAA5+fn-CU7MA==.jpg"
+    name: Break Away
+    description: "Reached a score of 20,000"
+    score: 10
+    acquired: "2013-06-19"
+    slug: "junk-fu_break-away"
+    gameSlug: "junk-fu"
+    scraped: "Wed Jun 19 2013 21:44:15 GMT+0100 (BST)"
+  - image: "https://live.xbox.com/tiles/JS/8t/0ICLiGJhbC9CFQUXXFtRFzFmL2FjaC8wLzYAAAAA5+fn-wIvPg==.jpg"
+    name: Cupcakes
+    description: Earned the cupcake bonus stage
+    score: 5
+    acquired: "2013-06-19"
+    slug: "junk-fu_cupcakes"
+    gameSlug: "junk-fu"
+    scraped: "Wed Jun 19 2013 21:44:15 GMT+0100 (BST)"
+  - image: "https://live.xbox.com/tiles/uM/Pq/0oCLiGJhbC9MFQUXXFtRFzFmL2FjaC8wLzgAAAAA5+fn-cXDow==.jpg"
+    name: 5000 Score
+    description: "Reached a score of 5,000"
+    score: 5
+    acquired: "2013-06-19"
+    slug: "junk-fu_5000-score"
+    gameSlug: "junk-fu"
+    scraped: "Wed Jun 19 2013 21:44:15 GMT+0100 (BST)"
+  - image: "https://live.xbox.com/tiles/kC/YM/0oCLiGJhbC9BFQUXXFtRFzFmL2FjaC8wLzUAAAAA5+fn-SMmiw==.jpg"
+    name: Dinner Mint
+    description: Earned the dinner mint bonus stage
+    score: 5
+    acquired: "2013-06-19"
+    slug: "junk-fu_dinner-mint"
+    gameSlug: "junk-fu"
+    scraped: "Wed Jun 19 2013 21:44:15 GMT+0100 (BST)"
+  - image: "https://live.xbox.com/tiles/Hr/1S/1oCLiGJhbC9HFQUXXFtRFzE0L2FjaC8wLzMAAAAA5+fn+X29BQ==.jpg"
+    name: Kinect Me Pro
+    description: Posed for 25 photo shoots
+    score: 10
+    acquired: "2013-06-19"
+    slug: "kinect-me_kinect-me-pro"
+    gameSlug: "kinect-me"
+    scraped: "Wed Jun 19 2013 21:44:25 GMT+0100 (BST)"
+  - image: "https://live.xbox.com/tiles/OE/yT/1YCLiGJhbC9FFQUXXFtRFzE0L2FjaC8wLzEAAAAA5+fn+rxMIw==.jpg"
+    name: Celebrity
+    description: Shared 10 photo shoots with your friends
+    score: 10
+    acquired: "2013-06-19"
+    slug: "kinect-me_celebrity"
+    gameSlug: "kinect-me"
+    scraped: "Wed Jun 19 2013 21:44:25 GMT+0100 (BST)"
+  - image: "https://live.xbox.com/tiles/jU/Wy/14CLiGJhbC9GFQUXXFtRFzE0L2FjaC8wLzIAAAAA5+fn+J1Flg==.jpg"
+    name: Chameleon
+    description: Shot in front of every background
+    score: 5
+    acquired: "2013-06-19"
+    slug: "kinect-me_chameleon"
+    gameSlug: "kinect-me"
+    scraped: "Wed Jun 19 2013 21:44:25 GMT+0100 (BST)"
+  - image: "https://live.xbox.com/tiles/wa/cx/0ICLiGJhbC9CFQUXXFtRFzE0L2FjaC8wLzYAAAAA5+fn-x6n2g==.jpg"
+    name: Nice to Meet Me
+    description: Shared with your friends
+    score: 5
+    acquired: "2013-06-19"
+    slug: "kinect-me_nice-to-meet-me"
+    gameSlug: "kinect-me"
+    scraped: "Wed Jun 19 2013 21:44:25 GMT+0100 (BST)"
+  - image: "https://live.xbox.com/tiles/XE/v2/0oCLiGJhbC9MFQUXXFtRFzE0L2FjaC8wLzgAAAAA5+fn-dlLRw==.jpg"
+    name: Spread the Word
+    description: Shared with KinectShare.com
+    score: 5
+    acquired: "2013-06-19"
+    slug: "kinect-me_spread-the-word"
+    gameSlug: "kinect-me"
+    scraped: "Wed Jun 19 2013 21:44:25 GMT+0100 (BST)"
   - image: "https://live.xbox.com/tiles/zq/Vz/04CLiGJhbC9BFQUXXFtRFzE3L2FjaC8wLzUAAAAA5+fn-Fyl1Q==.jpg"
     name: Making Eye Contact
     description: Shared with a friend
@@ -76,109 +180,5 @@ latest:
     slug: "your-shape-fe-2012_decathlete"
     gameSlug: "your-shape-fe-2012"
     scraped: "Mon Jun 17 2013 22:37:58 GMT+0100 (BST)"
-  - image: "https://live.xbox.com/tiles/IK/R0/1YCLiGJhbC9BDxoFGltTWTg2L2FjaC8wLzU1AAAAAOfn5-pbpDw=.jpg"
-    name: I Get Around
-    description: "Completed every type of 1-player Activity"
-    score: 10
-    acquired: "2013-06-17"
-    slug: "your-shape-fe-2012_i-get-around"
-    gameSlug: "your-shape-fe-2012"
-    scraped: "Mon Jun 17 2013 22:37:58 GMT+0100 (BST)"
-  - image: "https://live.xbox.com/tiles/ZS/Q-/1ICLiGJhbC9HCBsFG1lTWTUwL2FjaC8wLzIzAAAAAOfn5-sQJHk=.jpg"
-    name: Chapter 1 Speedrun
-    description: Complete a Speedrun of Chapter 1 below the target time.
-    score: 10
-    acquired: "2013-06-03"
-    slug: "mirrors-edge_chapter-1-speedrun"
-    gameSlug: "mirrors-edge"
-    scraped: "Mon Jun 03 2013 23:14:30 GMT+0100 (BST)"
-  - image: "https://live.xbox.com/tiles/bl/8l/1oCLiGJhbC8QCxsFG1lTWTUwL2FjaC8wLzFkAAAAAOfn5-kKX3I=.jpg"
-    name: Pro runner
-    description: Complete story mode on hard difficulty.
-    score: 80
-    acquired: "2013-06-03"
-    slug: "mirrors-edge_pro-runner"
-    gameSlug: "mirrors-edge"
-    scraped: "Mon Jun 03 2013 00:24:21 GMT+0100 (BST)"
-  - image: "https://live.xbox.com/tiles/tr/U3/1ICLiGJhbC9BFQQaXFJRFzUwL2FjaC8wLzUAAAAA5+fn+xi1rQ==.jpg"
-    name: The twister
-    description: "String together: wallclimb, turn, swing, wallclimb, turn, swing, jump. [Pure Time Trials]"
-    score: 30
-    acquired: "2013-06-02"
-    slug: "mirrors-edge_the-twister"
-    gameSlug: "mirrors-edge"
-    scraped: "Sun Jun 02 2013 17:04:17 GMT+0100 (BST)"
-  - image: "https://live.xbox.com/tiles/JU/3X/1YCLiGJhbC9AFQQaXFJRFzUwL2FjaC8wLzQAAAAA5+fn+vhNPg==.jpg"
-    name: Surreptitious swing
-    description: "String together: springboard, wallrun, turn, swing, jump. [Pure Time Trials]"
-    score: 30
-    acquired: "2013-06-02"
-    slug: "mirrors-edge_surreptitious-swing"
-    gameSlug: "mirrors-edge"
-    scraped: "Sun Jun 02 2013 17:04:17 GMT+0100 (BST)"
-  - image: "https://live.xbox.com/tiles/T1/6V/0YCLiGJhbC9GFQQaXFJRFzUwL2FjaC8wLzIAAAAA5+fn-rpeVA==.jpg"
-    name: "U-turn"
-    description: "String together: wallrun, wallrun, turn, swing, jump. [Pure Time Trials]"
-    score: 30
-    acquired: "2013-06-02"
-    slug: "mirrors-edge_u-turn"
-    gameSlug: "mirrors-edge"
-    scraped: "Sun Jun 02 2013 16:09:24 GMT+0100 (BST)"
-  - image: "https://live.xbox.com/tiles/3K/Z1/0ICLiGJhbC9HFQQaXFJRFzUwL2FjaC8wLzMAAAAA5+fn-1qmxw==.jpg"
-    name: Dicey launch
-    description: "String together: slide, wallrun, wall climb, turn, jump. [Pure Time Trials]"
-    score: 30
-    acquired: "2013-06-02"
-    slug: "mirrors-edge_dicey-launch"
-    gameSlug: "mirrors-edge"
-    scraped: "Sun Jun 02 2013 16:09:24 GMT+0100 (BST)"
-  - image: "https://live.xbox.com/tiles/6u/Xs/1YCLiGJhbC9FCxsFG1lTWTUwL2FjaC8wLzExAAAAAOfn5-rD5fY=.jpg"
-    name: Untouchable
-    description: Complete a chapter without getting shot
-    score: 15
-    acquired: "2013-06-02"
-    slug: "mirrors-edge_untouchable"
-    gameSlug: "mirrors-edge"
-    scraped: "Sun Jun 02 2013 16:09:24 GMT+0100 (BST)"
-  - image: "https://live.xbox.com/tiles/fu/19/0ICLiGJhbC8QFQQaXFJRFzUwL2FjaC8wL2QAAAAA5+fn-1LtZQ==.jpg"
-    name: Head over heels
-    description: Complete a chapter of the game without ending up in a heavy landing
-    score: 20
-    acquired: "2013-06-02"
-    slug: "mirrors-edge_head-over-heels"
-    gameSlug: "mirrors-edge"
-    scraped: "Sun Jun 02 2013 16:09:24 GMT+0100 (BST)"
-  - image: "https://live.xbox.com/tiles/Q9/X+/14CLiGJhbC9FCBsFG1lTWTUwL2FjaC8wLzIxAAAAAOfn5-jR1V8=.jpg"
-    name: Packrat
-    description: Find all 30 hidden bags
-    score: 80
-    acquired: "2013-06-02"
-    slug: "mirrors-edge_packrat"
-    gameSlug: "mirrors-edge"
-    scraped: "Sun Jun 02 2013 16:09:24 GMT+0100 (BST)"
-  - image: "https://live.xbox.com/tiles/X+/zN/14CLiGJhbC9GCxsFG1lTWTUwL2FjaC8wLzEyAAAAAOfn5-ji7EM=.jpg"
-    name: Martial artist
-    description: Perform a melee hit from a wallrun
-    score: 10
-    acquired: "2013-06-02"
-    slug: "mirrors-edge_martial-artist"
-    gameSlug: "mirrors-edge"
-    scraped: "Sun Jun 02 2013 13:49:24 GMT+0100 (BST)"
-  - image: "https://live.xbox.com/tiles/kE/T2/14CLiGJhbC9DFQQaXFJRFzUwL2FjaC8wLzcAAAAA5+fn+NlEiw==.jpg"
-    name: "Hey, it&apos;s-a-me!"
-    description: Execute a stomp move on an enemy
-    score: 10
-    acquired: "2013-06-02"
-    slug: "mirrors-edge_hey-its-a-me"
-    gameSlug: "mirrors-edge"
-    scraped: "Sun Jun 02 2013 13:49:24 GMT+0100 (BST)"
-  - image: "https://live.xbox.com/tiles/hw/bf/1YCLiGJhbC8XFQQaXFJRFzUwL2FjaC8wL2MAAAAA5+fn+vAGnA==.jpg"
-    name: "aaaand safe!"
-    description: "String together the following: wallrun, jump, coil (over obstacle), skill roll"
-    score: 30
-    acquired: "2013-06-02"
-    slug: "mirrors-edge_aaaand-safe"
-    gameSlug: "mirrors-edge"
-    scraped: "Sun Jun 02 2013 08:39:35 GMT+0100 (BST)"
 ---
 {% include JB/setup %}

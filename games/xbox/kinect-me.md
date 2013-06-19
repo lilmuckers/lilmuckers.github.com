@@ -15,9 +15,49 @@ game:
     large: "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258480814/1033/boxartlg.jpg"
   lastPlayed: "2013-06-19"
   totalScore: 50
-  score: 15
+  score: 50
   totalAchievements: 8
   achievements: 
+    - image: "https://live.xbox.com/tiles/Hr/1S/1oCLiGJhbC9HFQUXXFtRFzE0L2FjaC8wLzMAAAAA5+fn+X29BQ==.jpg"
+      name: Kinect Me Pro
+      description: Posed for 25 photo shoots
+      score: 10
+      acquired: "2013-06-19"
+      slug: "kinect-me_kinect-me-pro"
+      gameSlug: "kinect-me"
+      scraped: "Wed Jun 19 2013 21:44:25 GMT+0100 (BST)"
+    - image: "https://live.xbox.com/tiles/OE/yT/1YCLiGJhbC9FFQUXXFtRFzE0L2FjaC8wLzEAAAAA5+fn+rxMIw==.jpg"
+      name: Celebrity
+      description: Shared 10 photo shoots with your friends
+      score: 10
+      acquired: "2013-06-19"
+      slug: "kinect-me_celebrity"
+      gameSlug: "kinect-me"
+      scraped: "Wed Jun 19 2013 21:44:25 GMT+0100 (BST)"
+    - image: "https://live.xbox.com/tiles/jU/Wy/14CLiGJhbC9GFQUXXFtRFzE0L2FjaC8wLzIAAAAA5+fn+J1Flg==.jpg"
+      name: Chameleon
+      description: Shot in front of every background
+      score: 5
+      acquired: "2013-06-19"
+      slug: "kinect-me_chameleon"
+      gameSlug: "kinect-me"
+      scraped: "Wed Jun 19 2013 21:44:25 GMT+0100 (BST)"
+    - image: "https://live.xbox.com/tiles/wa/cx/0ICLiGJhbC9CFQUXXFtRFzE0L2FjaC8wLzYAAAAA5+fn-x6n2g==.jpg"
+      name: Nice to Meet Me
+      description: Shared with your friends
+      score: 5
+      acquired: "2013-06-19"
+      slug: "kinect-me_nice-to-meet-me"
+      gameSlug: "kinect-me"
+      scraped: "Wed Jun 19 2013 21:44:25 GMT+0100 (BST)"
+    - image: "https://live.xbox.com/tiles/XE/v2/0oCLiGJhbC9MFQUXXFtRFzE0L2FjaC8wLzgAAAAA5+fn-dlLRw==.jpg"
+      name: Spread the Word
+      description: Shared with KinectShare.com
+      score: 5
+      acquired: "2013-06-19"
+      slug: "kinect-me_spread-the-word"
+      gameSlug: "kinect-me"
+      scraped: "Wed Jun 19 2013 21:44:25 GMT+0100 (BST)"
     - image: "https://live.xbox.com/tiles/Ul/-R/0YCLiGJhbC9DFQUXXFtRFzE0L2FjaC8wLzcAAAAA5+fn-v5fSQ==.jpg"
       name: Set the Stage
       description: Chose your own background
@@ -57,5 +97,6 @@ game:
     - "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258480814/1033/screenlg2.jpg"
     - "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258480814/1033/screenlg3.jpg"
   video: null
+  unEncName: Kinect Me
 ---
 {% include JB/setup %}
