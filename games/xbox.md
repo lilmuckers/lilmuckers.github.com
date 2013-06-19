@@ -28,30 +28,6 @@ latest:
     slug: "kinect-playfit_10k-run"
     gameSlug: "kinect-playfit"
     scraped: "Wed Jun 19 2013 22:03:56 GMT+0100 (BST)"
-  - image: "https://live.xbox.com/tiles/N0/7R/1oCLiGJhbC9GFQUXXFtRFzE3L2FjaC8wLzIAAAAA5+fn+f5OLA==.jpg"
-    name: Googly Eyes Pro
-    description: Created 25 puppets
-    score: 10
-    acquired: "2013-06-19"
-    slug: "googly-eyes_googly-eyes-pro"
-    gameSlug: "googly-eyes"
-    scraped: "Wed Jun 19 2013 22:04:07 GMT+0100 (BST)"
-  - image: "https://live.xbox.com/tiles/6F/Sy/0ICLiGJhbC9DFQUXXFtRFzE3L2FjaC8wLzcAAAAA5+fn-51U8w==.jpg"
-    name: Staring is Caring
-    description: Shared 10 times
-    score: 10
-    acquired: "2013-06-19"
-    slug: "googly-eyes_staring-is-caring"
-    gameSlug: "googly-eyes"
-    scraped: "Wed Jun 19 2013 22:04:07 GMT+0100 (BST)"
-  - image: "https://live.xbox.com/tiles/e6/xS/0YCLiGJhbC9CFQUXXFtRFzE3L2FjaC8wLzYAAAAA5+fn-n2sYA==.jpg"
-    name: Optometrist
-    description: Tried every configuration of eyes
-    score: 5
-    acquired: "2013-06-19"
-    slug: "googly-eyes_optometrist"
-    gameSlug: "googly-eyes"
-    scraped: "Wed Jun 19 2013 22:04:07 GMT+0100 (BST)"
   - image: "https://live.xbox.com/tiles/+j/VO/1oCLiGJhbC9HFQUXXFtRFzFmL2FjaC8wLzMAAAAA5+fn+WE14Q==.jpg"
     name: The Image of Victory
     description: Shared 10 epic victory pictures
@@ -156,6 +132,30 @@ latest:
     slug: "kinect-me_spread-the-word"
     gameSlug: "kinect-me"
     scraped: "Wed Jun 19 2013 21:44:25 GMT+0100 (BST)"
+  - image: "https://live.xbox.com/tiles/N0/7R/1oCLiGJhbC9GFQUXXFtRFzE3L2FjaC8wLzIAAAAA5+fn+f5OLA==.jpg"
+    name: Googly Eyes Pro
+    description: Created 25 puppets
+    score: 10
+    acquired: "2013-06-19"
+    slug: "googly-eyes_googly-eyes-pro"
+    gameSlug: "googly-eyes"
+    scraped: "Wed Jun 19 2013 22:04:07 GMT+0100 (BST)"
+  - image: "https://live.xbox.com/tiles/6F/Sy/0ICLiGJhbC9DFQUXXFtRFzE3L2FjaC8wLzcAAAAA5+fn-51U8w==.jpg"
+    name: Staring is Caring
+    description: Shared 10 times
+    score: 10
+    acquired: "2013-06-19"
+    slug: "googly-eyes_staring-is-caring"
+    gameSlug: "googly-eyes"
+    scraped: "Wed Jun 19 2013 22:04:07 GMT+0100 (BST)"
+  - image: "https://live.xbox.com/tiles/e6/xS/0YCLiGJhbC9CFQUXXFtRFzE3L2FjaC8wLzYAAAAA5+fn-n2sYA==.jpg"
+    name: Optometrist
+    description: Tried every configuration of eyes
+    score: 5
+    acquired: "2013-06-19"
+    slug: "googly-eyes_optometrist"
+    gameSlug: "googly-eyes"
+    scraped: "Wed Jun 19 2013 22:04:07 GMT+0100 (BST)"
   - image: "https://live.xbox.com/tiles/zq/Vz/04CLiGJhbC9BFQUXXFtRFzE3L2FjaC8wLzUAAAAA5+fn-Fyl1Q==.jpg"
     name: Making Eye Contact
     description: Shared with a friend
