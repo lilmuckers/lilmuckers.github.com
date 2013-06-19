@@ -4,7 +4,7 @@ title: Kinect Googly Eyes
 showPage: true
 tagline: ""
 group: xboxgame
-weight: 101
+weight: 102
 game: 
   name: Googly Eyes
   gameId: 1481115671
@@ -15,9 +15,33 @@ game:
     large: "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258480817/1033/boxartlg.jpg"
   lastPlayed: "2013-06-19"
   totalScore: 50
-  score: 25
+  score: 50
   totalAchievements: 8
   achievements: 
+    - image: "https://live.xbox.com/tiles/N0/7R/1oCLiGJhbC9GFQUXXFtRFzE3L2FjaC8wLzIAAAAA5+fn+f5OLA==.jpg"
+      name: Googly Eyes Pro
+      description: Created 25 puppets
+      score: 10
+      acquired: "2013-06-19"
+      slug: "googly-eyes_googly-eyes-pro"
+      gameSlug: "googly-eyes"
+      scraped: "Wed Jun 19 2013 22:04:07 GMT+0100 (BST)"
+    - image: "https://live.xbox.com/tiles/6F/Sy/0ICLiGJhbC9DFQUXXFtRFzE3L2FjaC8wLzcAAAAA5+fn-51U8w==.jpg"
+      name: Staring is Caring
+      description: Shared 10 times
+      score: 10
+      acquired: "2013-06-19"
+      slug: "googly-eyes_staring-is-caring"
+      gameSlug: "googly-eyes"
+      scraped: "Wed Jun 19 2013 22:04:07 GMT+0100 (BST)"
+    - image: "https://live.xbox.com/tiles/e6/xS/0YCLiGJhbC9CFQUXXFtRFzE3L2FjaC8wLzYAAAAA5+fn-n2sYA==.jpg"
+      name: Optometrist
+      description: Tried every configuration of eyes
+      score: 5
+      acquired: "2013-06-19"
+      slug: "googly-eyes_optometrist"
+      gameSlug: "googly-eyes"
+      scraped: "Wed Jun 19 2013 22:04:07 GMT+0100 (BST)"
     - image: "https://live.xbox.com/tiles/zq/Vz/04CLiGJhbC9BFQUXXFtRFzE3L2FjaC8wLzUAAAAA5+fn-Fyl1Q==.jpg"
       name: Making Eye Contact
       description: Shared with a friend
@@ -73,5 +97,6 @@ game:
     - "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258480817/1033/screenlg2.jpg"
     - "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258480817/1033/screenlg3.jpg"
   video: null
+  unEncName: Googly Eyes
 ---
 {% include JB/setup %}

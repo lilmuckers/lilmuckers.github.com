@@ -3,23 +3,55 @@ layout: xbox
 title: Xbox Tracker
 tagline: "I play games, they are fun"
 group: games
-achievementcount: 1512
+achievementcount: 1516
 gamer: 
   gamertag: Lilmuckers
   avatar: 
     secure: "https://avatar-ssl.xboxlive.com/avatar/Lilmuckers/avatar-body.png"
     unsecure: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatar-body.png"
-  activity: Online playing Kinect Fun Labs
+  activity: "Online playing Junk Fu - Playing Junk Fu"
   picture: 
     small: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatarpic-s.png"
     large: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatarpic-l.png"
-  score: 28245
+  score: 28270
   location: Londinium
   motto: "meritocracy!"
   bio: "ARGH! BEES!"
   profile: "http://live.xbox.com/en-GB/Profile?gamertag=lilmuckers"
 gamecount: 104
 latest: 
+  - image: "https://live.xbox.com/tiles/Kw/Zc/14CLiGJhbC9ADhoIG1BTWTY5L2FjaC8wLzQ0AAAAAOfn5-hzBjc=.jpg"
+    name: 10K Run
+    description: Burn 600 calories
+    score: 10
+    acquired: "2013-06-19"
+    slug: "kinect-playfit_10k-run"
+    gameSlug: "kinect-playfit"
+    scraped: "Wed Jun 19 2013 22:03:56 GMT+0100 (BST)"
+  - image: "https://live.xbox.com/tiles/N0/7R/1oCLiGJhbC9GFQUXXFtRFzE3L2FjaC8wLzIAAAAA5+fn+f5OLA==.jpg"
+    name: Googly Eyes Pro
+    description: Created 25 puppets
+    score: 10
+    acquired: "2013-06-19"
+    slug: "googly-eyes_googly-eyes-pro"
+    gameSlug: "googly-eyes"
+    scraped: "Wed Jun 19 2013 22:04:07 GMT+0100 (BST)"
+  - image: "https://live.xbox.com/tiles/6F/Sy/0ICLiGJhbC9DFQUXXFtRFzE3L2FjaC8wLzcAAAAA5+fn-51U8w==.jpg"
+    name: Staring is Caring
+    description: Shared 10 times
+    score: 10
+    acquired: "2013-06-19"
+    slug: "googly-eyes_staring-is-caring"
+    gameSlug: "googly-eyes"
+    scraped: "Wed Jun 19 2013 22:04:07 GMT+0100 (BST)"
+  - image: "https://live.xbox.com/tiles/e6/xS/0YCLiGJhbC9CFQUXXFtRFzE3L2FjaC8wLzYAAAAA5+fn-n2sYA==.jpg"
+    name: Optometrist
+    description: Tried every configuration of eyes
+    score: 5
+    acquired: "2013-06-19"
+    slug: "googly-eyes_optometrist"
+    gameSlug: "googly-eyes"
+    scraped: "Wed Jun 19 2013 22:04:07 GMT+0100 (BST)"
   - image: "https://live.xbox.com/tiles/+j/VO/1oCLiGJhbC9HFQUXXFtRFzFmL2FjaC8wLzMAAAAA5+fn+WE14Q==.jpg"
     name: The Image of Victory
     description: Shared 10 epic victory pictures
@@ -148,37 +180,5 @@ latest:
     slug: "googly-eyes_lights-camera-action"
     gameSlug: "googly-eyes"
     scraped: "Wed Jun 19 2013 19:42:58 GMT+0100 (BST)"
-  - image: "https://live.xbox.com/tiles/gk/fw/1ICLiGJhbC9FFQUXXFtRFzE3L2FjaC8wLzEAAAAA5+fn+99HmQ==.jpg"
-    name: "Feelin&apos; Queasy"
-    description: Bounced googly eyes for 20 seconds
-    score: 5
-    acquired: "2013-06-19"
-    slug: "googly-eyes_feelin-queasy"
-    gameSlug: "googly-eyes"
-    scraped: "Wed Jun 19 2013 19:42:58 GMT+0100 (BST)"
-  - image: "https://live.xbox.com/tiles/0u/3+/0oCLiGJhbC9HDhoIG1BTWTY5L2FjaC8wLzQzAAAAAOfn5-3R7c4=.jpg"
-    name: 5K Jog
-    description: Burn 300 calories
-    score: 5
-    acquired: "2013-06-19"
-    slug: "kinect-playfit_5k-jog"
-    gameSlug: "kinect-playfit"
-    scraped: "Wed Jun 19 2013 19:43:11 GMT+0100 (BST)"
-  - image: "https://live.xbox.com/tiles/m7/ly/1ICLiGJhbC9NDxoFGltTWTg2L2FjaC8wLzU5AAAAAOfn5-tduYc=.jpg"
-    name: Triple Threat
-    description: Completed 3 types of Classes
-    score: 10
-    acquired: "2013-06-17"
-    slug: "your-shape-fe-2012_triple-threat"
-    gameSlug: "your-shape-fe-2012"
-    scraped: "Mon Jun 17 2013 22:37:58 GMT+0100 (BST)"
-  - image: "https://live.xbox.com/tiles/nt/ZP/1YCLiGJhbC8VDBoFGltTWTg2L2FjaC8wLzZhAAAAAOfn5-pg1oI=.jpg"
-    name: Decathlete
-    description: Completed 10 types of Workouts
-    score: 15
-    acquired: "2013-06-17"
-    slug: "your-shape-fe-2012_decathlete"
-    gameSlug: "your-shape-fe-2012"
-    scraped: "Mon Jun 17 2013 22:37:58 GMT+0100 (BST)"
 ---
 {% include JB/setup %}
