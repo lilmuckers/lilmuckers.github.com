@@ -15,9 +15,17 @@ game:
     large: null
   lastPlayed: "2013-06-19"
   totalScore: 200
-  score: 15
+  score: 20
   totalAchievements: 20
   achievements: 
+    - image: "https://live.xbox.com/tiles/A+/O6/14CLiGJhbC9NDhoIG1BTWTY5L2FjaC8wLzQ5AAAAAOfn5-iV4x8=.jpg"
+      name: "Sight-Seer"
+      description: Burn 100 calories in each of two Kinect games
+      score: 5
+      acquired: "2013-06-19"
+      slug: "kinect-playfit_sight-seer"
+      gameSlug: "kinect-playfit"
+      scraped: "Wed Jun 19 2013 22:45:02 GMT+0100 (BST)"
     - image: "https://live.xbox.com/tiles/Kw/Zc/14CLiGJhbC9ADhoIG1BTWTY5L2FjaC8wLzQ0AAAAAOfn5-hzBjc=.jpg"
       name: 10K Run
       description: Burn 600 calories

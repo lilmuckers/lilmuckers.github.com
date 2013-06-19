@@ -3,23 +3,31 @@ layout: xbox
 title: Xbox Tracker
 tagline: "I play games, they are fun"
 group: games
-achievementcount: 1516
+achievementcount: 1517
 gamer: 
   gamertag: Lilmuckers
   avatar: 
     secure: "https://avatar-ssl.xboxlive.com/avatar/Lilmuckers/avatar-body.png"
     unsecure: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatar-body.png"
-  activity: "Online playing Junk Fu - Playing Junk Fu"
+  activity: Last seen 19 minutes ago playing Xbox Dashboard
   picture: 
     small: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatarpic-s.png"
     large: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatarpic-l.png"
-  score: 28270
+  score: 28285
   location: Londinium
   motto: "meritocracy!"
   bio: "ARGH! BEES!"
   profile: "http://live.xbox.com/en-GB/Profile?gamertag=lilmuckers"
 gamecount: 104
 latest: 
+  - image: "https://live.xbox.com/tiles/A+/O6/14CLiGJhbC9NDhoIG1BTWTY5L2FjaC8wLzQ5AAAAAOfn5-iV4x8=.jpg"
+    name: "Sight-Seer"
+    description: Burn 100 calories in each of two Kinect games
+    score: 5
+    acquired: "2013-06-19"
+    slug: "kinect-playfit_sight-seer"
+    gameSlug: "kinect-playfit"
+    scraped: "Wed Jun 19 2013 22:45:02 GMT+0100 (BST)"
   - image: "https://live.xbox.com/tiles/Kw/Zc/14CLiGJhbC9ADhoIG1BTWTY5L2FjaC8wLzQ0AAAAAOfn5-hzBjc=.jpg"
     name: 10K Run
     description: Burn 600 calories
@@ -170,14 +178,6 @@ latest:
     score: 5
     acquired: "2013-06-19"
     slug: "googly-eyes_i-only-have-eyes-for-you"
-    gameSlug: "googly-eyes"
-    scraped: "Wed Jun 19 2013 19:42:58 GMT+0100 (BST)"
-  - image: "https://live.xbox.com/tiles/XV/2T/0oCLiGJhbC9AFQUXXFtRFzE3L2FjaC8wLzQAAAAA5+fn-bxdRg==.jpg"
-    name: "Lights, Camera, Action!"
-    description: Acted out a scene
-    score: 5
-    acquired: "2013-06-19"
-    slug: "googly-eyes_lights-camera-action"
     gameSlug: "googly-eyes"
     scraped: "Wed Jun 19 2013 19:42:58 GMT+0100 (BST)"
 ---
