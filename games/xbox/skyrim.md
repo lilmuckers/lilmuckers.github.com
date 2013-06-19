@@ -4,7 +4,7 @@ title: Skyrim
 showPage: true
 tagline: ""
 group: xboxgame
-weight: 46
+weight: 45
 game: 
   name: Skyrim
   gameId: 1112737766

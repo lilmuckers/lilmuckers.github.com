@@ -4,7 +4,7 @@ title: Stacking
 showPage: true
 tagline: ""
 group: xboxgame
-weight: 80
+weight: 78
 game: 
   name: Stacking
   gameId: 1480657523

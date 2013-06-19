@@ -4,7 +4,7 @@ title: "Kinect Adventures!"
 showPage: true
 tagline: ""
 group: xboxgame
-weight: 71
+weight: 70
 game: 
   name: Kinect Adventures
   gameId: 1297287405

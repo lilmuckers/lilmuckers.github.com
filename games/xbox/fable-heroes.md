@@ -4,7 +4,7 @@ title: Fable Heroes
 showPage: true
 tagline: ""
 group: xboxgame
-weight: 58
+weight: 57
 game: 
   name: Fable Heroes
   gameId: 1480657798

@@ -4,7 +4,7 @@ title: Kinect PlayFit
 showPage: true
 tagline: ""
 group: xboxgame
-weight: 73
+weight: 101
 game: 
   name: Kinect PlayFit
   gameId: 1481115753
@@ -13,11 +13,19 @@ game:
   boxart: 
     small: null
     large: null
-  lastPlayed: "2012-08-26"
+  lastPlayed: "2013-06-19"
   totalScore: 200
-  score: 0
+  score: 5
   totalAchievements: 20
-  achievements: []
+  achievements: 
+    - image: "https://live.xbox.com/tiles/0u/3+/0oCLiGJhbC9HDhoIG1BTWTY5L2FjaC8wLzQzAAAAAOfn5-3R7c4=.jpg"
+      name: 5K Jog
+      description: Burn 300 calories
+      score: 5
+      acquired: "2013-06-19"
+      slug: "kinect-playfit_5k-jog"
+      gameSlug: "kinect-playfit"
+      scraped: "Wed Jun 19 2013 19:43:11 GMT+0100 (BST)"
   slug: "kinect-playfit"
   title: Kinect PlayFit
   description: null

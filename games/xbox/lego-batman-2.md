@@ -4,7 +4,7 @@ title: "LEGO&reg; Batman&trade; 2"
 showPage: true
 tagline: ""
 group: xboxgame
-weight: 68
+weight: 67
 game: 
   name: "LEGO&reg; Batman&trade; 2"
   gameId: 1464993815

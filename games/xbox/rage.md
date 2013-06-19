@@ -4,7 +4,7 @@ title: RAGE
 showPage: true
 tagline: ""
 group: xboxgame
-weight: 38
+weight: 37
 game: 
   name: RAGE
   gameId: 1112737772

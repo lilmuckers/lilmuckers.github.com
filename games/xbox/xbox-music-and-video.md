@@ -4,7 +4,7 @@ title: Xbox Music and Video
 showPage: false
 tagline: ""
 group: xboxgame
-weight: 83
+weight: 81
 game: 
   name: Xbox Music and Video
   gameId: 1481115739

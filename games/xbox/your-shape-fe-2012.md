@@ -4,7 +4,7 @@ title: "Your Shape&trade; Fitness Evolved 2012"
 showPage: true
 tagline: ""
 group: xboxgame
-weight: 102
+weight: 100
 game: 
   name: "Your Shape: FE 2012"
   gameId: 1431505030
@@ -13,7 +13,7 @@ game:
   boxart: 
     small: "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530886/2057/boxartsm.jpg"
     large: "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530886/2057/boxartlg.jpg"
-  lastPlayed: "2013-06-17"
+  lastPlayed: "2013-06-19"
   totalScore: 1050
   score: 260
   totalAchievements: 55

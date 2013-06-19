@@ -4,7 +4,7 @@ title: "Br&uuml;tal Legend"
 showPage: true
 tagline: ""
 group: xboxgame
-weight: 37
+weight: 36
 game: 
   name: "Br&uuml;tal Legend"
   gameId: 1161889989

@@ -4,7 +4,7 @@ title: BBC iPlayer
 showPage: false
 tagline: ""
 group: xboxgame
-weight: 74
+weight: 72
 game: 
   name: BBC iPlayer
   gameId: 1180174289
