@@ -4,7 +4,7 @@ title: "Your Shape&trade; Fitness Evolved 2012"
 showPage: true
 tagline: ""
 group: xboxgame
-weight: 99
+weight: 103
 game: 
   name: "Your Shape: FE 2012"
   gameId: 1431505030
@@ -13,11 +13,19 @@ game:
   boxart: 
     small: "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530886/2057/boxartsm.jpg"
     large: "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530886/2057/boxartlg.jpg"
-  lastPlayed: "2013-06-19"
+  lastPlayed: "2013-06-20"
   totalScore: 1050
-  score: 260
+  score: 280
   totalAchievements: 55
   achievements: 
+    - image: "https://live.xbox.com/tiles/s1/yU/1ICLiGJhbC9ADxoFGltTWTg2L2FjaC8wLzU0AAAAAOfn5-u7XK8=.jpg"
+      name: Addicted to Fun
+      description: "Completed 20 types of 1-player Activities"
+      score: 20
+      acquired: "2013-06-20"
+      slug: "your-shape-fe-2012_addicted-to-fun"
+      gameSlug: "your-shape-fe-2012"
+      scraped: "Thu Jun 20 2013 20:43:59 GMT+0100 (BST)"
     - image: "https://live.xbox.com/tiles/m7/ly/1ICLiGJhbC9NDxoFGltTWTg2L2FjaC8wLzU5AAAAAOfn5-tduYc=.jpg"
       name: Triple Threat
       description: Completed 3 types of Classes
@@ -268,5 +276,6 @@ game:
   video: 
     preview: "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530886/2057/background.jpg"
     video: "http://download.xbox.com/content/55530886/Your%20Shape%20Fitness%20Evolved%202012.asx"
+  unEncName: "Your Shape: FE 2012"
 ---
 {% include JB/setup %}

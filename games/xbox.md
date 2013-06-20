@@ -3,23 +3,31 @@ layout: xbox
 title: Xbox Tracker
 tagline: "I play games, they are fun"
 group: games
-achievementcount: 1517
+achievementcount: 1518
 gamer: 
   gamertag: Lilmuckers
   avatar: 
     secure: "https://avatar-ssl.xboxlive.com/avatar/Lilmuckers/avatar-body.png"
     unsecure: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatar-body.png"
-  activity: Last seen 19 minutes ago playing Xbox Dashboard
+  activity: "Online playing Your Shape: FE 2012 - is working out"
   picture: 
     small: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatarpic-s.png"
     large: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatarpic-l.png"
-  score: 28285
+  score: 28305
   location: Londinium
   motto: "meritocracy!"
   bio: "ARGH! BEES!"
   profile: "http://live.xbox.com/en-GB/Profile?gamertag=lilmuckers"
 gamecount: 104
 latest: 
+  - image: "https://live.xbox.com/tiles/s1/yU/1ICLiGJhbC9ADxoFGltTWTg2L2FjaC8wLzU0AAAAAOfn5-u7XK8=.jpg"
+    name: Addicted to Fun
+    description: "Completed 20 types of 1-player Activities"
+    score: 20
+    acquired: "2013-06-20"
+    slug: "your-shape-fe-2012_addicted-to-fun"
+    gameSlug: "your-shape-fe-2012"
+    scraped: "Thu Jun 20 2013 20:43:59 GMT+0100 (BST)"
   - image: "https://live.xbox.com/tiles/A+/O6/14CLiGJhbC9NDhoIG1BTWTY5L2FjaC8wLzQ5AAAAAOfn5-iV4x8=.jpg"
     name: "Sight-Seer"
     description: Burn 100 calories in each of two Kinect games
@@ -170,14 +178,6 @@ latest:
     score: 5
     acquired: "2013-06-19"
     slug: "googly-eyes_making-eye-contact"
-    gameSlug: "googly-eyes"
-    scraped: "Wed Jun 19 2013 19:42:58 GMT+0100 (BST)"
-  - image: "https://live.xbox.com/tiles/pL/Yx/14CLiGJhbC9HFQUXXFtRFzE3L2FjaC8wLzMAAAAA5+fn+B62vw==.jpg"
-    name: I Only Have Eyes for You
-    description: Shared with KinectShare.com
-    score: 5
-    acquired: "2013-06-19"
-    slug: "googly-eyes_i-only-have-eyes-for-you"
     gameSlug: "googly-eyes"
     scraped: "Wed Jun 19 2013 19:42:58 GMT+0100 (BST)"
 ---
