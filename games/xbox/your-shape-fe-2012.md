@@ -4,7 +4,7 @@ title: "Your Shape&trade; Fitness Evolved 2012"
 showPage: true
 tagline: ""
 group: xboxgame
-weight: 103
+weight: 102
 game: 
   name: "Your Shape: FE 2012"
   gameId: 1431505030
@@ -15,9 +15,17 @@ game:
     large: "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530886/2057/boxartlg.jpg"
   lastPlayed: "2013-06-20"
   totalScore: 1050
-  score: 280
+  score: 290
   totalAchievements: 55
   achievements: 
+    - image: "https://live.xbox.com/tiles/N+/Zd/14CLiGJhbC8VDxoFGltTWTg2L2FjaC8wLzVhAAAAAOfn5-hy5is=.jpg"
+      name: The Keener
+      description: Completed 5 types of Classes
+      score: 10
+      acquired: "2013-06-20"
+      slug: "your-shape-fe-2012_the-keener"
+      gameSlug: "your-shape-fe-2012"
+      scraped: "Thu Jun 20 2013 21:49:14 GMT+0100 (BST)"
     - image: "https://live.xbox.com/tiles/s1/yU/1ICLiGJhbC9ADxoFGltTWTg2L2FjaC8wLzU0AAAAAOfn5-u7XK8=.jpg"
       name: Addicted to Fun
       description: "Completed 20 types of 1-player Activities"

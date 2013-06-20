@@ -3,23 +3,39 @@ layout: xbox
 title: Xbox Tracker
 tagline: "I play games, they are fun"
 group: games
-achievementcount: 1518
+achievementcount: 1520
 gamer: 
   gamertag: Lilmuckers
   avatar: 
     secure: "https://avatar-ssl.xboxlive.com/avatar/Lilmuckers/avatar-body.png"
     unsecure: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatar-body.png"
-  activity: "Online playing Your Shape: FE 2012 - is working out"
+  activity: Online playing Xbox Dashboard
   picture: 
     small: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatarpic-s.png"
     large: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatarpic-l.png"
-  score: 28305
+  score: 28320
   location: Londinium
   motto: "meritocracy!"
   bio: "ARGH! BEES!"
   profile: "http://live.xbox.com/en-GB/Profile?gamertag=lilmuckers"
 gamecount: 104
 latest: 
+  - image: "https://live.xbox.com/tiles/ng/99/1YCLiGJhbC9DDhoIG1BTWTY5L2FjaC8wLzQ3AAAAAOfn5-pSD4I=.jpg"
+    name: Back for More
+    description: Burn calories two days in a row for a Daily Streak of two
+    score: 5
+    acquired: "2013-06-20"
+    slug: "kinect-playfit_back-for-more"
+    gameSlug: "kinect-playfit"
+    scraped: "Thu Jun 20 2013 21:49:01 GMT+0100 (BST)"
+  - image: "https://live.xbox.com/tiles/N+/Zd/14CLiGJhbC8VDxoFGltTWTg2L2FjaC8wLzVhAAAAAOfn5-hy5is=.jpg"
+    name: The Keener
+    description: Completed 5 types of Classes
+    score: 10
+    acquired: "2013-06-20"
+    slug: "your-shape-fe-2012_the-keener"
+    gameSlug: "your-shape-fe-2012"
+    scraped: "Thu Jun 20 2013 21:49:14 GMT+0100 (BST)"
   - image: "https://live.xbox.com/tiles/s1/yU/1ICLiGJhbC9ADxoFGltTWTg2L2FjaC8wLzU0AAAAAOfn5-u7XK8=.jpg"
     name: Addicted to Fun
     description: "Completed 20 types of 1-player Activities"
@@ -164,21 +180,5 @@ latest:
     slug: "googly-eyes_staring-is-caring"
     gameSlug: "googly-eyes"
     scraped: "Wed Jun 19 2013 22:04:07 GMT+0100 (BST)"
-  - image: "https://live.xbox.com/tiles/e6/xS/0YCLiGJhbC9CFQUXXFtRFzE3L2FjaC8wLzYAAAAA5+fn-n2sYA==.jpg"
-    name: Optometrist
-    description: Tried every configuration of eyes
-    score: 5
-    acquired: "2013-06-19"
-    slug: "googly-eyes_optometrist"
-    gameSlug: "googly-eyes"
-    scraped: "Wed Jun 19 2013 22:04:07 GMT+0100 (BST)"
-  - image: "https://live.xbox.com/tiles/zq/Vz/04CLiGJhbC9BFQUXXFtRFzE3L2FjaC8wLzUAAAAA5+fn-Fyl1Q==.jpg"
-    name: Making Eye Contact
-    description: Shared with a friend
-    score: 5
-    acquired: "2013-06-19"
-    slug: "googly-eyes_making-eye-contact"
-    gameSlug: "googly-eyes"
-    scraped: "Wed Jun 19 2013 19:42:58 GMT+0100 (BST)"
 ---
 {% include JB/setup %}

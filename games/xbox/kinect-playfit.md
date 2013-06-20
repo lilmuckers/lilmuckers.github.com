@@ -4,7 +4,7 @@ title: Kinect PlayFit
 showPage: true
 tagline: ""
 group: xboxgame
-weight: 102
+weight: 103
 game: 
   name: Kinect PlayFit
   gameId: 1481115753
@@ -13,11 +13,19 @@ game:
   boxart: 
     small: null
     large: null
-  lastPlayed: "2013-06-19"
+  lastPlayed: "2013-06-20"
   totalScore: 200
-  score: 20
+  score: 25
   totalAchievements: 20
   achievements: 
+    - image: "https://live.xbox.com/tiles/ng/99/1YCLiGJhbC9DDhoIG1BTWTY5L2FjaC8wLzQ3AAAAAOfn5-pSD4I=.jpg"
+      name: Back for More
+      description: Burn calories two days in a row for a Daily Streak of two
+      score: 5
+      acquired: "2013-06-20"
+      slug: "kinect-playfit_back-for-more"
+      gameSlug: "kinect-playfit"
+      scraped: "Thu Jun 20 2013 21:49:01 GMT+0100 (BST)"
     - image: "https://live.xbox.com/tiles/A+/O6/14CLiGJhbC9NDhoIG1BTWTY5L2FjaC8wLzQ5AAAAAOfn5-iV4x8=.jpg"
       name: "Sight-Seer"
       description: Burn 100 calories in each of two Kinect games
