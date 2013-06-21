@@ -13,11 +13,19 @@ game:
   boxart: 
     small: null
     large: null
-  lastPlayed: "2013-06-20"
+  lastPlayed: "2013-06-21"
   totalScore: 200
-  score: 25
+  score: 35
   totalAchievements: 20
   achievements: 
+    - image: "https://live.xbox.com/tiles/QR/Ue/04CLiGJhbC9GDhoIG1BTWTY5L2FjaC8wLzQyAAAAAOfn5-wxFV0=.jpg"
+      name: "Half-Marathon"
+      description: Burn 1300 calories
+      score: 10
+      acquired: "2013-06-21"
+      slug: "kinect-playfit_half-marathon"
+      gameSlug: "kinect-playfit"
+      scraped: "Fri Jun 21 2013 21:59:02 GMT+0100 (BST)"
     - image: "https://live.xbox.com/tiles/ng/99/1YCLiGJhbC9DDhoIG1BTWTY5L2FjaC8wLzQ3AAAAAOfn5-pSD4I=.jpg"
       name: Back for More
       description: Burn calories two days in a row for a Daily Streak of two

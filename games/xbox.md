@@ -3,7 +3,7 @@ layout: xbox
 title: Xbox Tracker
 tagline: "I play games, they are fun"
 group: games
-achievementcount: 1520
+achievementcount: 1523
 gamer: 
   gamertag: Lilmuckers
   avatar: 
@@ -13,13 +13,37 @@ gamer:
   picture: 
     small: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatarpic-s.png"
     large: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatarpic-l.png"
-  score: 28320
+  score: 28360
   location: Londinium
   motto: "meritocracy!"
   bio: "ARGH! BEES!"
   profile: "http://live.xbox.com/en-GB/Profile?gamertag=lilmuckers"
 gamecount: 104
 latest: 
+  - image: "https://live.xbox.com/tiles/QR/Ue/04CLiGJhbC9GDhoIG1BTWTY5L2FjaC8wLzQyAAAAAOfn5-wxFV0=.jpg"
+    name: "Half-Marathon"
+    description: Burn 1300 calories
+    score: 10
+    acquired: "2013-06-21"
+    slug: "kinect-playfit_half-marathon"
+    gameSlug: "kinect-playfit"
+    scraped: "Fri Jun 21 2013 21:59:02 GMT+0100 (BST)"
+  - image: "https://live.xbox.com/tiles/oX/6r/1YCLiGJhbC9HDRoFGltTWTg2L2FjaC8wLzczAAAAAOfn5-qEfr0=.jpg"
+    name: "Safari, So Good!"
+    description: Completed 1 African Rhythms Class
+    score: 10
+    acquired: "2013-06-21"
+    slug: "your-shape-fe-2012_safari-so-good"
+    gameSlug: "your-shape-fe-2012"
+    scraped: "Fri Jun 21 2013 21:59:17 GMT+0100 (BST)"
+  - image: "https://live.xbox.com/tiles/K9/9u/14CLiGJhbC8WDBoFGltTWTg2L2FjaC8wLzZiAAAAAOfn5-hB3zc=.jpg"
+    name: Olympian
+    description: Completed 20 types of Workouts
+    score: 20
+    acquired: "2013-06-21"
+    slug: "your-shape-fe-2012_olympian"
+    gameSlug: "your-shape-fe-2012"
+    scraped: "Fri Jun 21 2013 21:59:17 GMT+0100 (BST)"
   - image: "https://live.xbox.com/tiles/ng/99/1YCLiGJhbC9DDhoIG1BTWTY5L2FjaC8wLzQ3AAAAAOfn5-pSD4I=.jpg"
     name: Back for More
     description: Burn calories two days in a row for a Daily Streak of two
@@ -156,29 +180,5 @@ latest:
     slug: "kinect-me_nice-to-meet-me"
     gameSlug: "kinect-me"
     scraped: "Wed Jun 19 2013 21:44:25 GMT+0100 (BST)"
-  - image: "https://live.xbox.com/tiles/XE/v2/0oCLiGJhbC9MFQUXXFtRFzE0L2FjaC8wLzgAAAAA5+fn-dlLRw==.jpg"
-    name: Spread the Word
-    description: Shared with KinectShare.com
-    score: 5
-    acquired: "2013-06-19"
-    slug: "kinect-me_spread-the-word"
-    gameSlug: "kinect-me"
-    scraped: "Wed Jun 19 2013 21:44:25 GMT+0100 (BST)"
-  - image: "https://live.xbox.com/tiles/N0/7R/1oCLiGJhbC9GFQUXXFtRFzE3L2FjaC8wLzIAAAAA5+fn+f5OLA==.jpg"
-    name: Googly Eyes Pro
-    description: Created 25 puppets
-    score: 10
-    acquired: "2013-06-19"
-    slug: "googly-eyes_googly-eyes-pro"
-    gameSlug: "googly-eyes"
-    scraped: "Wed Jun 19 2013 22:04:07 GMT+0100 (BST)"
-  - image: "https://live.xbox.com/tiles/6F/Sy/0ICLiGJhbC9DFQUXXFtRFzE3L2FjaC8wLzcAAAAA5+fn-51U8w==.jpg"
-    name: Staring is Caring
-    description: Shared 10 times
-    score: 10
-    acquired: "2013-06-19"
-    slug: "googly-eyes_staring-is-caring"
-    gameSlug: "googly-eyes"
-    scraped: "Wed Jun 19 2013 22:04:07 GMT+0100 (BST)"
 ---
 {% include JB/setup %}

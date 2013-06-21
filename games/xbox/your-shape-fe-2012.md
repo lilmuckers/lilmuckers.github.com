@@ -13,11 +13,27 @@ game:
   boxart: 
     small: "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530886/2057/boxartsm.jpg"
     large: "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530886/2057/boxartlg.jpg"
-  lastPlayed: "2013-06-20"
+  lastPlayed: "2013-06-21"
   totalScore: 1050
-  score: 290
+  score: 320
   totalAchievements: 55
   achievements: 
+    - image: "https://live.xbox.com/tiles/oX/6r/1YCLiGJhbC9HDRoFGltTWTg2L2FjaC8wLzczAAAAAOfn5-qEfr0=.jpg"
+      name: "Safari, So Good!"
+      description: Completed 1 African Rhythms Class
+      score: 10
+      acquired: "2013-06-21"
+      slug: "your-shape-fe-2012_safari-so-good"
+      gameSlug: "your-shape-fe-2012"
+      scraped: "Fri Jun 21 2013 21:59:17 GMT+0100 (BST)"
+    - image: "https://live.xbox.com/tiles/K9/9u/14CLiGJhbC8WDBoFGltTWTg2L2FjaC8wLzZiAAAAAOfn5-hB3zc=.jpg"
+      name: Olympian
+      description: Completed 20 types of Workouts
+      score: 20
+      acquired: "2013-06-21"
+      slug: "your-shape-fe-2012_olympian"
+      gameSlug: "your-shape-fe-2012"
+      scraped: "Fri Jun 21 2013 21:59:17 GMT+0100 (BST)"
     - image: "https://live.xbox.com/tiles/N+/Zd/14CLiGJhbC8VDxoFGltTWTg2L2FjaC8wLzVhAAAAAOfn5-hy5is=.jpg"
       name: The Keener
       description: Completed 5 types of Classes
