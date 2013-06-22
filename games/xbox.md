@@ -3,23 +3,95 @@ layout: xbox
 title: Xbox Tracker
 tagline: "I play games, they are fun"
 group: games
-achievementcount: 1523
+achievementcount: 1532
 gamer: 
   gamertag: Lilmuckers
   avatar: 
     secure: "https://avatar-ssl.xboxlive.com/avatar/Lilmuckers/avatar-body.png"
     unsecure: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatar-body.png"
-  activity: Online playing Xbox Dashboard
+  activity: Last seen 8 minutes ago playing Xbox.com
   picture: 
     small: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatarpic-s.png"
     large: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatarpic-l.png"
-  score: 28360
+  score: 28460
   location: Londinium
   motto: "meritocracy!"
   bio: "ARGH! BEES!"
   profile: "http://live.xbox.com/en-GB/Profile?gamertag=lilmuckers"
 gamecount: 104
 latest: 
+  - image: "https://live.xbox.com/tiles/LZ/iL/0oCLiGJhbC9GAxoIG1lTAzg2L2FjaC8wLzkyAAAAAOfn5-2kmDE=.jpg"
+    name: Ruler of Albion
+    description: Completed all levels in the world of Albion.
+    score: 20
+    acquired: "2013-06-22"
+    slug: "fable-heroes_ruler-of-albion"
+    gameSlug: "fable-heroes"
+    scraped: "Sat Jun 22 2013 23:18:31 GMT+0100 (BST)"
+  - image: "https://live.xbox.com/tiles/1H/Mp/14CLiGJhbC9BAxoIG1lTAzg2L2FjaC8wLzk1AAAAAOfn5-gGc8g=.jpg"
+    name: Heroes of The Credits
+    description: Completed The Credits in the world of Albion.
+    score: 10
+    acquired: "2013-06-22"
+    slug: "fable-heroes_heroes-of-the-credits"
+    gameSlug: "fable-heroes"
+    scraped: "Sat Jun 22 2013 23:18:31 GMT+0100 (BST)"
+  - image: "https://live.xbox.com/tiles/R4/vJ/1oCLiGJhbC9AAxoIG1lTAzg2L2FjaC8wLzk0AAAAAOfn5-nmi1s=.jpg"
+    name: Heroes of Aurora
+    description: Completed Aurora in the world of Albion.
+    score: 10
+    acquired: "2013-06-22"
+    slug: "fable-heroes_heroes-of-aurora"
+    gameSlug: "fable-heroes"
+    scraped: "Sat Jun 22 2013 23:18:31 GMT+0100 (BST)"
+  - image: "https://live.xbox.com/tiles/vm/Br/04CLiGJhbC9HAxoIG1lTAzg2L2FjaC8wLzkzAAAAAOfn5-xEYKI=.jpg"
+    name: Heroes of Bowerstone
+    description: Completed Bowerstone in the world of Albion.
+    score: 10
+    acquired: "2013-06-22"
+    slug: "fable-heroes_heroes-of-bowerstone"
+    gameSlug: "fable-heroes"
+    scraped: "Sat Jun 22 2013 23:18:31 GMT+0100 (BST)"
+  - image: "https://live.xbox.com/tiles/-J/bP/14CLiGJhbC9MAxoIG1lTAzg2L2FjaC8wLzk4AAAAAOfn5-jgluA=.jpg"
+    name: Heroes of Hobbe Caves
+    description: Completed Hobbe Caves in the world of Albion.
+    score: 10
+    acquired: "2013-06-22"
+    slug: "fable-heroes_heroes-of-hobbe-caves"
+    gameSlug: "fable-heroes"
+    scraped: "Sat Jun 22 2013 23:18:31 GMT+0100 (BST)"
+  - image: "https://live.xbox.com/tiles/8o/Lo/1ICLiGJhbC9DAxoIG1lTAzg2L2FjaC8wLzk3AAAAAOfn5-vHgu4=.jpg"
+    name: Heroes of The Cloud
+    description: Completed The Cloud in the world of Albion.
+    score: 10
+    acquired: "2013-06-22"
+    slug: "fable-heroes_heroes-of-the-cloud"
+    gameSlug: "fable-heroes"
+    scraped: "Sat Jun 22 2013 23:18:31 GMT+0100 (BST)"
+  - image: "https://live.xbox.com/tiles/mJ/Gq/0ICLiGJhbC9FAxoIG1lTAzg2L2FjaC8wLzkxAAAAAOfn5-+FkYQ=.jpg"
+    name: Heroes of Mistpeak
+    description: Completed Mistpeak in the world of Albion.
+    score: 10
+    acquired: "2013-06-22"
+    slug: "fable-heroes_heroes-of-mistpeak"
+    gameSlug: "fable-heroes"
+    scraped: "Sat Jun 22 2013 23:18:31 GMT+0100 (BST)"
+  - image: "https://live.xbox.com/tiles/C2/lK/0YCLiGJhbC9EAxoIG1lTAzg2L2FjaC8wLzkwAAAAAOfn5-5laRc=.jpg"
+    name: Heroes of Gravestone
+    description: Completed Gravestone in the world of Albion.
+    score: 10
+    acquired: "2013-06-22"
+    slug: "fable-heroes_heroes-of-gravestone"
+    gameSlug: "fable-heroes"
+    scraped: "Sat Jun 22 2013 23:18:31 GMT+0100 (BST)"
+  - image: "https://live.xbox.com/tiles/jp/fW/14CLiGJhbC9DCRoIG1BTWTY5L2FjaC8wLzM3AAAAAOfn5-j5l5I=.jpg"
+    name: Over the Hump
+    description: Burn calories four days in a row for a Daily Streak of four
+    score: 10
+    acquired: "2013-06-22"
+    slug: "kinect-playfit_over-the-hump"
+    gameSlug: "kinect-playfit"
+    scraped: "Sat Jun 22 2013 23:18:53 GMT+0100 (BST)"
   - image: "https://live.xbox.com/tiles/QR/Ue/04CLiGJhbC9GDhoIG1BTWTY5L2FjaC8wLzQyAAAAAOfn5-wxFV0=.jpg"
     name: "Half-Marathon"
     description: Burn 1300 calories
@@ -108,77 +180,5 @@ latest:
     slug: "junk-fu_pizza-party"
     gameSlug: "junk-fu"
     scraped: "Wed Jun 19 2013 21:44:15 GMT+0100 (BST)"
-  - image: "https://live.xbox.com/tiles/A9/7s/04CLiGJhbC9AFQUXXFtRFzFmL2FjaC8wLzQAAAAA5+fn-MPeGA==.jpg"
-    name: "Chop-O-Matic"
-    description: Destroyed 40 screens of objects without missing
-    score: 5
-    acquired: "2013-06-19"
-    slug: "junk-fu_chop-o-matic"
-    gameSlug: "junk-fu"
-    scraped: "Wed Jun 19 2013 21:44:15 GMT+0100 (BST)"
-  - image: "https://live.xbox.com/tiles/Kz/sK/04CLiGJhbC9NFQUXXFtRFzFmL2FjaC8wLzkAAAAA5+fn-CU7MA==.jpg"
-    name: Break Away
-    description: "Reached a score of 20,000"
-    score: 10
-    acquired: "2013-06-19"
-    slug: "junk-fu_break-away"
-    gameSlug: "junk-fu"
-    scraped: "Wed Jun 19 2013 21:44:15 GMT+0100 (BST)"
-  - image: "https://live.xbox.com/tiles/JS/8t/0ICLiGJhbC9CFQUXXFtRFzFmL2FjaC8wLzYAAAAA5+fn-wIvPg==.jpg"
-    name: Cupcakes
-    description: Earned the cupcake bonus stage
-    score: 5
-    acquired: "2013-06-19"
-    slug: "junk-fu_cupcakes"
-    gameSlug: "junk-fu"
-    scraped: "Wed Jun 19 2013 21:44:15 GMT+0100 (BST)"
-  - image: "https://live.xbox.com/tiles/uM/Pq/0oCLiGJhbC9MFQUXXFtRFzFmL2FjaC8wLzgAAAAA5+fn-cXDow==.jpg"
-    name: 5000 Score
-    description: "Reached a score of 5,000"
-    score: 5
-    acquired: "2013-06-19"
-    slug: "junk-fu_5000-score"
-    gameSlug: "junk-fu"
-    scraped: "Wed Jun 19 2013 21:44:15 GMT+0100 (BST)"
-  - image: "https://live.xbox.com/tiles/kC/YM/0oCLiGJhbC9BFQUXXFtRFzFmL2FjaC8wLzUAAAAA5+fn-SMmiw==.jpg"
-    name: Dinner Mint
-    description: Earned the dinner mint bonus stage
-    score: 5
-    acquired: "2013-06-19"
-    slug: "junk-fu_dinner-mint"
-    gameSlug: "junk-fu"
-    scraped: "Wed Jun 19 2013 21:44:15 GMT+0100 (BST)"
-  - image: "https://live.xbox.com/tiles/Hr/1S/1oCLiGJhbC9HFQUXXFtRFzE0L2FjaC8wLzMAAAAA5+fn+X29BQ==.jpg"
-    name: Kinect Me Pro
-    description: Posed for 25 photo shoots
-    score: 10
-    acquired: "2013-06-19"
-    slug: "kinect-me_kinect-me-pro"
-    gameSlug: "kinect-me"
-    scraped: "Wed Jun 19 2013 21:44:25 GMT+0100 (BST)"
-  - image: "https://live.xbox.com/tiles/OE/yT/1YCLiGJhbC9FFQUXXFtRFzE0L2FjaC8wLzEAAAAA5+fn+rxMIw==.jpg"
-    name: Celebrity
-    description: Shared 10 photo shoots with your friends
-    score: 10
-    acquired: "2013-06-19"
-    slug: "kinect-me_celebrity"
-    gameSlug: "kinect-me"
-    scraped: "Wed Jun 19 2013 21:44:25 GMT+0100 (BST)"
-  - image: "https://live.xbox.com/tiles/jU/Wy/14CLiGJhbC9GFQUXXFtRFzE0L2FjaC8wLzIAAAAA5+fn+J1Flg==.jpg"
-    name: Chameleon
-    description: Shot in front of every background
-    score: 5
-    acquired: "2013-06-19"
-    slug: "kinect-me_chameleon"
-    gameSlug: "kinect-me"
-    scraped: "Wed Jun 19 2013 21:44:25 GMT+0100 (BST)"
-  - image: "https://live.xbox.com/tiles/wa/cx/0ICLiGJhbC9CFQUXXFtRFzE0L2FjaC8wLzYAAAAA5+fn-x6n2g==.jpg"
-    name: Nice to Meet Me
-    description: Shared with your friends
-    score: 5
-    acquired: "2013-06-19"
-    slug: "kinect-me_nice-to-meet-me"
-    gameSlug: "kinect-me"
-    scraped: "Wed Jun 19 2013 21:44:25 GMT+0100 (BST)"
 ---
 {% include JB/setup %}

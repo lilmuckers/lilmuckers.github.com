@@ -4,7 +4,7 @@ title: "Rayman&reg; Origins"
 showPage: true
 tagline: ""
 group: xboxgame
-weight: 60
+weight: 103
 game: 
   name: Rayman Origins
   gameId: 1431505028
@@ -13,7 +13,7 @@ game:
   boxart: 
     small: "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530884/1033/boxartsm.jpg"
     large: "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530884/1033/boxartlg.jpg"
-  lastPlayed: "2012-05-23"
+  lastPlayed: "2013-06-22"
   totalScore: 1000
   score: 180
   totalAchievements: 36

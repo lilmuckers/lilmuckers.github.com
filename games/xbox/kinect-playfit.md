@@ -4,7 +4,7 @@ title: Kinect PlayFit
 showPage: true
 tagline: ""
 group: xboxgame
-weight: 103
+weight: 102
 game: 
   name: Kinect PlayFit
   gameId: 1481115753
@@ -13,11 +13,19 @@ game:
   boxart: 
     small: null
     large: null
-  lastPlayed: "2013-06-21"
+  lastPlayed: "2013-06-22"
   totalScore: 200
-  score: 35
+  score: 45
   totalAchievements: 20
   achievements: 
+    - image: "https://live.xbox.com/tiles/jp/fW/14CLiGJhbC9DCRoIG1BTWTY5L2FjaC8wLzM3AAAAAOfn5-j5l5I=.jpg"
+      name: Over the Hump
+      description: Burn calories four days in a row for a Daily Streak of four
+      score: 10
+      acquired: "2013-06-22"
+      slug: "kinect-playfit_over-the-hump"
+      gameSlug: "kinect-playfit"
+      scraped: "Sat Jun 22 2013 23:18:53 GMT+0100 (BST)"
     - image: "https://live.xbox.com/tiles/QR/Ue/04CLiGJhbC9GDhoIG1BTWTY5L2FjaC8wLzQyAAAAAOfn5-wxFV0=.jpg"
       name: "Half-Marathon"
       description: Burn 1300 calories

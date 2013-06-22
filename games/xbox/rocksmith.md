@@ -4,7 +4,7 @@ title: Rocksmith
 showPage: true
 tagline: ""
 group: xboxgame
-weight: 81
+weight: 78
 game: 
   name: Rocksmith
   gameId: 1431505011

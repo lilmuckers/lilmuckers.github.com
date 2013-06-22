@@ -4,7 +4,7 @@ title: Tomb Raider
 showPage: true
 tagline: ""
 group: xboxgame
-weight: 96
+weight: 93
 game: 
   name: Tomb Raider
   gameId: 1397819394

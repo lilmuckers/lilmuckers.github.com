@@ -4,7 +4,7 @@ title: Jet Set Radio
 showPage: true
 tagline: ""
 group: xboxgame
-weight: 91
+weight: 88
 game: 
   name: Jet Set Radio
   gameId: 1480659527

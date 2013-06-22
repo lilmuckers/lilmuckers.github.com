@@ -4,7 +4,7 @@ title: "Sonic Adventure&trade; 2"
 showPage: true
 tagline: ""
 group: xboxgame
-weight: 76
+weight: 73
 game: 
   name: Sonic Adventure 2
   gameId: 1480659458

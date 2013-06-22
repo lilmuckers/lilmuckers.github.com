@@ -4,7 +4,7 @@ title: Bastion
 showPage: true
 tagline: ""
 group: xboxgame
-weight: 65
+weight: 101
 game: 
   name: Bastion
   gameId: 1480657766
@@ -13,7 +13,7 @@ game:
   boxart: 
     small: "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b66/1033/boxartsm.jpg"
     large: "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410b66/1033/boxartlg.jpg"
-  lastPlayed: "2012-06-25"
+  lastPlayed: "2013-06-22"
   totalScore: 200
   score: 40
   totalAchievements: 12

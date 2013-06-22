@@ -4,7 +4,7 @@ title: Carcassonne
 showPage: true
 tagline: ""
 group: xboxgame
-weight: 86
+weight: 83
 game: 
   name: Carcassonne
   gameId: 1480656960
