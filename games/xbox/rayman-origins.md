@@ -4,7 +4,7 @@ title: "Rayman&reg; Origins"
 showPage: true
 tagline: ""
 group: xboxgame
-weight: 103
+weight: 101
 game: 
   name: Rayman Origins
   gameId: 1431505028

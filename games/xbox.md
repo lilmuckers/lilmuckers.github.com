@@ -3,23 +3,39 @@ layout: xbox
 title: Xbox Tracker
 tagline: "I play games, they are fun"
 group: games
-achievementcount: 1532
+achievementcount: 1534
 gamer: 
   gamertag: Lilmuckers
   avatar: 
     secure: "https://avatar-ssl.xboxlive.com/avatar/Lilmuckers/avatar-body.png"
     unsecure: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatar-body.png"
-  activity: Last seen 8 minutes ago playing Xbox.com
+  activity: Last seen 16 minutes ago playing Xbox.com
   picture: 
     small: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatarpic-s.png"
     large: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatarpic-l.png"
-  score: 28460
+  score: 28485
   location: Londinium
   motto: "meritocracy!"
   bio: "ARGH! BEES!"
   profile: "http://live.xbox.com/en-GB/Profile?gamertag=lilmuckers"
 gamecount: 104
 latest: 
+  - image: "https://live.xbox.com/tiles/gu/98/1YCLiGJhbC8WDxoFGltTWTg2L2FjaC8wLzViAAAAAOfn5-pT754=.jpg"
+    name: "Teacher&apos;s Pet"
+    description: Completed 10 types of Classes
+    score: 15
+    acquired: "2013-06-23"
+    slug: "your-shape-fe-2012_teachers-pet"
+    gameSlug: "your-shape-fe-2012"
+    scraped: "Sun Jun 23 2013 12:28:32 GMT+0100 (BST)"
+  - image: "https://live.xbox.com/tiles/ew/Te/0ICLiGJhbC8RDxoFGltTWTg2L2FjaC8wLzVlAAAAAOfn5--xBGc=.jpg"
+    name: Valedictorian
+    description: Completed every type of Class
+    score: 10
+    acquired: "2013-06-23"
+    slug: "your-shape-fe-2012_valedictorian"
+    gameSlug: "your-shape-fe-2012"
+    scraped: "Sun Jun 23 2013 12:28:32 GMT+0100 (BST)"
   - image: "https://live.xbox.com/tiles/LZ/iL/0oCLiGJhbC9GAxoIG1lTAzg2L2FjaC8wLzkyAAAAAOfn5-2kmDE=.jpg"
     name: Ruler of Albion
     description: Completed all levels in the world of Albion.
@@ -162,22 +178,6 @@ latest:
     score: 5
     acquired: "2013-06-19"
     slug: "junk-fu_the-image-of-victory"
-    gameSlug: "junk-fu"
-    scraped: "Wed Jun 19 2013 21:44:15 GMT+0100 (BST)"
-  - image: "https://live.xbox.com/tiles/ac/2u/14CLiGJhbC9GFQUXXFtRFzFmL2FjaC8wLzIAAAAA5+fn+IHNcg==.jpg"
-    name: Learn To Share
-    description: Shared an epic victory picture with your friends
-    score: 5
-    acquired: "2013-06-19"
-    slug: "junk-fu_learn-to-share"
-    gameSlug: "junk-fu"
-    scraped: "Wed Jun 19 2013 21:44:15 GMT+0100 (BST)"
-  - image: "https://live.xbox.com/tiles/tt/fN/0YCLiGJhbC9DFQUXXFtRFzFmL2FjaC8wLzcAAAAA5+fn-uLXrQ==.jpg"
-    name: Pizza Party
-    description: Earned the pizza bonus stage
-    score: 10
-    acquired: "2013-06-19"
-    slug: "junk-fu_pizza-party"
     gameSlug: "junk-fu"
     scraped: "Wed Jun 19 2013 21:44:15 GMT+0100 (BST)"
 ---

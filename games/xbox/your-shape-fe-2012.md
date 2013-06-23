@@ -4,7 +4,7 @@ title: "Your Shape&trade; Fitness Evolved 2012"
 showPage: true
 tagline: ""
 group: xboxgame
-weight: 99
+weight: 103
 game: 
   name: "Your Shape: FE 2012"
   gameId: 1431505030
@@ -13,11 +13,27 @@ game:
   boxart: 
     small: "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530886/2057/boxartsm.jpg"
     large: "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530886/2057/boxartlg.jpg"
-  lastPlayed: "2013-06-22"
+  lastPlayed: "2013-06-23"
   totalScore: 1050
-  score: 320
+  score: 345
   totalAchievements: 55
   achievements: 
+    - image: "https://live.xbox.com/tiles/gu/98/1YCLiGJhbC8WDxoFGltTWTg2L2FjaC8wLzViAAAAAOfn5-pT754=.jpg"
+      name: "Teacher&apos;s Pet"
+      description: Completed 10 types of Classes
+      score: 15
+      acquired: "2013-06-23"
+      slug: "your-shape-fe-2012_teachers-pet"
+      gameSlug: "your-shape-fe-2012"
+      scraped: "Sun Jun 23 2013 12:28:32 GMT+0100 (BST)"
+    - image: "https://live.xbox.com/tiles/ew/Te/0ICLiGJhbC8RDxoFGltTWTg2L2FjaC8wLzVlAAAAAOfn5--xBGc=.jpg"
+      name: Valedictorian
+      description: Completed every type of Class
+      score: 10
+      acquired: "2013-06-23"
+      slug: "your-shape-fe-2012_valedictorian"
+      gameSlug: "your-shape-fe-2012"
+      scraped: "Sun Jun 23 2013 12:28:32 GMT+0100 (BST)"
     - image: "https://live.xbox.com/tiles/oX/6r/1YCLiGJhbC9HDRoFGltTWTg2L2FjaC8wLzczAAAAAOfn5-qEfr0=.jpg"
       name: "Safari, So Good!"
       description: Completed 1 African Rhythms Class
