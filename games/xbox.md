@@ -3,23 +3,31 @@ layout: xbox
 title: Xbox Tracker
 tagline: "I play games, they are fun"
 group: games
-achievementcount: 1534
+achievementcount: 1535
 gamer: 
   gamertag: Lilmuckers
   avatar: 
     secure: "https://avatar-ssl.xboxlive.com/avatar/Lilmuckers/avatar-body.png"
     unsecure: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatar-body.png"
-  activity: Last seen 16 minutes ago playing Xbox.com
+  activity: Last seen 15 minutes ago playing Xbox Dashboard
   picture: 
     small: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatarpic-s.png"
     large: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatarpic-l.png"
-  score: 28485
+  score: 28495
   location: Londinium
   motto: "meritocracy!"
   bio: "ARGH! BEES!"
   profile: "http://live.xbox.com/en-GB/Profile?gamertag=lilmuckers"
 gamecount: 104
 latest: 
+  - image: "https://live.xbox.com/tiles/Gm/yG/1oCLiGJhbC9ADBoFGltTWTg2L2FjaC8wLzY0AAAAAOfn5-mpbAY=.jpg"
+    name: Bring on the Bling
+    description: Collected 5 different Medals
+    score: 10
+    acquired: "2013-06-24"
+    slug: "your-shape-fe-2012_bring-on-the-bling"
+    gameSlug: "your-shape-fe-2012"
+    scraped: "Mon Jun 24 2013 08:33:29 GMT+0100 (BST)"
   - image: "https://live.xbox.com/tiles/gu/98/1YCLiGJhbC8WDxoFGltTWTg2L2FjaC8wLzViAAAAAOfn5-pT754=.jpg"
     name: "Teacher&apos;s Pet"
     description: Completed 10 types of Classes
@@ -172,13 +180,5 @@ latest:
     slug: "kinect-playfit_10k-run"
     gameSlug: "kinect-playfit"
     scraped: "Wed Jun 19 2013 22:03:56 GMT+0100 (BST)"
-  - image: "https://live.xbox.com/tiles/+j/VO/1oCLiGJhbC9HFQUXXFtRFzFmL2FjaC8wLzMAAAAA5+fn+WE14Q==.jpg"
-    name: The Image of Victory
-    description: Shared 10 epic victory pictures
-    score: 5
-    acquired: "2013-06-19"
-    slug: "junk-fu_the-image-of-victory"
-    gameSlug: "junk-fu"
-    scraped: "Wed Jun 19 2013 21:44:15 GMT+0100 (BST)"
 ---
 {% include JB/setup %}

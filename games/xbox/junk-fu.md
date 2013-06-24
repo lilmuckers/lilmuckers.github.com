@@ -4,7 +4,7 @@ title: Junk Fu
 showPage: true
 tagline: ""
 group: xboxgame
-weight: 98
+weight: 97
 game: 
   name: Junk Fu
   gameId: 1481115679

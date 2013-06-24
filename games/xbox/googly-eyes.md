@@ -4,7 +4,7 @@ title: Kinect Googly Eyes
 showPage: true
 tagline: ""
 group: xboxgame
-weight: 96
+weight: 95
 game: 
   name: Googly Eyes
   gameId: 1481115671
