@@ -3,23 +3,39 @@ layout: xbox
 title: Xbox Tracker
 tagline: "I play games, they are fun"
 group: games
-achievementcount: 1535
+achievementcount: 1537
 gamer: 
   gamertag: Lilmuckers
   avatar: 
     secure: "https://avatar-ssl.xboxlive.com/avatar/Lilmuckers/avatar-body.png"
     unsecure: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatar-body.png"
-  activity: Last seen 15 minutes ago playing Xbox Dashboard
+  activity: Last seen 19 minutes ago playing Xbox Dashboard
   picture: 
     small: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatarpic-s.png"
     large: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatarpic-l.png"
-  score: 28495
+  score: 28515
   location: Londinium
   motto: "meritocracy!"
   bio: "ARGH! BEES!"
   profile: "http://live.xbox.com/en-GB/Profile?gamertag=lilmuckers"
 gamecount: 104
 latest: 
+  - image: "https://live.xbox.com/tiles/kB/ta/1oCLiGJhbC9MDhoIG1BTWTY5L2FjaC8wLzQ4AAAAAOfn5-l1G4w=.jpg"
+    name: Magnificent Seven
+    description: Burn calories seven days in a row for a Daily Streak of seven
+    score: 10
+    acquired: "2013-06-25"
+    slug: "kinect-playfit_magnificent-seven"
+    gameSlug: "kinect-playfit"
+    scraped: "Tue Jun 25 2013 08:28:35 GMT+0100 (BST)"
+  - image: "https://live.xbox.com/tiles/Qc/ws/04CLiGJhbC8QDBoFGltTWTg2L2FjaC8wLzZkAAAAAOfn5-wDzF0=.jpg"
+    name: The Whole Package
+    description: Completed every type of Workout
+    score: 10
+    acquired: "2013-06-25"
+    slug: "your-shape-fe-2012_the-whole-package"
+    gameSlug: "your-shape-fe-2012"
+    scraped: "Tue Jun 25 2013 08:28:46 GMT+0100 (BST)"
   - image: "https://live.xbox.com/tiles/Gm/yG/1oCLiGJhbC9ADBoFGltTWTg2L2FjaC8wLzY0AAAAAOfn5-mpbAY=.jpg"
     name: Bring on the Bling
     description: Collected 5 different Medals
@@ -164,21 +180,5 @@ latest:
     slug: "your-shape-fe-2012_addicted-to-fun"
     gameSlug: "your-shape-fe-2012"
     scraped: "Thu Jun 20 2013 20:43:59 GMT+0100 (BST)"
-  - image: "https://live.xbox.com/tiles/A+/O6/14CLiGJhbC9NDhoIG1BTWTY5L2FjaC8wLzQ5AAAAAOfn5-iV4x8=.jpg"
-    name: "Sight-Seer"
-    description: Burn 100 calories in each of two Kinect games
-    score: 5
-    acquired: "2013-06-19"
-    slug: "kinect-playfit_sight-seer"
-    gameSlug: "kinect-playfit"
-    scraped: "Wed Jun 19 2013 22:45:02 GMT+0100 (BST)"
-  - image: "https://live.xbox.com/tiles/Kw/Zc/14CLiGJhbC9ADhoIG1BTWTY5L2FjaC8wLzQ0AAAAAOfn5-hzBjc=.jpg"
-    name: 10K Run
-    description: Burn 600 calories
-    score: 10
-    acquired: "2013-06-19"
-    slug: "kinect-playfit_10k-run"
-    gameSlug: "kinect-playfit"
-    scraped: "Wed Jun 19 2013 22:03:56 GMT+0100 (BST)"
 ---
 {% include JB/setup %}

@@ -13,11 +13,19 @@ game:
   boxart: 
     small: null
     large: null
-  lastPlayed: "2013-06-24"
+  lastPlayed: "2013-06-25"
   totalScore: 200
-  score: 45
+  score: 55
   totalAchievements: 20
   achievements: 
+    - image: "https://live.xbox.com/tiles/kB/ta/1oCLiGJhbC9MDhoIG1BTWTY5L2FjaC8wLzQ4AAAAAOfn5-l1G4w=.jpg"
+      name: Magnificent Seven
+      description: Burn calories seven days in a row for a Daily Streak of seven
+      score: 10
+      acquired: "2013-06-25"
+      slug: "kinect-playfit_magnificent-seven"
+      gameSlug: "kinect-playfit"
+      scraped: "Tue Jun 25 2013 08:28:35 GMT+0100 (BST)"
     - image: "https://live.xbox.com/tiles/jp/fW/14CLiGJhbC9DCRoIG1BTWTY5L2FjaC8wLzM3AAAAAOfn5-j5l5I=.jpg"
       name: Over the Hump
       description: Burn calories four days in a row for a Daily Streak of four

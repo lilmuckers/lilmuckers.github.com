@@ -13,7 +13,7 @@ game:
   boxart: 
     small: "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530873/1033/boxartsm.jpg"
     large: "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530873/1033/boxartlg.jpg"
-  lastPlayed: "2013-06-23"
+  lastPlayed: "2013-06-24"
   totalScore: 1250
   score: 270
   totalAchievements: 60
