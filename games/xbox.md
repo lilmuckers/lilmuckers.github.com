@@ -3,23 +3,47 @@ layout: xbox
 title: Xbox Tracker
 tagline: "I play games, they are fun"
 group: games
-achievementcount: 1538
+achievementcount: 1541
 gamer: 
   gamertag: Lilmuckers
   avatar: 
     secure: "https://avatar-ssl.xboxlive.com/avatar/Lilmuckers/avatar-body.png"
     unsecure: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatar-body.png"
-  activity: Last seen 12 minutes ago playing Rocksmith
+  activity: "Online playing Rocksmith - Menu Surfing"
   picture: 
     small: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatarpic-s.png"
     large: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatarpic-l.png"
-  score: 28525
+  score: 28575
   location: Londinium
   motto: "meritocracy!"
   bio: "ARGH! BEES!"
   profile: "http://live.xbox.com/en-GB/Profile?gamertag=lilmuckers"
 gamecount: 104
 latest: 
+  - image: "https://live.xbox.com/tiles/sj/DM/14CLiGJhbC9GDhoFGltTWTczL2FjaC8wLzQyAAAAAOfn5-jjMK4=.jpg"
+    name: "Bass-Box"
+    description: "Earn a bass pedal, amp, or cabinet"
+    score: 20
+    acquired: "2013-06-26"
+    slug: "rocksmith_bass-box"
+    gameSlug: rocksmith
+    scraped: "Wed Jun 26 2013 21:13:35 GMT+0100 (BST)"
+  - image: "https://live.xbox.com/tiles/AO/Nv/1YCLiGJhbC8RCRoFGltTWTczL2FjaC8wLzNlAAAAAOfn5-pA4xw=.jpg"
+    name: The Bottom Line
+    description: Complete a bass event
+    score: 10
+    acquired: "2013-06-26"
+    slug: "rocksmith_the-bottom-line"
+    gameSlug: rocksmith
+    scraped: "Wed Jun 26 2013 21:13:35 GMT+0100 (BST)"
+  - image: "https://live.xbox.com/tiles/kx/uP/1ICLiGJhbC8QCRoFGltTWTczL2FjaC8wLzNkAAAAAOfn5-ugG48=.jpg"
+    name: Bass Face
+    description: "Beat 100,000 points in a Bass arrangement"
+    score: 20
+    acquired: "2013-06-26"
+    slug: "rocksmith_bass-face"
+    gameSlug: rocksmith
+    scraped: "Wed Jun 26 2013 21:13:35 GMT+0100 (BST)"
   - image: "https://live.xbox.com/tiles/av/At/0YCLiGJhbC8XCRoFGltTWTczL2FjaC8wLzNjAAAAAOfn5-4C8HY=.jpg"
     name: Databass
     description: Play a song with emulated bass using a guitar
@@ -156,29 +180,5 @@ latest:
     slug: "your-shape-fe-2012_safari-so-good"
     gameSlug: "your-shape-fe-2012"
     scraped: "Fri Jun 21 2013 21:59:17 GMT+0100 (BST)"
-  - image: "https://live.xbox.com/tiles/K9/9u/14CLiGJhbC8WDBoFGltTWTg2L2FjaC8wLzZiAAAAAOfn5-hB3zc=.jpg"
-    name: Olympian
-    description: Completed 20 types of Workouts
-    score: 20
-    acquired: "2013-06-21"
-    slug: "your-shape-fe-2012_olympian"
-    gameSlug: "your-shape-fe-2012"
-    scraped: "Fri Jun 21 2013 21:59:17 GMT+0100 (BST)"
-  - image: "https://live.xbox.com/tiles/ng/99/1YCLiGJhbC9DDhoIG1BTWTY5L2FjaC8wLzQ3AAAAAOfn5-pSD4I=.jpg"
-    name: Back for More
-    description: Burn calories two days in a row for a Daily Streak of two
-    score: 5
-    acquired: "2013-06-20"
-    slug: "kinect-playfit_back-for-more"
-    gameSlug: "kinect-playfit"
-    scraped: "Thu Jun 20 2013 21:49:01 GMT+0100 (BST)"
-  - image: "https://live.xbox.com/tiles/N+/Zd/14CLiGJhbC8VDxoFGltTWTg2L2FjaC8wLzVhAAAAAOfn5-hy5is=.jpg"
-    name: The Keener
-    description: Completed 5 types of Classes
-    score: 10
-    acquired: "2013-06-20"
-    slug: "your-shape-fe-2012_the-keener"
-    gameSlug: "your-shape-fe-2012"
-    scraped: "Thu Jun 20 2013 21:49:14 GMT+0100 (BST)"
 ---
 {% include JB/setup %}

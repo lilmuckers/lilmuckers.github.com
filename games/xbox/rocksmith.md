@@ -15,9 +15,33 @@ game:
     large: "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530873/1033/boxartlg.jpg"
   lastPlayed: "2013-06-26"
   totalScore: 1250
-  score: 280
+  score: 330
   totalAchievements: 60
   achievements: 
+    - image: "https://live.xbox.com/tiles/sj/DM/14CLiGJhbC9GDhoFGltTWTczL2FjaC8wLzQyAAAAAOfn5-jjMK4=.jpg"
+      name: "Bass-Box"
+      description: "Earn a bass pedal, amp, or cabinet"
+      score: 20
+      acquired: "2013-06-26"
+      slug: "rocksmith_bass-box"
+      gameSlug: rocksmith
+      scraped: "Wed Jun 26 2013 21:13:35 GMT+0100 (BST)"
+    - image: "https://live.xbox.com/tiles/AO/Nv/1YCLiGJhbC8RCRoFGltTWTczL2FjaC8wLzNlAAAAAOfn5-pA4xw=.jpg"
+      name: The Bottom Line
+      description: Complete a bass event
+      score: 10
+      acquired: "2013-06-26"
+      slug: "rocksmith_the-bottom-line"
+      gameSlug: rocksmith
+      scraped: "Wed Jun 26 2013 21:13:35 GMT+0100 (BST)"
+    - image: "https://live.xbox.com/tiles/kx/uP/1ICLiGJhbC8QCRoFGltTWTczL2FjaC8wLzNkAAAAAOfn5-ugG48=.jpg"
+      name: Bass Face
+      description: "Beat 100,000 points in a Bass arrangement"
+      score: 20
+      acquired: "2013-06-26"
+      slug: "rocksmith_bass-face"
+      gameSlug: rocksmith
+      scraped: "Wed Jun 26 2013 21:13:35 GMT+0100 (BST)"
     - image: "https://live.xbox.com/tiles/av/At/0YCLiGJhbC8XCRoFGltTWTczL2FjaC8wLzNjAAAAAOfn5-4C8HY=.jpg"
       name: Databass
       description: Play a song with emulated bass using a guitar
