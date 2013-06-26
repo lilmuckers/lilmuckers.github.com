@@ -15,9 +15,33 @@ game:
     large: "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530873/1033/boxartlg.jpg"
   lastPlayed: "2013-06-26"
   totalScore: 1250
-  score: 330
+  score: 400
   totalAchievements: 60
   achievements: 
+    - image: "https://live.xbox.com/tiles/Bz/nt/1YCLiGJhbC9FDhoFGltTWTczL2FjaC8wLzQxAAAAAOfn5-rCORs=.jpg"
+      name: All your bass
+      description: Collect all basses
+      score: 30
+      acquired: "2013-06-26"
+      slug: "rocksmith_all-your-bass"
+      gameSlug: rocksmith
+      scraped: "Wed Jun 26 2013 22:13:40 GMT+0100 (BST)"
+    - image: "https://live.xbox.com/tiles/W0/PF/0ICLiGJhbC9BCRoFGltTWTczL2FjaC8wLzM1AAAAAOfn5--qQ0c=.jpg"
+      name: Art + Functionality
+      description: Collect all guitars
+      score: 30
+      acquired: "2013-06-26"
+      slug: "rocksmith_art-functionality"
+      gameSlug: rocksmith
+      scraped: "Wed Jun 26 2013 22:13:40 GMT+0100 (BST)"
+    - image: "https://live.xbox.com/tiles/0e/IA/0oCLiGJhbC8QCBoFGltTWTczL2FjaC8wLzJkAAAAAOfn5-0v4s0=.jpg"
+      name: Tone is My Avatar
+      description: Create and save a custom tone
+      score: 10
+      acquired: "2013-06-26"
+      slug: "rocksmith_tone-is-my-avatar"
+      gameSlug: rocksmith
+      scraped: "Wed Jun 26 2013 22:13:40 GMT+0100 (BST)"
     - image: "https://live.xbox.com/tiles/sj/DM/14CLiGJhbC9GDhoFGltTWTczL2FjaC8wLzQyAAAAAOfn5-jjMK4=.jpg"
       name: "Bass-Box"
       description: "Earn a bass pedal, amp, or cabinet"

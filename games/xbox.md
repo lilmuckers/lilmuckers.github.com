@@ -3,7 +3,7 @@ layout: xbox
 title: Xbox Tracker
 tagline: "I play games, they are fun"
 group: games
-achievementcount: 1541
+achievementcount: 1544
 gamer: 
   gamertag: Lilmuckers
   avatar: 
@@ -13,13 +13,37 @@ gamer:
   picture: 
     small: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatarpic-s.png"
     large: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatarpic-l.png"
-  score: 28575
+  score: 28645
   location: Londinium
   motto: "meritocracy!"
   bio: "ARGH! BEES!"
   profile: "http://live.xbox.com/en-GB/Profile?gamertag=lilmuckers"
 gamecount: 104
 latest: 
+  - image: "https://live.xbox.com/tiles/Bz/nt/1YCLiGJhbC9FDhoFGltTWTczL2FjaC8wLzQxAAAAAOfn5-rCORs=.jpg"
+    name: All your bass
+    description: Collect all basses
+    score: 30
+    acquired: "2013-06-26"
+    slug: "rocksmith_all-your-bass"
+    gameSlug: rocksmith
+    scraped: "Wed Jun 26 2013 22:13:40 GMT+0100 (BST)"
+  - image: "https://live.xbox.com/tiles/W0/PF/0ICLiGJhbC9BCRoFGltTWTczL2FjaC8wLzM1AAAAAOfn5--qQ0c=.jpg"
+    name: Art + Functionality
+    description: Collect all guitars
+    score: 30
+    acquired: "2013-06-26"
+    slug: "rocksmith_art-functionality"
+    gameSlug: rocksmith
+    scraped: "Wed Jun 26 2013 22:13:40 GMT+0100 (BST)"
+  - image: "https://live.xbox.com/tiles/0e/IA/0oCLiGJhbC8QCBoFGltTWTczL2FjaC8wLzJkAAAAAOfn5-0v4s0=.jpg"
+    name: Tone is My Avatar
+    description: Create and save a custom tone
+    score: 10
+    acquired: "2013-06-26"
+    slug: "rocksmith_tone-is-my-avatar"
+    gameSlug: rocksmith
+    scraped: "Wed Jun 26 2013 22:13:40 GMT+0100 (BST)"
   - image: "https://live.xbox.com/tiles/sj/DM/14CLiGJhbC9GDhoFGltTWTczL2FjaC8wLzQyAAAAAOfn5-jjMK4=.jpg"
     name: "Bass-Box"
     description: "Earn a bass pedal, amp, or cabinet"
@@ -156,29 +180,5 @@ latest:
     slug: "fable-heroes_heroes-of-gravestone"
     gameSlug: "fable-heroes"
     scraped: "Sat Jun 22 2013 23:18:31 GMT+0100 (BST)"
-  - image: "https://live.xbox.com/tiles/jp/fW/14CLiGJhbC9DCRoIG1BTWTY5L2FjaC8wLzM3AAAAAOfn5-j5l5I=.jpg"
-    name: Over the Hump
-    description: Burn calories four days in a row for a Daily Streak of four
-    score: 10
-    acquired: "2013-06-22"
-    slug: "kinect-playfit_over-the-hump"
-    gameSlug: "kinect-playfit"
-    scraped: "Sat Jun 22 2013 23:18:53 GMT+0100 (BST)"
-  - image: "https://live.xbox.com/tiles/QR/Ue/04CLiGJhbC9GDhoIG1BTWTY5L2FjaC8wLzQyAAAAAOfn5-wxFV0=.jpg"
-    name: "Half-Marathon"
-    description: Burn 1300 calories
-    score: 10
-    acquired: "2013-06-21"
-    slug: "kinect-playfit_half-marathon"
-    gameSlug: "kinect-playfit"
-    scraped: "Fri Jun 21 2013 21:59:02 GMT+0100 (BST)"
-  - image: "https://live.xbox.com/tiles/oX/6r/1YCLiGJhbC9HDRoFGltTWTg2L2FjaC8wLzczAAAAAOfn5-qEfr0=.jpg"
-    name: "Safari, So Good!"
-    description: Completed 1 African Rhythms Class
-    score: 10
-    acquired: "2013-06-21"
-    slug: "your-shape-fe-2012_safari-so-good"
-    gameSlug: "your-shape-fe-2012"
-    scraped: "Fri Jun 21 2013 21:59:17 GMT+0100 (BST)"
 ---
 {% include JB/setup %}
