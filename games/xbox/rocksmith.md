@@ -4,7 +4,7 @@ title: Rocksmith
 showPage: true
 tagline: ""
 group: xboxgame
-weight: 101
+weight: 103
 game: 
   name: Rocksmith
   gameId: 1431505011
@@ -13,11 +13,19 @@ game:
   boxart: 
     small: "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530873/1033/boxartsm.jpg"
     large: "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530873/1033/boxartlg.jpg"
-  lastPlayed: "2013-06-24"
+  lastPlayed: "2013-06-26"
   totalScore: 1250
-  score: 270
+  score: 280
   totalAchievements: 60
   achievements: 
+    - image: "https://live.xbox.com/tiles/av/At/0YCLiGJhbC8XCRoFGltTWTczL2FjaC8wLzNjAAAAAOfn5-4C8HY=.jpg"
+      name: Databass
+      description: Play a song with emulated bass using a guitar
+      score: 10
+      acquired: "2013-06-26"
+      slug: rocksmith_databass
+      gameSlug: rocksmith
+      scraped: "Wed Jun 26 2013 20:08:40 GMT+0100 (BST)"
     - image: "https://live.xbox.com/tiles/u-/FC/1oCLiGJhbC8WCBoFGltTWTczL2FjaC8wLzJiAAAAAOfn5-lt8ac=.jpg"
       name: The Rocksmith Method
       description: Earn all Bronze Technique Medals
@@ -245,5 +253,6 @@ game:
     - "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530873/1033/screenlg4.jpg"
     - "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530873/1033/screenlg5.jpg"
   video: null
+  unEncName: Rocksmith
 ---
 {% include JB/setup %}

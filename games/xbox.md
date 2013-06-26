@@ -3,23 +3,31 @@ layout: xbox
 title: Xbox Tracker
 tagline: "I play games, they are fun"
 group: games
-achievementcount: 1537
+achievementcount: 1538
 gamer: 
   gamertag: Lilmuckers
   avatar: 
     secure: "https://avatar-ssl.xboxlive.com/avatar/Lilmuckers/avatar-body.png"
     unsecure: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatar-body.png"
-  activity: Last seen 19 minutes ago playing Xbox Dashboard
+  activity: Last seen 12 minutes ago playing Rocksmith
   picture: 
     small: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatarpic-s.png"
     large: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatarpic-l.png"
-  score: 28515
+  score: 28525
   location: Londinium
   motto: "meritocracy!"
   bio: "ARGH! BEES!"
   profile: "http://live.xbox.com/en-GB/Profile?gamertag=lilmuckers"
 gamecount: 104
 latest: 
+  - image: "https://live.xbox.com/tiles/av/At/0YCLiGJhbC8XCRoFGltTWTczL2FjaC8wLzNjAAAAAOfn5-4C8HY=.jpg"
+    name: Databass
+    description: Play a song with emulated bass using a guitar
+    score: 10
+    acquired: "2013-06-26"
+    slug: rocksmith_databass
+    gameSlug: rocksmith
+    scraped: "Wed Jun 26 2013 20:08:40 GMT+0100 (BST)"
   - image: "https://live.xbox.com/tiles/kB/ta/1oCLiGJhbC9MDhoIG1BTWTY5L2FjaC8wLzQ4AAAAAOfn5-l1G4w=.jpg"
     name: Magnificent Seven
     description: Burn calories seven days in a row for a Daily Streak of seven
@@ -172,13 +180,5 @@ latest:
     slug: "your-shape-fe-2012_the-keener"
     gameSlug: "your-shape-fe-2012"
     scraped: "Thu Jun 20 2013 21:49:14 GMT+0100 (BST)"
-  - image: "https://live.xbox.com/tiles/s1/yU/1ICLiGJhbC9ADxoFGltTWTg2L2FjaC8wLzU0AAAAAOfn5-u7XK8=.jpg"
-    name: Addicted to Fun
-    description: "Completed 20 types of 1-player Activities"
-    score: 20
-    acquired: "2013-06-20"
-    slug: "your-shape-fe-2012_addicted-to-fun"
-    gameSlug: "your-shape-fe-2012"
-    scraped: "Thu Jun 20 2013 20:43:59 GMT+0100 (BST)"
 ---
 {% include JB/setup %}

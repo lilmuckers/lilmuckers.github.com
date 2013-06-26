@@ -4,7 +4,7 @@ title: Kinect PlayFit
 showPage: true
 tagline: ""
 group: xboxgame
-weight: 103
+weight: 102
 game: 
   name: Kinect PlayFit
   gameId: 1481115753
@@ -13,7 +13,7 @@ game:
   boxart: 
     small: null
     large: null
-  lastPlayed: "2013-06-25"
+  lastPlayed: "2013-06-26"
   totalScore: 200
   score: 55
   totalAchievements: 20
