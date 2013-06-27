@@ -13,11 +13,27 @@ game:
   boxart: 
     small: "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530873/1033/boxartsm.jpg"
     large: "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530873/1033/boxartlg.jpg"
-  lastPlayed: "2013-06-26"
+  lastPlayed: "2013-06-27"
   totalScore: 1250
-  score: 400
+  score: 470
   totalAchievements: 60
   achievements: 
+    - image: "https://live.xbox.com/tiles/c6/kI/0oCLiGJhbC9HCBoFGltTWTczL2FjaC8wLzIzAAAAAOfn5-0nqW8=.jpg"
+      name: International Support Act
+      description: Reach Rank 7
+      score: 40
+      acquired: "2013-06-27"
+      slug: "rocksmith_international-support-act"
+      gameSlug: rocksmith
+      scraped: "Thu Jun 27 2013 22:08:39 GMT+0100 (BST)"
+    - image: "https://live.xbox.com/tiles/7k/rk/0oCLiGJhbC9CCRoFGltTWTczL2FjaC8wLzM2AAAAAOfn5-3LSvI=.jpg"
+      name: Tone Peddler
+      description: Collect 50 effects pedals
+      score: 30
+      acquired: "2013-06-27"
+      slug: "rocksmith_tone-peddler"
+      gameSlug: rocksmith
+      scraped: "Thu Jun 27 2013 22:08:39 GMT+0100 (BST)"
     - image: "https://live.xbox.com/tiles/Bz/nt/1YCLiGJhbC9FDhoFGltTWTczL2FjaC8wLzQxAAAAAOfn5-rCORs=.jpg"
       name: All your bass
       description: Collect all basses

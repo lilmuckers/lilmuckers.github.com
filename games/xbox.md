@@ -3,23 +3,39 @@ layout: xbox
 title: Xbox Tracker
 tagline: "I play games, they are fun"
 group: games
-achievementcount: 1544
+achievementcount: 1546
 gamer: 
   gamertag: Lilmuckers
   avatar: 
     secure: "https://avatar-ssl.xboxlive.com/avatar/Lilmuckers/avatar-body.png"
     unsecure: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatar-body.png"
-  activity: "Online playing Rocksmith - Menu Surfing"
+  activity: Last seen 4 minutes ago playing Xbox Dashboard
   picture: 
     small: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatarpic-s.png"
     large: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatarpic-l.png"
-  score: 28645
+  score: 28715
   location: Londinium
   motto: "meritocracy!"
   bio: "ARGH! BEES!"
   profile: "http://live.xbox.com/en-GB/Profile?gamertag=lilmuckers"
 gamecount: 104
 latest: 
+  - image: "https://live.xbox.com/tiles/c6/kI/0oCLiGJhbC9HCBoFGltTWTczL2FjaC8wLzIzAAAAAOfn5-0nqW8=.jpg"
+    name: International Support Act
+    description: Reach Rank 7
+    score: 40
+    acquired: "2013-06-27"
+    slug: "rocksmith_international-support-act"
+    gameSlug: rocksmith
+    scraped: "Thu Jun 27 2013 22:08:39 GMT+0100 (BST)"
+  - image: "https://live.xbox.com/tiles/7k/rk/0oCLiGJhbC9CCRoFGltTWTczL2FjaC8wLzM2AAAAAOfn5-3LSvI=.jpg"
+    name: Tone Peddler
+    description: Collect 50 effects pedals
+    score: 30
+    acquired: "2013-06-27"
+    slug: "rocksmith_tone-peddler"
+    gameSlug: rocksmith
+    scraped: "Thu Jun 27 2013 22:08:39 GMT+0100 (BST)"
   - image: "https://live.xbox.com/tiles/Bz/nt/1YCLiGJhbC9FDhoFGltTWTczL2FjaC8wLzQxAAAAAOfn5-rCORs=.jpg"
     name: All your bass
     description: Collect all basses
@@ -162,22 +178,6 @@ latest:
     score: 10
     acquired: "2013-06-22"
     slug: "fable-heroes_heroes-of-the-cloud"
-    gameSlug: "fable-heroes"
-    scraped: "Sat Jun 22 2013 23:18:31 GMT+0100 (BST)"
-  - image: "https://live.xbox.com/tiles/mJ/Gq/0ICLiGJhbC9FAxoIG1lTAzg2L2FjaC8wLzkxAAAAAOfn5-+FkYQ=.jpg"
-    name: Heroes of Mistpeak
-    description: Completed Mistpeak in the world of Albion.
-    score: 10
-    acquired: "2013-06-22"
-    slug: "fable-heroes_heroes-of-mistpeak"
-    gameSlug: "fable-heroes"
-    scraped: "Sat Jun 22 2013 23:18:31 GMT+0100 (BST)"
-  - image: "https://live.xbox.com/tiles/C2/lK/0YCLiGJhbC9EAxoIG1lTAzg2L2FjaC8wLzkwAAAAAOfn5-5laRc=.jpg"
-    name: Heroes of Gravestone
-    description: Completed Gravestone in the world of Albion.
-    score: 10
-    acquired: "2013-06-22"
-    slug: "fable-heroes_heroes-of-gravestone"
     gameSlug: "fable-heroes"
     scraped: "Sat Jun 22 2013 23:18:31 GMT+0100 (BST)"
 ---
