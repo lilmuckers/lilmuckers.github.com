@@ -3,23 +3,39 @@ layout: xbox
 title: Xbox Tracker
 tagline: "I play games, they are fun"
 group: games
-achievementcount: 1546
+achievementcount: 1548
 gamer: 
   gamertag: Lilmuckers
   avatar: 
     secure: "https://avatar-ssl.xboxlive.com/avatar/Lilmuckers/avatar-body.png"
     unsecure: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatar-body.png"
-  activity: Last seen 4 minutes ago playing Xbox Dashboard
+  activity: Last seen 8 minutes ago playing Xbox Dashboard
   picture: 
     small: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatarpic-s.png"
     large: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatarpic-l.png"
-  score: 28715
+  score: 28740
   location: Londinium
   motto: "meritocracy!"
   bio: "ARGH! BEES!"
   profile: "http://live.xbox.com/en-GB/Profile?gamertag=lilmuckers"
 gamecount: 104
 latest: 
+  - image: "https://live.xbox.com/tiles/vy/Q+/1oCLiGJhbC8VCRoIG1BTWTY5L2FjaC8wLzNhAAAAAOfn5-kRJKM=.jpg"
+    name: Winning Streak
+    description: Burn calories ten days in a row for a Daily Streak of ten
+    score: 15
+    acquired: "2013-06-28"
+    slug: "kinect-playfit_winning-streak"
+    gameSlug: "kinect-playfit"
+    scraped: "Fri Jun 28 2013 10:38:36 GMT+0100 (BST)"
+  - image: "https://live.xbox.com/tiles/uP/68/1oCLiGJhbC9BDhoIG1BTWTY5L2FjaC8wLzQ1AAAAAOfn5-mT-qQ=.jpg"
+    name: Marathon
+    description: Burn 2600 calories
+    score: 10
+    acquired: "2013-06-28"
+    slug: "kinect-playfit_marathon"
+    gameSlug: "kinect-playfit"
+    scraped: "Fri Jun 28 2013 10:38:36 GMT+0100 (BST)"
   - image: "https://live.xbox.com/tiles/c6/kI/0oCLiGJhbC9HCBoFGltTWTczL2FjaC8wLzIzAAAAAOfn5-0nqW8=.jpg"
     name: International Support Act
     description: Reach Rank 7
@@ -162,22 +178,6 @@ latest:
     score: 10
     acquired: "2013-06-22"
     slug: "fable-heroes_heroes-of-bowerstone"
-    gameSlug: "fable-heroes"
-    scraped: "Sat Jun 22 2013 23:18:31 GMT+0100 (BST)"
-  - image: "https://live.xbox.com/tiles/-J/bP/14CLiGJhbC9MAxoIG1lTAzg2L2FjaC8wLzk4AAAAAOfn5-jgluA=.jpg"
-    name: Heroes of Hobbe Caves
-    description: Completed Hobbe Caves in the world of Albion.
-    score: 10
-    acquired: "2013-06-22"
-    slug: "fable-heroes_heroes-of-hobbe-caves"
-    gameSlug: "fable-heroes"
-    scraped: "Sat Jun 22 2013 23:18:31 GMT+0100 (BST)"
-  - image: "https://live.xbox.com/tiles/8o/Lo/1ICLiGJhbC9DAxoIG1lTAzg2L2FjaC8wLzk3AAAAAOfn5-vHgu4=.jpg"
-    name: Heroes of The Cloud
-    description: Completed The Cloud in the world of Albion.
-    score: 10
-    acquired: "2013-06-22"
-    slug: "fable-heroes_heroes-of-the-cloud"
     gameSlug: "fable-heroes"
     scraped: "Sat Jun 22 2013 23:18:31 GMT+0100 (BST)"
 ---

@@ -4,7 +4,7 @@ title: Kinect PlayFit
 showPage: true
 tagline: ""
 group: xboxgame
-weight: 102
+weight: 103
 game: 
   name: Kinect PlayFit
   gameId: 1481115753
@@ -13,11 +13,27 @@ game:
   boxart: 
     small: null
     large: null
-  lastPlayed: "2013-06-27"
+  lastPlayed: "2013-06-28"
   totalScore: 200
-  score: 55
+  score: 80
   totalAchievements: 20
   achievements: 
+    - image: "https://live.xbox.com/tiles/vy/Q+/1oCLiGJhbC8VCRoIG1BTWTY5L2FjaC8wLzNhAAAAAOfn5-kRJKM=.jpg"
+      name: Winning Streak
+      description: Burn calories ten days in a row for a Daily Streak of ten
+      score: 15
+      acquired: "2013-06-28"
+      slug: "kinect-playfit_winning-streak"
+      gameSlug: "kinect-playfit"
+      scraped: "Fri Jun 28 2013 10:38:36 GMT+0100 (BST)"
+    - image: "https://live.xbox.com/tiles/uP/68/1oCLiGJhbC9BDhoIG1BTWTY5L2FjaC8wLzQ1AAAAAOfn5-mT-qQ=.jpg"
+      name: Marathon
+      description: Burn 2600 calories
+      score: 10
+      acquired: "2013-06-28"
+      slug: "kinect-playfit_marathon"
+      gameSlug: "kinect-playfit"
+      scraped: "Fri Jun 28 2013 10:38:36 GMT+0100 (BST)"
     - image: "https://live.xbox.com/tiles/kB/ta/1oCLiGJhbC9MDhoIG1BTWTY5L2FjaC8wLzQ4AAAAAOfn5-l1G4w=.jpg"
       name: Magnificent Seven
       description: Burn calories seven days in a row for a Daily Streak of seven
