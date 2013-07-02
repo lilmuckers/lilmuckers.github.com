@@ -4,7 +4,7 @@ title: Sonic The Hedgehog 2
 showPage: true
 tagline: ""
 group: xboxgame
-weight: 72
+weight: 103
 game: 
   name: Sonic The Hedgehog 2
   gameId: 1480656995
@@ -13,11 +13,27 @@ game:
   boxart: 
     small: "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410863/1033/boxartsm.jpg"
     large: "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410863/1033/boxartlg.jpg"
-  lastPlayed: "2012-11-25"
+  lastPlayed: "2013-07-02"
   totalScore: 200
-  score: 5
+  score: 20
   totalAchievements: 12
   achievements: 
+    - image: "https://live.xbox.com/tiles/IN/eG/0ICLiGJhbC9FFQUXXFJRFzYzL2FjaC8wLzEAAAAA5+fn-6nXOw==.jpg"
+      name: Emerald Hill
+      description: You cleared the Emerald Hill Zone 1.
+      score: 5
+      acquired: "2013-07-02"
+      slug: "sonic-the-hedgehog-2_emerald-hill"
+      gameSlug: "sonic-the-hedgehog-2"
+      scraped: "Tue Jul 02 2013 21:53:35 GMT+0100 (BST)"
+    - image: "https://live.xbox.com/tiles/Ss/TE/1ICLiGJhbC9DFQUXXFJRFzYzL2FjaC8wLzcAAAAA5+fn++vEUQ==.jpg"
+      name: Chaos Emerald
+      description: You got one Chaos Emerald.
+      score: 10
+      acquired: "2013-07-02"
+      slug: "sonic-the-hedgehog-2_chaos-emerald"
+      gameSlug: "sonic-the-hedgehog-2"
+      scraped: "Tue Jul 02 2013 21:53:35 GMT+0100 (BST)"
     - image: "https://live.xbox.com/tiles/e3/cs/1YCLiGJhbC8VFQUXXFJRFzYzL2FjaC8wL2EAAAAA5+fn+gN3YA==.jpg"
       name: All Multiplayer
       description: You played all four multiplayer zones.
@@ -48,5 +64,6 @@ game:
     - "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410863/1033/screenlg3.jpg"
     - "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410863/1033/screenlg4.jpg"
   video: null
+  unEncName: Sonic The Hedgehog 2
 ---
 {% include JB/setup %}

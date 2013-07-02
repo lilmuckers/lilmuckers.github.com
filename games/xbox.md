@@ -3,23 +3,39 @@ layout: xbox
 title: Xbox Tracker
 tagline: "I play games, they are fun"
 group: games
-achievementcount: 1548
+achievementcount: 1550
 gamer: 
   gamertag: Lilmuckers
   avatar: 
     secure: "https://avatar-ssl.xboxlive.com/avatar/Lilmuckers/avatar-body.png"
     unsecure: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatar-body.png"
-  activity: Last seen 8 minutes ago playing Xbox Dashboard
+  activity: "Online playing Sonic The Hedgehog 2 - Playing single player Chemical Plant 2"
   picture: 
     small: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatarpic-s.png"
     large: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatarpic-l.png"
-  score: 28740
+  score: 28755
   location: Londinium
   motto: "meritocracy!"
   bio: "ARGH! BEES!"
   profile: "http://live.xbox.com/en-GB/Profile?gamertag=lilmuckers"
 gamecount: 104
 latest: 
+  - image: "https://live.xbox.com/tiles/IN/eG/0ICLiGJhbC9FFQUXXFJRFzYzL2FjaC8wLzEAAAAA5+fn-6nXOw==.jpg"
+    name: Emerald Hill
+    description: You cleared the Emerald Hill Zone 1.
+    score: 5
+    acquired: "2013-07-02"
+    slug: "sonic-the-hedgehog-2_emerald-hill"
+    gameSlug: "sonic-the-hedgehog-2"
+    scraped: "Tue Jul 02 2013 21:53:35 GMT+0100 (BST)"
+  - image: "https://live.xbox.com/tiles/Ss/TE/1ICLiGJhbC9DFQUXXFJRFzYzL2FjaC8wLzcAAAAA5+fn++vEUQ==.jpg"
+    name: Chaos Emerald
+    description: You got one Chaos Emerald.
+    score: 10
+    acquired: "2013-07-02"
+    slug: "sonic-the-hedgehog-2_chaos-emerald"
+    gameSlug: "sonic-the-hedgehog-2"
+    scraped: "Tue Jul 02 2013 21:53:35 GMT+0100 (BST)"
   - image: "https://live.xbox.com/tiles/vy/Q+/1oCLiGJhbC8VCRoIG1BTWTY5L2FjaC8wLzNhAAAAAOfn5-kRJKM=.jpg"
     name: Winning Streak
     description: Burn calories ten days in a row for a Daily Streak of ten
@@ -162,22 +178,6 @@ latest:
     score: 10
     acquired: "2013-06-22"
     slug: "fable-heroes_heroes-of-the-credits"
-    gameSlug: "fable-heroes"
-    scraped: "Sat Jun 22 2013 23:18:31 GMT+0100 (BST)"
-  - image: "https://live.xbox.com/tiles/R4/vJ/1oCLiGJhbC9AAxoIG1lTAzg2L2FjaC8wLzk0AAAAAOfn5-nmi1s=.jpg"
-    name: Heroes of Aurora
-    description: Completed Aurora in the world of Albion.
-    score: 10
-    acquired: "2013-06-22"
-    slug: "fable-heroes_heroes-of-aurora"
-    gameSlug: "fable-heroes"
-    scraped: "Sat Jun 22 2013 23:18:31 GMT+0100 (BST)"
-  - image: "https://live.xbox.com/tiles/vm/Br/04CLiGJhbC9HAxoIG1lTAzg2L2FjaC8wLzkzAAAAAOfn5-xEYKI=.jpg"
-    name: Heroes of Bowerstone
-    description: Completed Bowerstone in the world of Albion.
-    score: 10
-    acquired: "2013-06-22"
-    slug: "fable-heroes_heroes-of-bowerstone"
     gameSlug: "fable-heroes"
     scraped: "Sat Jun 22 2013 23:18:31 GMT+0100 (BST)"
 ---

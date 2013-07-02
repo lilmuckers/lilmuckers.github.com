@@ -4,7 +4,7 @@ title: "LEGO&reg; Lord of the Rings&trade;"
 showPage: true
 tagline: ""
 group: xboxgame
-weight: 83
+weight: 82
 game: 
   name: "LEGO&reg; LotR"
   gameId: 1464993821

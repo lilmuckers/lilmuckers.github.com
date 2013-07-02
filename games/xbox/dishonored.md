@@ -4,7 +4,7 @@ title: Dishonored
 showPage: true
 tagline: ""
 group: xboxgame
-weight: 91
+weight: 90
 game: 
   name: Dishonored
   gameId: 1112737763

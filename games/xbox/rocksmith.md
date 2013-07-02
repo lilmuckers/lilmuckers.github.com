@@ -4,7 +4,7 @@ title: Rocksmith
 showPage: true
 tagline: ""
 group: xboxgame
-weight: 101
+weight: 102
 game: 
   name: Rocksmith
   gameId: 1431505011
@@ -13,7 +13,7 @@ game:
   boxart: 
     small: "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530873/1033/boxartsm.jpg"
     large: "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530873/1033/boxartlg.jpg"
-  lastPlayed: "2013-06-27"
+  lastPlayed: "2013-07-02"
   totalScore: 1250
   score: 470
   totalAchievements: 60
