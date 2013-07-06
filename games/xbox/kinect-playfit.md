@@ -4,7 +4,7 @@ title: Kinect PlayFit
 showPage: true
 tagline: ""
 group: xboxgame
-weight: 101
+weight: 99
 game: 
   name: Kinect PlayFit
   gameId: 1481115753

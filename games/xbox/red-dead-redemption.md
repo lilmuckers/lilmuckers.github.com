@@ -4,7 +4,7 @@ title: Red Dead Redemption
 showPage: true
 tagline: ""
 group: xboxgame
-weight: 92
+weight: 90
 game: 
   name: Red Dead Redemption
   gameId: 1414793259

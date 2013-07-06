@@ -4,7 +4,7 @@ title: "Alice: Madness Returns"
 showPage: true
 tagline: ""
 group: xboxgame
-weight: 39
+weight: 38
 game: 
   name: "Alice: Madness Returns"
   gameId: 1161890070

@@ -4,7 +4,7 @@ title: Kinect Me
 showPage: true
 tagline: ""
 group: xboxgame
-weight: 95
+weight: 93
 game: 
   name: Kinect Me
   gameId: 1481115668

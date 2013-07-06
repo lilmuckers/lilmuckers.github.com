@@ -4,7 +4,7 @@ title: Sonic The Hedgehog
 showPage: true
 tagline: ""
 group: xboxgame
-weight: 65
+weight: 104
 game: 
   name: Sonic The Hedgehog
   gameId: 1480656996
@@ -13,11 +13,19 @@ game:
   boxart: 
     small: "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410864/1033/boxartsm.jpg"
     large: "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410864/1033/boxartlg.jpg"
-  lastPlayed: "2012-07-26"
+  lastPlayed: "2013-07-06"
   totalScore: 200
-  score: 15
+  score: 25
   totalAchievements: 12
   achievements: 
+    - image: "https://live.xbox.com/tiles/5y/-g/1YCLiGJhbC9FFQUXXFJRFzY0L2FjaC8wLzEAAAAA5+fn+s8v-A==.jpg"
+      name: Centurion
+      description: You got 100 or more rings.
+      score: 10
+      acquired: "2013-07-06"
+      slug: "sonic-the-hedgehog_centurion"
+      gameSlug: "sonic-the-hedgehog"
+      scraped: "Sat Jul 06 2013 22:58:43 GMT+0100 (BST)"
     - image: "https://live.xbox.com/tiles/Ui/bB/14CLiGJhbC9GFQUXXFJRFzY0L2FjaC8wLzIAAAAA5+fn+O4mSQ==.jpg"
       name: Clear Green
       description: You cleared the Green Hill Zone.
@@ -57,5 +65,6 @@ game:
     - "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410864/1033/screenlg4.jpg"
     - "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410864/1033/screenlg5.jpg"
   video: null
+  unEncName: Sonic The Hedgehog
 ---
 {% include JB/setup %}

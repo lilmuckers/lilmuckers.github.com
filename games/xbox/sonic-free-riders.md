@@ -4,7 +4,7 @@ title: SONIC FREE RIDERS
 showPage: true
 tagline: ""
 group: xboxgame
-weight: 37
+weight: 101
 game: 
   name: SONIC FREE RIDERS
   gameId: 1397033037
@@ -13,7 +13,7 @@ game:
   boxart: 
     small: "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025345084d/2057/boxartsm.jpg"
     large: "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025345084d/2057/boxartlg.jpg"
-  lastPlayed: "2011-11-01"
+  lastPlayed: "2013-07-04"
   totalScore: 1000
   score: 10
   totalAchievements: 50

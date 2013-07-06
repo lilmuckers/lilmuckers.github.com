@@ -4,7 +4,7 @@ title: "Assassin&apos;s Creed II"
 showPage: true
 tagline: ""
 group: xboxgame
-weight: 47
+weight: 46
 game: 
   name: "Assassin&apos;s Creed II"
   gameId: 1431504955

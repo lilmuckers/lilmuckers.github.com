@@ -3,23 +3,39 @@ layout: xbox
 title: Xbox Tracker
 tagline: "I play games, they are fun"
 group: games
-achievementcount: 1550
+achievementcount: 1552
 gamer: 
   gamertag: Lilmuckers
   avatar: 
     secure: "https://avatar-ssl.xboxlive.com/avatar/Lilmuckers/avatar-body.png"
     unsecure: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatar-body.png"
-  activity: "Online playing Sonic The Hedgehog 2 - Playing single player Chemical Plant 2"
+  activity: Online playing Xbox Dashboard
   picture: 
     small: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatarpic-s.png"
     large: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatarpic-l.png"
-  score: 28755
+  score: 28785
   location: Londinium
   motto: "meritocracy!"
   bio: "ARGH! BEES!"
   profile: "http://live.xbox.com/en-GB/Profile?gamertag=lilmuckers"
-gamecount: 104
+gamecount: 105
 latest: 
+  - image: "https://live.xbox.com/tiles/5y/-g/1YCLiGJhbC9FFQUXXFJRFzY0L2FjaC8wLzEAAAAA5+fn+s8v-A==.jpg"
+    name: Centurion
+    description: You got 100 or more rings.
+    score: 10
+    acquired: "2013-07-06"
+    slug: "sonic-the-hedgehog_centurion"
+    gameSlug: "sonic-the-hedgehog"
+    scraped: "Sat Jul 06 2013 22:58:43 GMT+0100 (BST)"
+  - image: "https://live.xbox.com/tiles/8C/rr/04CLiGJhbC9NFQUXXFJRTjcxL2FjaC8wLzkAAAAA5+fn-MQq6w==.jpg"
+    name: American Hero
+    description: Finished the USA Levels
+    score: 20
+    acquired: "2013-07-06"
+    slug: "doritos-crash-course_american-hero"
+    gameSlug: "doritos-crash-course"
+    scraped: "Sat Jul 06 2013 22:59:07 GMT+0100 (BST)"
   - image: "https://live.xbox.com/tiles/IN/eG/0ICLiGJhbC9FFQUXXFJRFzYzL2FjaC8wLzEAAAAA5+fn-6nXOw==.jpg"
     name: Emerald Hill
     description: You cleared the Emerald Hill Zone 1.
@@ -164,21 +180,5 @@ latest:
     slug: "your-shape-fe-2012_valedictorian"
     gameSlug: "your-shape-fe-2012"
     scraped: "Sun Jun 23 2013 12:28:32 GMT+0100 (BST)"
-  - image: "https://live.xbox.com/tiles/LZ/iL/0oCLiGJhbC9GAxoIG1lTAzg2L2FjaC8wLzkyAAAAAOfn5-2kmDE=.jpg"
-    name: Ruler of Albion
-    description: Completed all levels in the world of Albion.
-    score: 20
-    acquired: "2013-06-22"
-    slug: "fable-heroes_ruler-of-albion"
-    gameSlug: "fable-heroes"
-    scraped: "Sat Jun 22 2013 23:18:31 GMT+0100 (BST)"
-  - image: "https://live.xbox.com/tiles/1H/Mp/14CLiGJhbC9BAxoIG1lTAzg2L2FjaC8wLzk1AAAAAOfn5-gGc8g=.jpg"
-    name: Heroes of The Credits
-    description: Completed The Credits in the world of Albion.
-    score: 10
-    acquired: "2013-06-22"
-    slug: "fable-heroes_heroes-of-the-credits"
-    gameSlug: "fable-heroes"
-    scraped: "Sat Jun 22 2013 23:18:31 GMT+0100 (BST)"
 ---
 {% include JB/setup %}

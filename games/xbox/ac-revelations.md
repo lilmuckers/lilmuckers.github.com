@@ -4,7 +4,7 @@ title: "Assassin&apos;s Creed Revelations"
 showPage: true
 tagline: ""
 group: xboxgame
-weight: 56
+weight: 55
 game: 
   name: AC Revelations
   gameId: 1431505017

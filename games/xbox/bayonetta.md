@@ -4,7 +4,7 @@ title: BAYONETTA
 showPage: true
 tagline: ""
 group: xboxgame
-weight: 54
+weight: 53
 game: 
   name: BAYONETTA
   gameId: 1397032979

@@ -4,7 +4,7 @@ title: Mass Effect
 showPage: true
 tagline: ""
 group: xboxgame
-weight: 67
+weight: 65
 game: 
   name: Mass Effect
   gameId: 1297287144

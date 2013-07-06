@@ -4,7 +4,7 @@ title: Bastion
 showPage: true
 tagline: ""
 group: xboxgame
-weight: 97
+weight: 95
 game: 
   name: Bastion
   gameId: 1480657766

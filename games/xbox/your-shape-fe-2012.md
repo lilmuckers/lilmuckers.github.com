@@ -4,7 +4,7 @@ title: "Your Shape&trade; Fitness Evolved 2012"
 showPage: true
 tagline: ""
 group: xboxgame
-weight: 100
+weight: 98
 game: 
   name: "Your Shape: FE 2012"
   gameId: 1431505030
