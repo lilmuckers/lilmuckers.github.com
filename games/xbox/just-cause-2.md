@@ -4,7 +4,7 @@ title: Just Cause 2
 showPage: true
 tagline: ""
 group: xboxgame
-weight: 29
+weight: 28
 game: 
   name: Just Cause 2
   gameId: 1396901863

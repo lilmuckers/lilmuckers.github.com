@@ -4,7 +4,7 @@ title: Fable III
 showPage: false
 tagline: ""
 group: xboxgame
-weight: 27
+weight: 104
 game: 
   name: Fable III
   gameId: 1297287382
@@ -13,11 +13,19 @@ game:
   boxart: 
     small: null
     large: null
-  lastPlayed: "2011-03-04"
+  lastPlayed: "2013-07-06"
   totalScore: 1250
-  score: 590
+  score: 600
   totalAchievements: 60
   achievements: 
+    - image: "https://live.xbox.com/tiles/Vw/mZ/0ICLiGJhbC9GDBtUGltTWWQ2L2FjaC8wLzYyAAAAAOfn5-+2CUs=.jpg"
+      name: Touched By A Hero
+      description: "At least twenty people in Albion have felt the hand of Hero touch them. In a good way, we hope."
+      score: 10
+      acquired: "2013-07-07"
+      slug: "fable-iii_touched-by-a-hero"
+      gameSlug: "fable-iii"
+      scraped: "Sun Jul 07 2013 00:03:43 GMT+0100 (BST)"
     - image: "https://live.xbox.com/tiles/1t/NG/0ICLiGJhbC9ADhtUGltTWWQ2L2FjaC8wLzQ0AAAAAOfn5-9p08o=.jpg"
       name: Gnome Invasion
       description: "Oh, you&apos;re tough, you are. Destroying tiny, bearded, pointy-hatted, immobile men. How could you?"
@@ -236,5 +244,6 @@ game:
   banner: null
   images: []
   video: null
+  unEncName: Fable III
 ---
 {% include JB/setup %}

@@ -4,7 +4,7 @@ title: Netflix
 showPage: false
 tagline: ""
 group: xboxgame
-weight: 78
+weight: 77
 game: 
   name: Netflix
   gameId: 960956369

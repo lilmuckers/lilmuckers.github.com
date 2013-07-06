@@ -4,7 +4,7 @@ title: Saints Row 2
 showPage: true
 tagline: ""
 group: xboxgame
-weight: 37
+weight: 36
 game: 
   name: Saints Row 2
   gameId: 1414596604

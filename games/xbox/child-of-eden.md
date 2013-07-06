@@ -4,7 +4,7 @@ title: Child of Eden
 showPage: true
 tagline: ""
 group: xboxgame
-weight: 47
+weight: 46
 game: 
   name: Child of Eden
   gameId: 1431504972

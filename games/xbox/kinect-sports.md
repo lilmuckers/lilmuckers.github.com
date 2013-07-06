@@ -4,7 +4,7 @@ title: Kinect Sports
 showPage: true
 tagline: ""
 group: xboxgame
-weight: 33
+weight: 32
 game: 
   name: Kinect Sports
   gameId: 1297287369

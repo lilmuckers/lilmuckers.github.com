@@ -4,7 +4,7 @@ title: Dailymotion
 showPage: false
 tagline: ""
 group: xboxgame
-weight: 42
+weight: 41
 game: 
   name: Dailymotion
   gameId: 1380583377

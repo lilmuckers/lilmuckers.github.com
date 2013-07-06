@@ -3,23 +3,31 @@ layout: xbox
 title: Xbox Tracker
 tagline: "I play games, they are fun"
 group: games
-achievementcount: 1552
+achievementcount: 1553
 gamer: 
   gamertag: Lilmuckers
   avatar: 
     secure: "https://avatar-ssl.xboxlive.com/avatar/Lilmuckers/avatar-body.png"
     unsecure: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatar-body.png"
-  activity: Online playing Xbox Dashboard
+  activity: Last seen 26 minutes ago playing Xbox Dashboard
   picture: 
     small: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatarpic-s.png"
     large: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatarpic-l.png"
-  score: 28785
+  score: 28795
   location: Londinium
   motto: "meritocracy!"
   bio: "ARGH! BEES!"
   profile: "http://live.xbox.com/en-GB/Profile?gamertag=lilmuckers"
 gamecount: 105
 latest: 
+  - image: "https://live.xbox.com/tiles/Vw/mZ/0ICLiGJhbC9GDBtUGltTWWQ2L2FjaC8wLzYyAAAAAOfn5-+2CUs=.jpg"
+    name: Touched By A Hero
+    description: "At least twenty people in Albion have felt the hand of Hero touch them. In a good way, we hope."
+    score: 10
+    acquired: "2013-07-07"
+    slug: "fable-iii_touched-by-a-hero"
+    gameSlug: "fable-iii"
+    scraped: "Sun Jul 07 2013 00:03:43 GMT+0100 (BST)"
   - image: "https://live.xbox.com/tiles/5y/-g/1YCLiGJhbC9FFQUXXFJRFzY0L2FjaC8wLzEAAAAA5+fn+s8v-A==.jpg"
     name: Centurion
     description: You got 100 or more rings.
@@ -170,14 +178,6 @@ latest:
     score: 15
     acquired: "2013-06-23"
     slug: "your-shape-fe-2012_teachers-pet"
-    gameSlug: "your-shape-fe-2012"
-    scraped: "Sun Jun 23 2013 12:28:32 GMT+0100 (BST)"
-  - image: "https://live.xbox.com/tiles/ew/Te/0ICLiGJhbC8RDxoFGltTWTg2L2FjaC8wLzVlAAAAAOfn5--xBGc=.jpg"
-    name: Valedictorian
-    description: Completed every type of Class
-    score: 10
-    acquired: "2013-06-23"
-    slug: "your-shape-fe-2012_valedictorian"
     gameSlug: "your-shape-fe-2012"
     scraped: "Sun Jun 23 2013 12:28:32 GMT+0100 (BST)"
 ---

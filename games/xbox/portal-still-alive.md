@@ -4,7 +4,7 @@ title: "Portal: Still Alive"
 showPage: true
 tagline: ""
 group: xboxgame
-weight: 60
+weight: 59
 game: 
   name: "Portal: Still Alive"
   gameId: 1480657248

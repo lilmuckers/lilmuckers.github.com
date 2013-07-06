@@ -4,7 +4,7 @@ title: "Just Dance&reg; 4"
 showPage: true
 tagline: ""
 group: xboxgame
-weight: 72
+weight: 71
 game: 
   name: Just Dance 4
   gameId: 1431505077
