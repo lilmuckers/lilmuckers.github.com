@@ -1,7 +1,7 @@
 ---
 layout: xboxgame
 title: Fable III
-showPage: false
+showPage: true
 tagline: ""
 group: xboxgame
 weight: 104
@@ -11,8 +11,8 @@ game:
   marketLink: "http://marketplace.xbox.com/en-GB/Title/1297287382"
   achievementLink: "http://live.xbox.com/en-GB/Activity/Details?titleId=1297287382"
   boxart: 
-    small: null
-    large: null
+    small: http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5308d6/1033/boxartsm.jpg
+    large: http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5308d6/1033/boxartlg.jpg
   lastPlayed: "2013-07-06"
   totalScore: 1250
   score: 600
@@ -238,10 +238,14 @@ game:
   title: null
   description: null
   rating: null
-  ratingImages: []
+  ratingImages: 
+    - title: Ages 16+
+      src: http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/14/default/Values/14004.png
+    - title: Violence
+      src: http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/14/default/Descriptors/14005.png
   manual: null
   buy: []
-  banner: null
+  banner: http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5308d6/1033/banner.png
   images: []
   video: null
   unEncName: Fable III
