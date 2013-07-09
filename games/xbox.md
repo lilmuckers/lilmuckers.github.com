@@ -3,23 +3,31 @@ layout: xbox
 title: Xbox Tracker
 tagline: "I play games, they are fun"
 group: games
-achievementcount: 1554
+achievementcount: 1555
 gamer: 
   gamertag: Lilmuckers
   avatar: 
     secure: "https://avatar-ssl.xboxlive.com/avatar/Lilmuckers/avatar-body.png"
     unsecure: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatar-body.png"
-  activity: "Online playing Fable III - Forming a lasting\nbond with someone"
+  activity: "Online playing Fable III - Chopping up some\ntreehuggers"
   picture: 
     small: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatarpic-s.png"
     large: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatarpic-l.png"
-  score: 28800
+  score: 28815
   location: Londinium
   motto: "meritocracy!"
   bio: "ARGH! BEES!"
   profile: "http://live.xbox.com/en-GB/Profile?gamertag=lilmuckers"
 gamecount: 105
 latest: 
+  - image: "https://live.xbox.com/tiles/Cc/kl/1oCLiGJhbC9FDhtUGltTWWQ2L2FjaC8wLzQxAAAAAOfn5-kKyRU=.jpg"
+    name: Popularity Contest
+    description: "Your winning personality has brought you a plethora of new friends. That&apos;s right. A plethora."
+    score: 15
+    acquired: "2013-07-09"
+    slug: "fable-iii_popularity-contest"
+    gameSlug: "fable-iii"
+    scraped: "Tue Jul 09 2013 21:30:36 GMT+0100 (BST)"
   - image: "https://live.xbox.com/tiles/rg/67/0YCLiGJhbC8VFQRLXVBRF2Q2L2FjaC8wL2EAAAAA5+fn-pQOtQ==.jpg"
     name: Adopt Or Die
     description: "Good for you. Why bring more people into the world when there are poor, parentless children around?"
@@ -172,13 +180,5 @@ latest:
     slug: "your-shape-fe-2012_the-whole-package"
     gameSlug: "your-shape-fe-2012"
     scraped: "Tue Jun 25 2013 08:28:46 GMT+0100 (BST)"
-  - image: "https://live.xbox.com/tiles/Gm/yG/1oCLiGJhbC9ADBoFGltTWTg2L2FjaC8wLzY0AAAAAOfn5-mpbAY=.jpg"
-    name: Bring on the Bling
-    description: Collected 5 different Medals
-    score: 10
-    acquired: "2013-06-24"
-    slug: "your-shape-fe-2012_bring-on-the-bling"
-    gameSlug: "your-shape-fe-2012"
-    scraped: "Mon Jun 24 2013 08:33:29 GMT+0100 (BST)"
 ---
 {% include JB/setup %}
