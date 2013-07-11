@@ -112,4 +112,22 @@ game:
       score: 10
       acquired: "2011-02-12"
       slug: "fable-iii_island-paradise"
-      
+      gameSlug: "fable-iii"
+      scraped: "2013-04-02T23:35:03.840Z"
+    - image: "https://live.xbox.com/tiles/vM/8v/1oCLiGJhbC9NDxtUGltTWWQ2L2FjaC8wLzU5AAAAAOfn5-kAz6A=.jpg"
+      name: Magnate Personality
+      description: "You&apos;ve amassed a fortune in real estate. Just as well there&apos;s no window tax."
+      score: 50
+      acquired: "2011-02-11"
+      slug: "fable-iii_magnate-personality"
+      gameSlug: "fable-iii"
+      scraped: "2013-04-02T23:35:03.840Z"
+    - image: "https://live.xbox.com/tiles/iP/96/0oCLiGJhbC8XFQRLXVBRF2Q2L2FjaC8wL2MAAAAA5+fn-VX-kw==.jpg"
+      name: Ghost Brothers
+      description: "Not even death can put squabbling siblings to rest, but at least they&apos;re safely back with Mother."
+      score: 10
+      acquired: "2011-02-11"
+      slug: "fable-iii_ghost-brothers"
+      gameSlug: "fable-iii"
+      scraped: "2013-04-02T23:35:03.841Z"
+    
