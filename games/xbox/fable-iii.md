@@ -146,4 +146,5 @@ game:
       slug: "fable-iii_the-ruler-of-albion"
       gameSlug: "fable-iii"
       scraped: "2013-04-02T23:35:03.841Z"
-    
+    - image: "https://live.xbox.com/tiles/Vb/MN/04CLiGJhbC9BCRtUGltTWWQ2L2FjaC8wLzM1AAAAAOfn5-wis0k=.jpg"
+      
