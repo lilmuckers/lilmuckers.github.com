@@ -152,4 +152,5 @@ game:
       score: 20
       acquired: "2011-02-10"
       slug: "fable-iii_distant-friends"
+      gameSlug: "fable-iii"
       
