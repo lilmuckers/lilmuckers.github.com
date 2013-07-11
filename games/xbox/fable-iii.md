@@ -130,4 +130,20 @@ game:
       slug: "fable-iii_ghost-brothers"
       gameSlug: "fable-iii"
       scraped: "2013-04-02T23:35:03.841Z"
+    - image: "https://live.xbox.com/tiles/Dh/On/1oCLiGJhbC8RCRtUGltTWWQ2L2FjaC8wLzNlAAAAAOfn5-mIExI=.jpg"
+      name: Digger
+      description: "Hunting for treasure isn&apos;t always glamourous. The dirt under your fingernails can attest to that."
+      score: 15
+      acquired: "2011-02-11"
+      slug: "fable-iii_digger"
+      gameSlug: "fable-iii"
+      scraped: "2013-04-02T23:35:03.841Z"
+    - image: "https://live.xbox.com/tiles/Ho/sM/1ICLiGJhbC8RDhtUGltTWWQ2L2FjaC8wLzRlAAAAAOfn5-sjiwI=.jpg"
+      name: The Ruler of Albion
+      description: "You led a revolution and now the throne is yours. How will history judge your rule?"
+      score: 80
+      acquired: "2011-02-10"
+      slug: "fable-iii_the-ruler-of-albion"
+      gameSlug: "fable-iii"
+      scraped: "2013-04-02T23:35:03.841Z"
     
