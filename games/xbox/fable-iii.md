@@ -148,4 +148,5 @@ game:
       scraped: "2013-04-02T23:35:03.841Z"
     - image: "https://live.xbox.com/tiles/Vb/MN/04CLiGJhbC9BCRtUGltTWWQ2L2FjaC8wLzM1AAAAAOfn5-wis0k=.jpg"
       name: Distant Friends
+      description: "You convinced the Aurorans to to join your cause. It&apos;s time for a revolution!"
       
