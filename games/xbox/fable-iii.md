@@ -71,4 +71,45 @@ game:
       description: "You had to make a lot of difficult and unpopular decisions, but they were the right ones."
       score: 10
       acquired: "2011-02-12"
+      slug: "fable-iii_tough-love"
+      gameSlug: "fable-iii"
+      scraped: "2013-04-02T23:35:03.840Z"
+    - image: "https://live.xbox.com/tiles/6X/ui/0ICLiGJhbC8SDxtUGltTWWQ2L2FjaC8wLzVmAAAAAOfn5-+Ne-U=.jpg"
+      name: Super Hero
+      description: "You are the ultimate Hero. A master in every discipline. In other words, you&apos;re awesome."
+      score: 50
+      acquired: "2011-02-12"
+      slug: "fable-iii_super-hero"
+      gameSlug: "fable-iii"
+      scraped: "2013-04-02T23:35:03.840Z"
+    - image: "https://live.xbox.com/tiles/dJ/hO/0ICLiGJhbC8XDhtUGltTWWQ2L2FjaC8wLzRjAAAAAOfn5-9hmGg=.jpg"
+      name: Coronation Chicken
+      description: You brought a real sense of gravitas to your role of monarch. That and feathers.
+      score: 10
+      acquired: "2011-02-12"
+      slug: "fable-iii_coronation-chicken"
+      gameSlug: "fable-iii"
+      scraped: "2013-04-02T23:35:03.840Z"
+    - image: "https://live.xbox.com/tiles/XH/KD/0oCLiGJhbC8RDxtUGltTWWQ2L2FjaC8wLzVlAAAAAOfn5-2sckA=.jpg"
+      name: Knight Jumps Chesty
+      description: "You beat an inanimate object at chess. Although to be fair, it is a very evil inanimate object."
+      score: 10
+      acquired: "2011-02-12"
+      slug: "fable-iii_knight-jumps-chesty"
+      gameSlug: "fable-iii"
+      scraped: "2013-04-02T23:35:03.840Z"
+    - image: "https://live.xbox.com/tiles/EJ/AA/1YCLiGJhbC8VDxtUGltTWWQ2L2FjaC8wLzVhAAAAAOfn5-ovkAw=.jpg"
+      name: Gunning For Glory
+      description: Few have ever put the trigger to such bloody use.
+      score: 20
+      acquired: "2011-02-12"
+      slug: "fable-iii_gunning-for-glory"
+      gameSlug: "fable-iii"
+      scraped: "2013-04-02T23:35:03.840Z"
+    - image: "https://live.xbox.com/tiles/ux/qG/1ICLiGJhbC8SCRtUGltTWWQ2L2FjaC8wLzNmAAAAAOfn5-upGqc=.jpg"
+      name: Island Paradise
+      description: "Thanks to you, there is a new, thriving community away from the stresses of the modern world."
+      score: 10
+      acquired: "2011-02-12"
+      slug: "fable-iii_island-paradise"
       
