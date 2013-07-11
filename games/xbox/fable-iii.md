@@ -151,4 +151,5 @@ game:
       description: "You convinced the Aurorans to to join your cause. It&apos;s time for a revolution!"
       score: 20
       acquired: "2011-02-10"
+      slug: "fable-iii_distant-friends"
       
