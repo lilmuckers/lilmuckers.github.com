@@ -149,4 +149,6 @@ game:
     - image: "https://live.xbox.com/tiles/Vb/MN/04CLiGJhbC9BCRtUGltTWWQ2L2FjaC8wLzM1AAAAAOfn5-wis0k=.jpg"
       name: Distant Friends
       description: "You convinced the Aurorans to to join your cause. It&apos;s time for a revolution!"
+      score: 20
+      acquired: "2011-02-10"
       
