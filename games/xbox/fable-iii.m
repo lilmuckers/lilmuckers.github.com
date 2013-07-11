@@ -15,7 +15,7 @@ game:
     large: "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5308d6/1033/boxartlg.jpg"
   lastPlayed: "2013-07-09"
   totalScore: 1250
-  score: 619
+  score: 620
   totalAchievements: 60
   achievements: 
     - image: "https://live.xbox.com/tiles/Cc/kl/1oCLiGJhbC9FDhtUGltTWWQ2L2FjaC8wLzQxAAAAAOfn5-kKyRU=.jpg"
@@ -153,4 +153,117 @@ game:
       acquired: "2011-02-10"
       slug: "fable-iii_distant-friends"
       gameSlug: "fable-iii"
-      scrap
+      scraped: "2013-04-02T23:35:03.841Z"
+    - image: "https://live.xbox.com/tiles/st/sI/1YCLiGJhbC9CDxtUGltTWWQ2L2FjaC8wLzU2AAAAAOfn5-on264=.jpg"
+      name: "If It Bleeds, We Can Kill It"
+      description: "You&apos;re a one-Hero army. A pure massacring machine. A total killing-- well, you get the idea."
+      score: 20
+      acquired: "2011-02-10"
+      slug: "fable-iii_if-it-bleeds-we-can-kill-it"
+      gameSlug: "fable-iii"
+      scraped: "2013-04-02T23:35:03.841Z"
+    - image: "https://live.xbox.com/tiles/c0/LM/0ICLiGJhbC9DCRtUGltTWWQ2L2FjaC8wLzM3AAAAAOfn5--jQm8=.jpg"
+      name: The Resistance
+      description: "The people of Bowerstone are behind you, ready to stand up against your brother."
+      score: 50
+      acquired: "2011-02-10"
+      slug: "fable-iii_the-resistance"
+      gameSlug: "fable-iii"
+      scraped: "2013-04-02T23:35:03.841Z"
+    - image: "https://live.xbox.com/tiles/z4/pj/04CLiGJhbC8QDxtUGltTWWQ2L2FjaC8wLzVkAAAAAOfn5-xMitM=.jpg"
+      name: Spellweaver
+      description: "You may well be the first Hero in history to weave two spells together. And wasn&apos;t it pretty?"
+      score: 5
+      acquired: "2011-02-10"
+      slug: "fable-iii_spellweaver"
+      gameSlug: "fable-iii"
+      scraped: "2013-04-02T23:35:03.842Z"
+    - image: "https://live.xbox.com/tiles/cf/hY/04CLiGJhbC9EDBtUGltTWWQ2L2FjaC8wLzYwAAAAAOfn5-x3+G0=.jpg"
+      name: "Save The Princess!"
+      description: You rescued a piece of cardboard and gained valuable insight into the game development process.
+      score: 10
+      acquired: "2011-02-09"
+      slug: "fable-iii_save-the-princess"
+      gameSlug: "fable-iii"
+      scraped: "2013-04-02T23:35:03.842Z"
+    - image: "https://live.xbox.com/tiles/Nm/HB/1oCLiGJhbC8XDxtUGltTWWQ2L2FjaC8wLzVjAAAAAOfn5-nuYSo=.jpg"
+      name: Swift Justice
+      description: "Major Swift and his men have joined your cause. How can you fail with that moustache on your side?"
+      score: 20
+      acquired: "2011-02-08"
+      slug: "fable-iii_swift-justice"
+      gameSlug: "fable-iii"
+      scraped: "2013-04-02T23:35:03.842Z"
+    - image: "https://live.xbox.com/tiles/RS/um/0YCLiGJhbC9BDhtUGltTWWQ2L2FjaC8wLzQ1AAAAAOfn5-6JK1k=.jpg"
+      name: And So It Begins
+      description: "You&apos;ve taken your first steps towards gathering a rebel force to stand against your brother."
+      score: 20
+      acquired: "2011-02-08"
+      slug: "fable-iii_and-so-it-begins"
+      gameSlug: "fable-iii"
+      scraped: "2013-04-02T23:35:03.842Z"
+    - image: "https://live.xbox.com/tiles/9-/gF/04CLiGJhbC8WCRtUGltTWWQ2L2FjaC8wLzNiAAAAAOfn5-wq+Os=.jpg"
+      name: "Pull!"
+      description: You dispatched an enemy while he was airborne. At least he went with style.
+      score: 10
+      acquired: "2011-02-08"
+      slug: "fable-iii_pull"
+      gameSlug: "fable-iii"
+      scraped: "2013-04-02T23:35:03.842Z"
+    - image: "https://live.xbox.com/tiles/IS/Po/1ICLiGJhbC9DDxtUGltTWWQ2L2FjaC8wLzU3AAAAAOfn5-vHIz0=.jpg"
+      name: "Tragical-Comical-Historical"
+      description: "Your literary investigations have unearthed a one-of-a-kind play. Shame it stinks."
+      score: 10
+      acquired: "2011-02-08"
+      slug: "fable-iii_tragical-comical-historical"
+      gameSlug: "fable-iii"
+      scraped: "2013-04-02T23:35:03.843Z"
+    - image: "https://live.xbox.com/tiles/ZA/Dl/0oCLiGJhbC8XCRtUGltTWWQ2L2FjaC8wLzNjAAAAAOfn5-3KAHg=.jpg"
+      name: "He&apos;s a Woman. She&apos;s a Man"
+      description: "Heroes have long been free from the boundaries of normal society. What is normal anyway?"
+      score: 5
+      acquired: "2011-02-08"
+      slug: "fable-iii_hes-a-woman-shes-a-man"
+      gameSlug: "fable-iii"
+      scraped: "2013-04-02T23:35:03.843Z"
+    - image: "https://live.xbox.com/tiles/-j/ag/0ICLiGJhbC9NDhtUGltTWWQ2L2FjaC8wLzQ5AAAAAOfn5-+PNuI=.jpg"
+      name: The Guild Seal
+      description: "The Guild Seal reacted to your touch. You&apos;re a Hero! But then, you knew that already."
+      score: 10
+      acquired: null
+      slug: "fable-iii_the-guild-seal"
+      gameSlug: "fable-iii"
+      scraped: "2013-04-02T23:35:03.843Z"
+    - image: "https://live.xbox.com/tiles/B9/Ip/14CLiGJhbC9BDxtUGltTWWQ2L2FjaC8wLzU1AAAAAOfn5-gG0hs=.jpg"
+      name: Total Warrior
+      description: "Killed enemies with Melee, Ranged and Spell Attacks. Which is your favourite then?"
+      score: 10
+      acquired: null
+      slug: "fable-iii_total-warrior"
+      gameSlug: "fable-iii"
+      scraped: "2013-04-02T23:35:03.844Z"
+    - image: "https://live.xbox.com/tiles/8C/KH/04CLiGJhbC9CDhtUGltTWWQ2L2FjaC8wLzQ2AAAAAOfn5-yoIuw=.jpg"
+      name: Hand in Hand
+      description: "You&apos;ve held hands with another person. What better way to make a connection?"
+      score: 5
+      acquired: null
+      slug: "fable-iii_hand-in-hand"
+      gameSlug: "fable-iii"
+      scraped: "2013-04-02T23:35:03.844Z"
+  slug: "fable-iii"
+  title: null
+  description: null
+  rating: null
+  ratingImages: 
+    - title: Ages 16+
+      src: "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/14/default/Values/14004.png"
+    - title: Violence
+      src: "http://epix.xbox.com/consoleassets/vm_ems/DetailsPages/RatingSystemID/14/default/Descriptors/14005.png"
+  manual: null
+  buy: []
+  banner: "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5308d6/1033/banner.png"
+  images: []
+  video: null
+  unEncName: Fable III
+---
+{% include JB/setup %}
