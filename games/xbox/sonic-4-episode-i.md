@@ -4,7 +4,7 @@ title: "SONIC THE HEDGEHOG&trade; 4 Episode I"
 showPage: true
 tagline: ""
 group: xboxgame
-weight: 16
+weight: 14
 game: 
   name: Sonic 4 Episode I
   gameId: 1480657415

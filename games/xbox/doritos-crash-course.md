@@ -4,7 +4,7 @@ title: Doritos Crash Course
 showPage: true
 tagline: ""
 group: xboxgame
-weight: 102
+weight: 98
 game: 
   name: Doritos Crash Course
   gameId: 1480657521

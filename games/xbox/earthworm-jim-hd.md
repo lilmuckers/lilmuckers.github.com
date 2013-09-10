@@ -4,7 +4,7 @@ title: Earthworm Jim HD
 showPage: true
 tagline: ""
 group: xboxgame
-weight: 10
+weight: 8
 game: 
   name: Earthworm Jim HD
   gameId: 1480657378

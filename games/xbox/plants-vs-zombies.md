@@ -4,7 +4,7 @@ title: Plants vs. Zombies
 showPage: true
 tagline: ""
 group: xboxgame
-weight: 25
+weight: 23
 game: 
   name: Plants vs. Zombies
   gameId: 1480657407

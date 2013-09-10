@@ -4,7 +4,7 @@ title: Castle Crashers
 showPage: true
 tagline: ""
 group: xboxgame
-weight: 26
+weight: 24
 game: 
   name: Castle Crashers
   gameId: 1480657079

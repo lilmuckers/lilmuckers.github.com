@@ -4,7 +4,7 @@ title: Last.fm
 showPage: false
 tagline: ""
 group: xboxgame
-weight: 38
+weight: 36
 game: 
   name: Last.fm
   gameId: 1481115756

@@ -4,7 +4,7 @@ title: Dawn of War II
 showPage: true
 tagline: ""
 group: xboxgame
-weight: 13
+weight: 11
 game: 
   name: Dawn of War II
   gameId: 1414596653

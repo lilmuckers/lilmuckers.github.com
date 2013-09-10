@@ -4,7 +4,7 @@ title: Perfect Dark Zero
 showPage: true
 tagline: ""
 group: xboxgame
-weight: 27
+weight: 25
 game: 
   name: Perfect Dark Zero
   gameId: 1297287123

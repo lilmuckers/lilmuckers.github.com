@@ -4,7 +4,7 @@ title: Crackdown
 showPage: true
 tagline: ""
 group: xboxgame
-weight: 9
+weight: 7
 game: 
   name: Crackdown
   gameId: 1297287132

@@ -4,7 +4,7 @@ title: Super Meat Boy
 showPage: true
 tagline: ""
 group: xboxgame
-weight: 22
+weight: 20
 game: 
   name: Super Meat Boy
   gameId: 1480657498

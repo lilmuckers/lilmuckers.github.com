@@ -4,7 +4,7 @@ title: "Assassin&apos;s Creed Brotherhood"
 showPage: true
 tagline: ""
 group: xboxgame
-weight: 44
+weight: 42
 game: 
   name: AC Brotherhood
   gameId: 1431504989

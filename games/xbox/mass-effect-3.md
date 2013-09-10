@@ -4,7 +4,7 @@ title: "Mass Effect&trade; 3"
 showPage: true
 tagline: ""
 group: xboxgame
-weight: 85
+weight: 81
 game: 
   name: Mass Effect 3
   gameId: 1161890141

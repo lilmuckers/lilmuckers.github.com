@@ -4,7 +4,7 @@ title: "Sonic &amp; Knuckles"
 showPage: true
 tagline: ""
 group: xboxgame
-weight: 18
+weight: 16
 game: 
   name: "Sonic &amp; Knuckles"
   gameId: 1480657348

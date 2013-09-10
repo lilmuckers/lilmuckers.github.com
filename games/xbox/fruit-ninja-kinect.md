@@ -4,7 +4,7 @@ title: Fruit Ninja Kinect
 showPage: true
 tagline: ""
 group: xboxgame
-weight: 33
+weight: 31
 game: 
   name: Fruit Ninja Kinect
   gameId: 1480657785

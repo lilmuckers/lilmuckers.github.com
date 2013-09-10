@@ -4,7 +4,7 @@ title: Portal 2
 showPage: true
 tagline: ""
 group: xboxgame
-weight: 56
+weight: 54
 game: 
   name: Portal 2
   gameId: 1161890066

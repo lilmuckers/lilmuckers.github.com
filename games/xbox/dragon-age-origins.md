@@ -4,7 +4,7 @@ title: "Dragon Age: Origins"
 showPage: true
 tagline: ""
 group: xboxgame
-weight: 21
+weight: 19
 game: 
   name: "Dragon Age: Origins"
   gameId: 1161889984

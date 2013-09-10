@@ -4,7 +4,7 @@ title: L.A. Noire
 showPage: true
 tagline: ""
 group: xboxgame
-weight: 29
+weight: 27
 game: 
   name: L.A. Noire
   gameId: 1414793324

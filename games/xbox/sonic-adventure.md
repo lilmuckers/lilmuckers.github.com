@@ -4,7 +4,7 @@ title: Sonic Adventure
 showPage: true
 tagline: ""
 group: xboxgame
-weight: 17
+weight: 15
 game: 
   name: Sonic Adventure
   gameId: 1480657445

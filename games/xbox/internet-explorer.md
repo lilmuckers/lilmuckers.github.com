@@ -4,7 +4,7 @@ title: Internet Explorer
 showPage: false
 tagline: ""
 group: xboxgame
-weight: 68
+weight: 65
 game: 
   name: Internet Explorer
   gameId: 1481115776

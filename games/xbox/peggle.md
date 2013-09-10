@@ -4,7 +4,7 @@ title: Peggle
 showPage: true
 tagline: ""
 group: xboxgame
-weight: 14
+weight: 12
 game: 
   name: Peggle
   gameId: 1480657033

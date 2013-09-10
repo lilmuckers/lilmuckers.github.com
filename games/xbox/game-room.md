@@ -4,7 +4,7 @@ title: Game Room
 showPage: true
 tagline: ""
 group: xboxgame
-weight: 20
+weight: 18
 game: 
   name: Game Room
   gameId: 1297287425

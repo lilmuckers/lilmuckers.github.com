@@ -4,7 +4,7 @@ title: "Dante&apos;s Inferno&trade;"
 showPage: true
 tagline: ""
 group: xboxgame
-weight: 12
+weight: 10
 game: 
   name: "Dante&apos;s Inferno&trade;"
   gameId: 1161889999

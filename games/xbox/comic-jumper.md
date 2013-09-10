@@ -4,7 +4,7 @@ title: Comic Jumper
 showPage: true
 tagline: ""
 group: xboxgame
-weight: 23
+weight: 21
 game: 
   name: Comic Jumper
   gameId: 1480657440

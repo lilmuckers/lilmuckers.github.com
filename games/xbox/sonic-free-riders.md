@@ -4,7 +4,7 @@ title: SONIC FREE RIDERS
 showPage: true
 tagline: ""
 group: xboxgame
-weight: 100
+weight: 96
 game: 
   name: SONIC FREE RIDERS
   gameId: 1397033037

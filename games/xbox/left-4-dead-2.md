@@ -4,7 +4,7 @@ title: Left 4 Dead 2
 showPage: true
 tagline: ""
 group: xboxgame
-weight: 3
+weight: 2
 game: 
   name: Left 4 Dead 2
   gameId: 1161890004

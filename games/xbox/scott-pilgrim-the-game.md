@@ -4,7 +4,7 @@ title: SCOTT PILGRIM THE GAME
 showPage: true
 tagline: ""
 group: xboxgame
-weight: 15
+weight: 13
 game: 
   name: SCOTT PILGRIM THE GAME
   gameId: 1480657452

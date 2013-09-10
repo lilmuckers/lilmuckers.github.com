@@ -4,7 +4,7 @@ title: Sonic The Hedgehog 3
 showPage: true
 tagline: ""
 group: xboxgame
-weight: 19
+weight: 17
 game: 
   name: Sonic The Hedgehog 3
   gameId: 1480657315

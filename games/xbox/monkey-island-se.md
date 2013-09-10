@@ -4,7 +4,7 @@ title: "Monkey Island: SE"
 showPage: true
 tagline: ""
 group: xboxgame
-weight: 11
+weight: 9
 game: 
   name: "Monkey Island: SE"
   gameId: 1480657301

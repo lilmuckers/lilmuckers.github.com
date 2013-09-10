@@ -4,7 +4,7 @@ title: "[PROTOTYPE]&trade;"
 showPage: true
 tagline: ""
 group: xboxgame
-weight: 6
+weight: 5
 game: 
   name: "[PROTOTYPE]&trade;"
   gameId: 1096157262

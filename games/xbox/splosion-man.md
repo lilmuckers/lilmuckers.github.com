@@ -4,7 +4,7 @@ title: Splosion Man
 showPage: true
 tagline: ""
 group: xboxgame
-weight: 24
+weight: 22
 game: 
   name: Splosion Man
   gameId: 1480657295

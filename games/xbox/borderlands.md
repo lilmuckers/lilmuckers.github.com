@@ -4,7 +4,7 @@ title: Borderlands
 showPage: true
 tagline: ""
 group: xboxgame
-weight: 4
+weight: 3
 game: 
   name: Borderlands
   gameId: 1414793191

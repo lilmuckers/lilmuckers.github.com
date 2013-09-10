@@ -4,7 +4,7 @@ title: YouTube
 showPage: false
 tagline: ""
 group: xboxgame
-weight: 82
+weight: 78
 game: 
   name: YouTube
   gameId: 1110837201

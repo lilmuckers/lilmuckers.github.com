@@ -4,7 +4,7 @@ title: Gears of War
 showPage: true
 tagline: ""
 group: xboxgame
-weight: 2
+weight: 1
 game: 
   name: Gears of War
   gameId: 1297287125

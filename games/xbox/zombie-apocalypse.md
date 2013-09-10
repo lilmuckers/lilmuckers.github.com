@@ -4,7 +4,7 @@ title: ZOMBIE APOCALYPSE
 showPage: true
 tagline: ""
 group: xboxgame
-weight: 7
+weight: 6
 game: 
   name: ZOMBIE APOCALYPSE
   gameId: 1480657249

@@ -4,7 +4,7 @@ title: "Assassin&apos;s Creed&reg; III"
 showPage: true
 tagline: ""
 group: xboxgame
-weight: 80
+weight: 76
 game: 
   name: "Assassin&apos;s Creed&reg; III"
   gameId: 1431505070
