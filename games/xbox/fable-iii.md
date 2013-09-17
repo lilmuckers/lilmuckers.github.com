@@ -4,7 +4,7 @@ title: Fable III
 showPage: true
 tagline: ""
 group: xboxgame
-weight: 103
+weight: 101
 game: 
   name: Fable III
   gameId: 1297287382

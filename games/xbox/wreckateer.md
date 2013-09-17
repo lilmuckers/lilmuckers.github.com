@@ -4,7 +4,7 @@ title: Wreckateer
 showPage: true
 tagline: ""
 group: xboxgame
-weight: 102
+weight: 100
 game: 
   name: Wreckateer
   gameId: 1480657804

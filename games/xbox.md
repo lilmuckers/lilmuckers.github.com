@@ -3,23 +3,39 @@ layout: xbox
 title: Xbox Tracker
 tagline: "I play games, they are fun"
 group: games
-achievementcount: 1608
+achievementcount: 1610
 gamer: 
   gamertag: Lilmuckers
   avatar: 
     secure: "https://avatar-ssl.xboxlive.com/avatar/Lilmuckers/avatar-body.png"
     unsecure: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatar-body.png"
-  activity: Last seen 02/09/2013 playing Xbox.com
+  activity: "Online playing Saints Row IV - Playing Single Player\nMission: A Pleasant Day"
   picture: 
     small: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatarpic-s.png"
     large: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatarpic-l.png"
-  score: 29810
+  score: 29830
   location: Londinium
   motto: "meritocracy!"
   bio: "ARGH! BEES!"
   profile: "http://live.xbox.com/en-GB/Profile?gamertag=lilmuckers"
-gamecount: 108
+gamecount: 109
 latest: 
+  - image: "https://live.xbox.com/tiles/Kk/SB/0oCLiGJhbC9BDwVNBEtYVAc2L2FjaC8wLzE1NQAAAADn5+f9rkQ3.jpg"
+    name: "Destroyer-In-Chief"
+    description: "Completed &apos;The Saints Wing&apos; and fought the alien invasion as Commander-In-Chief."
+    score: 10
+    acquired: "2013-09-17"
+    slug: "saints-row-iv_destroyer-in-chief"
+    gameSlug: "saints-row-iv"
+    scraped: "Tue Sep 17 2013 23:09:23 GMT+0100 (BST)"
+  - image: "https://live.xbox.com/tiles/jW/+f/0YCLiGJhbC9FDQVNBEtYVAc2L2FjaC8wLzE3MQAAAADn5+f+sG+Q.jpg"
+    name: Zero Saints Thirty
+    description: "Completed &apos;Zero Saints Thirty&apos; and won the adulation of America."
+    score: 10
+    acquired: "2013-09-17"
+    slug: "saints-row-iv_zero-saints-thirty"
+    gameSlug: "saints-row-iv"
+    scraped: "Tue Sep 17 2013 23:09:23 GMT+0100 (BST)"
   - image: "https://live.xbox.com/tiles/sW/a4/14CLiGJhbC9HCBoEGlxTVmYyL2FjaC8wLzIzAAAAAOfn5-iXZq0=.jpg"
     name: Fed The Fish
     description: "You completed the mission &quot;Uncle Vlad&quot;."
@@ -162,22 +178,6 @@ latest:
     score: 10
     acquired: "2013-07-28"
     slug: "fable-ii_the-gambler"
-    gameSlug: "fable-ii"
-    scraped: "Tue Sep 10 2013 19:57:35 GMT+0100 (BST)"
-  - image: "https://live.xbox.com/tiles/ID/FQ/1YCLiGJhbC9FCBtUGltTVmYxL2FjaC8wLzIxAAAAAOfn5-p-MTw=.jpg"
-    name: The Illustrated Hero
-    description: Tattoos are forever. Just like this achievement.
-    score: 5
-    acquired: "2013-07-28"
-    slug: "fable-ii_the-illustrated-hero"
-    gameSlug: "fable-ii"
-    scraped: "Tue Sep 10 2013 19:57:35 GMT+0100 (BST)"
-  - image: "https://live.xbox.com/tiles/RD/ke/0ICLiGJhbC9HCRtUGltTVmYxL2FjaC8wLzMzAAAAAOfn5-8xOVg=.jpg"
-    name: The Teaser
-    description: "Bandits deserve having their minds messed with, and it&apos;s also jolly good fun!"
-    score: 5
-    acquired: "2013-07-28"
-    slug: "fable-ii_the-teaser"
     gameSlug: "fable-ii"
     scraped: "Tue Sep 10 2013 19:57:35 GMT+0100 (BST)"
 ---

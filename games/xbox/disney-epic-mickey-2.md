@@ -4,7 +4,7 @@ title: "Disney Epic Mickey 2: The Power of Two"
 showPage: true
 tagline: ""
 group: xboxgame
-weight: 104
+weight: 102
 game: 
   name: Disney Epic Mickey 2
   gameId: 1112934422
