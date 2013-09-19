@@ -3,23 +3,39 @@ layout: xbox
 title: Xbox Tracker
 tagline: "I play games, they are fun"
 group: games
-achievementcount: 1613
+achievementcount: 1615
 gamer: 
   gamertag: Lilmuckers
   avatar: 
     secure: "https://avatar-ssl.xboxlive.com/avatar/Lilmuckers/avatar-body.png"
     unsecure: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatar-body.png"
-  activity: Last seen 29 minutes ago playing Saints Row IV
+  activity: "Online playing Saints Row IV - Playing Single Player\nMission: The Real World"
   picture: 
     small: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatarpic-s.png"
     large: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatarpic-l.png"
-  score: 29870
+  score: 29890
   location: Londinium
   motto: "meritocracy!"
   bio: "ARGH! BEES!"
   profile: "http://live.xbox.com/en-GB/Profile?gamertag=lilmuckers"
 gamecount: 109
 latest: 
+  - image: "https://live.xbox.com/tiles/ss/d7/0YCLiGJhbC8XDAVNBEtYVAc2L2FjaC8wLzE2YwAAAADn5+f+VMev.jpg"
+    name: "Ooo A Piece of Candy!"
+    description: "Found 100 Data Clusters in virtual Steelport. There are so many more&hellip;"
+    score: 10
+    acquired: "2013-09-19"
+    slug: "saints-row-iv_ooo-a-piece-of-candy"
+    gameSlug: "saints-row-iv"
+    scraped: "Thu Sep 19 2013 22:45:14 GMT+0100 (BST)"
+  - image: "https://live.xbox.com/tiles/4h/zL/1oCLiGJhbC8QDwVNBEtYVAc2L2FjaC8wLzE1ZAAAAADn5+f55Bz-.jpg"
+    name: First of Many
+    description: "Bought your first Upgrade, now you have the action Kung Fu grip!"
+    score: 10
+    acquired: "2013-09-19"
+    slug: "saints-row-iv_first-of-many"
+    gameSlug: "saints-row-iv"
+    scraped: "Thu Sep 19 2013 22:45:14 GMT+0100 (BST)"
   - image: "https://live.xbox.com/tiles/DL/VA/0YCLiGJhbC9DDwVNBEtYVAc2L2FjaC8wLzE1NwAAAADn5+f+b7UR.jpg"
     name: "Don&apos;t Look Down"
     description: Airborne during Super Jumps for a combined 10 minutes of gameplay.
@@ -162,22 +178,6 @@ latest:
     score: 10
     acquired: "2013-07-28"
     slug: "fable-ii_the-property-magnate"
-    gameSlug: "fable-ii"
-    scraped: "Tue Sep 10 2013 19:57:35 GMT+0100 (BST)"
-  - image: "https://live.xbox.com/tiles/cO/rg/0oCLiGJhbC9CCxtUGltTVmYxL2FjaC8wLzE2AAAAAOfn5-3P6mw=.jpg"
-    name: The Goth
-    description: Everybody knows black is the coolest colour.
-    score: 5
-    acquired: "2013-07-28"
-    slug: "fable-ii_the-goth"
-    gameSlug: "fable-ii"
-    scraped: "Tue Sep 10 2013 19:57:35 GMT+0100 (BST)"
-  - image: "https://live.xbox.com/tiles/FI/1D/0YCLiGJhbC8RFQRLXVBRGGYxL2FjaC8wL2UAAAAA5+fn-myNDw==.jpg"
-    name: The Duellist
-    description: "You, or a friend, have mastered the chain attack. Lightning-quick strikes are almost unstoppable."
-    score: 10
-    acquired: "2013-07-28"
-    slug: "fable-ii_the-duellist"
     gameSlug: "fable-ii"
     scraped: "Tue Sep 10 2013 19:57:35 GMT+0100 (BST)"
 ---
