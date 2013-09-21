@@ -4,7 +4,7 @@ title: Saints Row IV
 showPage: true
 tagline: ""
 group: xboxgame
-weight: 108
+weight: 109
 game: 
   name: Saints Row IV
   gameId: 1263339510
@@ -13,11 +13,19 @@ game:
   boxart: 
     small: "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4d07f6/1033/boxartsm.jpg"
     large: "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4d07f6/1033/boxartlg.jpg"
-  lastPlayed: "2013-09-20"
+  lastPlayed: "2013-09-21"
   totalScore: 1000
-  score: 110
+  score: 130
   totalAchievements: 50
   achievements: 
+    - image: "https://live.xbox.com/tiles/XG/7w/1oCLiGJhbC9EDAVNBEtYVAc2L2FjaC8wLzE2MAAAAADn5+f5325B.jpg"
+      name: Ghost in the Machine
+      description: "Completed &apos;Power Up CID&apos; and hacked your own CID."
+      score: 20
+      acquired: "2013-09-21"
+      slug: "saints-row-iv_ghost-in-the-machine"
+      gameSlug: "saints-row-iv"
+      scraped: "Sat Sep 21 2013 22:21:08 GMT+0100 (BST)"
     - image: "https://live.xbox.com/tiles/Aq/Fn/0oCLiGJhbC9MDwVNBEtYVAc2L2FjaC8wLzE1OAAAAADn5+f9SKEf.jpg"
       name: "Don&apos;t Panic"
       description: "Completed &apos;The Real World&apos; and escaped the simulation. Now what?"

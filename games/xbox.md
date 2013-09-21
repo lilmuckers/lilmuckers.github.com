@@ -3,23 +3,31 @@ layout: xbox
 title: Xbox Tracker
 tagline: "I play games, they are fun"
 group: games
-achievementcount: 1617
+achievementcount: 1618
 gamer: 
   gamertag: Lilmuckers
   avatar: 
     secure: "https://avatar-ssl.xboxlive.com/avatar/Lilmuckers/avatar-body.png"
     unsecure: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatar-body.png"
-  activity: "Online playing Grand Theft Auto V - Repossession"
+  activity: Last seen 44 minutes ago playing Saints Row IV
   picture: 
     small: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatarpic-s.png"
     large: "http://avatar.xboxlive.com/avatar/Lilmuckers/avatarpic-l.png"
-  score: 29930
+  score: 29950
   location: Londinium
   motto: "meritocracy!"
   bio: "ARGH! BEES!"
   profile: "http://live.xbox.com/en-GB/Profile?gamertag=lilmuckers"
 gamecount: 110
 latest: 
+  - image: "https://live.xbox.com/tiles/XG/7w/1oCLiGJhbC9EDAVNBEtYVAc2L2FjaC8wLzE2MAAAAADn5+f5325B.jpg"
+    name: Ghost in the Machine
+    description: "Completed &apos;Power Up CID&apos; and hacked your own CID."
+    score: 20
+    acquired: "2013-09-21"
+    slug: "saints-row-iv_ghost-in-the-machine"
+    gameSlug: "saints-row-iv"
+    scraped: "Sat Sep 21 2013 22:21:08 GMT+0100 (BST)"
   - image: "https://live.xbox.com/tiles/HB/gN/0ICLiGJhbC9FFQUbXVdRF2E3L2FjaC8wLzEAAAAA5+fn-yIYBw==.jpg"
     name: Welcome to Los Santos
     description: "You repo&apos;d a car and raced it through the heart of a sun-soaked metropolis."
@@ -170,14 +178,6 @@ latest:
     score: 25
     acquired: "2013-07-29"
     slug: "fable-ii_the-hoarder"
-    gameSlug: "fable-ii"
-    scraped: "Tue Sep 10 2013 19:57:35 GMT+0100 (BST)"
-  - image: "https://live.xbox.com/tiles/Li/pc/1ICLiGJhbC9BCRtUGltTVmYxL2FjaC8wLzM1AAAAAOfn5-tzKjI=.jpg"
-    name: The Bibliophile
-    description: "You, or another Hero, have recovered the lost lore of Knothole Island."
-    score: 25
-    acquired: "2013-07-28"
-    slug: "fable-ii_the-bibliophile"
     gameSlug: "fable-ii"
     scraped: "Tue Sep 10 2013 19:57:35 GMT+0100 (BST)"
 ---
