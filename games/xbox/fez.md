@@ -22,98 +22,98 @@ game:
       name: Hexahedronaut
       description: "It won&rsquo;t forget."
       score: 25
-      acquired: "2013-05-05"
+      acquired: "2013-05-05T20:47:19.420Z"
       slug: fez_hexahedronaut
       gameSlug: fez
-      scraped: "Mon May 06 2013 11:12:14 GMT+0100 (BST)"
+      scraped: "Mon Sep 23 2013 18:22:22 GMT+0100 (BST)"
     - image: "https://live.xbox.com/tiles/Qf/GF/04CLiGJhbC9FFQUXXFJRFmMwL2FjaC8wLzEAAAAA5+fn-KrxWg==.jpg"
       name: Sum total
       description: "You don&rsquo;t have to go home, but you can&rsquo;t stay here. Okay, you can stay here."
       score: 40
-      acquired: "2013-05-05"
+      acquired: "2013-05-05T20:47:19.037Z"
       slug: "fez_sum-total"
       gameSlug: fez
-      scraped: "Mon May 06 2013 11:12:14 GMT+0100 (BST)"
+      scraped: "Mon Sep 23 2013 18:22:22 GMT+0100 (BST)"
     - image: "https://live.xbox.com/tiles/uB/on/1oCLiGJhbC9CFQUXXFJRFmMwL2FjaC8wLzYAAAAA5+fn+Qgaow==.jpg"
       name: Phrenologist
       description: The seat of knowledge is in the head.
       score: 10
-      acquired: "2013-05-05"
+      acquired: "2013-05-05T20:42:55.770Z"
       slug: fez_phrenologist
       gameSlug: fez
-      scraped: "Mon May 06 2013 11:12:14 GMT+0100 (BST)"
+      scraped: "Mon Sep 23 2013 18:22:22 GMT+0100 (BST)"
     - image: "https://live.xbox.com/tiles/Jf/bg/1ICLiGJhbC9MFQUXXFJRFmMwL2FjaC8wLzgAAAAA5+fn+8-2Pg==.jpg"
       name: A numbers game
       description: A cube for counting.
       score: 10
-      acquired: "2013-05-05"
+      acquired: "2013-05-05T20:15:14.053Z"
       slug: "fez_a-numbers-game"
       gameSlug: fez
-      scraped: "Sun May 05 2013 21:17:56 GMT+0100 (BST)"
+      scraped: "Mon Sep 23 2013 18:22:22 GMT+0100 (BST)"
     - image: "https://live.xbox.com/tiles/DR/MG/1ICLiGJhbC9BFQUXXFJRFmMwL2FjaC8wLzUAAAAA5+fn+ykTFg==.jpg"
       name: Haikus not epics
       description: An anthology of ZU knowledge.
       score: 10
-      acquired: "2013-05-05"
+      acquired: "2013-05-05T19:26:48.083Z"
       slug: "fez_haikus-not-epics"
       gameSlug: fez
-      scraped: "Sun May 05 2013 21:17:56 GMT+0100 (BST)"
+      scraped: "Mon Sep 23 2013 18:22:22 GMT+0100 (BST)"
     - image: "https://live.xbox.com/tiles/Gl/Ev/1oCLiGJhbC8VFQUXXFJRFmMwL2FjaC8wL2EAAAAA5+fn+QBRAQ==.jpg"
       name: Warp zone
       description: Like folding a sheet of paper.
       score: 15
-      acquired: "2013-05-05"
+      acquired: "2013-05-05T19:15:23.073Z"
       slug: "fez_warp-zone"
       gameSlug: fez
-      scraped: "Sun May 05 2013 21:17:56 GMT+0100 (BST)"
+      scraped: "Mon Sep 23 2013 18:22:22 GMT+0100 (BST)"
     - image: "https://live.xbox.com/tiles/Zw/BE/0ICLiGJhbC9HFQUXXFJRFmMwL2FjaC8wLzMAAAAA5+fn-2sAfA==.jpg"
       name: Kill screen
       description: Visited the Visitors.
       score: 25
-      acquired: "2013-05-05"
+      acquired: "2013-05-05T16:36:21.847Z"
       slug: "fez_kill-screen"
       gameSlug: fez
-      scraped: "Sun May 05 2013 18:12:54 GMT+0100 (BST)"
+      scraped: "Mon Sep 23 2013 18:22:22 GMT+0100 (BST)"
     - image: "https://live.xbox.com/tiles/r1/gO/1ICLiGJhbC8WFQUXXFJRFmMwL2FjaC8wL2IAAAAA5+fn+yFYtA==.jpg"
       name: Cryptographer
       description: There are patterns everywhere.
       score: 15
-      acquired: "2013-05-03"
+      acquired: "2013-05-03T21:24:02.470Z"
       slug: fez_cryptographer
       gameSlug: fez
-      scraped: "Fri May 03 2013 22:28:01 GMT+0100 (BST)"
+      scraped: "Mon Sep 23 2013 18:22:22 GMT+0100 (BST)"
     - image: "https://live.xbox.com/tiles/K+/LH/14CLiGJhbC9DFQUXXFJRFmMwL2FjaC8wLzcAAAAA5+fn+OjiMA==.jpg"
       name: Mightier than the sword
       description: A cube for writing.
       score: 10
-      acquired: "2013-05-03"
+      acquired: "2013-05-03T20:29:15.897Z"
       slug: "fez_mightier-than-the-sword"
       gameSlug: fez
-      scraped: "Fri May 03 2013 22:28:01 GMT+0100 (BST)"
+      scraped: "Mon Sep 23 2013 18:22:22 GMT+0100 (BST)"
     - image: "https://live.xbox.com/tiles/tg/4A/1YCLiGJhbC9NFQUXXFJRFmMwL2FjaC8wLzkAAAAA5+fn+i8OrQ==.jpg"
       name: Equal and opposite
       description: Negative space.
       score: 15
-      acquired: "2013-05-03"
+      acquired: "2013-05-03T17:35:18.423Z"
       slug: "fez_equal-and-opposite"
       gameSlug: fez
-      scraped: "Fri May 03 2013 19:27:58 GMT+0100 (BST)"
+      scraped: "Mon Sep 23 2013 18:22:22 GMT+0100 (BST)"
     - image: "https://live.xbox.com/tiles/PK/Du/1YCLiGJhbC8XFQUXXFJRFmMwL2FjaC8wL2MAAAAA5+fn+sGgJw==.jpg"
       name: Achievement unlocked
       description: Unlocking achieved.
       score: 15
-      acquired: "2013-05-03"
+      acquired: "2013-05-03T17:35:18.423Z"
       slug: "fez_achievement-unlocked"
       gameSlug: fez
-      scraped: "Fri May 03 2013 19:27:58 GMT+0100 (BST)"
+      scraped: "Mon Sep 23 2013 18:22:22 GMT+0100 (BST)"
     - image: "https://live.xbox.com/tiles/9P/ik/0YCLiGJhbC9GFQUXXFJRFmMwL2FjaC8wLzIAAAAA5+fn-ov47w==.jpg"
       name: Get a cube
       description: "Cube GET!"
       score: 10
-      acquired: "2013-04-24"
+      acquired: "2013-04-23T22:35:19.710Z"
       slug: "fez_get-a-cube"
       gameSlug: fez
-      scraped: "Wed Apr 24 2013 00:26:04 GMT+0100 (BST)"
+      scraped: "Mon Sep 23 2013 18:22:22 GMT+0100 (BST)"
   slug: fez
   title: Fez
   description: "Gomez is a 2D creature living in a 2D world. Or is he? When the existence of a  mysterious 3rd dimension is revealed to him, Gomez is sent out on a journey that will take him to the very end of time and space. Use your ability to navigate 3D structures from 4 distinct classic 2D perspectives. Explore a serene and beautiful open-ended world full of secrets, puzzles and hidden treasures. Unearth the mysteries of the past and discover the truth about reality and perception. Change your perspective and look at the world in a different way."
@@ -124,7 +124,7 @@ game:
   manual: null
   buy: 
     - link: "http://marketplace.xbox.com/en-GB/Product/Fez/66acd000-77fe-1000-9115-d802584109c0?purchase=1&amp;DownloadType=Game"
-      price: "800"
+      price: "&pound;6.99"
       description: Buy Game
     - link: "http://marketplace.xbox.com/en-GB/Product/Fez/66acd000-77fe-1000-9115-d802584109c0?purchase=1&amp;DownloadType=GameDemo"
       price: Free
@@ -138,5 +138,6 @@ game:
     - "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109c0/1033/screenlg5.jpg"
     - "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109c0/1033/screenlg6.jpg"
   video: null
+  unEncName: FEZ
 ---
 {% include JB/setup %}

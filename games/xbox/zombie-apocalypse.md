@@ -22,34 +22,34 @@ game:
       name: More the Merrier
       description: "Kill&nbsp;10 or more zombies at the same time in any game mode"
       score: 10
-      acquired: "2009-09-26"
+      acquired: "2009-09-26T19:52:22.910Z"
       slug: "zombie-apocalypse_more-the-merrier"
       gameSlug: "zombie-apocalypse"
-      scraped: "2013-04-02T23:44:36.189Z"
+      scraped: "Mon Sep 23 2013 18:43:29 GMT+0100 (BST)"
     - image: "https://live.xbox.com/tiles/9Y/++/1oCLiGJhbC8RFQUXXFJRFjYxL2FjaC8wL2UAAAAA5+fn+ZGP7g==.jpg"
       name: Tour of the City
       description: Complete each arena at least once in the same game in any game mode
       score: 15
-      acquired: "2009-09-26"
+      acquired: "2009-09-26T19:38:37.353Z"
       slug: "zombie-apocalypse_tour-of-the-city"
       gameSlug: "zombie-apocalypse"
-      scraped: "2013-04-02T23:44:36.189Z"
+      scraped: "Mon Sep 23 2013 18:43:29 GMT+0100 (BST)"
     - image: "https://live.xbox.com/tiles/uW/09/0YCLiGJhbC8VFQUXXFJRFjYxL2FjaC8wL2EAAAAA5+fn-hJtog==.jpg"
       name: Interior Decorator
       description: Kill 25 zombies in any game mode using environmental hazards
       score: 20
-      acquired: "2009-09-26"
+      acquired: "2009-09-26T19:25:22.827Z"
       slug: "zombie-apocalypse_interior-decorator"
       gameSlug: "zombie-apocalypse"
-      scraped: "2013-04-02T23:44:36.190Z"
+      scraped: "Mon Sep 23 2013 18:43:29 GMT+0100 (BST)"
     - image: "https://live.xbox.com/tiles/Gy/Y1/0YCLiGJhbC9CFQUXXFJRFjYxL2FjaC8wLzYAAAAA5+fn-homAA==.jpg"
       name: Environmental Awareness
       description: Kill a zombie using an environmental hazard in any game mode
       score: 5
-      acquired: "2009-09-26"
+      acquired: "2009-09-26T19:18:41.857Z"
       slug: "zombie-apocalypse_environmental-awareness"
       gameSlug: "zombie-apocalypse"
-      scraped: "2013-04-02T23:44:36.190Z"
+      scraped: "Mon Sep 23 2013 18:43:29 GMT+0100 (BST)"
   slug: "zombie-apocalypse"
   title: ZOMBIE APOCALYPSE
   description: "They are coming for your brains...time to Lock and Load. This game requires the Xbox 360 hard drive or the 512MB Memory Unit for storage. There are no refunds for this item. For more information, see www.xbox.com/live/accounts."
@@ -62,7 +62,7 @@ game:
   manual: null
   buy: 
     - link: "http://marketplace.xbox.com/en-GB/Product/ZOMBIE-APOCALYPSE/66acd000-77fe-1000-9115-d80258410961?purchase=1&amp;DownloadType=Game"
-      price: "800"
+      price: "&pound;6.99"
       description: Buy Game
     - link: "http://marketplace.xbox.com/en-GB/Product/ZOMBIE-APOCALYPSE/66acd000-77fe-1000-9115-d80258410961?purchase=1&amp;DownloadType=GameDemo"
       price: Free
@@ -75,5 +75,6 @@ game:
     - "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410961/1033/screenlg4.jpg"
     - "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410961/1033/screenlg5.jpg"
   video: null
+  unEncName: ZOMBIE APOCALYPSE
 ---
 {% include JB/setup %}

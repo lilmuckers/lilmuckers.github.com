@@ -22,66 +22,66 @@ game:
       name: Googly Eyes Pro
       description: Created 25 puppets
       score: 10
-      acquired: "2013-06-19"
+      acquired: "2013-06-19T19:31:59.603Z"
       slug: "googly-eyes_googly-eyes-pro"
       gameSlug: "googly-eyes"
-      scraped: "Wed Jun 19 2013 22:04:07 GMT+0100 (BST)"
+      scraped: "Mon Sep 23 2013 18:21:01 GMT+0100 (BST)"
     - image: "https://live.xbox.com/tiles/6F/Sy/0ICLiGJhbC9DFQUXXFtRFzE3L2FjaC8wLzcAAAAA5+fn-51U8w==.jpg"
       name: Staring is Caring
       description: Shared 10 times
       score: 10
-      acquired: "2013-06-19"
+      acquired: "2013-06-19T19:07:23.203Z"
       slug: "googly-eyes_staring-is-caring"
       gameSlug: "googly-eyes"
-      scraped: "Wed Jun 19 2013 22:04:07 GMT+0100 (BST)"
+      scraped: "Mon Sep 23 2013 18:21:01 GMT+0100 (BST)"
     - image: "https://live.xbox.com/tiles/e6/xS/0YCLiGJhbC9CFQUXXFtRFzE3L2FjaC8wLzYAAAAA5+fn-n2sYA==.jpg"
       name: Optometrist
       description: Tried every configuration of eyes
       score: 5
-      acquired: "2013-06-19"
+      acquired: "2013-06-19T18:57:30.803Z"
       slug: "googly-eyes_optometrist"
       gameSlug: "googly-eyes"
-      scraped: "Wed Jun 19 2013 22:04:07 GMT+0100 (BST)"
+      scraped: "Mon Sep 23 2013 18:21:01 GMT+0100 (BST)"
     - image: "https://live.xbox.com/tiles/zq/Vz/04CLiGJhbC9BFQUXXFtRFzE3L2FjaC8wLzUAAAAA5+fn-Fyl1Q==.jpg"
       name: Making Eye Contact
       description: Shared with a friend
       score: 5
-      acquired: "2013-06-19"
+      acquired: "2013-06-19T18:38:15.553Z"
       slug: "googly-eyes_making-eye-contact"
       gameSlug: "googly-eyes"
-      scraped: "Wed Jun 19 2013 19:42:58 GMT+0100 (BST)"
+      scraped: "Mon Sep 23 2013 18:21:01 GMT+0100 (BST)"
     - image: "https://live.xbox.com/tiles/pL/Yx/14CLiGJhbC9HFQUXXFtRFzE3L2FjaC8wLzMAAAAA5+fn+B62vw==.jpg"
       name: I Only Have Eyes for You
       description: Shared with KinectShare.com
       score: 5
-      acquired: "2013-06-19"
+      acquired: "2013-06-19T18:38:15.253Z"
       slug: "googly-eyes_i-only-have-eyes-for-you"
       gameSlug: "googly-eyes"
-      scraped: "Wed Jun 19 2013 19:42:58 GMT+0100 (BST)"
+      scraped: "Mon Sep 23 2013 18:21:01 GMT+0100 (BST)"
     - image: "https://live.xbox.com/tiles/XV/2T/0oCLiGJhbC9AFQUXXFtRFzE3L2FjaC8wLzQAAAAA5+fn-bxdRg==.jpg"
       name: "Lights, Camera, Action!"
       description: Acted out a scene
       score: 5
-      acquired: "2013-06-19"
+      acquired: "2013-06-19T18:36:52.270Z"
       slug: "googly-eyes_lights-camera-action"
       gameSlug: "googly-eyes"
-      scraped: "Wed Jun 19 2013 19:42:58 GMT+0100 (BST)"
+      scraped: "Mon Sep 23 2013 18:21:01 GMT+0100 (BST)"
     - image: "https://live.xbox.com/tiles/gk/fw/1ICLiGJhbC9FFQUXXFtRFzE3L2FjaC8wLzEAAAAA5+fn+99HmQ==.jpg"
       name: "Feelin&apos; Queasy"
       description: Bounced googly eyes for 20 seconds
       score: 5
-      acquired: "2013-06-19"
+      acquired: "2013-06-19T18:35:37.470Z"
       slug: "googly-eyes_feelin-queasy"
       gameSlug: "googly-eyes"
-      scraped: "Wed Jun 19 2013 19:42:58 GMT+0100 (BST)"
+      scraped: "Mon Sep 23 2013 18:21:01 GMT+0100 (BST)"
     - image: "https://live.xbox.com/tiles/5k/CV/04CLiGJhbC9MFQUXXFtRFzE3L2FjaC8wLzgAAAAA5+fn-LpA-Q==.jpg"
       name: "You Lookin&apos; at Me?"
       description: Created a puppet
       score: 5
-      acquired: "2011-06-26"
+      acquired: "2011-06-26T10:17:40.667Z"
       slug: "googly-eyes_you-lookin-at-me"
       gameSlug: "googly-eyes"
-      scraped: "2013-04-02T23:33:42.064Z"
+      scraped: "Mon Sep 23 2013 18:21:01 GMT+0100 (BST)"
   slug: "googly-eyes"
   title: Kinect Googly Eyes
   description: "Create your own puppet show! Scan in your stuff, place googly eyes on it and bring it to life with your movement and voice. Create a special post for your favorite social network site or just goof off for the family!"

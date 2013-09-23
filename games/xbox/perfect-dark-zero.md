@@ -52,5 +52,6 @@ game:
     - "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5307d3/1033/screenlg13.jpg"
     - "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5307d3/1033/screenlg14.jpg"
   video: null
+  unEncName: Perfect Dark Zero
 ---
 {% include JB/setup %}

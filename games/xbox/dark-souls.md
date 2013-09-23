@@ -22,26 +22,26 @@ game:
       name: Reach Lordran
       description: Arrive in Lordran.
       score: 15
-      acquired: "2013-03-17"
+      acquired: "2013-03-17T17:17:27.870Z"
       slug: "dark-souls_reach-lordran"
       gameSlug: "dark-souls"
-      scraped: "2013-04-06T15:19:31.712Z"
+      scraped: "Mon Sep 23 2013 18:23:40 GMT+0100 (BST)"
     - image: "https://live.xbox.com/tiles/v0/s7/1YCLiGJhbC8SDRtVGwxTWTNhL2FjaC8wLzdmAAAAAOfn5-oUS6M=.jpg"
       name: Estus Flask
       description: Acquire Estus Flask.
       score: 15
-      acquired: "2013-03-17"
+      acquired: "2013-03-17T16:50:32.707Z"
       slug: "dark-souls_estus-flask"
       gameSlug: "dark-souls"
-      scraped: "2013-04-02T23:11:04.120Z"
+      scraped: "Mon Sep 23 2013 18:23:40 GMT+0100 (BST)"
     - image: "https://live.xbox.com/tiles/Ck/Ia/14CLiGJhbC8RDRtVGwxTWTNhL2FjaC8wLzdlAAAAAOfn5-g1QhY=.jpg"
       name: Enkindle
       description: Light bonfire flame.
       score: 15
-      acquired: "2013-03-17"
+      acquired: "2013-03-17T16:41:18.107Z"
       slug: "dark-souls_enkindle"
       gameSlug: "dark-souls"
-      scraped: "2013-04-02T23:11:04.120Z"
+      scraped: "Mon Sep 23 2013 18:23:40 GMT+0100 (BST)"
   slug: "dark-souls"
   title: "Dark Souls&trade;"
   description: "The Games on Demand version supports English, French, Italian, German, Spanish.  Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting &ldquo;See Game Manual&quot;.  Dark Souls is an action RPG (role playing game) set in a rich, dark fantasy universe. Tense dungeon crawling, fearsome enemy encounters and groundbreaking online features combine for a truly unique RPG experience. Dark Souls breaks down barriers with a seamless world design that encourages exploration and fosters an adaptable gameplay experience. The unerring foundation of challenge and reward will engulf you and offer an unparalleled sense of achievement."
@@ -71,5 +71,6 @@ game:
     - "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d083a/1033/screenlg11.jpg"
     - "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d083a/1033/screenlg12.jpg"
   video: null
+  unEncName: DARK SOULS
 ---
 {% include JB/setup %}

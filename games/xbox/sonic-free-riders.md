@@ -25,7 +25,7 @@ game:
       acquired: null
       slug: "sonic-free-riders_welcome-license"
       gameSlug: "sonic-free-riders"
-      scraped: "2013-04-02T23:31:12.787Z"
+      scraped: "Mon Sep 23 2013 18:18:08 GMT+0100 (BST)"
   slug: "sonic-free-riders"
   title: SONIC FREE RIDERS
   description: "This game requires a Kinect&trade; Sensor. Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting &ldquo;See Game Manual&quot;.   Sonic is speeding onto Kinect&trade; for Xbox 360  in an action-packed experience unlike any other! Become your favourite character as you jump on your board and get ready to compete in exhilarating, adrenaline-fueled races against tough competition. For the first time use full-motion body control to twist and turn your way through a range of visually stunning courses. Hi &ndash;octane fun for &lsquo;riders&rsquo; of all ages, Sonic Free Riders brings extreme lightning-paced boarding action in a main event you won&rsquo;t want to miss!"
@@ -57,5 +57,6 @@ game:
     - "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025345084d/1033/screenlg16.jpg"
     - "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025345084d/1033/screenlg18.jpg"
   video: null
+  unEncName: SONIC FREE RIDERS
 ---
 {% include JB/setup %}

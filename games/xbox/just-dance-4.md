@@ -28,7 +28,7 @@ game:
   manual: "http://download.xbox.com/content/555308b5/0/PPS_CMYK_JD4_360_manual_UK_graphicstudio_CMYK.pdf"
   buy: 
     - link: "http://marketplace.xbox.com/en-GB/Product/Just-Dance-4/66acd000-77fe-1000-9115-d802555308b5?downloadtype=Game&amp;nosplash=1&amp;purchase=1"
-      price: "&pound;34.99"
+      price: "&pound;24.99"
       description: Buy Game
     - link: "http://marketplace.xbox.com/en-GB/Product/Just-Dance-4/66acd000-77fe-1000-9115-d802555308b5?downloadtype=GameDemo&amp;nosplash=1&amp;purchase=1"
       price: Free
@@ -40,5 +40,6 @@ game:
     - "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308b5/1033/screenlg3.jpg"
     - "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308b5/1033/screenlg4.jpg"
   video: null
+  unEncName: Just Dance 4
 ---
 {% include JB/setup %}

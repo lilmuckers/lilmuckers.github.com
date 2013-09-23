@@ -22,162 +22,162 @@ game:
       name: On A Rail
       description: Travel by minecart to a point at least 500m in a single direction from where you started.
       score: 40
-      acquired: "2012-05-13"
+      acquired: "2012-05-13T20:21:15.513Z"
       slug: "minecraft_on-a-rail"
       gameSlug: minecraft
-      scraped: "2013-04-02T23:20:19.810Z"
+      scraped: "Mon Sep 23 2013 18:27:35 GMT+0100 (BST)"
     - image: "https://live.xbox.com/tiles/e7/9J/1oCLiGJhbC9CDhoIG1lSUGY3L2FjaC8wLzQ2AAAAAOfn5-lmv2c=.jpg"
       name: Leader Of The Pack
       description: Befriend five wolves.
       score: 30
-      acquired: "2012-05-13"
+      acquired: "2012-05-13T15:11:01.483Z"
       slug: "minecraft_leader-of-the-pack"
       gameSlug: minecraft
-      scraped: "2013-04-02T23:20:19.810Z"
+      scraped: "Mon Sep 23 2013 18:27:35 GMT+0100 (BST)"
     - image: "https://live.xbox.com/tiles/w-/-y/0oCLiGJhbC8VFQUXXFJQHmY3L2FjaC8wL2EAAAAA5+fn-d3-2A==.jpg"
       name: When Pigs Fly
       description: "Use a saddle to ride a pig, then have the pig get hurt from fall damage while riding it."
       score: 40
-      acquired: "2012-05-13"
+      acquired: "2012-05-13T12:58:26.173Z"
       slug: "minecraft_when-pigs-fly"
       gameSlug: minecraft
-      scraped: "2013-04-02T23:20:19.810Z"
+      scraped: "Mon Sep 23 2013 18:27:35 GMT+0100 (BST)"
     - image: "https://live.xbox.com/tiles/5l/OO/1ICLiGJhbC9MDhoIG1lSUGY3L2FjaC8wLzQ4AAAAAOfn5-uhU-o=.jpg"
       name: Dispense With This
       description: Construct a Dispenser.
       score: 20
-      acquired: "2012-05-13"
+      acquired: "2012-05-13T12:20:19.753Z"
       slug: "minecraft_dispense-with-this"
       gameSlug: minecraft
-      scraped: "2013-04-02T23:20:19.810Z"
+      scraped: "Mon Sep 23 2013 18:27:35 GMT+0100 (BST)"
     - image: "https://live.xbox.com/tiles/da/tu/1YCLiGJhbC9NDhoIG1lSUGY3L2FjaC8wLzQ5AAAAAOfn5-pBq2k=.jpg"
       name: Into The Nether
       description: Construct a Nether Portal.
       score: 40
-      acquired: "2012-05-13"
+      acquired: "2012-05-13T12:02:24.340Z"
       slug: "minecraft_into-the-nether"
       gameSlug: minecraft
-      scraped: "2013-04-02T23:20:19.810Z"
+      scraped: "Mon Sep 23 2013 18:27:35 GMT+0100 (BST)"
     - image: "https://live.xbox.com/tiles/1L/3b/0ICLiGJhbC9BFQUXXFJQHmY3L2FjaC8wLzUAAAAA5+fn--S9zw==.jpg"
       name: Bake Bread
       description: Turn wheat into bread.
       score: 20
-      acquired: "2012-05-11"
+      acquired: "2012-05-11T12:36:34.987Z"
       slug: "minecraft_bake-bread"
       gameSlug: minecraft
-      scraped: "2013-04-02T23:20:19.810Z"
+      scraped: "Mon Sep 23 2013 18:27:35 GMT+0100 (BST)"
     - image: "https://live.xbox.com/tiles/Yb/T6/0oCLiGJhbC9CFQUXXFJQHmY3L2FjaC8wLzYAAAAA5+fn-dW0eg==.jpg"
       name: The Lie
       description: "Bake a cake using wheat, sugar, milk and eggs!"
       score: 40
-      acquired: "2012-05-11"
+      acquired: "2012-05-10T23:26:36.953Z"
       slug: "minecraft_the-lie"
       gameSlug: minecraft
-      scraped: "2013-04-02T23:20:19.811Z"
+      scraped: "Mon Sep 23 2013 18:27:35 GMT+0100 (BST)"
     - image: "https://live.xbox.com/tiles/hY/5p/04CLiGJhbC8RCRoIG1lSUGY3L2FjaC8wLzNlAAAAAOfn5-xGjpk=.jpg"
       name: Delicious Fish
       description: "Catch and cook a fish!"
       score: 15
-      acquired: "2012-05-11"
+      acquired: "2012-05-10T22:52:31.557Z"
       slug: "minecraft_delicious-fish"
       gameSlug: minecraft
-      scraped: "2013-04-02T23:20:19.811Z"
+      scraped: "Mon Sep 23 2013 18:27:35 GMT+0100 (BST)"
     - image: "https://live.xbox.com/tiles/8k/wa/04CLiGJhbC9DFQUXXFJQHmY3L2FjaC8wLzcAAAAA5+fn-DVM6Q==.jpg"
       name: "Time to Strike!"
       description: Use planks and sticks to make a sword.
       score: 10
-      acquired: "2012-05-10"
+      acquired: "2012-05-10T19:57:46.330Z"
       slug: "minecraft_time-to-strike"
       gameSlug: minecraft
-      scraped: "2013-04-02T23:20:19.811Z"
+      scraped: "Mon Sep 23 2013 18:27:35 GMT+0100 (BST)"
     - image: "https://live.xbox.com/tiles/R0/U7/0YCLiGJhbC9AFQUXXFJQHmY3L2FjaC8wLzQAAAAA5+fn-hRFXA==.jpg"
       name: "Time to Farm!"
       description: Use planks and sticks to make a hoe.
       score: 10
-      acquired: "2012-05-10"
+      acquired: "2012-05-10T19:57:40.063Z"
       slug: "minecraft_time-to-farm"
       gameSlug: minecraft
-      scraped: "2013-04-02T23:20:19.811Z"
+      scraped: "Mon Sep 23 2013 18:27:35 GMT+0100 (BST)"
     - image: "https://live.xbox.com/tiles/MI/dI/0YCLiGJhbC8SCRoIG1lSUGY3L2FjaC8wLzNmAAAAAOfn5-5nhyw=.jpg"
       name: Acquire Hardware
       description: Smelt an iron ingot.
       score: 15
-      acquired: "2012-05-10"
+      acquired: "2012-05-10T19:26:05.033Z"
       slug: "minecraft_acquire-hardware"
       gameSlug: minecraft
-      scraped: "2013-04-02T23:20:19.811Z"
+      scraped: "Mon Sep 23 2013 18:27:35 GMT+0100 (BST)"
     - image: "https://live.xbox.com/tiles/-F/g9/0ICLiGJhbC9MFQUXXFJQHmY3L2FjaC8wLzgAAAAA5+fn-xJY5w==.jpg"
       name: Monster Hunter
       description: Attack and destroy a monster.
       score: 20
-      acquired: "2012-05-10"
+      acquired: "2012-05-10T18:57:44.990Z"
       slug: "minecraft_monster-hunter"
       gameSlug: minecraft
-      scraped: "2013-04-02T23:20:19.811Z"
+      scraped: "Mon Sep 23 2013 18:27:35 GMT+0100 (BST)"
     - image: "https://live.xbox.com/tiles/6E/ep/14CLiGJhbC9DDhoIG1lSUGY3L2FjaC8wLzQ3AAAAAOfn5-iGR-Q=.jpg"
       name: MOAR Tools
       description: "Construct one type of each tool (one pickaxe, one spade, one axe and one hoe)."
       score: 15
-      acquired: "2012-05-10"
+      acquired: "2012-05-10T18:53:14.987Z"
       slug: "minecraft_moar-tools"
       gameSlug: minecraft
-      scraped: "2013-04-02T23:20:19.811Z"
+      scraped: "Mon Sep 23 2013 18:27:35 GMT+0100 (BST)"
     - image: "https://live.xbox.com/tiles/5Q/4z/0YCLiGJhbC8XFQUXXFJQHmY3L2FjaC8wL2MAAAAA5+fn-hwO-g==.jpg"
       name: Getting an Upgrade
       description: Construct a better pickaxe.
       score: 15
-      acquired: "2012-05-10"
+      acquired: "2012-05-10T18:53:00.103Z"
       slug: "minecraft_getting-an-upgrade"
       gameSlug: minecraft
-      scraped: "2013-04-02T23:20:19.811Z"
+      scraped: "Mon Sep 23 2013 18:27:35 GMT+0100 (BST)"
     - image: "https://live.xbox.com/tiles/b6/Dd/0YCLiGJhbC9NFQUXXFJQHmY3L2FjaC8wLzkAAAAA5+fn-vKgdA==.jpg"
       name: Cow Tipper
       description: Harvest some leather.
       score: 15
-      acquired: "2012-05-10"
+      acquired: "2012-05-10T18:22:59.970Z"
       slug: "minecraft_cow-tipper"
       gameSlug: minecraft
-      scraped: "2013-04-02T23:20:19.811Z"
+      scraped: "Mon Sep 23 2013 18:27:35 GMT+0100 (BST)"
     - image: "https://live.xbox.com/tiles/Fn/aJ/0oCLiGJhbC8QCRoIG1lSUGY3L2FjaC8wLzNkAAAAAOfn5-2mdgo=.jpg"
       name: Hot Topic
       description: Construct a furnace out of eight cobblestone blocks.
       score: 15
-      acquired: "2012-05-10"
+      acquired: "2012-05-10T18:10:09.983Z"
       slug: "minecraft_hot-topic"
       gameSlug: minecraft
-      scraped: "2013-04-02T23:20:19.811Z"
+      scraped: "Mon Sep 23 2013 18:27:35 GMT+0100 (BST)"
     - image: "https://live.xbox.com/tiles/dv/bT/0ICLiGJhbC8WFQUXXFJQHmY3L2FjaC8wL2IAAAAA5+fn--z2bQ==.jpg"
       name: "Time to Mine!"
       description: Use planks and sticks to make a pickaxe.
       score: 10
-      acquired: "2012-05-10"
+      acquired: "2012-05-10T18:08:20.147Z"
       slug: "minecraft_time-to-mine"
       gameSlug: minecraft
-      scraped: "2013-04-02T23:20:19.811Z"
+      scraped: "Mon Sep 23 2013 18:27:35 GMT+0100 (BST)"
     - image: "https://live.xbox.com/tiles/vq/6Z/1ICLiGJhbC9HFQUXXFJQHmY3L2FjaC8wLzMAAAAA5+fn+7aupQ==.jpg"
       name: Benchmarking
       description: Craft a workbench with four blocks of wooden planks.
       score: 10
-      acquired: "2012-05-10"
+      acquired: "2012-05-10T18:07:15.063Z"
       slug: minecraft_benchmarking
       gameSlug: minecraft
-      scraped: "2013-04-02T23:20:19.811Z"
+      scraped: "Mon Sep 23 2013 18:27:35 GMT+0100 (BST)"
     - image: "https://live.xbox.com/tiles/mF/9Y/14CLiGJhbC9FFQUXXFJQHmY3L2FjaC8wLzEAAAAA5+fn+Hdfgw==.jpg"
       name: Taking Inventory
       description: Open your inventory.
       score: 10
-      acquired: "2012-05-10"
+      acquired: "2012-05-10T18:04:10.243Z"
       slug: "minecraft_taking-inventory"
       gameSlug: minecraft
-      scraped: "2013-04-02T23:20:19.811Z"
+      scraped: "Mon Sep 23 2013 18:27:35 GMT+0100 (BST)"
     - image: "https://live.xbox.com/tiles/LV/Z5/1YCLiGJhbC9GFQUXXFJQHmY3L2FjaC8wLzIAAAAA5+fn+lZWNg==.jpg"
       name: Getting Wood
       description: Punch a tree until the block of wood pops out.
       score: 10
-      acquired: "2012-05-10"
+      acquired: "2012-05-10T18:03:20.100Z"
       slug: "minecraft_getting-wood"
       gameSlug: minecraft
-      scraped: "2013-04-02T23:20:19.811Z"
+      scraped: "Mon Sep 23 2013 18:27:35 GMT+0100 (BST)"
   slug: minecraft
   title: "Minecraft: Xbox 360 Edition"
   description: "Imagine it, build it! Minecraft: Xbox 360 Edition lets you create worlds from the comfort of your sofa. Play alone or play with your friends. Explore, build and conquer! At night monsters come out, so make sure to build a shelter before that happens. After that, your world is your imagination. Turn your hours into minutes with Minecraft!  To experience split-screen functionality a high-definition television is required."
@@ -192,7 +192,7 @@ game:
   manual: null
   buy: 
     - link: "http://marketplace.xbox.com/en-GB/Product/Minecraft/66acd000-77fe-1000-9115-d802584111f7?downloadtype=Game&amp;nosplash=1&amp;purchase=1"
-      price: "1,600"
+      price: "&pound;13.49"
       description: Buy Game
     - link: "http://marketplace.xbox.com/en-GB/Product/Minecraft/66acd000-77fe-1000-9115-d802584111f7?downloadtype=GameDemo&amp;nosplash=1&amp;purchase=1"
       price: Free
@@ -214,5 +214,6 @@ game:
     - "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111f7/1033/screenlg13.jpg"
     - "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111f7/1033/screenlg14.jpg"
   video: null
+  unEncName: Minecraft
 ---
 {% include JB/setup %}

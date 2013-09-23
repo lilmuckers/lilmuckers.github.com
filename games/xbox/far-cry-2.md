@@ -22,18 +22,18 @@ game:
       name: Making friends
       description: Saved a Buddy from captivity
       score: 10
-      acquired: "2009-09-17"
+      acquired: "2009-09-17T21:52:43.653Z"
       slug: "far-cry-2_making-friends"
       gameSlug: "far-cry-2"
-      scraped: "2013-04-02T23:46:34.808Z"
+      scraped: "Mon Sep 23 2013 18:44:55 GMT+0100 (BST)"
     - image: "https://live.xbox.com/tiles/PT/DJ/14CLiGJhbC9NCBoFGltTWTEwL2FjaC8wLzI5AAAAAOfn5-jmMCE=.jpg"
       name: On the run
       description: Escaped the Town
       score: 10
-      acquired: "2009-09-17"
+      acquired: "2009-09-17T21:36:46.647Z"
       slug: "far-cry-2_on-the-run"
       gameSlug: "far-cry-2"
-      scraped: "2013-04-02T23:46:34.808Z"
+      scraped: "Mon Sep 23 2013 18:44:55 GMT+0100 (BST)"
   slug: "far-cry-2"
   title: "Far Cry&reg; 2"
   description: "This game supports English, French, Italian, German, and Spanish. Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting &ldquo;See Game Manual&quot;. Far Cry&reg; 2 is a true open-world FPS where every decision you make affects the outcome of the game. The first sequel to the award-winning franchise takes you to one of the most beautiful and hostile environments in the world - AFRICA. You are a gun for hire, trapped in a war-torn African state, stricken with malaria and forced to make deals with corrupt warlords. Your mission is to hunt down and kill The Jackal. This evil arms dealer has been perpetuating this conflict for years, wreaking havoc on the land an all of its innocent people. Run, swim, drive, fly, shoot, fight and smash your way through over 50km&sup2; of open world. Beware though, sometimes the hunter can become the hunted. There are no refunds for this item. For more information, see www.xbox.com/live/accounts."
@@ -44,7 +44,7 @@ game:
   manual: null
   buy: 
     - link: "http://marketplace.xbox.com/en-GB/Product/Far-Cry-2/66acd000-77fe-1000-9115-d80255530810?purchase=1&amp;DownloadType=Game"
-      price: "&pound;11.99"
+      price: "&pound;8.99"
       description: Buy Game
   banner: "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530810/1033/banner.png"
   images: 
@@ -65,5 +65,6 @@ game:
     - "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530810/7177/screenlg15.jpg"
     - "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530810/7177/screenlg16.jpg"
   video: null
+  unEncName: Far Cry® 2
 ---
 {% include JB/setup %}

@@ -22,10 +22,10 @@ game:
       name: American Hero
       description: Finished the USA Levels
       score: 20
-      acquired: "2013-07-06"
+      acquired: "2013-07-06T21:36:38.687Z"
       slug: "doritos-crash-course_american-hero"
       gameSlug: "doritos-crash-course"
-      scraped: "Sat Jul 06 2013 22:59:07 GMT+0100 (BST)"
+      scraped: "Mon Sep 23 2013 18:17:37 GMT+0100 (BST)"
   slug: "doritos-crash-course"
   title: Doritos Crash Course
   description: "Doritos Crash Course is a fast-paced, funny, obstacle course game show for your Avatar to compete  against your friends and family over XboxLive.  Play through 15 exciting platformer levels across 3 different countries.   Compete against your friends and family up to four players over Xbox LIVE and local split-screen."

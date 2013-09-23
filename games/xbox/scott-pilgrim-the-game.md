@@ -28,7 +28,7 @@ game:
   manual: null
   buy: 
     - link: "http://marketplace.xbox.com/en-GB/Product/SCOTT-PILGRIM-THE-GAME/66acd000-77fe-1000-9115-d80258410a2c?purchase=1&amp;DownloadType=Game"
-      price: "800"
+      price: "&pound;6.99"
       description: Buy Game
     - link: "http://marketplace.xbox.com/en-GB/Product/SCOTT-PILGRIM-THE-GAME/66acd000-77fe-1000-9115-d80258410a2c?purchase=1&amp;DownloadType=GameDemo"
       price: Free
@@ -51,5 +51,6 @@ game:
     - "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a2c/1033/screenlg14.jpg"
     - "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a2c/1033/screenlg15.jpg"
   video: null
+  unEncName: SCOTT PILGRIM THE GAME
 ---
 {% include JB/setup %}

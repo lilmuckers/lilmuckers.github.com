@@ -22,34 +22,34 @@ game:
       name: Farm Boy
       description: Scored a Farm supplying 4+ Cities in Single Player
       score: 10
-      acquired: "2013-03-03"
+      acquired: "2013-03-02T23:45:41.177Z"
       slug: "carcassonne_farm-boy"
       gameSlug: carcassonne
-      scraped: "2013-04-02T23:12:16.112Z"
+      scraped: "Mon Sep 23 2013 18:24:32 GMT+0100 (BST)"
     - image: "https://live.xbox.com/tiles/7B/y2/1YCLiGJhbC9AFQUXXFJRFzQwL2FjaC8wLzQAAAAA5+fn+pkc9w==.jpg"
       name: Rack Up The Points
       description: Scored 50+ points in Single Player
       score: 10
-      acquired: "2013-03-03"
+      acquired: "2013-03-02T23:45:41.177Z"
       slug: "carcassonne_rack-up-the-points"
       gameSlug: carcassonne
-      scraped: "2013-04-02T23:12:16.112Z"
+      scraped: "Mon Sep 23 2013 18:24:32 GMT+0100 (BST)"
     - image: "https://live.xbox.com/tiles/Mw/bV/04CLiGJhbC9FFQUXXFJRFzQwL2FjaC8wLzEAAAAA5+fn-PoGKA==.jpg"
       name: Big City
       description: Scored a City with 3+ tiles in Single Player
       score: 5
-      acquired: "2013-03-03"
+      acquired: "2013-03-02T23:43:46.050Z"
       slug: "carcassonne_big-city"
       gameSlug: carcassonne
-      scraped: "2013-04-02T23:12:16.112Z"
+      scraped: "Mon Sep 23 2013 18:24:32 GMT+0100 (BST)"
     - image: "https://live.xbox.com/tiles/hg/-0/0YCLiGJhbC9GFQUXXFJRFzQwL2FjaC8wLzIAAAAA5+fn-tsPnQ==.jpg"
       name: King of the Road
       description: Scored a road with 5+ tiles in Single Player
       score: 5
-      acquired: "2013-03-03"
+      acquired: "2013-03-02T23:38:56.480Z"
       slug: "carcassonne_king-of-the-road"
       gameSlug: carcassonne
-      scraped: "2013-04-02T23:12:16.112Z"
+      scraped: "Mon Sep 23 2013 18:24:32 GMT+0100 (BST)"
   slug: carcassonne
   title: Carcassonne
   description: "Single Player, Xbox LIVE Multiplayer 2-5, Local Multiplayer 1-4, HD (High Definition). Buy Carcassonne today and become a master of medieval strategy.  Own a fully featured version of the board game classic and fulfill the need for challenge any time you want, or play socially, with up to five players on Xbox LIVE, or up to four players on just one Xbox 360.  Multiple levels of difficulty offer a challenging experience for players of all ages and levels of experience. There are no refunds for this item. For more information, see www.xbox.com/Live/accounts."
@@ -60,7 +60,7 @@ game:
   manual: null
   buy: 
     - link: "http://marketplace.xbox.com/en-GB/Product/Carcassonne/66acd000-77fe-1000-9115-d80258410840?purchase=1&amp;DownloadType=Game"
-      price: "800"
+      price: "&pound;6.99"
       description: Buy Game
     - link: "http://marketplace.xbox.com/en-GB/Product/Carcassonne/66acd000-77fe-1000-9115-d80258410840?purchase=1&amp;DownloadType=GameDemo"
       price: Free
@@ -76,5 +76,6 @@ game:
     - "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410840/1033/screenlg7.jpg"
     - "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410840/1033/screenlg8.jpg"
   video: null
+  unEncName: Carcassonne
 ---
 {% include JB/setup %}

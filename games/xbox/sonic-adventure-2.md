@@ -22,10 +22,10 @@ game:
       name: Hello World
       description: "Hello, rookie, welcome to the Sonic World!"
       score: 20
-      acquired: "2012-12-06"
+      acquired: "2012-12-06T22:17:02.693Z"
       slug: "sonic-adventure-2_hello-world"
       gameSlug: "sonic-adventure-2"
-      scraped: "2013-04-02T23:19:17.191Z"
+      scraped: "Mon Sep 23 2013 18:26:51 GMT+0100 (BST)"
   slug: "sonic-adventure-2"
   title: "Sonic Adventure&trade; 2"
   description: "In the fight between heroes and villains, will you choose to save the world or conquer it?  The hunt for the Chaos Emeralds is on and battle lines have been drawn between Hero and Dark. Experience two unique adventures featuring both long-time heroes and new and returning villains as they battle for the fate of the world!   Sonic Adventure&trade; 2 makes its return on Xbox LIVE Arcade with a full cast of playable heroes and villains, exciting two-player competitive modes, Chao Gardens, and more than 30 action-packed stages, all remastered in HD!"
@@ -38,7 +38,7 @@ game:
   manual: null
   buy: 
     - link: "http://marketplace.xbox.com/en-GB/Product/Sonic-Adventure-2/66acd000-77fe-1000-9115-d80258411202?purchase=1&amp;DownloadType=Game"
-      price: "800"
+      price: "&pound;6.99"
       description: Buy Game
     - link: "http://marketplace.xbox.com/en-GB/Product/Sonic-Adventure-2/66acd000-77fe-1000-9115-d80258411202?purchase=1&amp;DownloadType=GameDemo"
       price: Free
@@ -56,5 +56,6 @@ game:
     - "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411202/1033/screenlg9.jpg"
     - "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411202/1033/screenlg10.jpg"
   video: null
+  unEncName: Sonic Adventure 2
 ---
 {% include JB/setup %}

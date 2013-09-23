@@ -22,58 +22,58 @@ game:
       name: Super Sonic
       description: You cleared all characters stories.
       score: 20
-      acquired: "2010-12-18"
+      acquired: "2010-12-18T22:00:49.447Z"
       slug: "sonic-adventure_super-sonic"
       gameSlug: "sonic-adventure"
-      scraped: "2013-04-02T23:37:41.893Z"
+      scraped: "Mon Sep 23 2013 18:41:14 GMT+0100 (BST)"
     - image: "https://live.xbox.com/tiles/Mg/hx/1YCLiGJhbC9CFQUXXFJRTjI1L2FjaC8wLzYAAAAA5+fn+l4IKQ==.jpg"
       name: Sonic the Hedgehog
       description: You cleared the Sonic story.
       score: 10
-      acquired: "2010-12-17"
+      acquired: "2010-12-17T21:54:12.077Z"
       slug: "sonic-adventure_sonic-the-hedgehog"
       gameSlug: "sonic-adventure"
-      scraped: "2013-04-02T23:37:41.893Z"
+      scraped: "Mon Sep 23 2013 18:41:14 GMT+0100 (BST)"
     - image: "https://live.xbox.com/tiles/hw/FQ/14CLiGJhbC9BFQUXXFJRTjI1L2FjaC8wLzUAAAAA5+fn+H8BnA==.jpg"
       name: Big the Cat
       description: Big is your friend now.
       score: 10
-      acquired: "2010-12-17"
+      acquired: "2010-12-17T21:29:34.587Z"
       slug: "sonic-adventure_big-the-cat"
       gameSlug: "sonic-adventure"
-      scraped: "2013-04-02T23:37:41.893Z"
+      scraped: "Mon Sep 23 2013 18:41:14 GMT+0100 (BST)"
     - image: "https://live.xbox.com/tiles/FP/mw/1oCLiGJhbC9AFQUXXFJRTjI1L2FjaC8wLzQAAAAA5+fn+Z-5Dw==.jpg"
       name: "E-102 &quot;&gamma;&quot;"
       description: "E-102 is your friend now."
       score: 10
-      acquired: "2010-12-17"
+      acquired: "2010-12-17T21:22:41.057Z"
       slug: "sonic-adventure_e-102-"
       gameSlug: "sonic-adventure"
-      scraped: "2013-04-02T23:37:41.893Z"
+      scraped: "Mon Sep 23 2013 18:41:14 GMT+0100 (BST)"
     - image: "https://live.xbox.com/tiles/7R/IS/04CLiGJhbC9HFQUXXFJRTjI1L2FjaC8wLzMAAAAA5+fn-D0S9g==.jpg"
       name: Amy Rose
       description: Amy is your friend now.
       score: 10
-      acquired: "2010-12-17"
+      acquired: "2010-12-17T20:35:09.307Z"
       slug: "sonic-adventure_amy-rose"
       gameSlug: "sonic-adventure"
-      scraped: "2013-04-02T23:37:41.893Z"
+      scraped: "Mon Sep 23 2013 18:41:14 GMT+0100 (BST)"
     - image: "https://live.xbox.com/tiles/fu/ry/0oCLiGJhbC9GFQUXXFJRTjI1L2FjaC8wLzIAAAAA5+fn-d3qZQ==.jpg"
       name: Knuckles the Echidna
       description: Knuckles is your friend now.
       score: 10
-      acquired: "2010-12-17"
+      acquired: "2010-12-17T20:29:01.657Z"
       slug: "sonic-adventure_knuckles-the-echidna"
       gameSlug: "sonic-adventure"
-      scraped: "2013-04-02T23:37:41.893Z"
+      scraped: "Mon Sep 23 2013 18:41:14 GMT+0100 (BST)"
     - image: "https://live.xbox.com/tiles/y+/PT/0ICLiGJhbC9FFQUXXFJRTjI1L2FjaC8wLzEAAAAA5+fn--zj0A==.jpg"
       name: "Miles &quot;Tails&quot; Prower"
       description: Tails is your friend now.
       score: 10
-      acquired: "2010-12-17"
+      acquired: "2010-12-17T19:42:39.097Z"
       slug: "sonic-adventure_miles-tails-prower"
       gameSlug: "sonic-adventure"
-      scraped: "2013-04-02T23:37:41.893Z"
+      scraped: "Mon Sep 23 2013 18:41:14 GMT+0100 (BST)"
   slug: "sonic-adventure"
   title: Sonic Adventure
   description: "Join Sonic and friends as they embark on their first truly epic quest to stop Dr, Eggman&rsquo;s most villainous scheme in the hit Dreamcast title Sonic Adventure&trade; now available on Xbox&reg;LIVE Arcade.  An ancient evil lurking within the Master Emerald has been unleashed from its slumber by the devious Dr. Eggman and is on the verge of becoming the ultimate monster using the 7 Chaos Emeralds. Only Sonic and his friends are heroic enough to put a stop to Dr. Eggman and his evil minions. Hit the ground running in this classic epic adventure in a race against time to save the world!  There are no refunds for this item. For more information, see www.xbox.com/live/accounts."
@@ -84,7 +84,7 @@ game:
   manual: null
   buy: 
     - link: "http://marketplace.xbox.com/en-GB/Product/Sonic-Adventure/66acd000-77fe-1000-9115-d80258410a25?purchase=1&amp;DownloadType=Game"
-      price: "400"
+      price: "&pound;3.49"
       description: Buy Game
     - link: "http://marketplace.xbox.com/en-GB/Product/Sonic-Adventure/66acd000-77fe-1000-9115-d80258410a25?purchase=1&amp;DownloadType=GameDemo"
       price: Free
@@ -112,5 +112,6 @@ game:
     - "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a25/1033/screenlg19.jpg"
     - "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a25/1033/screenlg20.jpg"
   video: null
+  unEncName: Sonic Adventure
 ---
 {% include JB/setup %}

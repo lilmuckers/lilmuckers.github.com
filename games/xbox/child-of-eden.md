@@ -22,26 +22,26 @@ game:
       name: Total Enlightenment
       description: Euphoria used.
       score: 5
-      acquired: "2012-02-05"
+      acquired: "2012-02-05T11:48:24.000Z"
       slug: "child-of-eden_total-enlightenment"
       gameSlug: "child-of-eden"
-      scraped: "2013-04-02T23:28:02.823Z"
+      scraped: "Mon Sep 23 2013 18:33:05 GMT+0100 (BST)"
     - image: "https://live.xbox.com/tiles/5a/83/0ICLiGJhbC9BCBoFGltTWTRjL2FjaC8wLzI1AAAAAOfn5-8Yr-k=.jpg"
       name: Feel The Beat
       description: "Achieved a Perfect Octa-Lock."
       score: 5
-      acquired: "2012-02-05"
+      acquired: "2012-02-05T11:48:03.890Z"
       slug: "child-of-eden_feel-the-beat"
       gameSlug: "child-of-eden"
-      scraped: "2013-04-02T23:28:02.823Z"
+      scraped: "Mon Sep 23 2013 18:33:05 GMT+0100 (BST)"
     - image: "https://live.xbox.com/tiles/dl/fX/0YCLiGJhbC9ACBoFGltTWTRjL2FjaC8wLzI0AAAAAOfn5-74V2o=.jpg"
       name: Figure Eight
       description: "Purified an enemy using Octa-Lock."
       score: 5
-      acquired: "2012-02-05"
+      acquired: "2012-02-05T11:46:38.917Z"
       slug: "child-of-eden_figure-eight"
       gameSlug: "child-of-eden"
-      scraped: "2013-04-02T23:28:02.824Z"
+      scraped: "Mon Sep 23 2013 18:33:05 GMT+0100 (BST)"
   slug: "child-of-eden"
   title: Child of Eden
   description: "The Games on Demand version supports  English, French, Italian, German, Spanish.  One of the most anticipated games of 2011 for Kinect.  Winner of 9 awards at E3 for innovative graphics, music, and gameplay.  Child of Eden is the &ldquo;multi-sensory shooter&rdquo; that will send players diving into a visual matrix of synchronized music and mind-blowing visuals.  It will usher forth yet another landmark game experience from the mind of renowned game designer Tetsuya Mizuguchi."
@@ -63,5 +63,6 @@ game:
     - "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553084c/1033/screenlg3.jpg"
     - "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8025553084c/1033/screenlg4.jpg"
   video: null
+  unEncName: Child of Eden
 ---
 {% include JB/setup %}

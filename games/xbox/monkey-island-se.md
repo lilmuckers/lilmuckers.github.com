@@ -28,7 +28,7 @@ game:
   manual: null
   buy: 
     - link: "http://marketplace.xbox.com/en-GB/Product/Monkey-Island-SE/66acd000-77fe-1000-9115-d80258410995?purchase=1&amp;DownloadType=Game"
-      price: "800"
+      price: "&pound;6.99"
       description: Buy Game
     - link: "http://marketplace.xbox.com/en-GB/Product/Monkey-Island-SE/66acd000-77fe-1000-9115-d80258410995?purchase=1&amp;DownloadType=GameDemo"
       price: Free
@@ -56,5 +56,6 @@ game:
     - "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410995/1033/screenlg19.jpg"
     - "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410995/1033/screenlg20.jpg"
   video: null
+  unEncName: "Monkey Island: SE"
 ---
 {% include JB/setup %}

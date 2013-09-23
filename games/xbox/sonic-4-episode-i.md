@@ -22,18 +22,18 @@ game:
       name: Crush Dr. Eggman
       description: Defeat a boss for the first time.
       score: 5
-      acquired: "2010-10-27"
+      acquired: "2010-10-27T19:24:02.883Z"
       slug: "sonic-4-episode-i_crush-dr-eggman"
       gameSlug: "sonic-4-episode-i"
-      scraped: "2013-04-02T23:37:58.408Z"
+      scraped: "Mon Sep 23 2013 18:41:28 GMT+0100 (BST)"
     - image: "https://live.xbox.com/tiles/a9/0g/1ICLiGJhbC9FFQUXXFJRTjA3L2FjaC8wLzEAAAAA5+fn+w-dcA==.jpg"
       name: The Story Begins
       description: "Clear SPLASH HILL ZONE, ACT 1."
       score: 5
-      acquired: "2010-10-27"
+      acquired: "2010-10-27T19:17:22.233Z"
       slug: "sonic-4-episode-i_the-story-begins"
       gameSlug: "sonic-4-episode-i"
-      scraped: "2013-04-02T23:37:58.408Z"
+      scraped: "Mon Sep 23 2013 18:41:28 GMT+0100 (BST)"
   slug: "sonic-4-episode-i"
   title: "SONIC THE HEDGEHOG&trade; 4 Episode I"
   description: "The sequel you&apos;ve waited 16 years to see, SONIC THE HEDGEHOG&trade; 4 Episode I.  Get ready for an all new 2D adventure!"
@@ -44,7 +44,7 @@ game:
   manual: null
   buy: 
     - link: "http://marketplace.xbox.com/en-GB/Product/SONIC-THE-HEDGEHOG-4-Episode-I/66acd000-77fe-1000-9115-d80258410a07?purchase=1&amp;DownloadType=Game"
-      price: "800"
+      price: "&pound;6.99"
       description: Buy Game
     - link: "http://marketplace.xbox.com/en-GB/Product/SONIC-THE-HEDGEHOG-4-Episode-I/66acd000-77fe-1000-9115-d80258410a07?purchase=1&amp;DownloadType=GameDemo"
       price: Free
@@ -72,5 +72,6 @@ game:
     - "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a07/1033/screenlg19.jpg"
     - "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a07/1033/screenlg20.jpg"
   video: null
+  unEncName: Sonic 4 Episode I
 ---
 {% include JB/setup %}

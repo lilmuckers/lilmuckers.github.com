@@ -28,5 +28,6 @@ game:
   banner: null
   images: []
   video: null
+  unEncName: Last.fm
 ---
 {% include JB/setup %}

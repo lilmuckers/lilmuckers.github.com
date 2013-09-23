@@ -22,58 +22,58 @@ game:
       name: Unlock Garam
       description: Unlock Garam and use him as a player character
       score: 10
-      acquired: "2012-12-15"
+      acquired: "2012-12-15T22:33:46.820Z"
       slug: "jet-set-radio_unlock-garam"
       gameSlug: "jet-set-radio"
-      scraped: "2013-04-02T23:18:30.123Z"
+      scraped: "Mon Sep 23 2013 18:23:09 GMT+0100 (BST)"
     - image: "https://live.xbox.com/tiles/b9/sd/04CLiGJhbC8SFQUXXFJQHTQ3L2FjaC8wL2YAAAAA5+fn-DLbdA==.jpg"
       name: Public menace
       description: Make 100 civilians jump out of your way
       score: 10
-      acquired: "2012-12-15"
+      acquired: "2012-12-15T22:25:51.713Z"
       slug: "jet-set-radio_public-menace"
       gameSlug: "jet-set-radio"
-      scraped: "2013-04-02T23:18:30.123Z"
+      scraped: "Mon Sep 23 2013 18:23:09 GMT+0100 (BST)"
     - image: "https://live.xbox.com/tiles/EQ/27/0oCLiGJhbC9DCxoIG1lSUzQ3L2FjaC8wLzE3AAAAAOfn5-2UDQ0=.jpg"
       name: I need a parachute
       description: Fall more than 20 meters off a building
       score: 5
-      acquired: "2012-12-15"
+      acquired: "2012-12-15T22:12:01.420Z"
       slug: "jet-set-radio_i-need-a-parachute"
       gameSlug: "jet-set-radio"
-      scraped: "2013-04-02T23:18:30.123Z"
+      scraped: "Mon Sep 23 2013 18:23:09 GMT+0100 (BST)"
     - image: "https://live.xbox.com/tiles/eJ/k0/0YCLiGJhbC9GFQUXXFJQHTQ3L2FjaC8wLzIAAAAA5+fn-huZYw==.jpg"
       name: Training wheels
       description: Complete Tutorial
       score: 10
-      acquired: "2012-12-15"
+      acquired: "2012-12-15T17:40:04.850Z"
       slug: "jet-set-radio_training-wheels"
       gameSlug: "jet-set-radio"
-      scraped: "2013-04-02T23:18:30.123Z"
+      scraped: "Mon Sep 23 2013 18:23:09 GMT+0100 (BST)"
     - image: "https://live.xbox.com/tiles/gv/Vb/04CLiGJhbC9CCxoIG1lSUzQ3L2FjaC8wLzE2AAAAAOfn5-x09Z4=.jpg"
       name: Look behind
       description: Perform a Turn Trick in game
       score: 5
-      acquired: "2012-12-15"
+      acquired: "2012-12-15T17:27:24.920Z"
       slug: "jet-set-radio_look-behind"
       gameSlug: "jet-set-radio"
-      scraped: "2013-04-02T23:18:30.123Z"
+      scraped: "Mon Sep 23 2013 18:23:09 GMT+0100 (BST)"
     - image: "https://live.xbox.com/tiles/zZ/AV/04CLiGJhbC9FFQUXXFJQHTQ3L2FjaC8wLzEAAAAA5+fn-DqQ1g==.jpg"
       name: We got us a crew
       description: Unlock Gum and Tab
       score: 5
-      acquired: "2012-12-15"
+      acquired: "2012-12-15T16:53:19.563Z"
       slug: "jet-set-radio_we-got-us-a-crew"
       gameSlug: "jet-set-radio"
-      scraped: "2013-04-02T23:18:30.123Z"
+      scraped: "Mon Sep 23 2013 18:23:09 GMT+0100 (BST)"
     - image: "https://live.xbox.com/tiles/zh/fY/1ICLiGJhbC9GCxoIG1lSUzQ3L2FjaC8wLzEyAAAAAOfn5-v3F9I=.jpg"
       name: Feel the beat
       description: Start game for the first time
       score: 5
-      acquired: "2012-12-15"
+      acquired: "2012-12-15T16:43:59.533Z"
       slug: "jet-set-radio_feel-the-beat"
       gameSlug: "jet-set-radio"
-      scraped: "2013-04-02T23:18:30.124Z"
+      scraped: "Mon Sep 23 2013 18:23:09 GMT+0100 (BST)"
   slug: "jet-set-radio"
   title: Jet Set Radio
   description: "Tag, grind, and trick to the beat in SEGA&rsquo;s hit game Jet Set Radio!  Fight for control of Tokyo-to, mark your turf with graffiti, tag walls, billboards, and even rival gang members! Perform tricks and flips on magnetically driven in-line skates, but watch out for the local police force!  Now on Xbox Live Arcade, Jet Set Radio is part of Sega&rsquo;s Heritage Collection series and now features lush HD visuals, developer interviews, and amazing fan-created graffiti."
@@ -88,7 +88,7 @@ game:
   manual: null
   buy: 
     - link: "http://marketplace.xbox.com/en-GB/Product/Jet-Set-Radio/66acd000-77fe-1000-9115-d80258411247?purchase=1&amp;DownloadType=Game"
-      price: "800"
+      price: "&pound;6.99"
       description: Buy Game
     - link: "http://marketplace.xbox.com/en-GB/Product/Jet-Set-Radio/66acd000-77fe-1000-9115-d80258411247?purchase=1&amp;DownloadType=GameDemo"
       price: Free
@@ -106,5 +106,6 @@ game:
     - "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411247/1033/screenlg9.jpg"
     - "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258411247/1033/screenlg10.jpg"
   video: null
+  unEncName: Jet Set Radio
 ---
 {% include JB/setup %}

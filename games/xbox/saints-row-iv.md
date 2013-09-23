@@ -22,74 +22,74 @@ game:
       name: Ghost in the Machine
       description: "Completed &apos;Power Up CID&apos; and hacked your own CID."
       score: 20
-      acquired: "2013-09-21"
+      acquired: "2013-09-21T20:27:10.667Z"
       slug: "saints-row-iv_ghost-in-the-machine"
       gameSlug: "saints-row-iv"
-      scraped: "Sat Sep 21 2013 22:21:08 GMT+0100 (BST)"
+      scraped: "Mon Sep 23 2013 18:14:38 GMT+0100 (BST)"
     - image: "https://live.xbox.com/tiles/Aq/Fn/0oCLiGJhbC9MDwVNBEtYVAc2L2FjaC8wLzE1OAAAAADn5+f9SKEf.jpg"
       name: "Don&apos;t Panic"
       description: "Completed &apos;The Real World&apos; and escaped the simulation. Now what?"
       score: 30
-      acquired: "2013-09-19"
+      acquired: "2013-09-19T21:59:49.157Z"
       slug: "saints-row-iv_dont-panic"
       gameSlug: "saints-row-iv"
-      scraped: "Thu Sep 19 2013 23:45:15 GMT+0100 (BST)"
+      scraped: "Mon Sep 23 2013 18:14:38 GMT+0100 (BST)"
     - image: "https://live.xbox.com/tiles/ss/d7/0YCLiGJhbC8XDAVNBEtYVAc2L2FjaC8wLzE2YwAAAADn5+f+VMev.jpg"
       name: "Ooo A Piece of Candy!"
       description: "Found 100 Data Clusters in virtual Steelport. There are so many more&hellip;"
       score: 10
-      acquired: "2013-09-19"
+      acquired: "2013-09-19T21:30:18.587Z"
       slug: "saints-row-iv_ooo-a-piece-of-candy"
       gameSlug: "saints-row-iv"
-      scraped: "Thu Sep 19 2013 22:45:14 GMT+0100 (BST)"
+      scraped: "Mon Sep 23 2013 18:14:38 GMT+0100 (BST)"
     - image: "https://live.xbox.com/tiles/4h/zL/1oCLiGJhbC8QDwVNBEtYVAc2L2FjaC8wLzE1ZAAAAADn5+f55Bz-.jpg"
       name: First of Many
       description: "Bought your first Upgrade, now you have the action Kung Fu grip!"
       score: 10
-      acquired: "2013-09-19"
+      acquired: "2013-09-19T21:16:33.250Z"
       slug: "saints-row-iv_first-of-many"
       gameSlug: "saints-row-iv"
-      scraped: "Thu Sep 19 2013 22:45:14 GMT+0100 (BST)"
+      scraped: "Mon Sep 23 2013 18:14:38 GMT+0100 (BST)"
     - image: "https://live.xbox.com/tiles/DL/VA/0YCLiGJhbC9DDwVNBEtYVAc2L2FjaC8wLzE1NwAAAADn5+f+b7UR.jpg"
       name: "Don&apos;t Look Down"
       description: Airborne during Super Jumps for a combined 10 minutes of gameplay.
       score: 10
-      acquired: "2013-09-19"
+      acquired: "2013-09-19T00:02:11.983Z"
       slug: "saints-row-iv_dont-look-down"
       gameSlug: "saints-row-iv"
-      scraped: "Thu Sep 19 2013 01:34:51 GMT+0100 (BST)"
+      scraped: "Mon Sep 23 2013 18:14:38 GMT+0100 (BST)"
     - image: "https://live.xbox.com/tiles/8D/70/14CLiGJhbC8XDQVNBEtYVAc2L2FjaC8wLzE3YwAAAADn5+f42z7t.jpg"
       name: Woah.
       description: Arrived in the Main Simulation and got some Super Powers.
       score: 20
-      acquired: "2013-09-19"
+      acquired: "2013-09-18T23:12:06.873Z"
       slug: "saints-row-iv_woah"
       gameSlug: "saints-row-iv"
-      scraped: "Thu Sep 19 2013 00:34:49 GMT+0100 (BST)"
+      scraped: "Mon Sep 23 2013 18:14:38 GMT+0100 (BST)"
     - image: "https://live.xbox.com/tiles/ep/Aa/14CLiGJhbC9NDQVNBEtYVAc2L2FjaC8wLzE3OQAAAADn5+f4NZBn.jpg"
       name: There Is No Pancakes
       description: "Completed &apos;A Pleasant Day&apos; and ruined your first virtual prison."
       score: 10
-      acquired: "2013-09-17"
+      acquired: "2013-09-17T22:20:42.820Z"
       slug: "saints-row-iv_there-is-no-pancakes"
       gameSlug: "saints-row-iv"
-      scraped: "Wed Sep 18 2013 00:09:23 GMT+0100 (BST)"
+      scraped: "Mon Sep 23 2013 18:14:38 GMT+0100 (BST)"
     - image: "https://live.xbox.com/tiles/Kk/SB/0oCLiGJhbC9BDwVNBEtYVAc2L2FjaC8wLzE1NQAAAADn5+f9rkQ3.jpg"
       name: "Destroyer-In-Chief"
       description: "Completed &apos;The Saints Wing&apos; and fought the alien invasion as Commander-In-Chief."
       score: 10
-      acquired: "2013-09-17"
+      acquired: "2013-09-17T22:06:58.847Z"
       slug: "saints-row-iv_destroyer-in-chief"
       gameSlug: "saints-row-iv"
-      scraped: "Tue Sep 17 2013 23:09:23 GMT+0100 (BST)"
+      scraped: "Mon Sep 23 2013 18:14:38 GMT+0100 (BST)"
     - image: "https://live.xbox.com/tiles/jW/+f/0YCLiGJhbC9FDQVNBEtYVAc2L2FjaC8wLzE3MQAAAADn5+f+sG+Q.jpg"
       name: Zero Saints Thirty
       description: "Completed &apos;Zero Saints Thirty&apos; and won the adulation of America."
       score: 10
-      acquired: "2013-09-17"
+      acquired: "2013-09-17T21:48:32.583Z"
       slug: "saints-row-iv_zero-saints-thirty"
       gameSlug: "saints-row-iv"
-      scraped: "Tue Sep 17 2013 23:09:23 GMT+0100 (BST)"
+      scraped: "Mon Sep 23 2013 18:14:38 GMT+0100 (BST)"
   slug: "saints-row-iv"
   title: Saints Row IV
   description: "The Games on Demand version supports English, French, Italian, German, Spanish. Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting &ldquo;See Game Manual&quot;.  The epic conclusion to the game that changed all the rules! The Saints have gone from the crackhouse to the White House&mdash;but the Earth has been invaded and it&rsquo;s up to you to free the world from Overlord Zinyak and his alien empire. With homies new and old by your side, and an arsenal of superpowers and strange weapons, you must save the world in the wildest open world game ever!"

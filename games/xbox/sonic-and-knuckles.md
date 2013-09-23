@@ -28,7 +28,7 @@ game:
   manual: null
   buy: 
     - link: "http://marketplace.xbox.com/en-GB/Product/Sonic-Knuckles/66acd000-77fe-1000-9115-d802584109c4?purchase=1&amp;DownloadType=Game"
-      price: "240"
+      price: "&pound;1.99"
       description: Buy Game
     - link: "http://marketplace.xbox.com/en-GB/Product/Sonic-Knuckles/66acd000-77fe-1000-9115-d802584109c4?purchase=1&amp;DownloadType=GameDemo"
       price: Free
@@ -44,5 +44,6 @@ game:
     - "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109c4/1033/screenlg7.jpg"
     - "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584109c4/1033/screenlg8.jpg"
   video: null
+  unEncName: "Sonic & Knuckles"
 ---
 {% include JB/setup %}

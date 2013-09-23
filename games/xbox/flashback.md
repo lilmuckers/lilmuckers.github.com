@@ -22,10 +22,10 @@ game:
       name: Finish Him
       description: You have killed an enemy by finishing him
       score: 10
-      acquired: "2013-08-22"
+      acquired: "2013-08-22T20:46:55.060Z"
       slug: "flashback_finish-him"
       gameSlug: flashback
-      scraped: "Tue Sep 10 2013 19:57:26 GMT+0100 (BST)"
+      scraped: "Mon Sep 23 2013 18:15:32 GMT+0100 (BST)"
   slug: flashback
   title: Flashback
   description: "Take on the role of Conrad B. Hart of the G.B.I. and uncover a vast and deadly alien conspiracy that threatens everything it means to be human. But before you can save the human race you must rediscover who you are, as you desperately search for the missing data files containing your memory to piece the puzzle together. 20 years after the original game&rsquo;s launch, Conrad is enlisted back to active service for the triumphant return of one of the best adventure-action games ever created. It&rsquo;s Flashback re-imagined by its creators."

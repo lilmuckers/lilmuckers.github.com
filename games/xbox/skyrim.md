@@ -22,50 +22,50 @@ game:
       name: Apprentice
       description: Reach Level 5
       score: 5
-      acquired: "2011-12-30"
+      acquired: "2011-12-30T21:53:18.070Z"
       slug: skyrim_apprentice
       gameSlug: skyrim
-      scraped: "2013-04-02T23:29:19.798Z"
+      scraped: "Mon Sep 23 2013 18:34:10 GMT+0100 (BST)"
     - image: "https://live.xbox.com/tiles/M1/Lz/04CLiGJhbC8RDxsCGltTVmU2L2FjaC8wLzVlAAAAAOfn5-zcUi8=.jpg"
       name: Dragon Soul
       description: Absorb a dragon soul
       score: 10
-      acquired: "2011-12-30"
+      acquired: "2011-12-30T21:46:54.087Z"
       slug: "skyrim_dragon-soul"
       gameSlug: skyrim
-      scraped: "2013-04-02T23:29:19.798Z"
+      scraped: "Mon Sep 23 2013 18:34:10 GMT+0100 (BST)"
     - image: "https://live.xbox.com/tiles/Op/N9/0oCLiGJhbC9BCRsCGltTVmU2L2FjaC8wLzM1AAAAAOfn5-1SkyY=.jpg"
       name: Bleak Falls Barrow
       description: "Complete &quot;Bleak Falls Barrow&quot;"
       score: 10
-      acquired: "2011-12-21"
+      acquired: "2011-12-21T19:40:40.887Z"
       slug: "skyrim_bleak-falls-barrow"
       gameSlug: skyrim
-      scraped: "2013-04-02T23:29:19.798Z"
+      scraped: "Mon Sep 23 2013 18:34:10 GMT+0100 (BST)"
     - image: "https://live.xbox.com/tiles/Au/Eb/0oCLiGJhbC9HDxsCGltTVmU2L2FjaC8wLzUzAAAAAOfn5-004R4=.jpg"
       name: Wanted
       description: Escape from jail
       score: 10
-      acquired: "2011-12-20"
+      acquired: "2011-12-20T00:08:59.913Z"
       slug: skyrim_wanted
       gameSlug: skyrim
-      scraped: "2013-04-02T23:29:19.798Z"
+      scraped: "Mon Sep 23 2013 18:34:10 GMT+0100 (BST)"
     - image: "https://live.xbox.com/tiles/t+/g6/0ICLiGJhbC9EDxsCGltTVmU2L2FjaC8wLzUwAAAAAOfn5-8V6Ks=.jpg"
       name: Blessed
       description: Select a Standing Stone blessing
       score: 10
-      acquired: "2011-12-18"
+      acquired: "2011-12-18T20:29:06.380Z"
       slug: skyrim_blessed
       gameSlug: skyrim
-      scraped: "2013-04-02T23:29:19.798Z"
+      scraped: "Mon Sep 23 2013 18:34:10 GMT+0100 (BST)"
     - image: "https://live.xbox.com/tiles/qW/ud/04CLiGJhbC9ACRsCGltTVmU2L2FjaC8wLzM0AAAAAOfn5-yya7U=.jpg"
       name: Unbound
       description: "Complete &quot;Unbound&quot;"
       score: 10
-      acquired: "2011-12-18"
+      acquired: "2011-12-18T20:22:50.270Z"
       slug: skyrim_unbound
       gameSlug: skyrim
-      scraped: "2013-04-02T23:29:19.798Z"
+      scraped: "Mon Sep 23 2013 18:34:10 GMT+0100 (BST)"
   slug: skyrim
   title: Skyrim
   description: "The Games on Demand version supports  English.  The next chapter in the highly anticipated Elder Scrolls saga arrives from the makers of the 2006 and 2008 Games of the Year, Bethesda Game Studios. Skyrim reimagines and revolutionizes the open-world fantasy epic, bringing to life a complete virtual world open for you to explore any way you choose."
@@ -78,7 +78,7 @@ game:
   manual: null
   buy: 
     - link: "http://marketplace.xbox.com/en-GB/Product/Skyrim/66acd000-77fe-1000-9115-d802425307e6?nosplash=1&amp;purchase=1&amp;DownloadType=Game"
-      price: "&pound;34.99"
+      price: "&pound;24.99"
       description: Buy Game
   banner: "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307e6/1033/banner.png"
   images: 
@@ -92,5 +92,6 @@ game:
     - "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307e6/1033/screenlg8.jpg"
     - "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802425307e6/1033/screenlg9.jpg"
   video: null
+  unEncName: Skyrim
 ---
 {% include JB/setup %}

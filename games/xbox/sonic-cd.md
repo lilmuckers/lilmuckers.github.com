@@ -22,10 +22,10 @@ game:
       name: 88 Miles per Hour
       description: Travel through time
       score: 5
-      acquired: "2011-12-19"
+      acquired: "2011-12-19T02:30:49.797Z"
       slug: "sonic-cd_88-miles-per-hour"
       gameSlug: "sonic-cd"
-      scraped: "2013-04-02T23:29:47.590Z"
+      scraped: "Mon Sep 23 2013 18:34:40 GMT+0100 (BST)"
   slug: "sonic-cd"
   title: Sonic CD
   description: "It&rsquo;s time to usher the past into the future in this enhanced recreation of Sonic CD! Sonic travels to the distant shores of Never Lake for the once-a-year appearance of Little Planet - a mysterious world where past, present, and future collide through the power of the Time Stones that lie hidden within it. His arch-nemesis, Dr. Eggman, has come for the Time Stones and with them, will soon have the power to control time itself In order to put an end to Dr. Eggman&rsquo;s nefarious schemes, Sonic must use the power of Little Planet to travel through time; breaking Dr. Eggman&rsquo;s hold over the future by destroying his machines in the past and recovering the missing Time Stones!  Featuring 16:9 widescreen, achievements, leaderboards and both the US and Japanese soundtracks, experience the adventure through time that introduced the world to Amy the Hedgehog and Eggman&rsquo;s most evil creation, Metal Sonic."
@@ -36,7 +36,7 @@ game:
   manual: null
   buy: 
     - link: "http://marketplace.xbox.com/en-GB/Product/Sonic-CD/66acd000-77fe-1000-9115-d802584111f1?purchase=1&amp;DownloadType=Game"
-      price: "400"
+      price: "&pound;3.49"
       description: Buy Game
     - link: "http://marketplace.xbox.com/en-GB/Product/Sonic-CD/66acd000-77fe-1000-9115-d802584111f1?purchase=1&amp;DownloadType=GameDemo"
       price: Free
@@ -50,5 +50,6 @@ game:
     - "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111f1/1033/screenlg5.jpg"
     - "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802584111f1/1033/screenlg6.jpg"
   video: null
+  unEncName: Sonic CD
 ---
 {% include JB/setup %}

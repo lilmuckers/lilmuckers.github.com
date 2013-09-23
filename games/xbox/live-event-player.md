@@ -28,5 +28,6 @@ game:
   banner: null
   images: []
   video: null
+  unEncName: Live Event Player
 ---
 {% include JB/setup %}

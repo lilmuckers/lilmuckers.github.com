@@ -22,18 +22,18 @@ game:
       name: The Commander
       description: "You unlocked Commander Video! Double rainbow all da way!"
       score: 10
-      acquired: "2011-02-05"
+      acquired: "2011-02-05T17:30:15.843Z"
       slug: "super-meat-boy_the-commander"
       gameSlug: "super-meat-boy"
-      scraped: "2013-04-02T23:36:21.333Z"
+      scraped: "Mon Sep 23 2013 18:39:30 GMT+0100 (BST)"
     - image: "https://live.xbox.com/tiles/D4/EC/1oCLiGJhbC9BFQUXXFJRTjVhL2FjaC8wLzUAAAAA5+fn+S2BFA==.jpg"
       name: Nostalgia
       description: "You found a warp zone! Now pay me for the door repair!"
       score: 15
-      acquired: "2010-11-11"
+      acquired: "2010-11-11T22:00:33.987Z"
       slug: "super-meat-boy_nostalgia"
       gameSlug: "super-meat-boy"
-      scraped: "2013-04-02T23:36:21.333Z"
+      scraped: "Mon Sep 23 2013 18:39:30 GMT+0100 (BST)"
   slug: "super-meat-boy"
   title: Super Meat Boy
   description: "Super Meat Boy is a tough as nails platformer where you play as an animated cube of meat who&apos;s trying to save his girlfriend (who happens to be made of bandages) from an evil fetus in a jar wearing a tux.    Our meaty hero will leap from walls, over seas of buzz saws, through crumbling caves and pools of old needles. Sacrificing his own well being to save his damsel in distress. Super Meat Boy brings the old school difficulty of classic retro titles we all know and love and stream lines them down to the essential no bull straight forward twitch reflex platforming.    Ramping up in difficulty from hard to soul crushing SMB will drag Meat boy though haunted hospitals, salt factories and even hell itself. And if 300+ single player levels weren&apos;t enough SMB also throws in epic boss fights, tons of unlock able secrets, warp zones and hidden characters."
@@ -46,7 +46,7 @@ game:
   manual: null
   buy: 
     - link: "http://marketplace.xbox.com/en-GB/Product/Super-Meat-Boy/66acd000-77fe-1000-9115-d80258410a5a?purchase=1&amp;DownloadType=Game"
-      price: "1,200"
+      price: "&pound;9.99"
       description: Buy Game
     - link: "http://marketplace.xbox.com/en-GB/Product/Super-Meat-Boy/66acd000-77fe-1000-9115-d80258410a5a?purchase=1&amp;DownloadType=GameDemo"
       price: Free
@@ -74,5 +74,6 @@ game:
     - "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a5a/1033/screenlg19.jpg"
     - "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a5a/1033/screenlg20.jpg"
   video: null
+  unEncName: Super Meat Boy
 ---
 {% include JB/setup %}

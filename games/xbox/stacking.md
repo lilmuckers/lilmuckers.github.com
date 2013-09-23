@@ -30,7 +30,7 @@ game:
   manual: null
   buy: 
     - link: "http://marketplace.xbox.com/en-GB/Product/Stacking/66acd000-77fe-1000-9115-d80258410a73?purchase=1&amp;DownloadType=Game"
-      price: "1,200"
+      price: "&pound;9.99"
       description: Buy Game
     - link: "http://marketplace.xbox.com/en-GB/Product/Stacking/66acd000-77fe-1000-9115-d80258410a73?purchase=1&amp;DownloadType=GameDemo"
       price: Free
@@ -47,5 +47,6 @@ game:
     - "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a73/1033/screenlg8.jpg"
     - "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a73/1033/screenlg9.jpg"
   video: null
+  unEncName: Stacking
 ---
 {% include JB/setup %}

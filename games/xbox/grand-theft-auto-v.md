@@ -22,10 +22,10 @@ game:
       name: Welcome to Los Santos
       description: "You repo&apos;d a car and raced it through the heart of a sun-soaked metropolis."
       score: 10
-      acquired: "2013-09-20"
+      acquired: "2013-09-20T21:56:29.527Z"
       slug: "grand-theft-auto-v_welcome-to-los-santos"
       gameSlug: "grand-theft-auto-v"
-      scraped: "Fri Sep 20 2013 23:05:47 GMT+0100 (BST)"
+      scraped: "Mon Sep 23 2013 18:15:04 GMT+0100 (BST)"
   slug: "grand-theft-auto-v"
   title: GTA V
   description: "Los Santos: a sprawling metropolis full of self-help gurus, starlets and fading celebrities struggling to stay afloat in an era of economic uncertainty and cheap cable TV. Amidst the turmoil, three very different criminals risk everything in a series of daring and dangerous heists that could set them up for life."

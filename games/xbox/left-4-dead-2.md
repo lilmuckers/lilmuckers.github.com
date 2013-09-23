@@ -22,18 +22,18 @@ game:
       name: A RIDE DENIED
       description: Kill a Jockey within 2 seconds of it jumping on a Survivor.
       score: 15
-      acquired: "2009-12-13"
+      acquired: "2009-12-13T13:28:20.160Z"
       slug: "left-4-dead-2_a-ride-denied"
       gameSlug: "left-4-dead-2"
-      scraped: "2013-04-02T23:45:49.206Z"
+      scraped: "Mon Sep 23 2013 18:44:27 GMT+0100 (BST)"
     - image: "https://live.xbox.com/tiles/h9/ki/14CLiGJhbC9MDBsFG1lTWWQ0L2FjaC8wLzY4AAAAAOfn5-gN2Zs=.jpg"
       name: WEATHERMAN
       description: Survive the Hard Rain campaign.
       score: 20
-      acquired: "2009-12-13"
+      acquired: "2009-12-13T13:08:07.433Z"
       slug: "left-4-dead-2_weatherman"
       gameSlug: "left-4-dead-2"
-      scraped: "2013-04-02T23:45:49.206Z"
+      scraped: "Mon Sep 23 2013 18:44:27 GMT+0100 (BST)"
   slug: "left-4-dead-2"
   title: Left 4 Dead 2
   description: "The Games on Demand version supports  English, French, Italian, German, Spanish, Potuguese, Japanese, Chinese.  New from Valve&reg; &mdash; creators of Counter-Strike&reg;, Half-Life&reg;, Portal&trade; and Team Fortress&reg; &mdash; Left 4 Dead&trade; 2 is a new game that casts up to four &quot;Survivors&quot; in an epic struggle against hordes of swarming zombies and terrifying &quot;Boss Infected&quot; mutants. Are you ready for the Zombie Apocalypse?"
@@ -62,5 +62,6 @@ game:
     - "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108d4/1033/screenlg9.jpg"
     - "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802454108d4/1033/screenlg10.jpg"
   video: null
+  unEncName: Left 4 Dead 2
 ---
 {% include JB/setup %}
