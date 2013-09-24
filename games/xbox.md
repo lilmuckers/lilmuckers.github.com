@@ -1,7 +1,7 @@
 ---
 layout: xbox
-title: ""
-tagline: ""
+title: Xbox Tracker
+tagline: "I play games, they are fun"
 group: games
 achievementcount: 1599
 gamer: 
