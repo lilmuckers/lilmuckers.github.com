@@ -92,7 +92,7 @@ title: Patrick McKinley
         <img src="{{achievement.image}}" alt="{{achievement.name}}" >
         <h4>{{achievement.name}} <small>{{achievement.score}}G</small></h4>
         <p>{{achievement.description}}</p>
-        <p class="meta">in <a href="{{thisGame.url}}">{{thisGame.game.name}}</a> on {{achievement.acquired | date: "%d %b %Y"}} at {{ achievement.scraped | date: "%H:%M" }}</p>
+        <p class="meta">in <a href="{{thisGame.url}}">{{thisGame.game.name}}</a> on {{achievement.acquired | date: "%d %b %Y at %H:%M"}}</p>
       </div>
       {% endfor %}
       
