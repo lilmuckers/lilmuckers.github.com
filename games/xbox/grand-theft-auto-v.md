@@ -4,7 +4,7 @@ title: GTA V
 showPage: true
 tagline: ""
 group: xboxgame
-weight: 108
+weight: 107
 game: 
   name: Grand Theft Auto V
   gameId: 1414793383

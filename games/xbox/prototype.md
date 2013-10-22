@@ -19,7 +19,7 @@ game:
       acquired: "2009-12-06T15:44:51.880Z"
       slug: "prototype_half-truths"
       gameSlug: prototype
-      scraped: "Wed Sep 25 2013 22:59:16 GMT+0100 (BST)"
+      scraped: "Tue Oct 22 2013 22:40:34 GMT+0100 (BST)"
     - image: "https://live.xbox.com/tiles/63/w-/0oCLiGJhbC8QXFEDGgYfUFdlL2FjaC8wLzJlZmQAAAAA5+fn-RB89Q==.jpg"
       name: SME
       description: "You&apos;re now certified to drive and fly all vehicles."
@@ -27,7 +27,7 @@ game:
       acquired: "2009-12-06T15:39:31.060Z"
       slug: prototype_sme
       gameSlug: prototype
-      scraped: "Wed Sep 25 2013 22:59:16 GMT+0100 (BST)"
+      scraped: "Tue Oct 22 2013 22:40:34 GMT+0100 (BST)"
     - image: "https://live.xbox.com/tiles/mD/lz/14CLiGJhbC9NXFEDGgYfUFdlL2FjaC8wLzJlZjkAAAAA5+fn+Fw5hg==.jpg"
       name: In Plain Sight
       description: "You&apos;ve evaded 10 strike teams."
@@ -35,7 +35,7 @@ game:
       acquired: "2009-12-05T14:35:43.447Z"
       slug: "prototype_in-plain-sight"
       gameSlug: prototype
-      scraped: "Wed Sep 25 2013 22:59:16 GMT+0100 (BST)"
+      scraped: "Tue Oct 22 2013 22:40:34 GMT+0100 (BST)"
     - image: "https://live.xbox.com/tiles/xv/bk/04CLiGJhbC9FX1EDGgYfUFdlL2FjaC8wLzJlZTEAAAAA5+fn-Mv22A==.jpg"
       name: Errand Boy
       description: "You&apos;ve completed the Specialist Boss Fight."
@@ -43,7 +43,7 @@ game:
       acquired: "2009-12-05T14:24:00.667Z"
       slug: "prototype_errand-boy"
       gameSlug: prototype
-      scraped: "Wed Sep 25 2013 22:59:16 GMT+0100 (BST)"
+      scraped: "Tue Oct 22 2013 22:40:34 GMT+0100 (BST)"
     - image: "https://live.xbox.com/tiles/Wm/qJ/0ICLiGJhbC9FClIDGgYfUFdlL2FjaC8wLzJmMDEAAAAA5+fn-6ZqRA==.jpg"
       name: The Cleaner
       description: "You&apos;ve destroyed 10 Military Bases or Infected Hives in New York City."
@@ -51,7 +51,7 @@ game:
       acquired: "2009-12-05T13:15:39.237Z"
       slug: "prototype_the-cleaner"
       gameSlug: prototype
-      scraped: "Wed Sep 25 2013 22:59:16 GMT+0100 (BST)"
+      scraped: "Tue Oct 22 2013 22:40:34 GMT+0100 (BST)"
     - image: "https://live.xbox.com/tiles/Px/1G/1oCLiGJhbC9CX1EDGgYfUFdlL2FjaC8wLzJlZTYAAAAA5+fn+WkdIQ==.jpg"
       name: Endless Hunger
       description: "You&apos;ve consumed 200 characters to regain health."
@@ -59,7 +59,7 @@ game:
       acquired: "2009-12-05T12:05:51.973Z"
       slug: "prototype_endless-hunger"
       gameSlug: prototype
-      scraped: "Wed Sep 25 2013 22:59:16 GMT+0100 (BST)"
+      scraped: "Tue Oct 22 2013 22:40:34 GMT+0100 (BST)"
     - image: "https://live.xbox.com/tiles/VQ/4E/0oCLiGJhbC9EX1EDGgYfUFdlL2FjaC8wLzJlZTAAAAAA5+fn-SsOSw==.jpg"
       name: Crossing The T
       description: "You&apos;ve completed the Hunter Boss Encounter."
@@ -67,7 +67,7 @@ game:
       acquired: "2009-12-04T19:25:14.613Z"
       slug: "prototype_crossing-the-t"
       gameSlug: prototype
-      scraped: "Wed Sep 25 2013 22:59:16 GMT+0100 (BST)"
+      scraped: "Tue Oct 22 2013 22:40:34 GMT+0100 (BST)"
     - image: "https://live.xbox.com/tiles/zY/3+/0YCLiGJhbC8SXFEDGgYfUFdlL2FjaC8wLzJlZmYAAAAA5+fn-tGN0w==.jpg"
       name: Evolutionary Step
       description: "You&apos;ve used the Upgrade Menu to acquire an Upgrade."
@@ -75,7 +75,7 @@ game:
       acquired: "2009-12-04T18:38:19.140Z"
       slug: "prototype_evolutionary-step"
       gameSlug: prototype
-      scraped: "Wed Sep 25 2013 22:59:16 GMT+0100 (BST)"
+      scraped: "Tue Oct 22 2013 22:40:34 GMT+0100 (BST)"
     - image: "https://live.xbox.com/tiles/ST/c3/0oCLiGJhbC9HXFEDGgYfUFdlL2FjaC8wLzJlZjMAAAAA5+fn-Rg3Vw==.jpg"
       name: The First Thread
       description: Web of Intrigue unlocked.
@@ -83,7 +83,7 @@ game:
       acquired: "2009-12-04T18:34:53.050Z"
       slug: "prototype_the-first-thread"
       gameSlug: prototype
-      scraped: "Wed Sep 25 2013 22:59:16 GMT+0100 (BST)"
+      scraped: "Tue Oct 22 2013 22:40:34 GMT+0100 (BST)"
   slug: prototype
   title: "[PROTOTYPE]&trade;"
   description: "Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting &ldquo;See Game Manual&quot;.   New York 2009. You are the PROTOTYPE. Armed with amazing shapeshifting abilities, hunt your way to the heart of the conspiracy which created you, and make those responsible pay."

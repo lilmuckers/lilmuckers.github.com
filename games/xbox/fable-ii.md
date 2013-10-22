@@ -4,7 +4,7 @@ title: Fable II
 showPage: true
 tagline: ""
 group: xboxgame
-weight: 103
+weight: 109
 game: 
   name: Fable II
   gameId: 1297287153
@@ -13,11 +13,27 @@ game:
   boxart: 
     small: "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5307f1/1033/boxartsm.jpg"
     large: "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5307f1/1033/boxartlg.jpg"
-  lastPlayed: "2013-08-21"
+  lastPlayed: "2013-10-22"
   totalScore: 1350
-  score: 1155
+  score: 1175
   totalAchievements: 66
   achievements: 
+    - image: "https://live.xbox.com/tiles/my/N9/1oCLiGJhbC9CCRtUGltTVmYxL2FjaC8wLzM2AAAAAOfn5-lSI4c=.jpg"
+      name: The Nutcracker
+      description: Heroes are the harbingers of injuries both painful and comedic. Which explains the 25 groin shots.
+      score: 10
+      acquired: "2013-10-22T20:56:21.523Z"
+      slug: "fable-ii_the-nutcracker"
+      gameSlug: "fable-ii"
+      scraped: "Tue Oct 22 2013 22:39:36 GMT+0100 (BST)"
+    - image: "https://live.xbox.com/tiles/iQ/FC/14CLiGJhbC9FCxtUGltTVmYxL2FjaC8wLzExAAAAAOfn5-htAZU=.jpg"
+      name: The Dollcatcher
+      description: "You, or a friend, collected all the Hero dolls. Shame you can&apos;t auction them off now."
+      score: 10
+      acquired: "2013-10-22T20:44:01.167Z"
+      slug: "fable-ii_the-dollcatcher"
+      gameSlug: "fable-ii"
+      scraped: "Tue Oct 22 2013 22:39:36 GMT+0100 (BST)"
     - image: "https://live.xbox.com/tiles/OW/h1/1oCLiGJhbC8VCRtUGltTVmYxL2FjaC8wLzNhAAAAAOfn5-laaCU=.jpg"
       name: The Con Artist
       description: "You, or a friend, managed to find all of Murgo&apos;s statuettes. A career in swindling beckons."

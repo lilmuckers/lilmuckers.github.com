@@ -4,7 +4,7 @@ title: Saints Row IV
 showPage: true
 tagline: ""
 group: xboxgame
-weight: 109
+weight: 108
 game: 
   name: Saints Row IV
   gameId: 1263339510
