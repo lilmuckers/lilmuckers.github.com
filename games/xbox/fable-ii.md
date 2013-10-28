@@ -13,11 +13,19 @@ game:
   boxart: 
     small: "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5307f1/1033/boxartsm.jpg"
     large: "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5307f1/1033/boxartlg.jpg"
-  lastPlayed: "2013-10-22"
+  lastPlayed: "2013-10-28"
   totalScore: 1350
-  score: 1175
+  score: 1185
   totalAchievements: 66
   achievements: 
+    - image: "https://live.xbox.com/tiles/cl/B0/0YCLiGJhbC9FDhtUGltTVmYxL2FjaC8wLzQxAAAAAOfn5-5bUG4=.jpg"
+      name: The Fowl Player
+      description: "A Hero dressed as a chicken and proceeded to kick many of its own kind. We&apos;re sickened."
+      score: 10
+      acquired: "2013-10-28T20:46:08.507Z"
+      slug: "fable-ii_the-fowl-player"
+      gameSlug: "fable-ii"
+      scraped: "Mon Oct 28 2013 20:47:24 GMT+0000 (GMT)"
     - image: "https://live.xbox.com/tiles/my/N9/1oCLiGJhbC9CCRtUGltTVmYxL2FjaC8wLzM2AAAAAOfn5-lSI4c=.jpg"
       name: The Nutcracker
       description: Heroes are the harbingers of injuries both painful and comedic. Which explains the 25 groin shots.
