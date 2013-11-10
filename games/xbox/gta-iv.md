@@ -4,7 +4,7 @@ title: GTA IV
 showPage: true
 tagline: ""
 group: xboxgame
-weight: 106
+weight: 105
 game: 
   name: GTA IV
   gameId: 1414793202

@@ -4,7 +4,7 @@ title: Netflix
 showPage: false
 tagline: ""
 group: xboxgame
-weight: 103
+weight: 109
 game: 
   name: Netflix
   gameId: 960956369
@@ -13,7 +13,7 @@ game:
   boxart: 
     small: null
     large: null
-  lastPlayed: "2013-08-27"
+  lastPlayed: "2013-11-08"
   totalScore: 0
   score: 0
   totalAchievements: 0

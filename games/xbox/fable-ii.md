@@ -4,7 +4,7 @@ title: Fable II
 showPage: true
 tagline: ""
 group: xboxgame
-weight: 109
+weight: 107
 game: 
   name: Fable II
   gameId: 1297287153
