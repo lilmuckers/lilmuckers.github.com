@@ -15,9 +15,25 @@ game:
     large: "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555308c2/1033/boxartlg.jpg"
   lastPlayed: "2013-11-11"
   totalScore: 1000
-  score: 20
+  score: 40
   totalAchievements: 50
   achievements: 
+    - image: "https://live.xbox.com/tiles/Yk/JD/1YCLiGJhbC8RCBoFGltTWWMyL2FjaC8wLzJlAAAAAOfn5-psQn4=.jpg"
+      name: Excavator
+      description: Find a buried treasure.
+      score: 10
+      acquired: "2013-11-11T22:29:04.487Z"
+      slug: "assassins-creed-iv_excavator"
+      gameSlug: "assassins-creed-iv"
+      scraped: "Mon Nov 11 2013 23:08:38 GMT+0000 (GMT)"
+    - image: "https://live.xbox.com/tiles/Jd/va/0ICLiGJhbC9CCxoFGltTWWMyL2FjaC8wLzE2AAAAAOfn5--12zk=.jpg"
+      name: Owned
+      description: Complete every activity in a single location.
+      score: 10
+      acquired: "2013-11-11T22:25:59.590Z"
+      slug: "assassins-creed-iv_owned"
+      gameSlug: "assassins-creed-iv"
+      scraped: "Mon Nov 11 2013 23:08:38 GMT+0000 (GMT)"
     - image: "https://live.xbox.com/tiles/Ay/ob/04CLiGJhbC9ACxoFGltTWWMyL2FjaC8wLzE0AAAAAOfn5-w0Kh8=.jpg"
       name: Hungover
       description: Wake up in a haystack.
