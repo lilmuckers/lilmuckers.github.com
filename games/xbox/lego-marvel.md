@@ -13,11 +13,19 @@ game:
   boxart: 
     small: "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257520835/1033/boxartsm.jpg"
     large: "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257520835/1033/boxartlg.jpg"
-  lastPlayed: "2013-12-01"
+  lastPlayed: "2013-12-02"
   totalScore: 1000
-  score: 310
+  score: 330
   totalAchievements: 45
   achievements: 
+    - image: "https://live.xbox.com/tiles/Yx/nn/0oCLiGJhbC8QFQUYXVFRFzM1L2FjaC8wL2QAAAAA5+fn-cgZeA==.jpg"
+      name: Magnetic Personality
+      description: "Complete Level 13 - Magnetic Personality"
+      score: 20
+      acquired: "2013-12-02T21:32:53.343Z"
+      slug: "lego-marvel_magnetic-personality"
+      gameSlug: "lego-marvel"
+      scraped: "Mon Dec 02 2013 21:59:14 GMT+0000 (GMT)"
     - image: "https://live.xbox.com/tiles/ea/xJ/1ICLiGJhbC9GCBoHGlpTWTM1L2FjaC8wLzIyAAAAAOfn5-tmrGU=.jpg"
       name: Welcome to Level 7
       description: Play as Agent Coulson
