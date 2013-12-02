@@ -15,9 +15,25 @@ game:
     large: "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80257520835/1033/boxartlg.jpg"
   lastPlayed: "2013-12-02"
   totalScore: 1000
-  score: 330
+  score: 370
   totalAchievements: 45
   achievements: 
+    - image: "https://live.xbox.com/tiles/8O/EH/04CLiGJhbC8RFQUYXVFRFzM1L2FjaC8wL2UAAAAA5+fn-Cjh6w==.jpg"
+      name: A Doom with a View
+      description: "Complete Level 14 - A Doom with a View"
+      score: 20
+      acquired: "2013-12-02T22:06:28.073Z"
+      slug: "lego-marvel_a-doom-with-a-view"
+      gameSlug: "lego-marvel"
+      scraped: "Mon Dec 02 2013 23:04:09 GMT+0000 (GMT)"
+    - image: "https://live.xbox.com/tiles/uo/8Z/0oCLiGJhbC9ACxoHGlpTWTM1L2FjaC8wLzE0AAAAAOfn5-02j6Y=.jpg"
+      name: "It&apos;s Clobberin&apos; Time!"
+      description: Defeat 100 enemies as the Thing
+      score: 20
+      acquired: "2013-12-02T22:03:54.320Z"
+      slug: "lego-marvel_its-clobberin-time"
+      gameSlug: "lego-marvel"
+      scraped: "Mon Dec 02 2013 23:04:09 GMT+0000 (GMT)"
     - image: "https://live.xbox.com/tiles/Yx/nn/0oCLiGJhbC8QFQUYXVFRFzM1L2FjaC8wL2QAAAAA5+fn-cgZeA==.jpg"
       name: Magnetic Personality
       description: "Complete Level 13 - Magnetic Personality"

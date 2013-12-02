@@ -19,7 +19,7 @@ game:
       acquired: "2010-08-11T20:46:44.427Z"
       slug: "dantes-inferno_forbidden-love"
       gameSlug: "dantes-inferno"
-      scraped: "Mon Dec 02 2013 22:00:06 GMT+0000 (GMT)"
+      scraped: "Mon Dec 02 2013 23:04:54 GMT+0000 (GMT)"
     - image: "https://live.xbox.com/tiles/RA/Sd/1oCLiGJhbC8XFQQaXFJRF2NmL2FjaC8wL2MAAAAA5+fn+bIEXw==.jpg"
       name: Precious
       description: Find a Beatrice stone
@@ -27,7 +27,7 @@ game:
       acquired: "2010-08-09T21:23:57.433Z"
       slug: "dantes-inferno_precious"
       gameSlug: "dantes-inferno"
-      scraped: "Mon Dec 02 2013 22:00:06 GMT+0000 (GMT)"
+      scraped: "Mon Dec 02 2013 23:04:54 GMT+0000 (GMT)"
     - image: "https://live.xbox.com/tiles/5U/lo/1ICLiGJhbC9FCxsFG1lTWWNmL2FjaC8wLzExAAAAAOfn5-tHSfk=.jpg"
       name: Relic Hunter
       description: Find a relic
@@ -35,7 +35,7 @@ game:
       acquired: "2010-08-09T21:01:37.897Z"
       slug: "dantes-inferno_relic-hunter"
       gameSlug: "dantes-inferno"
-      scraped: "Mon Dec 02 2013 22:00:06 GMT+0000 (GMT)"
+      scraped: "Mon Dec 02 2013 23:04:54 GMT+0000 (GMT)"
     - image: "https://live.xbox.com/tiles/jF/zX/0oCLiGJhbC9GFQQaXFJRF2NmL2FjaC8wLzIAAAAA5+fn-fhclw==.jpg"
       name: Abandon All Hope
       description: Break through the Gates of Hell
@@ -43,7 +43,7 @@ game:
       acquired: "2010-08-09T18:56:28.217Z"
       slug: "dantes-inferno_abandon-all-hope"
       gameSlug: "dantes-inferno"
-      scraped: "Mon Dec 02 2013 22:00:06 GMT+0000 (GMT)"
+      scraped: "Mon Dec 02 2013 23:04:54 GMT+0000 (GMT)"
     - image: "https://live.xbox.com/tiles/Yf/Oh/14CLiGJhbC8QCxsFG1lTWWNmL2FjaC8wLzFkAAAAAOfn5-iO830=.jpg"
       name: Holy Warrior
       description: Kill 30 Minions
@@ -51,7 +51,7 @@ game:
       acquired: "2010-08-09T18:46:36.077Z"
       slug: "dantes-inferno_holy-warrior"
       gameSlug: "dantes-inferno"
-      scraped: "Mon Dec 02 2013 22:00:06 GMT+0000 (GMT)"
+      scraped: "Mon Dec 02 2013 23:04:54 GMT+0000 (GMT)"
     - image: "https://live.xbox.com/tiles/vu/nC/0YCLiGJhbC8VCxsFG1lTWWNmL2FjaC8wLzFhAAAAAOfn5-7t6aI=.jpg"
       name: Warming Up
       description: Perform a 50 hit combo
@@ -59,7 +59,7 @@ game:
       acquired: "2010-08-09T18:25:57.437Z"
       slug: "dantes-inferno_warming-up"
       gameSlug: "dantes-inferno"
-      scraped: "Mon Dec 02 2013 22:00:06 GMT+0000 (GMT)"
+      scraped: "Mon Dec 02 2013 23:04:54 GMT+0000 (GMT)"
     - image: "https://live.xbox.com/tiles/OV/X2/0ICLiGJhbC9FFQQaXFJRF2NmL2FjaC8wLzEAAAAA5+fn-9lVIg==.jpg"
       name: Slaughter at Acre
       description: Fight against the prisoner at Acre
@@ -67,7 +67,7 @@ game:
       acquired: "2010-08-09T18:25:32.047Z"
       slug: "dantes-inferno_slaughter-at-acre"
       gameSlug: "dantes-inferno"
-      scraped: "Mon Dec 02 2013 22:00:06 GMT+0000 (GMT)"
+      scraped: "Mon Dec 02 2013 23:04:54 GMT+0000 (GMT)"
     - image: "https://live.xbox.com/tiles/H6/Q3/04CLiGJhbC9HFQQaXFJRF2NmL2FjaC8wLzMAAAAA5+fn-BikBA==.jpg"
       name: Sentence the Judge
       description: Defeat King Minos
@@ -75,7 +75,7 @@ game:
       acquired: null
       slug: "dantes-inferno_sentence-the-judge"
       gameSlug: "dantes-inferno"
-      scraped: "Mon Dec 02 2013 22:00:06 GMT+0000 (GMT)"
+      scraped: "Mon Dec 02 2013 23:04:54 GMT+0000 (GMT)"
     - image: "https://live.xbox.com/tiles/Rw/Jg/1ICLiGJhbC8SCxsFG1lTWWNmL2FjaC8wLzFmAAAAAOfn5-tPAls=.jpg"
       name: Bad Nanny
       description: Kill 20 Unbaptized Babies
@@ -83,7 +83,7 @@ game:
       acquired: null
       slug: "dantes-inferno_bad-nanny"
       gameSlug: "dantes-inferno"
-      scraped: "Mon Dec 02 2013 22:00:06 GMT+0000 (GMT)"
+      scraped: "Mon Dec 02 2013 23:04:54 GMT+0000 (GMT)"
   slug: "dantes-inferno"
   title: "Dante&apos;s Inferno&trade;"
   description: "Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting &ldquo;See Game Manual&quot;.   An abducted soul.  A lifetime of sins.  A journey to the depths of despair.   Based on the immensely influential classic poem, Dante&rsquo;s Inferno takes you on an epic quest of vengeance and redemption through the Nine Circles of Hell.   You are Dante, a veteran of the Crusades who must chase his beloved Beatrice and try to free her soul from Lucifer&rsquo;s grasp. As your pursuit takes you deeper into the pits of Hell, you must battle ever more fierce and hideous monsters&mdash;while also facing your own sins, a dark family past, and your unforgivable war crimes.    Go to Hell."
