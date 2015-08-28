@@ -67,6 +67,7 @@ I hope to continue building my skills, expanding them to take in a wider scope o
 **Global Ecommerce Technical Architect** - [Warner Music Group](http://www.wmg.com/) (London, United Kingdom)
 *November 2013 - present*
 In this position I was responsible for planning and implementing a complete rebuild of the 2 seperate Magento instances within the company. This was a ground-up rewrite, taking into account the requirements of the seperate business units within the company. This platform was then extended to be rolled out for Russia and Canada, either as an extension of an existing instance, or a completely new instance of the code. This required juggling different business logic within the same codebase in such a way that the conflicting requirements could exist in the same eco system at the same time. This further employed **Continuous Integration** and **Automated Testing** to keep code consistency and compatibility between the various instances, and ensure that the platforms remain stable and functional. I also had to lead the team of developers who were responsible for building the codebase themselves, this team was based in London, Chicago, and Ukraine.
+
 **Strategic Technology Engineer** - [Warner Music Group](http://www.wmg.com/) (London, United Kingdom)  
 *November 2011 - November 2013*  
 **Magento Technical Architect** - [Warner Music Group](http://www.wmg.com/) (London, United Kingdom)  
