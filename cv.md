@@ -14,7 +14,7 @@ I was employed as a **CMS** developer at **Senokian Solutions** in Coventry, whe
 
 Within **Pod1** I worked primarily with the **Magento** eCommerce platform, managing the complexities involved in building **eCommerce** solutions tailored to a client’s specific needs. I have been writing extensions to take advantage of **Magento's** higher functionality. I worked directly with the clients to deliver an accurate and workable specification, so projects can be completed on time, on budget, and on spec, using **WordPress**, **Magento**, **Prototype Javascript**, and **Symfony**.
 
-Currently employed at **Warner Music Group** as a **Strategic Technology Engineer**, which is a fancy name for **Tech Lead** and **Lead Architect** of the **Magento** eCommerce project there. This involves planning the future scoping of the platform, working with the various business owners, and the wider **financial** and **stock management** systems within the company.
+Currently employed at **Warner Music Group** as their **Global Ecommerce Techincal Architect**, which is a fancy name for **Tech Lead** and **Lead Architect** of the **Magento** eCommerce project there. This involves planning the future scoping of the platform, working with the various business owners, and the wider **financial** and **stock management** systems within the company.
 
 I hope to continue building my skills, expanding them to take in a wider scope of environments and languages, and to develop my managerial skills so I can effectively manage a large development team with multiple simultaneous projects.
 
@@ -24,11 +24,12 @@ I hope to continue building my skills, expanding them to take in a wider scope o
 
 #### Backend Development
  * [PHP5 and 5.3](http://www.php.net) – advanced procedural and object orientated programming with namespaces.
- * [Node.js](http://nodejs.org/) - using  and similar frameworks.
+ * [Node.js](http://nodejs.org/).
  * [Perl](http://www.perl.org/) and [Python](http://www.python.org/), used primarily for server automation scripts
  * [MySQL4 and 5](http://www.mysql.com/), both usage and optimisation
  * [PostgreSQL 7, 8 and 9](http://www.postgresql.org/)
  * [MongoDB](http://www.mongodb.org/), [CouchDB](http://couchdb.apache.org/), and [Redis](http://redis.io/) NoSQL databases 
+ * Asynchronous processing using [beanstalkd](http://kr.github.io/beanstalkd/) and [Supervisord](http://supervisord.org/) to run PHP processes seperately from the user action.
  * Unit testing using [PHP Unit](https://github.com/sebastianbergmann/phpunit/)
  * Functional testing using [PhantomJS](http://phantomjs.org/) (with [CasperJS](http://casperjs.org/)) 
  * Continuous Integration using [Jenkins](http://jenkins-ci.org/) and [Travis](https://travis-ci.org/)
@@ -37,8 +38,9 @@ I hope to continue building my skills, expanding them to take in a wider scope o
  * Advanced usage of various frameworks, including [Zend](http://framework.zend.com/), [Symfony](http://symfony.com/), [Django](https://www.djangoproject.com/), [Flatiron](http://flatironjs.org/) and [Express](http://expressjs.com/)
  * Usage and expansion of CMS frameworks, such as [WordPress](http://wordpress.org/), [Drupal](http://drupal.org/), and [Pimcore](http://www.pimcore.org/)
  * Use and expansion of the [Magento](http://www.magentocommerce.com/) eCommerce platform, to an advanced level, on all editions; Enterprise and Community
- * Payment portal integration, such as [PayOne](http://www.payone.de/), [SagePay](http://www.sagepay.com/), [PayPoint](http://www.paypoint.co.uk/), [Commidea](http://www.commidea.com/), [PayPal](http://www.paypal.co.uk/uk) and [Google Checkout](http://checkout.google.com/sell/)
- * Basic knowledge of C++, Objective-C, AppleScript, Ruby and other languages
+ * Payment portal integration, such as [PayOne](http://www.payone.de/), [SagePay](http://www.sagepay.com/), [PayPoint](http://www.paypoint.co.uk/), [Commidea](http://www.commidea.com/), [CyberSource](http://www.cybersource.com/), [Stripe](https://stripe.com/), [PayPal](http://www.paypal.co.uk/uk) and [Google Checkout](http://checkout.google.com/sell/)
+ * iOS developemnent using Objective-C and Swift2
+ * Basic knowledge of C++, AppleScript, Ruby and other languages
  * Knowledge of [PCI](https://www.pcisecuritystandards.org/) procedures and methods
 
 #### Frontend Development
@@ -62,8 +64,11 @@ I hope to continue building my skills, expanding them to take in a wider scope o
 ---
 
 ### Experience
+**Global Ecommerce Technical Architect** - [Warner Music Group](http://www.wmg.com/) (London, United Kingdom)
+*November 2013 - present*
+In this position I was responsible for planning and implementing a complete rebuild of the 2 seperate Magento instances within the company. This was a ground-up rewrite, taking into account the requirements of the seperate business units within the company. This platform was then extended to be rolled out for Russia and Canada, either as an extension of an existing instance, or a completely new instance of the code. This required juggling different business logic within the same codebase in such a way that the conflicting requirements could exist in the same eco system at the same time. This further employed **Continuous Integration** and **Automated Testing** to keep code consistency and compatibility between the various instances, and ensure that the platforms remain stable and functional. I also had to lead the team of developers who were responsible for building the codebase themselves, this team was based in London, Chicago, and Ukraine.
 **Strategic Technology Engineer** - [Warner Music Group](http://www.wmg.com/) (London, United Kingdom)  
-*November 2011 - Present*  
+*November 2011 - November 2013*  
 **Magento Technical Architect** - [Warner Music Group](http://www.wmg.com/) (London, United Kingdom)  
 *August 2011 - November 2011*  
 Brought on as a lead on the **Magento** project, from both a technical and project management standpoint, I had to assimilate the codebase, quirks, and understand the unique business model employed within the company. The ongoing project is to modernise the code, bringing it all up to best practices to allow for a much easier upgrade process and ongoing maintenance. This also involves implementing a modern **Continuous Integration** and **Automated Testing** system, heavily integrated with [GitHub](https://github.com) **Pull Requests** and issue tracking. The code was developed internally as well as with several 3rd party agencies, requiring advanced usage of **pull requests** and code audits to maintain system integrity.
