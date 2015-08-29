@@ -1,7 +1,7 @@
 ---
 layout: portfolio
 title: "Warner Music Group"
-tagline: "Strategic Technology Engineer"
+tagline: "Strategic Technology Engineer / Global Ecommerce Technical Architect"
 period: "August 2011 - ?"
 group: portfolio
 big_image: /assets/images/portfolio/icons/wmg-big.png
