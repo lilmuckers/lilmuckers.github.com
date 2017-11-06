@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/lilmuckers
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://patrick-mckinley.com
+  * I am lilmuckers (https://keybase.io/lilmuckers) on keybase.
+  * I have a public key ASB2se3WybHe3b5IXyXErglyCI-MGBADOW3pktH3LScdhAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012076b1edd6c9b1deddbe485f25c4ae0972088f8c181003396de992d1f72d271d840a",
+      "host": "keybase.io",
+      "kid": "012076b1edd6c9b1deddbe485f25c4ae0972088f8c181003396de992d1f72d271d840a",
+      "uid": "6d7ef1e5c5064bae81311e3faf797719",
+      "username": "lilmuckers"
+    },
+    "merkle_root": {
+      "ctime": 1509985287,
+      "hash": "5709a8519fbb892c0035fca7847d5cba2b299b4e455ca8ab0db830b89afde007cda64cf571376468a861f2eb2849f283421ae45400d5b5ee02d2377ac9f95acd",
+      "hash_meta": "8803bf7fdab1f7ed77c220cd2489e7b0da740222955c06dda44cb3c01e644920",
+      "seqno": 1672611
+    },
+    "service": {
+      "hostname": "patrick-mckinley.com",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.34"
+  },
+  "ctime": 1509985345,
+  "expire_in": 504576000,
+  "prev": "6ba30f952fb45229d123e99d523559ff44d841caa2883d4014d1ba2d9d55c2b0",
+  "seqno": 12,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgdrHt1smx3t2+SF8lxK4JcgiPjBgQAzlt6ZLR9y0nHYQKp3BheWxvYWTFA057ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwNzZiMWVkZDZjOWIxZGVkZGJlNDg1ZjI1YzRhZTA5NzIwODhmOGMxODEwMDMzOTZkZTk5MmQxZjcyZDI3MWQ4NDBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwNzZiMWVkZDZjOWIxZGVkZGJlNDg1ZjI1YzRhZTA5NzIwODhmOGMxODEwMDMzOTZkZTk5MmQxZjcyZDI3MWQ4NDBhIiwidWlkIjoiNmQ3ZWYxZTVjNTA2NGJhZTgxMzExZTNmYWY3OTc3MTkiLCJ1c2VybmFtZSI6ImxpbG11Y2tlcnMifSwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE1MDk5ODUyODcsImhhc2giOiI1NzA5YTg1MTlmYmI4OTJjMDAzNWZjYTc4NDdkNWNiYTJiMjk5YjRlNDU1Y2E4YWIwZGI4MzBiODlhZmRlMDA3Y2RhNjRjZjU3MTM3NjQ2OGE4NjFmMmViMjg0OWYyODM0MjFhZTQ1NDAwZDViNWVlMDJkMjM3N2FjOWY5NWFjZCIsImhhc2hfbWV0YSI6Ijg4MDNiZjdmZGFiMWY3ZWQ3N2MyMjBjZDI0ODllN2IwZGE3NDAyMjI5NTVjMDZkZGE0NGNiM2MwMWU2NDQ5MjAiLCJzZXFubyI6MTY3MjYxMX0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJwYXRyaWNrLW1ja2lubGV5LmNvbSIsInByb3RvY29sIjoiaHR0cDoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMzQifSwiY3RpbWUiOjE1MDk5ODUzNDUsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJwcmV2IjoiNmJhMzBmOTUyZmI0NTIyOWQxMjNlOTlkNTIzNTU5ZmY0NGQ4NDFjYWEyODgzZDQwMTRkMWJhMmQ5ZDU1YzJiMCIsInNlcW5vIjoxMiwidGFnIjoic2lnbmF0dXJlIn2jc2lnxEBez3MQy0XSozBd5I64Isfrf5bHhsKrwMVghuW0hZ4LEBwgzgzARMRQx4uxrN+J1YelxYZuYrycg1j4HQvI+9YGqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQgVRd/07A1qemMGF3R4Y2bLDo+VNhd++faAvIdjnDur52jdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/lilmuckers
+
+==================================================================
